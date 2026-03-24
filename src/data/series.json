@@ -1,0 +1,94 @@
+{
+  "series": [
+    {
+      "id": "wheel-of-time",
+      "title": "The Wheel of Time",
+      "author": "Robert Jordan, Brandon Sanderson",
+      "genres": ["Fantasy"],
+      "total_books": 14,
+      "currently_on_bestseller_list": true,
+      "description": "One of the most epic fantasy series ever written. A young man from a backwater village learns he may be the Dragon Reborn — destined to save the world, or break it.",
+      "orders": {
+        "chronological": [
+          { "position": 1, "title": "New Spring", "note": "Prequel — many readers recommend saving this until after Book 10.", "amazon_url": "https://www.amazon.com/s?k=New+Spring+Robert+Jordan&tag=YOURTAG-20" },
+          { "position": 2, "title": "The Eye of the World", "amazon_url": "https://www.amazon.com/s?k=Eye+of+the+World+Jordan&tag=YOURTAG-20" },
+          { "position": 3, "title": "The Great Hunt", "amazon_url": "https://www.amazon.com/s?k=The+Great+Hunt+Jordan&tag=YOURTAG-20" },
+          { "position": 4, "title": "The Dragon Reborn", "amazon_url": "https://www.amazon.com/s?k=The+Dragon+Reborn+Jordan&tag=YOURTAG-20" }
+        ],
+        "authors_recommended": [
+          { "position": 1, "title": "The Eye of the World", "note": "Start here — best first-time experience.", "amazon_url": "https://www.amazon.com/s?k=Eye+of+the+World+Jordan&tag=YOURTAG-20" },
+          { "position": 2, "title": "The Great Hunt", "amazon_url": "https://www.amazon.com/s?k=The+Great+Hunt+Jordan&tag=YOURTAG-20" },
+          { "position": 3, "title": "The Dragon Reborn", "amazon_url": "https://www.amazon.com/s?k=The+Dragon+Reborn+Jordan&tag=YOURTAG-20" },
+          { "position": 4, "title": "New Spring", "note": "Read after Book 10 for best impact.", "amazon_url": "https://www.amazon.com/s?k=New+Spring+Robert+Jordan&tag=YOURTAG-20" }
+        ]
+      }
+    },
+    {
+      "id": "stormlight-archive",
+      "title": "The Stormlight Archive",
+      "author": "Brandon Sanderson",
+      "genres": ["Fantasy"],
+      "total_books": 5,
+      "currently_on_bestseller_list": true,
+      "description": "Set on the storm-ravaged world of Roshar, this epic series follows soldiers, scholars, and assassins bound together by ancient oaths and a coming desolation.",
+      "orders": {
+        "chronological": [
+          { "position": 1, "title": "The Way of Kings", "amazon_url": "https://www.amazon.com/s?k=The+Way+of+Kings+Sanderson&tag=YOURTAG-20" },
+          { "position": 2, "title": "Words of Radiance", "amazon_url": "https://www.amazon.com/s?k=Words+of+Radiance+Sanderson&tag=YOURTAG-20" },
+          { "position": 3, "title": "Edgedancer", "note": "Novella — can be read between Books 2 and 3.", "amazon_url": "https://www.amazon.com/s?k=Edgedancer+Sanderson&tag=YOURTAG-20" },
+          { "position": 4, "title": "Oathbringer", "amazon_url": "https://www.amazon.com/s?k=Oathbringer+Sanderson&tag=YOURTAG-20" },
+          { "position": 5, "title": "Rhythm of War", "amazon_url": "https://www.amazon.com/s?k=Rhythm+of+War+Sanderson&tag=YOURTAG-20" }
+        ],
+        "authors_recommended": [
+          { "position": 1, "title": "The Way of Kings", "note": "Start here — do not skip.", "amazon_url": "https://www.amazon.com/s?k=The+Way+of+Kings+Sanderson&tag=YOURTAG-20" },
+          { "position": 2, "title": "Words of Radiance", "amazon_url": "https://www.amazon.com/s?k=Words+of+Radiance+Sanderson&tag=YOURTAG-20" },
+          { "position": 3, "title": "Oathbringer", "amazon_url": "https://www.amazon.com/s?k=Oathbringer+Sanderson&tag=YOURTAG-20" },
+          { "position": 4, "title": "Edgedancer", "note": "Read after Oathbringer.", "amazon_url": "https://www.amazon.com/s?k=Edgedancer+Sanderson&tag=YOURTAG-20" },
+          { "position": 5, "title": "Rhythm of War", "amazon_url": "https://www.amazon.com/s?k=Rhythm+of+War+Sanderson&tag=YOURTAG-20" }
+        ]
+      }
+    },
+    {
+      "id": "jack-reacher",
+      "title": "Jack Reacher",
+      "author": "Lee Child",
+      "genres": ["Thriller"],
+      "total_books": 27,
+      "currently_on_bestseller_list": false,
+      "description": "A nomadic ex-military cop with no address, no phone, and no agenda — just a toothbrush and a talent for trouble. Pure thriller momentum.",
+      "orders": {
+        "chronological": [
+          { "position": 1, "title": "Killing Floor", "amazon_url": "https://www.amazon.com/s?k=Killing+Floor+Lee+Child&tag=YOURTAG-20" },
+          { "position": 2, "title": "Die Trying", "amazon_url": "https://www.amazon.com/s?k=Die+Trying+Lee+Child&tag=YOURTAG-20" },
+          { "position": 3, "title": "Tripwire", "amazon_url": "https://www.amazon.com/s?k=Tripwire+Lee+Child&tag=YOURTAG-20" }
+        ],
+        "authors_recommended": [
+          { "position": 1, "title": "Killing Floor", "amazon_url": "https://www.amazon.com/s?k=Killing+Floor+Lee+Child&tag=YOURTAG-20" },
+          { "position": 2, "title": "Die Trying", "amazon_url": "https://www.amazon.com/s?k=Die+Trying+Lee+Child&tag=YOURTAG-20" },
+          { "position": 3, "title": "Tripwire", "amazon_url": "https://www.amazon.com/s?k=Tripwire+Lee+Child&tag=YOURTAG-20" }
+        ]
+      }
+    },
+    {
+      "id": "outlander",
+      "title": "Outlander",
+      "author": "Diana Gabaldon",
+      "genres": ["Historical Fiction", "Romance"],
+      "total_books": 9,
+      "currently_on_bestseller_list": false,
+      "description": "A time-travel historical epic beginning in 1945 Scotland, sweeping through Jacobite rebellions and American Revolution. Romantic, detailed, addictive.",
+      "orders": {
+        "chronological": [
+          { "position": 1, "title": "Outlander", "amazon_url": "https://www.amazon.com/s?k=Outlander+Gabaldon&tag=YOURTAG-20" },
+          { "position": 2, "title": "Dragonfly in Amber", "amazon_url": "https://www.amazon.com/s?k=Dragonfly+in+Amber+Gabaldon&tag=YOURTAG-20" },
+          { "position": 3, "title": "Voyager", "amazon_url": "https://www.amazon.com/s?k=Voyager+Gabaldon&tag=YOURTAG-20" }
+        ],
+        "authors_recommended": [
+          { "position": 1, "title": "Outlander", "note": "Begin here — the books must be read in order.", "amazon_url": "https://www.amazon.com/s?k=Outlander+Gabaldon&tag=YOURTAG-20" },
+          { "position": 2, "title": "Dragonfly in Amber", "amazon_url": "https://www.amazon.com/s?k=Dragonfly+in+Amber+Gabaldon&tag=YOURTAG-20" },
+          { "position": 3, "title": "Voyager", "amazon_url": "https://www.amazon.com/s?k=Voyager+Gabaldon&tag=YOURTAG-20" }
+        ]
+      }
+    }
+  ]
+}

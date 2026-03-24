@@ -1,0 +1,93 @@
+{
+  "updated": "2026-03-24",
+  "books": [
+    {
+      "id": "words-of-radiance",
+      "title": "Words of Radiance",
+      "author": "Brandon Sanderson",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/9780765326362-M.jpg",
+      "description": "The second volume in the Stormlight Archive series follows Kaladin and Shallan as the Everstorm approaches.",
+      "sources": ["nyt", "guardian", "goodreads"],
+      "score": 3,
+      "rank": 1,
+      "new_this_week": true,
+      "weeks_on_list": 1,
+      "series_id": "stormlight-archive",
+      "series_book_number": 2,
+      "amazon_url": "https://www.amazon.com/s?k=Words+of+Radiance+Sanderson&tag=YOURTAG-20"
+    },
+    {
+      "id": "the-way-of-kings",
+      "title": "The Way of Kings",
+      "author": "Brandon Sanderson",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/9780765326355-M.jpg",
+      "description": "Epic fantasy opener following Kaladin, Shallan, and Dalinar on the storm-swept world of Roshar.",
+      "sources": ["nyt", "guardian", "goodreads"],
+      "score": 3,
+      "rank": 2,
+      "new_this_week": false,
+      "weeks_on_list": 8,
+      "series_id": "stormlight-archive",
+      "series_book_number": 1,
+      "amazon_url": "https://www.amazon.com/s?k=The+Way+of+Kings+Sanderson&tag=YOURTAG-20"
+    },
+    {
+      "id": "the-eye-of-the-world",
+      "title": "The Eye of the World",
+      "author": "Robert Jordan",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/9780812511819-M.jpg",
+      "description": "The first book of the Wheel of Time — a young farmboy discovers he may be destined to save or destroy the world.",
+      "sources": ["nyt", "goodreads"],
+      "score": 2,
+      "rank": 3,
+      "new_this_week": false,
+      "weeks_on_list": 4,
+      "series_id": "wheel-of-time",
+      "series_book_number": 1,
+      "amazon_url": "https://www.amazon.com/s?k=Eye+of+the+World+Jordan&tag=YOURTAG-20"
+    },
+    {
+      "id": "outlander",
+      "title": "Outlander",
+      "author": "Diana Gabaldon",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/9780440212560-M.jpg",
+      "description": "A WWII combat nurse is swept back to 18th-century Scotland in this sweeping historical romance.",
+      "sources": ["guardian", "goodreads"],
+      "score": 2,
+      "rank": 4,
+      "new_this_week": false,
+      "weeks_on_list": 12,
+      "series_id": "outlander",
+      "series_book_number": 1,
+      "amazon_url": "https://www.amazon.com/s?k=Outlander+Gabaldon&tag=YOURTAG-20"
+    },
+    {
+      "id": "killing-floor",
+      "title": "Killing Floor",
+      "author": "Lee Child",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/9780515153651-M.jpg",
+      "description": "The first Jack Reacher novel — ex-military cop wanders into a small Georgia town and stumbles into a murder.",
+      "sources": ["nyt"],
+      "score": 1,
+      "rank": 5,
+      "new_this_week": false,
+      "weeks_on_list": 3,
+      "series_id": "jack-reacher",
+      "series_book_number": 1,
+      "amazon_url": "https://www.amazon.com/s?k=Killing+Floor+Lee+Child&tag=YOURTAG-20"
+    },
+    {
+      "id": "project-hail-mary",
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/9780593135204-M.jpg",
+      "description": "A lone astronaut wakes up millions of miles from Earth with no memory — and the fate of humanity on his shoulders.",
+      "sources": ["goodreads"],
+      "score": 1,
+      "rank": 6,
+      "new_this_week": false,
+      "weeks_on_list": 6,
+      "amazon_url": "https://www.amazon.com/s?k=Project+Hail+Mary+Andy+Weir&tag=YOURTAG-20"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "footer_ads": [
+    {
+      "id": "ad-001",
+      "type": "direct",
+      "title": "BookBrowse",
+      "description": "Discover your next great read with expert reviews and reading guides.",
+      "image_url": "/images/ads/bookbrowse.jpg",
+      "cta_text": "Explore now",
+      "url": "https://www.bookbrowse.com",
+      "active": true
+    },
+    {
+      "id": "ad-002",
+      "type": "adsense",
+      "slot_id": "0000000000",
+      "active": true
+    },
+    {
+      "id": "ad-003",
+      "type": "bookbub",
+      "title": "BookBub",
+      "description": "Get alerted to free and deeply discounted e-books in your favourite genres.",
+      "image_url": "/images/ads/bookbub.jpg",
+      "cta_text": "Get deals",
+      "url": "https://www.bookbub.com",
+      "active": false
+    }
+  ]
+}
