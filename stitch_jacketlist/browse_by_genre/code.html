@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Browse by Genre | JacketList</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,500;0,600;1,400;1,500&amp;family=Inter:wght@400;500;600&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              "primary": "#000000",
+              "surface-variant": "#e3e2df",
+              "on-primary-fixed": "#1c1b1b",
+              "on-secondary-fixed": "#241a00",
+              "on-background": "#1b1c1a",
+              "secondary": "#735c00",
+              "on-tertiary-container": "#4c3d19",
+              "surface-tint": "#5f5e5e",
+              "inverse-surface": "#2f312e",
+              "tertiary-fixed": "#f8e0ae",
+              "outline": "#747878",
+              "tertiary-container": "#bea97a",
+              "on-error-container": "#93000a",
+              "surface": "#faf9f5",
+              "on-secondary-container": "#745c00",
+              "inverse-on-surface": "#f2f1ed",
+              "surface-container": "#efeeea",
+              "tertiary-fixed-dim": "#dbc494",
+              "on-tertiary": "#ffffff",
+              "secondary-fixed": "#ffe088",
+              "primary-fixed-dim": "#c8c6c5",
+              "inverse-primary": "#c8c6c5",
+              "on-secondary-fixed-variant": "#574500",
+              "surface-container-lowest": "#ffffff",
+              "on-surface": "#1b1c1a",
+              "error-container": "#ffdad6",
+              "surface-container-highest": "#e3e2df",
+              "outline-variant": "#c4c7c7",
+              "tertiary": "#6d5c35",
+              "primary-fixed": "#e5e2e1",
+              "secondary-container": "#fed65b",
+              "on-error": "#ffffff",
+              "secondary-fixed-dim": "#e9c349",
+              "primary-container": "#1c1b1b",
+              "on-secondary": "#ffffff",
+              "on-primary-fixed-variant": "#474746",
+              "surface-bright": "#faf9f5",
+              "error": "#ba1a1a",
+              "background": "#faf9f5",
+              "surface-container-high": "#e9e8e4",
+              "on-tertiary-fixed-variant": "#544520",
+              "on-primary-container": "#858383",
+              "surface-container-low": "#f4f4f0",
+              "on-primary": "#ffffff",
+              "on-surface-variant": "#444748",
+              "surface-dim": "#dbdad6",
+              "on-tertiary-fixed": "#251a00"
+            },
+            fontFamily: {
+              "headline": ["Newsreader"],
+              "body": ["Inter"],
+              "label": ["Inter"]
+            },
+            borderRadius: {"DEFAULT": "0.125rem", "lg": "0.5rem", "xl": "0.5rem", "full": "9999px"},
+          },
+        },
+      }
+    </script>
+<style>
+      .material-symbols-outlined {
+        font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+      }
+      .hide-scrollbar::-webkit-scrollbar { display: none; }
+      .hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+    </style>
+</head>
+<body class="bg-surface text-on-surface font-body selection:bg-secondary-fixed selection:text-on-secondary-fixed-variant">
+<!-- TopAppBar -->
+<header class="w-full sticky top-0 z-50 bg-[#faf9f5] dark:bg-stone-950 backdrop-blur-xl bg-opacity-90">
+<nav class="flex justify-between items-center w-full px-8 py-6 max-w-[1440px] mx-auto">
+<div class="flex items-center gap-12">
+<a class="text-2xl font-semibold tracking-tighter text-stone-900 dark:text-stone-50 font-['Newsreader']" href="#">JacketList</a>
+<div class="hidden md:flex gap-8">
+<a class="text-stone-900 dark:text-stone-50 font-bold border-b-2 border-stone-900 dark:border-stone-50 pb-1" href="#">Browse</a>
+<a class="text-stone-500 dark:text-stone-400 hover:text-stone-900 dark:hover:text-stone-100 transition-colors duration-300" href="#">Series</a>
+<a class="text-stone-500 dark:text-stone-400 hover:text-stone-900 dark:hover:text-stone-100 transition-colors duration-300" href="#">Curations</a>
+<a class="text-stone-500 dark:text-stone-400 hover:text-stone-900 dark:hover:text-stone-100 transition-colors duration-300" href="#">Archivist's Pick</a>
+</div>
+</div>
+<div class="flex items-center gap-6">
+<div class="relative hidden sm:block">
+<span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-outline text-sm">search</span>
+<input class="pl-10 pr-4 py-2 bg-surface-container-low border-none rounded-md text-sm focus:ring-1 focus:ring-secondary w-64" placeholder="Search archive..." type="text"/>
+</div>
+<div class="flex gap-4">
+<button class="hover:opacity-80 transition-opacity"><span class="material-symbols-outlined text-stone-900 dark:text-stone-100">menu</span></button>
+<button class="hover:opacity-80 transition-opacity"><span class="material-symbols-outlined text-stone-900 dark:text-stone-100">person</span></button>
+</div>
+</div>
+</nav>
+<div class="bg-[#f4f4f0] dark:bg-stone-900 h-[1px] w-full"></div>
+</header>
+<main class="max-w-[1440px] mx-auto px-8 lg:px-20 pt-16">
+<!-- Hero Section -->
+<section class="mb-20 max-w-3xl">
+<h1 class="font-headline text-primary text-[3.5rem] leading-[1.1] font-semibold tracking-tight mb-6">Explore Genres</h1>
+<p class="text-on-surface-variant text-lg leading-relaxed max-w-2xl">
+                The Digital Archivist’s curated taxonomy. Navigate through our expansive library organized by narrative intent, historical context, and stylistic craft.
+            </p>
+</section>
+<!-- Genre Selection Grid -->
+<section class="mb-24">
+<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
+<!-- Genre Card: Fantasy (Active) -->
+<div class="group relative aspect-[4/5] overflow-hidden rounded-lg cursor-pointer ring-2 ring-secondary ring-offset-4 bg-surface-container-lowest transition-all hover:shadow-xl">
+<img class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" data-alt="dramatic silhouette of a medieval castle on a misty mountain peak at twilight with ethereal purple and blue lighting" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBtplofbM2To0IC0c7YYCMl6pBot-2k5fO6fRXrN5yTZzUqyd369bZRnbwmbzx4tMCoTiYGIExFIGo281tTT8NUegjHCdW4T3DKPC1rTHyLLnTbL8W0DtiQX1BZIBZGBkYLo4MBwYvZF7wqfdm_4ENdcZwJG9BrML1fdFaB1hxgpSAwh2YA-q4tF9shngy4L7PtgcFPAwCxWWALM_VGQ3Miq3zyr8wHJf_iFHtT8odH6HUiwW0WqQvNrJpqlbpPDEFNE0tIyp3FYa8q"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/80 to-transparent"></div>
+<div class="absolute bottom-4 left-4">
+<span class="font-headline text-white text-xl">Fantasy</span>
+</div>
+</div>
+<!-- Genre Card: Sci-Fi -->
+<div class="group relative aspect-[4/5] overflow-hidden rounded-lg cursor-pointer bg-surface-container-lowest transition-all hover:shadow-xl">
+<img class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110 opacity-80" data-alt="abstract cosmic galaxy view with shimmering stars and vibrant blue and gold nebula clouds across the deep space" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBVA23tBrh8PMg3KzaoZraJiCvq_sJbd2hBnVFcAHDK_5DHWw9PJNF4MxmI5ntq54P1gpjQzG1bZr5WWypFRruhPz4w9Ov5nBPUjyVS3JG84rFDqwGdTCbLBCCI_0UlNkM1cb48CFk_xp4nY_d06oy6f2ZovMWpRXet4b8ksWisaOMRRxWS29lL2Dsr7dLQFAWRFOHbeDuAX_AWMRARWIHMNV1Xi5tDw7nyFKBgOnMUgFN8MmJGwofI5W6IcAuim8t751NF2sxz1X5o"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/60 to-transparent"></div>
+<div class="absolute bottom-4 left-4">
+<span class="font-headline text-white text-xl">Sci-Fi</span>
+</div>
+</div>
+<!-- Genre Card: Mystery -->
+<div class="group relative aspect-[4/5] overflow-hidden rounded-lg cursor-pointer bg-surface-container-lowest transition-all hover:shadow-xl">
+<img class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110 opacity-80" data-alt="moody dark street lamp illuminating a cobblestone alleyway in the rain with deep shadows and cinematic noir atmosphere" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBNwbsIPBK062nyv7d_o0vTxPCnQNDOc8T0fFmguqwNsUWbKQle595Zoh_eCEVltMFu7e8KP_G3689-b3FMi6tqR_aowRASZgYDnrET4Wp7pBxtkM4sR9bXBWmdO_oVqJGlg1L_2M3N-CxYqiWVsFYLLZhdRdLQToWfLN2JKp7EjCwylwQMw4YbaYkGPCd9Blv3gw55LCBCjkS4UP25yJCwSqSzSdIs58_elC2f-bnHWmSWNtdbZxmKtpL6e1EQRK_CDVb6wNB1Xy5h"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/60 to-transparent"></div>
+<div class="absolute bottom-4 left-4">
+<span class="font-headline text-white text-xl">Mystery</span>
+</div>
+</div>
+<!-- Genre Card: Historical -->
+<div class="group relative aspect-[4/5] overflow-hidden rounded-lg cursor-pointer bg-surface-container-lowest transition-all hover:shadow-xl">
+<img class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110 opacity-80" data-alt="aged parchment paper with elegant cursive handwriting and a vintage fountain pen resting on a dark wooden table" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCnx3YHcPNPHRx3ExSjCaDqw4qnLX94o9_CTpNuCjOKVrqBfvFTrad3d8HANnNWxbMpMdAqYY0yVrLJmTMXsprBqNROW3IS1-zbejEqqNyDiaKMjZe3ijoZx-ZFQye8k2xV2-5fSFmdOdDMsVyFGW9rWgxiOQ_mNgjmGn5zGTKzMUfPQZor4D2X1UTAy6ama7xyp5Y2RDFApNW-h2XWBa_bNLGzSOWYvLbfgiDwOxaeo4hG9kvTQLdfTo9aL1nTzvgyePeb7nhip5nP"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/60 to-transparent"></div>
+<div class="absolute bottom-4 left-4">
+<span class="font-headline text-white text-xl">Historical</span>
+</div>
+</div>
+<!-- Genre Card: Thriller -->
+<div class="group relative aspect-[4/5] overflow-hidden rounded-lg cursor-pointer bg-surface-container-lowest transition-all hover:shadow-xl">
+<img class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110 opacity-80" data-alt="abstract blurred motion of city lights at night with high contrast and intense cinematic red and black tones" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDKTtJDHAuRlTxxvXCgyrHKxe2QeGdfyN4l4ECcMo98yir4gcYXaKNw6X-Ush9tb9m7I-iSyiAz5DSXNO6GkeooEcJugRWOKMsP-49RRP1aZAba8Vc85rrVfKX9zEzu9-DBJqTeXeES1ko3HnNflPV8fSZrYPq308v1khv_FVcBLW2zoN34K23myxtTI04h8ioPgWlvOjMLNvxkJJn-DOHTfP6CHXjghVLjKV7saipqyTyd1EysmFegu0Y8CecgVdI6MuV_EW_0z103"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/60 to-transparent"></div>
+<div class="absolute bottom-4 left-4">
+<span class="font-headline text-white text-xl">Thriller</span>
+</div>
+</div>
+<!-- Genre Card: Non-Fiction -->
+<div class="group relative aspect-[4/5] overflow-hidden rounded-lg cursor-pointer bg-surface-container-lowest transition-all hover:shadow-xl">
+<img class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110 opacity-80" data-alt="clean minimalist library shelf with organized classic books in neutral colors and bright natural window light" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAGfY-tHWM8tPROqerJyjE9Df6Gig3kqBAOL9XmJXcOT_FOdfmi8B2ZUUxVU3cWOgh9P3tTyt17eaURRUWMS-BSyRHI1xUqse9waxCayisWgDYcFDZ_gWP6GWaBDl5GTj7pUK2FofkC6k9jp2iTxctnqjudzstOtn6Cl6mJDLq8kR74lgGnNLcJ1e95xNyQmEg2z2pZOrEPu8TALeJjmB32KR35IMHxyaAm5d0ukMH8Y6sbzlyTDICrelChn7r2_HDblgY60Acqg9iQ"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/60 to-transparent"></div>
+<div class="absolute bottom-4 left-4">
+<span class="font-headline text-white text-xl">Non-Fiction</span>
+</div>
+</div>
+</div>
+</section>
+<!-- Filter Bar -->
+<section class="flex flex-col md:flex-row md:items-center justify-between gap-6 mb-12 py-6 border-y border-outline-variant/10">
+<div class="flex items-center gap-8">
+<h2 class="font-headline text-2xl font-medium">Fantasy Curations</h2>
+<div class="flex gap-2">
+<span class="px-4 py-1.5 bg-secondary text-on-secondary rounded-full text-xs font-medium tracking-wide">Most Popular</span>
+<span class="px-4 py-1.5 bg-surface-container-high text-on-surface-variant rounded-full text-xs font-medium tracking-wide cursor-pointer hover:bg-surface-container-highest transition-colors">Newest</span>
+<span class="px-4 py-1.5 bg-surface-container-high text-on-surface-variant rounded-full text-xs font-medium tracking-wide cursor-pointer hover:bg-surface-container-highest transition-colors">A-Z</span>
+</div>
+</div>
+<p class="text-on-surface-variant text-sm font-label uppercase tracking-[0.1em]">Showing 128 Titles</p>
+</section>
+<!-- Content Grid (Asymmetric Bento Style) -->
+<section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-y-20 gap-x-12 mb-20">
+<!-- SeriesCard (Wide) -->
+<div class="lg:col-span-2 bg-surface-container-lowest p-8 rounded-lg flex flex-col md:flex-row gap-8 transition-all hover:shadow-[0_12px_40px_rgba(27,28,26,0.05)]">
+<div class="flex-shrink-0 w-full md:w-56 aspect-[3/4] overflow-hidden rounded-md shadow-lg">
+<img class="w-full h-full object-cover" data-alt="collection of three matching hardcover books with gold foil patterns on deep blue spines stacked neatly on a desk" src="https://lh3.googleusercontent.com/aida-public/AB6AXuD_LzG1LnQe2vst8NgqtX9NoldvhGs5XTSu8IPcgCQjU-Y7GTFK55uvi5Zr4J63Mh9cUVhO4yzg5CkLN9X2tr_qjxEuktZ7DPrHYt3LCj6HMB0LTXsGRIhF0nzkmYpZHPNC84Rd_PWvbTQYjW_yYcza_8G4pHKoSK3eLB3FbP_9Q6xS6-Ys07WNjhK8FsVniMx3lZKyJg8hAcSJbwmBn81_zSSeE8w5dOVoKng0SjdytR2nZfHdFmF3yrCFKm2N2YSrb1cPuZ2JlCfA"/>
+</div>
+<div class="flex flex-col justify-center">
+<div class="flex items-center gap-3 mb-4">
+<span class="bg-secondary-fixed text-on-secondary-fixed text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded">Series Spotlight</span>
+<span class="text-secondary font-semibold text-xs uppercase tracking-widest">7 Books Total</span>
+</div>
+<h3 class="font-headline text-3xl font-medium mb-2 leading-tight">The Chronicles of Aethelgard</h3>
+<p class="text-on-surface-variant text-sm mb-6 leading-relaxed">A generational epic spanning three centuries of magic, industrial revolution, and shifting alliances in a world built on the bones of giants.</p>
+<div class="mt-auto">
+<button class="bg-primary text-on-primary px-6 py-3 rounded-md text-sm font-medium hover:opacity-90 transition-opacity">Explore Series</button>
+</div>
+</div>
+</div>
+<!-- BookCard 1 -->
+<div class="flex flex-col group">
+<div class="aspect-[2/3] overflow-hidden rounded-lg mb-6 bg-surface-container-low transition-all duration-300 group-hover:shadow-[0_12px_40px_rgba(27,28,26,0.05)] group-hover:-translate-y-2">
+<img class="w-full h-full object-cover" data-alt="cover of a fantasy book showing a lone wanderer walking towards a glowing magical portal in a dark forest" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAJ_i8r-qemob8DYRxEII8S6DW2oiXaSOHAkazqtUFfLZwwXiX2Kzi8rWtsVBjTz7wOXeAx4nNW4zi-Xt54KdB2OHY-j6FCjYyrzC-4rdr34xQ9LxxXZEJjI8Ks7SLyXa2umwKzRaranr77l9AGIDDpQikYcuqbWqD9uOOfrfypZbAtLgt-OzT1EzSBzBcatvAyuXMOlQh-bky1BeFP-nhPyv1hGs2L7nyJLR2VGc3zgdi1WlJzK1gvIibFr4dAA6hN8zMaqImoHwhY"/>
+</div>
+<div class="flex flex-wrap gap-2 mb-3">
+<span class="text-[9px] font-bold uppercase tracking-widest text-outline border border-outline-variant/30 px-1.5 py-0.5 rounded">NYT Best</span>
+<span class="text-[9px] font-bold uppercase tracking-widest text-secondary border border-secondary/30 px-1.5 py-0.5 rounded">Goodreads 4.8</span>
+</div>
+<h4 class="font-headline text-xl font-medium mb-1">The Silent Weaver</h4>
+<p class="text-on-surface-variant text-sm mb-4">Elena Thorne</p>
+<button class="mt-auto border-b border-primary w-fit pb-1 text-xs font-bold uppercase tracking-widest hover:text-secondary hover:border-secondary transition-colors">Buy on Amazon</button>
+</div>
+<!-- BookCard 2 -->
+<div class="flex flex-col group">
+<div class="aspect-[2/3] overflow-hidden rounded-lg mb-6 bg-surface-container-low transition-all duration-300 group-hover:shadow-[0_12px_40px_rgba(27,28,26,0.05)] group-hover:-translate-y-2">
+<img class="w-full h-full object-cover" data-alt="dramatic book cover featuring a golden dragon eye close-up with intricate scales and fiery iris" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCow0bSgVEKpzeQDLfDlCOcjG4Ox8chGTTlthLPQdYYN0ETqqCWJ3gvSvrBnjQ9-TDuxl6LIQ8bo--Pjz86fCQ_ZB5YuHL1XZInYTTCVJ3vuejjEszAjovO2i81L5fdqioUp2tvJs_ZqRUoAnUkOZCBiae36Go2Bj-cXDnWNQlTF5yJavG2qexplkdYSmKg0egQSsmQ2u_Ab1LBO7uxLVUlRE80AdKb4wCdANLlqmum_agSA8RvLU_Xt9DXptWzpU4-LNVOt1TF5Ax2"/>
+</div>
+<div class="flex flex-wrap gap-2 mb-3">
+<span class="text-[9px] font-bold uppercase tracking-widest text-outline border border-outline-variant/30 px-1.5 py-0.5 rounded">Guardian Pick</span>
+</div>
+<h4 class="font-headline text-xl font-medium mb-1">Scale &amp; Shadow</h4>
+<p class="text-on-surface-variant text-sm mb-4">Marcus Vane</p>
+<button class="mt-auto border-b border-primary w-fit pb-1 text-xs font-bold uppercase tracking-widest hover:text-secondary hover:border-secondary transition-colors">Buy on Amazon</button>
+</div>
+<!-- BookCard 3 -->
+<div class="flex flex-col group">
+<div class="aspect-[2/3] overflow-hidden rounded-lg mb-6 bg-surface-container-low transition-all duration-300 group-hover:shadow-[0_12px_40px_rgba(27,28,26,0.05)] group-hover:-translate-y-2">
+<img class="w-full h-full object-cover" data-alt="vintage aesthetic book cover with gold filigree and a central illustration of an ancient compass" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCM0BuqUCpJdmBUuX1luzYrM-hXHEaC1Uih3g4z3bu8VyQESOnaPvyHORRdb-I_3aWXf3_Tk99dEgBoAbtaMQxkjR4Zvege_ZkUHsnSe4m-kpf0JmtpZaxIRSIUv4bMTPVeKTyJpCQsACkBQns_GKibEysf84ARiLmIhIgCdTt85Iv9bKB7N1G1ioq1uxU7W9l3Fhi1ckR73xRMB28t-PJ2GrYJ8ENRBKoGnxRPh4t13SDna2J--0aFx4RjRIdF1BKQVPiVJpvhKMJX"/>
+</div>
+<div class="flex flex-wrap gap-2 mb-3">
+<span class="text-[9px] font-bold uppercase tracking-widest text-outline border border-outline-variant/30 px-1.5 py-0.5 rounded">Archivist Pick</span>
+</div>
+<h4 class="font-headline text-xl font-medium mb-1">The Cartographer</h4>
+<p class="text-on-surface-variant text-sm mb-4">S. J. Penhaligon</p>
+<button class="mt-auto border-b border-primary w-fit pb-1 text-xs font-bold uppercase tracking-widest hover:text-secondary hover:border-secondary transition-colors">Buy on Amazon</button>
+</div>
+<!-- BookCard 4 -->
+<div class="flex flex-col group">
+<div class="aspect-[2/3] overflow-hidden rounded-lg mb-6 bg-surface-container-low transition-all duration-300 group-hover:shadow-[0_12px_40px_rgba(27,28,26,0.05)] group-hover:-translate-y-2">
+<img class="w-full h-full object-cover" data-alt="minimalist book cover with a single sword piercing a dark rose on a pure white background" src="https://lh3.googleusercontent.com/aida-public/AB6AXuD9pBTB5yVMbGU8s4A1Yuj4le0lC7oNZKWFE519_gEBJzljkrwVbQBQG_YYeNkJ8oXw4JsuwQcyeKH2IL-lQGcDnfyWamzA0RZG0VAEsHEYjTw4MG7KXCrGc0Nh6G2PY0aD84a0-iJr8tj0FqWq4T9Ey9XcDS9xlpXf7YkIu5OutDASu3IyYSOhNeq0lfNew_Dnx8DzsyBcxjdCIs1br2ERsWcLa5i-2b10MiRgZ-evi8ZN_FeAazJXl1qXt-VJkhCxygDNCxmen-V5"/>
+</div>
+<div class="flex flex-wrap gap-2 mb-3">
+<span class="text-[9px] font-bold uppercase tracking-widest text-secondary border border-secondary/30 px-1.5 py-0.5 rounded">Goodreads 4.5</span>
+</div>
+<h4 class="font-headline text-xl font-medium mb-1">Blood &amp; Petals</h4>
+<p class="text-on-surface-variant text-sm mb-4">Julian Thorne</p>
+<button class="mt-auto border-b border-primary w-fit pb-1 text-xs font-bold uppercase tracking-widest hover:text-secondary hover:border-secondary transition-colors">Buy on Amazon</button>
+</div>
+<!-- BookCard 5 -->
+<div class="flex flex-col group">
+<div class="aspect-[2/3] overflow-hidden rounded-lg mb-6 bg-surface-container-low transition-all duration-300 group-hover:shadow-[0_12px_40px_rgba(27,28,26,0.05)] group-hover:-translate-y-2">
+<img class="w-full h-full object-cover" data-alt="whimsical book cover showing an owl wearing spectacles perched on a stack of glowing magical books" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDSCQGv_pE2mV_lvn61PdED2oBjt2Vak86P1OmTmC-hq86DaWgD9sfUD9F5WtZoAV_Txp-5MaVHqXOPA5MFtZ_d0j7TkJ6cOgGpaFJc99oUEozdj-yXDPEjuJW19QadTpl4OMeowJvQi9Mgln9SYSn4Us8dqVp2Xyq1k5wjXGY7nbBB1JkR6LAtvUf491I47G7fHCg1mYaVLnW8syVK5umHkfVXwXgE6JGTjC9-P_02QX5Equo2UasO_Zl1n3RkZC0zCDLeKiGmk52H"/>
+</div>
+<h4 class="font-headline text-xl font-medium mb-1">The Scholarly Owl</h4>
+<p class="text-on-surface-variant text-sm mb-4">F. G. Whittacker</p>
+<button class="mt-auto border-b border-primary w-fit pb-1 text-xs font-bold uppercase tracking-widest hover:text-secondary hover:border-secondary transition-colors">Buy on Amazon</button>
+</div>
+<!-- SeriesCard (Small/Standard) -->
+<div class="flex flex-col group bg-surface-container-low p-6 rounded-lg transition-all hover:shadow-[0_12px_40px_rgba(27,28,26,0.05)]">
+<div class="flex -space-x-12 mb-6">
+<div class="w-32 aspect-[2/3] rounded shadow-lg transform -rotate-12 bg-stone-200">
+<img class="w-full h-full object-cover rounded" data-alt="spine of an old leather bound book with gold lettering on a wooden table" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCkCJ0zJEMeYtmEVslnEGl3Gcf2quSMsj1K-bR1UBciaRSPczzYgp6N_bVMLwEsr_t3q4Gt0uiX5ZOF-8vXFJAO6ZeIpLQu45JkykOSZUun8vsa6TW6CwEo3P3qSt0JJla7mARgYIozR7RCrqlCceCivUG8mkTPgFoLs1N5So4Or0T_YDBCJYjeAxSVRhXb-rHHfFNaBbe4dVG0QTA3heHkEkTReRCfoWWLi1Pfa1CdQ-o227QQlAL7q_R91ahqh4UuA99qdd9h5Nek"/>
+</div>
+<div class="w-32 aspect-[2/3] rounded shadow-lg transform rotate-6 z-10">
+<img class="w-full h-full object-cover rounded" data-alt="close up of an open book with light glowing from between the pages in a dark room" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDSTLu3X6tdr8g0F1s0z-dQzQ_4L-Bi8056cP-dyTXwzFlap6G5nTiZel4sPY719KxJPe5j10s4wv7SVGfzBNdZSoqTnqj3oyWB-2CVvyJ3gOqx7yewagyHaN03cJ65Tguv3pPY2HU5nW1GhEr0xe2xtHwFC8vLwqlLWYAiHTSt5axqmH7FvtDUDBBTSY1_HM7c6r28qR-o_h3_HVrZhxPY9Q-IyxzGoGICHVZmYNaDSu3L2UJO7XkOQIaWBIR6r3rj1Kbo5YQkRkQP"/>
+</div>
+</div>
+<span class="text-secondary font-bold text-[10px] uppercase tracking-[0.2em] mb-2">3 Book Series</span>
+<h4 class="font-headline text-xl font-medium mb-2 leading-snug">The Ink-Stained Chronicles</h4>
+<p class="text-on-surface-variant text-xs mb-4">A journey into the world of sentient literature.</p>
+<button class="text-primary font-bold text-[10px] uppercase tracking-widest hover:text-secondary transition-colors">View Series Items →</button>
+</div>
+</section>
+<!-- Footer Ad Zone -->
+<section class="mt-40 border-t border-outline-variant/20 pt-20">
+<h2 class="font-headline text-3xl font-medium mb-12 italic text-center">You might also enjoy</h2>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+<!-- AdCard 1 -->
+<div class="group cursor-pointer">
+<div class="relative aspect-video rounded-lg overflow-hidden mb-4">
+<img class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" data-alt="luxury library with floor to ceiling bookshelves and a comfortable velvet armchair in the sunlight" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCdMwC2fdianwkqawFEA8DzK70Zjn2a_u3u_yjDt1dXTRC_y3BytAK_G8WopyEs8almVOI4GQeFCHBeSRGI9OrCkFQoUG6VNdTIa8Exry_fZFLs3dhCP7Iv9KTmzynnXBjwkxEYP3Wo5_5x4gjKfx14aGkayrC5vpUm2H489E32oqy-l8NIuF5ZGmoDac8GCX1zB0AHGhgtOjJDGjiidN6Zhrt4nkIU1qMkCdIlsynP2wFOErd-KwTWJYbEJrzOJKkt2tTJsaaeek-H"/>
+<div class="absolute inset-0 bg-primary/20 group-hover:bg-transparent transition-colors"></div>
+<span class="absolute top-4 right-4 bg-white/90 backdrop-blur px-3 py-1 text-[10px] font-bold uppercase tracking-widest rounded-full">Sponsor</span>
+</div>
+<h5 class="font-label text-xs font-bold uppercase tracking-widest mb-1 text-secondary">The Book Club Daily</h5>
+<p class="font-headline text-lg leading-snug">Curated literary discoveries delivered to your inbox every morning.</p>
+</div>
+<!-- AdCard 2 -->
+<div class="group cursor-pointer">
+<div class="relative aspect-video rounded-lg overflow-hidden mb-4">
+<img class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" data-alt="person's hand holding a classic fountain pen above an open journal with atmospheric shadows" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAGEFNXfFJyH7C77hmv2ZRgA6xdCRNWUkjue-jSK8J61aU1htOoO7t6b8m88m5x2N824HMWoHMu4xeioDMIuWZviu7PglWXk70pmahJKT_hOwNO2agamZXqZRdpwLLS7cIU-EBRNs3qNXA04TxN4SWBkaeCMwGQPCFwxfIBHpq21CnirxB4jOLxHCe2FU_BRRF0wrb93fuYpyC-Ivp_nrXTCX11u65k4U3aKKnrCoQM5VFiAnpHP9jLQ3AX-5yb12gXUvKBFqpIRL8E"/>
+<div class="absolute inset-0 bg-primary/20 group-hover:bg-transparent transition-colors"></div>
+<span class="absolute top-4 right-4 bg-white/90 backdrop-blur px-3 py-1 text-[10px] font-bold uppercase tracking-widest rounded-full">Sponsor</span>
+</div>
+<h5 class="font-label text-xs font-bold uppercase tracking-widest mb-1 text-secondary">Aethelgard Stationery</h5>
+<p class="font-headline text-lg leading-snug">Handcrafted journals and inks inspired by the world of the silent weaver.</p>
+</div>
+<!-- AdCard 3 -->
+<div class="group cursor-pointer">
+<div class="relative aspect-video rounded-lg overflow-hidden mb-4">
+<img class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" data-alt="modern minimalist reading room with large window looking out at a forest and simple wooden furniture" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCC3n-5-5mMCqyfuECxUgrpimtgj9R0oCRG2ppglhErxUx4YsHTjXWQRR8mIP3D2OS5kH4yToAS6q248tw0dzFqwUjtMmGS4HBprJLElpZc-wWhAIrBDRQ2x1MdILR2QMT_efo23VmBtcXbXqcPEVAYvbYgaufLZGS1MP13gbMlFSBJaXInEuCqDy2qCs3DA16LBLd2WPI9da5waxEWM7ji-_ssLSNlqF2pu4M6DHdjmbzpLnPFSqAE9S3wP6RMW6m2mGnAaKytaT0X"/>
+<div class="absolute inset-0 bg-primary/20 group-hover:bg-transparent transition-colors"></div>
+<span class="absolute top-4 right-4 bg-white/90 backdrop-blur px-3 py-1 text-[10px] font-bold uppercase tracking-widest rounded-full">Sponsor</span>
+</div>
+<h5 class="font-label text-xs font-bold uppercase tracking-widest mb-1 text-secondary">Reader's Retreat</h5>
+<p class="font-headline text-lg leading-snug">Book-themed boutique hotel stays in the heart of historic literary cities.</p>
+</div>
+</div>
+</section>
+</main>
+<!-- Footer -->
+<footer class="w-full mt-20 pt-16 pb-8 bg-[#f4f4f0] dark:bg-stone-900">
+<div class="flex flex-col items-center w-full px-12 gap-8">
+<div class="font-['Newsreader'] text-xl italic text-stone-800 dark:text-stone-200">JacketList</div>
+<div class="flex flex-wrap justify-center gap-8 font-['Inter'] text-sm tracking-wide">
+<a class="text-stone-500 dark:text-stone-400 hover:text-stone-900 dark:hover:text-stone-50 transition-colors" href="#">Curatorial Policy</a>
+<a class="text-stone-500 dark:text-stone-400 hover:text-stone-900 dark:hover:text-stone-50 transition-colors" href="#">Library Access</a>
+<a class="text-stone-500 dark:text-stone-400 hover:text-stone-900 dark:hover:text-stone-50 transition-colors" href="#">Privacy</a>
+<a class="text-stone-500 dark:text-stone-400 hover:text-stone-900 dark:hover:text-stone-50 transition-colors" href="#">Archive Map</a>
+</div>
+<div class="text-stone-500 dark:text-stone-400 text-xs mt-4">© 2024 JacketList. The Digital Archivist.</div>
+</div>
+</footer>
+</body></html>

@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>The Wheel of Time | JacketList Series</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;family=Newsreader:ital,wght@0,500;0,600;1,500&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              "surface-container-high": "#e9e8e4",
+              "on-tertiary-fixed-variant": "#544520",
+              "on-primary-container": "#858383",
+              "on-surface-variant": "#444748",
+              "on-tertiary-fixed": "#251a00",
+              "surface-dim": "#dbdad6",
+              "surface-container-low": "#f4f4f0",
+              "on-primary": "#ffffff",
+              "outline-variant": "#c4c7c7",
+              "surface-container-highest": "#e3e2df",
+              "secondary-container": "#fed65b",
+              "on-error": "#ffffff",
+              "primary-fixed": "#e5e2e1",
+              "tertiary": "#6d5c35",
+              "secondary-fixed-dim": "#e9c349",
+              "surface-bright": "#faf9f5",
+              "background": "#faf9f5",
+              "error": "#ba1a1a",
+              "primary-container": "#1c1b1b",
+              "on-secondary": "#ffffff",
+              "on-primary-fixed-variant": "#474746",
+              "secondary-fixed": "#ffe088",
+              "tertiary-fixed-dim": "#dbc494",
+              "on-tertiary": "#ffffff",
+              "primary-fixed-dim": "#c8c6c5",
+              "on-secondary-fixed-variant": "#574500",
+              "inverse-primary": "#c8c6c5",
+              "surface-container-lowest": "#ffffff",
+              "on-surface": "#1b1c1a",
+              "error-container": "#ffdad6",
+              "on-secondary-fixed": "#241a00",
+              "primary": "#000000",
+              "on-primary-fixed": "#1c1b1b",
+              "surface-variant": "#e3e2df",
+              "on-tertiary-container": "#4c3d19",
+              "on-background": "#1b1c1a",
+              "secondary": "#735c00",
+              "tertiary-container": "#bea97a",
+              "surface-tint": "#5f5e5e",
+              "inverse-surface": "#2f312e",
+              "outline": "#747878",
+              "tertiary-fixed": "#f8e0ae",
+              "on-secondary-container": "#745c00",
+              "surface": "#faf9f5",
+              "inverse-on-surface": "#f2f1ed",
+              "surface-container": "#efeeea",
+              "on-error-container": "#93000a"
+            },
+            fontFamily: {
+              "headline": ["Newsreader", "serif"],
+              "body": ["Inter", "sans-serif"],
+              "label": ["Inter", "sans-serif"]
+            },
+            borderRadius: {"DEFAULT": "0.125rem", "lg": "0.25rem", "xl": "0.5rem", "full": "0.75rem"},
+          },
+        },
+      }
+    </script>
+<style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+            vertical-align: middle;
+        }
+        .glass-nav {
+            background: rgba(250, 249, 245, 0.8);
+            backdrop-filter: blur(20px);
+        }
+    </style>
+</head>
+<body class="bg-surface text-on-surface font-body selection:bg-secondary-fixed selection:text-on-secondary-fixed">
+<!-- TopAppBar -->
+<nav class="sticky top-0 z-50 glass-nav border-none">
+<div class="flex justify-between items-center px-8 py-6 max-w-7xl mx-auto">
+<a class="text-2xl font-semibold font-serif text-stone-900 dark:text-stone-50" href="/">JacketList</a>
+<div class="hidden md:flex items-center space-x-8">
+<a class="text-stone-500 dark:text-stone-400 font-medium hover:text-stone-900 dark:hover:text-stone-200 transition-opacity duration-300" href="#">Browse</a>
+<a class="text-stone-900 dark:text-stone-50 font-semibold border-b-2 border-stone-900 dark:border-stone-50 pb-1 transition-opacity duration-300" href="#">Series</a>
+<a class="text-stone-500 dark:text-stone-400 font-medium hover:text-stone-900 dark:hover:text-stone-200 transition-opacity duration-300" href="#">Trending</a>
+<a class="text-stone-500 dark:text-stone-400 font-medium hover:text-stone-900 dark:hover:text-stone-200 transition-opacity duration-300" href="#">New Releases</a>
+</div>
+<div class="flex items-center gap-4">
+<span class="material-symbols-outlined text-stone-900 cursor-pointer" data-icon="account_circle">account_circle</span>
+</div>
+</div>
+</nav>
+<main class="max-w-7xl mx-auto px-8 py-12">
+<!-- Bestseller Banner -->
+<div class="mb-12 flex justify-center">
+<div class="inline-flex items-center gap-3 bg-secondary-fixed px-6 py-2 rounded-full text-on-secondary-fixed font-label text-xs tracking-widest uppercase">
+<span class="material-symbols-outlined text-sm" data-icon="star" data-weight="fill" style="font-variation-settings: 'FILL' 1;">star</span>
+                Currently on the bestseller list!
+            </div>
+</div>
+<!-- Series Header Section -->
+<section class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start mb-20">
+<div class="lg:col-span-5 relative">
+<div class="aspect-[3/4] rounded-lg overflow-hidden bg-surface-container-low shadow-sm group">
+<img alt="Series Main Cover" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" data-alt="Close-up of a high-fantasy book cover with intricate gold filigree and an ancient snake-and-wheel symbol on aged parchment background" src="https://lh3.googleusercontent.com/aida-public/AB6AXuD-U0wXkq6fMjtq_iXlmRNIUhJtCfywi2DJp0y4k36ZXYJW75RXGBuGtGi0QWGb-LDBbOxtmSXeGUU--Zp3dwgilFRxz4-E982XHOLk1ARYW7Ytj00-xDCylBoQpsJWM8GBQSAlMBxCiix4sK9aZg9SSQtO8dz8oCUHA5QtYjaJ_B4L2ziUBVsHWVVAdqW9RL71Ld5A8HtAHp1Gc9llCsQw5WLUKt30hpw1J8cAI0-rDc0lJ5Q3dFG5y9JPUGqBXqzlzUfSPcbXhwOg"/>
+</div>
+<!-- Asymmetric Floating Metadata -->
+<div class="absolute -bottom-6 -right-6 bg-surface-container-lowest p-6 rounded-lg shadow-xl hidden md:block border border-outline-variant/10">
+<p class="font-label text-[0.7rem] uppercase tracking-[0.2em] text-on-surface-variant mb-1">Total Volumes</p>
+<p class="text-3xl font-headline font-semibold">14 Books</p>
+</div>
+</div>
+<div class="lg:col-span-7 flex flex-col justify-center pt-8">
+<div class="flex flex-wrap gap-2 mb-6">
+<span class="bg-surface-container-high px-4 py-1 rounded-full text-[0.7rem] font-medium tracking-wider uppercase text-on-surface-variant">Fantasy</span>
+<span class="bg-surface-container-high px-4 py-1 rounded-full text-[0.7rem] font-medium tracking-wider uppercase text-on-surface-variant">Epic</span>
+</div>
+<h1 class="font-headline text-5xl md:text-6xl text-on-surface leading-tight mb-4">The Wheel of Time</h1>
+<p class="text-xl italic font-headline text-on-surface-variant mb-8">by Robert Jordan, Brandon Sanderson</p>
+<div class="max-w-2xl">
+<p class="font-body text-on-surface-variant leading-relaxed mb-10 text-lg">
+                        The Wheel of Time turns, and Ages come and pass, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth comes again. An expansive epic that redefined modern fantasy, following a group of villagers thrust into a world of prophecy and ancient magic.
+                    </p>
+</div>
+<div class="flex flex-wrap gap-4">
+<button class="bg-primary text-on-primary px-8 py-4 rounded-md font-medium text-sm hover:opacity-90 transition-all flex items-center gap-2">
+                        Start Reading <span class="material-symbols-outlined text-sm" data-icon="arrow_forward">arrow_forward</span>
+</button>
+<button class="border border-outline text-on-surface px-8 py-4 rounded-md font-medium text-sm hover:bg-surface-container-low transition-all">
+                        Add to Library
+                    </button>
+</div>
+</div>
+</section>
+<!-- Reading Order Tabs Section -->
+<section class="mb-24">
+<div class="flex flex-col md:flex-row md:items-end justify-between mb-12 border-b border-surface-container-high pb-4">
+<h2 class="font-headline text-3xl mb-6 md:mb-0">Reading Order</h2>
+<div class="flex gap-8">
+<button class="font-label text-sm tracking-widest uppercase text-on-surface-variant/50 hover:text-on-surface transition-colors flex items-center gap-2 pb-4">
+<span class="material-symbols-outlined text-lg" data-icon="schedule">schedule</span>
+                        📖 Chronological
+                    </button>
+<button class="font-label text-sm tracking-widest uppercase text-on-surface border-b-2 border-primary pb-4 flex items-center gap-2">
+<span class="material-symbols-outlined text-lg" data-icon="edit_note">edit_note</span>
+                        ✍️ Author's Recommended
+                    </button>
+</div>
+</div>
+<!-- Recommended List - Active State -->
+<div class="grid grid-cols-1 gap-6">
+<!-- Book 1 -->
+<div class="group bg-surface-container-lowest p-8 rounded-xl flex flex-col md:flex-row gap-10 items-center transition-all duration-300 hover:shadow-xl hover:shadow-on-surface/5">
+<div class="w-32 md:w-40 shrink-0">
+<img alt="The Eye of the World" class="w-full aspect-[2/3] object-cover rounded shadow-md group-hover:-translate-y-2 transition-transform duration-300" data-alt="Classic fantasy book cover depicting a hooded figure on a white horse crossing a vibrant green landscape with tall mountains in distance" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCH5TXBsI0BUmDe8O_vUbhAiFi7b6tBmMwu4rpgCNLjETo0H0i20t4YTT89_hbkMhPUuP6itQmeML9e2Wq-FbKErfrAaQsfegJR_g0dEZAEPdxcwAsV2jUxhZ19bmkpaXNfs5phnk5uxG3F_HIvv6uOQqEAEoGjvvdlhFzWY9M7OGKsR40wsVSsukCiGeLyODdQwkSBeQa9spMmp5lEiwTw0jC3pK-Ygy4e8UpOOLNtj_NV-W02N-xMxv4PV797gpCZBAe4A75Vk7SO"/>
+</div>
+<div class="flex-grow">
+<div class="flex items-center gap-4 mb-3">
+<span class="font-headline text-4xl text-on-surface-variant/20 italic">01</span>
+<h3 class="font-headline text-2xl font-semibold">The Eye of the World</h3>
+</div>
+<p class="font-body text-secondary font-medium text-sm mb-4 italic">"Start here for the best first-time experience."</p>
+<p class="font-body text-on-surface-variant text-sm max-w-xl leading-relaxed mb-6">
+                            The adventure begins in the Two Rivers as the Dark One's power begins to stir and Rand al'Thor and his friends are forced to flee their home.
+                        </p>
+</div>
+<div class="shrink-0">
+<a class="bg-primary text-on-primary px-6 py-3 rounded-md text-sm font-medium hover:bg-stone-800 transition-colors inline-flex items-center gap-2" href="#">
+                            Buy on Amazon
+                            <span class="material-symbols-outlined text-sm" data-icon="open_in_new">open_in_new</span>
+</a>
+</div>
+</div>
+<!-- Book 2 -->
+<div class="group bg-surface-container-low p-8 rounded-xl flex flex-col md:flex-row gap-10 items-center transition-all duration-300 hover:bg-surface-container-lowest hover:shadow-xl hover:shadow-on-surface/5">
+<div class="w-32 md:w-40 shrink-0">
+<div class="w-full aspect-[2/3] bg-stone-200 rounded overflow-hidden flex items-center justify-center relative">
+<img alt="The Great Hunt" class="w-full h-full object-cover group-hover:-translate-y-2 transition-transform duration-300" data-alt="Epic fantasy book cover with a dramatic sunset background and silhouettes of warriors on a hill, cinematic lighting" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAMIWbSzj0Mvh79LfocAQEPaiZfvrCqKcpxKpP6uLjKnSaLO-6H9Q0Y6VrEGPZd8D9ai3-X50XIfQyi9oujU6HwBIjJATZc7A4tHc7DsYquQKFeaywXsxY4xz-468p4TwAS9eUHWCspvJLMhPEnKy1LOg2Ae_37TooNb5onmZTWwAu3mVdN_22K_7pdGS-kyDNkHmtz2rQ1Xsv2PZoqye2vn5HoZxz6QcMiYgFeg0mlyB6u3P4-aATz_S1gcf1x3075vA0BKCmBhm5E"/>
+</div>
+</div>
+<div class="flex-grow">
+<div class="flex items-center gap-4 mb-3">
+<span class="font-headline text-4xl text-on-surface-variant/20 italic">02</span>
+<h3 class="font-headline text-2xl font-semibold">The Great Hunt</h3>
+</div>
+<p class="font-body text-on-surface-variant text-sm max-w-xl leading-relaxed mb-6">
+                            The hunt for the Horn of Valere begins, as Rand and his companions navigate the intricate webs of Aes Sedai politics and burgeoning powers.
+                        </p>
+</div>
+<div class="shrink-0">
+<a class="bg-primary text-on-primary px-6 py-3 rounded-md text-sm font-medium hover:bg-stone-800 transition-colors inline-flex items-center gap-2" href="#">
+                            Buy on Amazon
+                            <span class="material-symbols-outlined text-sm" data-icon="open_in_new">open_in_new</span>
+</a>
+</div>
+</div>
+</div>
+<div class="mt-12 text-center">
+<button class="font-label text-xs tracking-widest uppercase border-b border-primary py-2 hover:bg-surface-container-low transition-colors">
+                    Load All 14 Volumes
+                </button>
+</div>
+</section>
+<!-- Footer Ad Zone -->
+<section class="mb-24 pt-16 border-t border-surface-container-high">
+<h2 class="font-headline text-3xl mb-12">You might also enjoy</h2>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+<!-- AdCard 1 -->
+<div class="bg-surface-container-low p-4 rounded-xl group cursor-pointer">
+<div class="aspect-video rounded-lg overflow-hidden mb-6">
+<img alt="Recommendations" class="w-full h-full object-cover grayscale transition-all duration-500 group-hover:grayscale-0 group-hover:scale-110" data-alt="Moody still life of stacked leather-bound books on a rustic wooden desk with a single candle flame and soft bokeh background" src="https://lh3.googleusercontent.com/aida-public/AB6AXuB2SpSjeS7zX4qk_OkgOjWeHP-HHIVSPHv4uhg53ETiC7EjN7pD259L6M7Vq4BnBE82lSf135z2r-otOIq4DvG5HEBPzPdy_AQdXxeiOO1wYZ5B3LVQMZC4ploOPD4WPd-gjjuFfnPb7qldGAwUw7z0WwBzew_S4C5vyQ7VFUMcDgE4ETuKy-UnqYIQukBGrlSmwTNLFwD8KNOAOf0G89m_rDGnp8wwuuscLw0n-cmQnhyaGsFjR5Laouli5VGlVftNdSVQZDxVPwop"/>
+</div>
+<p class="font-label text-[0.65rem] tracking-[0.2em] uppercase text-on-surface-variant mb-2">Curated List</p>
+<h4 class="font-headline text-xl mb-4">10 Epic Sagas for Robert Jordan Fans</h4>
+<p class="text-xs text-on-surface-variant leading-relaxed">Discover your next obsession with our hand-picked selection of sprawling high fantasy series.</p>
+</div>
+<!-- AdCard 2 -->
+<div class="bg-surface-container-low p-4 rounded-xl group cursor-pointer">
+<div class="aspect-video rounded-lg overflow-hidden mb-6">
+<img alt="Author Spotlight" class="w-full h-full object-cover grayscale transition-all duration-500 group-hover:grayscale-0 group-hover:scale-110" data-alt="Atmospheric study or library with floor-to-ceiling bookshelves, warm lamp lighting, and a rolling ladder in soft focus" src="https://lh3.googleusercontent.com/aida-public/AB6AXuD33k1V-7HaqshipgcoDJ-d-rrPbxdOofQDBZOwA9DMRVXJi5LS17fDdnMsSQbjSW6fRnTT6FVzqMS8Op4FUWBd6gLHqo4rD-gQjZ7Wixxqt9jAaBwFQS8wJYOjG8sZrYNWnBv_LdhmmvwWaX8ru1cc_-ZNviJOCCFE9JQFM5rFSjNRQyR8kVyHDETr_H7JWOk-KRVQTS8wVriizpKiwgyuwtY-0Ncz1W_95NhkpXIl2n4dj2feI7LxIlJRaqy6GLshuVGfPyjVuW84"/>
+</div>
+<p class="font-label text-[0.65rem] tracking-[0.2em] uppercase text-on-surface-variant mb-2">Author Spotlight</p>
+<h4 class="font-headline text-xl mb-4">Inside the World of Brandon Sanderson</h4>
+<p class="text-xs text-on-surface-variant leading-relaxed">A deep dive into the Cosmere and the author who finished the Wheel of Time.</p>
+</div>
+<!-- AdCard 3 -->
+<div class="bg-surface-container-low p-4 rounded-xl group cursor-pointer">
+<div class="aspect-video rounded-lg overflow-hidden mb-6">
+<img alt="Special Editions" class="w-full h-full object-cover grayscale transition-all duration-500 group-hover:grayscale-0 group-hover:scale-110" data-alt="Artistic macro photo of gold-foiled book edges and intricate book spine binding with deep burgundy and gold textures" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBc5RfW-zid9F0uwRFUFnwGO1IwFEPJ6RHGSMkacOCsituSVRfYskYzg4X4LQ-3nnBAiFDXsWXT6VdBimER_lV07SOsEY_CYEpD5qDNuZKJa9CmPmFRc2DrS1jHkm6LoFo6GJ8sMpxh7JPcvuDR4udBl4GizMdVaT6HnvTPtXF83LmwuMjYbnF9wAnr8ZyCIxs1VwnSofyXfPiG4EvHrme7dUMwGdERV_tp6G4Fn5eIFUCppPq4_nU59hpzAYpxH7dHys8dxEdMmIbg"/>
+</div>
+<p class="font-label text-[0.65rem] tracking-[0.2em] uppercase text-on-surface-variant mb-2">Collector's Corner</p>
+<h4 class="font-headline text-xl mb-4">Wheel of Time: Rare Edition Guide</h4>
+<p class="text-xs text-on-surface-variant leading-relaxed">Tracing the most beautiful hardcover editions for your permanent library.</p>
+</div>
+</div>
+</section>
+</main>
+<!-- Footer -->
+<footer class="bg-[#f4f4f0] dark:bg-stone-900 w-full mt-20 px-8 py-12">
+<div class="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-7xl mx-auto border-t border-stone-200/20 pt-12">
+<div>
+<a class="text-xl font-semibold font-serif text-stone-900 dark:text-stone-100 mb-6 block" href="#">JacketList</a>
+<p class="text-[0.75rem] font-body text-stone-500 dark:text-stone-400 uppercase tracking-widest leading-relaxed">
+                    © 2024 JacketList. As an Amazon Associate JacketList earns from qualifying purchases.
+                </p>
+</div>
+<div class="md:col-span-2 grid grid-cols-2 md:grid-cols-4 gap-4">
+<a class="text-stone-500 dark:text-stone-400 text-sm font-body hover:text-stone-900 dark:hover:text-stone-100 underline transition-colors duration-200" href="#">About</a>
+<a class="text-stone-500 dark:text-stone-400 text-sm font-body hover:text-stone-900 dark:hover:text-stone-100 underline transition-colors duration-200" href="#">Privacy Policy</a>
+<a class="text-stone-500 dark:text-stone-400 text-sm font-body hover:text-stone-900 dark:hover:text-stone-100 underline transition-colors duration-200" href="#">Terms of Service</a>
+<a class="text-stone-500 dark:text-stone-400 text-sm font-body hover:text-stone-900 dark:hover:text-stone-100 underline transition-colors duration-200" href="#">Contact</a>
+</div>
+<div class="md:col-span-3 mt-8">
+<p class="text-[0.75rem] font-body text-stone-400 dark:text-stone-500 uppercase tracking-widest">
+                    FTC Disclosure: Links to Amazon and other merchants are affiliate links. We receive a commission on qualifying purchases at no extra cost to you.
+                </p>
+</div>
+</div>
+</footer>
+</body></html>

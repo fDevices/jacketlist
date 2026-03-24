@@ -1,0 +1,31 @@
+# JacketList — Project Specification
+
+## Project Overview
+**JacketList** (jacketlist.com) is a book discovery website with two core features:
+1. **Weekly Bestsellers** — ranked list aggregated from NYT, The Guardian, and Goodreads
+2. **Book Series Guide** — reading order (chronological + author's recommended) for popular series across all genres
+
+Revenue comes from **Amazon Associates affiliate links** on every book, and a **footer ad zone** supporting Google AdSense, BookBub, and direct sponsor placements.
+
+---
+
+## Styling Rules
+- **Color palette:** warm neutrals (cream/off-white background), deep navy or charcoal for text, amber/gold accents
+- **Typography:** Serif font for titles (Georgia or similar), sans-serif for UI
+- **Book cards:** White background, subtle shadow, rounded corners — clean and editorial
+- **Layout:** Mobile-first responsive grid: 1 col (mobile) → 2 col (tablet) → 3–4 col (desktop)
+
+---
+
+## Core Components
+- **BookCard:** Shows cover, title, author, score badge (🔥/⬆️/👀), source badges, "weeks on list" if > 1. Includes "Buy on Amazon" button.
+- **SeriesCard:** Overview for homepage grid.
+- **AdCard:** Visually matches BookCard exactly with a "Sponsored" label.
+- **ReadingOrderTabs:** Toggle between "📖 Chronological" and "✍️ Author's Recommended".
+- **FooterAdZone:** "You might also enjoy" section with 1-3 AdCards.
+
+---
+
+## Pages to Design
+1. **HomePage (`/`):** Hero (tagline + search), Weekly Bestsellers, Popular Series grid, Footer Ad Zone.
+2. **SeriesPage (`/series/:id`):** Series header, bestseller banner (if applicable), ReadingOrderTabs, Footer Ad Zone.
