@@ -20,7 +20,7 @@ const baseBook = {
 describe('BookCard', () => {
   it('renders title and author', () => {
     render(<BookCard book={baseBook} seriesMap={seriesMap} />);
-    expect(screen.getByText('Test Book')).toBeInTheDocument();
+    expect(screen.getByRole('heading', { name: 'Test Book' })).toBeInTheDocument();
     expect(screen.getByText('Test Author')).toBeInTheDocument();
   });
 

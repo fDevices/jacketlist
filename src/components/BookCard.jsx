@@ -18,11 +18,9 @@ export default function BookCard({ book, seriesMap = {} }) {
             className="w-full h-full object-cover"
           />
         ) : (
-          <div
-            role="img"
-            aria-label={book.title}
-            className="w-full h-full flex items-center justify-center bg-surface-container-low"
-          />
+          <span className="text-center text-on-surface-variant text-sm font-body px-4">
+            {book.title}
+          </span>
         )}
       </div>
 
