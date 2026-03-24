@@ -1,4 +1,6 @@
 import './globals.css';
+import Nav from '@/components/Nav';
+import Footer from '@/components/Footer';
 
 export const metadata = {
   title: 'JacketList | The list worth reading. In the right order.',
@@ -15,7 +17,11 @@ export default function RootLayout({ children }) {
           rel="stylesheet"
         />
       </head>
-      <body className="bg-surface text-on-surface">{children}</body>
+      <body className="bg-surface text-on-surface">
+        <Nav />
+        <main>{children}</main>
+        <Footer />
+      </body>
     </html>
   );
 }
