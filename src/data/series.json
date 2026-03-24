@@ -54,7 +54,7 @@
       "author": "Lee Child",
       "genres": ["Thriller"],
       "total_books": 27,
-      "currently_on_bestseller_list": false,
+      "currently_on_bestseller_list": true,
       "description": "A nomadic ex-military cop with no address, no phone, and no agenda — just a toothbrush and a talent for trouble. Pure thriller momentum.",
       "orders": {
         "chronological": [
@@ -75,7 +75,7 @@
       "author": "Diana Gabaldon",
       "genres": ["Historical Fiction", "Romance"],
       "total_books": 9,
-      "currently_on_bestseller_list": false,
+      "currently_on_bestseller_list": true,
       "description": "A time-travel historical epic beginning in 1945 Scotland, sweeping through Jacobite rebellions and American Revolution. Romantic, detailed, addictive.",
       "orders": {
         "chronological": [
