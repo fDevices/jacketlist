@@ -17,8 +17,8 @@ Use this prompt with Claude CoWork to research and add new series to `src/data/s
 
 ```
 GENRE: Fantasy
-BATCH_SIZE: 10
-EXCLUDE_ALREADY_IN_DB: Wheel of Time, Stormlight Archive
+BATCH_SIZE: 5
+EXCLUDE_ALREADY_IN_DB: Wheel of Time, Stormlight Archive, Mistborn, Kingkiller Chronicle, A Song of Ice and Fire, The First Law, The Witcher, His Dark Materials, Dune, Foundation, The Expanse, Red Rising, Old Man's War, Jack Reacher, Harry Hole, Alex Cross, Mitch Rapp, Jason Bourne, Hercule Poirot, Miss Marple, Chief Inspector Gamache, Thursday Murder Club, Flavia de Luce, Harry Potter, The Hunger Games, Divergent, Percy Jackson, The Mortal Instruments, Outlander
 BESTSELLER_AUTHORS: Brandon Sanderson, Lee Child
 FOCUS: Popular series with 500k+ Goodreads ratings
 ```
