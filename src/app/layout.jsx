@@ -16,10 +16,10 @@ export default function RootLayout({ children }) {
           href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&family=Inter:wght@100..900&display=swap"
           rel="stylesheet"
         />
-        {/* Replace ca-pub-PLACEHOLDER with your real AdSense publisher ID once approved */}
+        {/* Replace ca-pub-5836194435861990 with your real AdSense publisher ID once approved */}
         <script
           async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-PLACEHOLDER"
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5836194435861990"
           crossOrigin="anonymous"
         />
       </head>

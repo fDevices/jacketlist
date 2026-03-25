@@ -15,7 +15,7 @@ export default function AdCard({ ad }) {
           <ins
             className="adsbygoogle"
             style={{ display: 'block' }}
-            data-ad-client="ca-pub-PLACEHOLDER"
+            data-ad-client="ca-pub-5836194435861990"
             data-ad-slot={ad.slot_id}
             data-ad-format="auto"
           />
