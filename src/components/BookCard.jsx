@@ -72,7 +72,7 @@ export default function BookCard({ book, seriesMap = {} }) {
           href={book.amazon_url}
           target="_blank"
           rel="noopener noreferrer"
-          className="mt-auto block text-center bg-primary text-on-primary text-sm font-label font-medium px-4 py-2 rounded-lg transition-opacity duration-300 hover:opacity-80"
+          className="mt-auto block text-center bg-secondary-fixed hover:bg-secondary-fixed-dim text-on-secondary-fixed text-sm font-label font-semibold px-4 py-2 rounded-lg transition-colors duration-200"
         >
           Buy on Amazon
         </a>

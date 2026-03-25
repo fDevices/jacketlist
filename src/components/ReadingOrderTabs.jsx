@@ -26,7 +26,7 @@ function BookList({ books }) {
             href={book.amazon_url}
             target="_blank"
             rel="noopener noreferrer"
-            className="text-xs font-label font-medium bg-primary text-on-primary px-3 py-1.5 rounded-lg hover:opacity-80 transition-opacity duration-300 shrink-0"
+            className="text-xs font-label font-semibold bg-secondary-fixed hover:bg-secondary-fixed-dim text-on-secondary-fixed px-3 py-1.5 rounded-lg transition-colors duration-200 shrink-0"
           >
             Buy
           </a>
