@@ -3,7 +3,7 @@
 ## Project Overview
 
 **JacketList** (jacketlist.com) is a book discovery website with two core features:
-1. **Weekly Bestsellers** — ranked list aggregated from NYT, The Guardian, and Goodreads
+1. **Weekly Bestsellers** — ranked list aggregated from 7 sources: NYT, The Guardian, Goodreads, Amazon, USA Today, Publishers Weekly, and Audible
 2. **Book Series Guide** — reading order (chronological + author's recommended) for popular series across all genres
 
 Revenue comes from **Amazon Associates affiliate links** on every book, and a **footer ad zone** supporting Google AdSense, BookBub, and direct sponsor placements.
@@ -34,6 +34,10 @@ jacketlist/
 │   ├── app/                      # Next.js App Router
 │   │   ├── layout.jsx            # Root layout — renders Nav + Footer on every page
 │   │   ├── page.jsx              # HomePage (/)
+│   │   ├── lists/
+│   │   │   ├── page.jsx          # Lists hub (/lists) — links to all 7 source pages
+│   │   │   └── [source]/
+│   │   │       └── page.jsx      # Per-source page (/lists/nyt, /lists/amazon, etc.)
 │   │   ├── series/
 │   │   │   └── [id]/
 │   │   │       └── page.jsx      # SeriesPage (/series/[id])
@@ -52,7 +56,15 @@ jacketlist/
 │   │   ├── FooterAdZone.jsx      # Footer ad strip (1–3 AdCard slots)
 │   │   └── SearchBar.jsx         # Client-side filter (title + author, no routing)
 │   ├── data/
-│   │   ├── bestsellers.json      # Weekly bestseller list (updated by CoWork)
+│   │   ├── sources/              # Raw per-source top 10 lists (updated by CoWork)
+│   │   │   ├── nyt.json
+│   │   │   ├── guardian.json
+│   │   │   ├── goodreads.json
+│   │   │   ├── amazon.json
+│   │   │   ├── usatoday.json
+│   │   │   ├── publishersweekly.json
+│   │   │   └── audible.json
+│   │   ├── bestsellers.json      # Merged top-25 list (scored from 7 sources, updated by CoWork)
 │   │   ├── series.json           # All series data with both reading orders
 │   │   └── ads.json              # Current footer ad placements
 │   └── utils/
@@ -71,10 +83,37 @@ jacketlist/
 
 ## Data Formats
 
-### `bestsellers.json`
+### `src/data/sources/*.json`
+
+Each source file holds exactly 10 books (the raw list, no scoring):
+
 ```json
 {
-  "updated": "2026-03-23",
+  "source": "amazon",
+  "label": "Amazon Best Sellers",
+  "url": "https://www.amazon.com/charts/mostread/books",
+  "updated": "2026-03-25",
+  "books": [
+    {
+      "position": 1,
+      "title": "Book Title",
+      "author": "Author Name",
+      "cover_url": "https://covers.openlibrary.org/b/id/{cover_i}-M.jpg",
+      "amazon_url": "https://www.amazon.com/s?k=Book+Title+Author&tag=jacketlist-20"
+    }
+  ]
+}
+```
+
+Source slugs: `nyt`, `guardian`, `goodreads`, `amazon`, `usatoday`, `publishersweekly`, `audible`
+
+### `bestsellers.json`
+
+Merged top-25 list produced by CoWork from the 7 source files:
+
+```json
+{
+  "updated": "2026-03-25",
   "books": [
     {
       "id": "some-book-id",
@@ -82,23 +121,30 @@ jacketlist/
       "author": "Author Name",
       "cover_url": "https://covers.openlibrary.org/...",
       "description": "One or two sentence description.",
-      "sources": ["nyt", "guardian", "goodreads"],
+      "sources": ["nyt", "amazon", "goodreads"],
+      "sources_positions": [
+        { "source": "nyt", "position": 1 },
+        { "source": "amazon", "position": 3 },
+        { "source": "goodreads", "position": 2 }
+      ],
       "score": 3,
       "rank": 1,
       "new_this_week": true,
       "weeks_on_list": 1,
       "series_id": "series-id-if-applicable",
       "series_book_number": 2,
-      "amazon_url": "https://www.amazon.com/s?k=Book+Title&tag=YOURTAG-20"
+      "amazon_url": "https://www.amazon.com/s?k=Book+Title&tag=jacketlist-20"
     }
   ]
 }
 ```
 
-**Scoring rules:**
-- `score: 3` → appears in all three sources → 🔥 Top Pick
-- `score: 2` → appears in two sources → ⬆️ Trending  
-- `score: 1` → appears in one source → 👀 Worth Watching
+**Scoring rules (out of 7 sources):**
+- `score: 5–7` → 🔥 Top Pick
+- `score: 3–4` → ⬆️ Trending
+- `score: 1–2` → 👀 Worth Watching
+
+**Sort order:** score desc → tiebreaker desc. Tiebreaker = `(position_score + longevity_score) / 2` where `position_score = 11 - avg(sources_positions)` and `longevity_score = min(weeks_on_list, 10)`. Top 10 shown as BookCards; books 11–25 shown as compact ranked list.
 
 ### `series.json`
 ```json
@@ -171,6 +217,7 @@ jacketlist/
 ### Nav
 - Slim top bar rendered in the root layout — appears on every page
 - Site name "JacketList" (Newsreader serif) links to `/`
+- Right side: "Lists" link → `/lists`, "Series" link → `/series`
 - Glassmorphism background: semi-transparent `surface` + `backdrop-blur-[20px]`
 - Non-sticky — scrolls with the page
 
@@ -181,13 +228,15 @@ jacketlist/
 - Empty query shows all results; no dropdown, no routing
 
 ### BookCard
-- Used for both bestsellers and individual books within series pages
-- Shows: cover, title, author, score badge (🔥/⬆️/👀), source badges, "weeks on list" if > 1
+- Used for bestsellers, series pages, and per-source list pages
+- Props: `book`, `seriesMap`, `showScore` (default `true`)
+- Shows: cover, title, author, score badge (🔥/⬆️/👀) if `showScore=true`, source badges, "weeks on list" if > 1
 - If the book belongs to a series: show a "📚 Part of a series" badge that links to the series page
 - If `series_id` is not found in `series.json`, the badge is silently omitted
 - Always includes an Amazon Associates "Buy on Amazon" button (`target="_blank"`)
-- Cover image: `cover_url` → Open Library (`https://covers.openlibrary.org/b/isbn/{isbn}-M.jpg`) → text placeholder showing title
+- Cover image: `cover_url` → Open Library (`https://covers.openlibrary.org/b/id/{id}-M.jpg`) → text placeholder showing title
 - Cover aspect ratio: 2:3 (portrait), full card width
+- Set `showScore={false}` on per-source list pages (raw ranked lists have no cross-source score)
 
 ### AdCard
 - **Must visually match BookCard exactly** in dimensions, border-radius, shadow, and padding
@@ -239,13 +288,22 @@ Prefer ASIN links when available (higher conversion). Fall back to search links.
 
 ```javascript
 export function scoreBook(sources) {
-  return sources.length; // 1, 2, or 3
+  return sources.length; // 1–7
 }
 
 export function scoreBadge(score) {
-  if (score === 3) return { emoji: '🔥', label: 'Top Pick' };
-  if (score === 2) return { emoji: '⬆️', label: 'Trending' };
+  if (score >= 5) return { emoji: '🔥', label: 'Top Pick' };
+  if (score >= 3) return { emoji: '⬆️', label: 'Trending' };
   return { emoji: '👀', label: 'Worth Watching' };
+}
+
+export function computeTiebreaker(book) {
+  if (!book.sources_positions || book.sources_positions.length === 0) return 0;
+  const positions = book.sources_positions.map((sp) => sp.position);
+  const avgPosition = positions.reduce((a, b) => a + b, 0) / positions.length;
+  const positionScore = 11 - avgPosition;          // assumes max position = 10
+  const longevityScore = Math.min(book.weeks_on_list, 10);
+  return (positionScore + longevityScore) / 2;
 }
 ```
 
@@ -271,9 +329,19 @@ See `DESIGN.md` for the full design system. Key rules for implementation:
 
 ### HomePage (`/`)
 1. **Hero** — Site name "JacketList", tagline ("The list worth reading. In the right order."), SearchBar
-2. **Weekly Bestsellers** — Section heading with last-updated date, ranked BookCards sorted by score desc then rank asc
+2. **Weekly Bestsellers** — Section heading with last-updated date, Top 10 BookCards (score desc → tiebreaker desc), then "Also trending this week" compact ranked list (books 11–25: rank, title, author, badge emoji, Buy → link). Compact list hidden when search is active.
 3. **Popular Series** — Section heading, filterable by genre, SeriesCards grid
 4. **FooterAdZone + Footer**
+
+### Lists Hub (`/lists`)
+Grid of 7 source cards, each linking to its per-source page. Linked from Nav.
+
+### Per-Source List (`/lists/[source]`)
+One static page per source (nyt, guardian, goodreads, amazon, usatoday, publishersweekly, audible). Shows:
+1. Source name + "As seen on" attribution
+2. Top 10 BookCards with `showScore={false}` — raw ranked list, no cross-source badge
+3. "← See our full merged Top 10" link back to homepage
+4. FooterAdZone + Footer
 
 ### SeriesPage (`/series/[id]`)
 1. **Series header** — Title, author, genre tags, total books, short description
@@ -282,7 +350,7 @@ See `DESIGN.md` for the full design system. Key rules for implementation:
 4. **FooterAdZone + Footer**
 
 ### Methodology (`/methodology`) — launch requirement
-Static content page explaining how bestseller rankings are compiled: the three sources (NYT, The Guardian, Goodreads), the scoring logic (score 1/2/3), and update frequency (weekly, every Monday).
+Static content page explaining how bestseller rankings are compiled: the seven sources (NYT, The Guardian, Goodreads, Amazon, USA Today, Publishers Weekly, Audible), the scoring logic (score 1–7, badge thresholds 5–7/3–4/1–2), tiebreaker formula, and update frequency (weekly, every Monday).
 
 ### Editorial Policy (`/editorial-policy`) — launch requirement
 Static content page explaining how series reading orders are determined: what "Author's Recommended" means, how chronological order is defined, and how conflicts are resolved.
@@ -295,7 +363,8 @@ The `/cowork/` folder contains two markdown prompt files used with Claude CoWork
 
 **CoWork Task 1 — Weekly Bestsellers** (`cowork/bestseller-prompt.md`)
 - Runs every Monday
-- Outputs updates to `bestsellers.json`
+- Outputs top 10 for each of the 7 sources to `src/data/sources/*.json`
+- Outputs merged top-25 to `bestsellers.json`
 
 **CoWork Task 2 — Series Discovery** (`cowork/series-prompt.md`)
 - Runs monthly or on-demand
