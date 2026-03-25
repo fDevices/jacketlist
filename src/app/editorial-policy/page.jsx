@@ -16,17 +16,17 @@ export default function EditorialPolicyPage() {
           <p className="text-base leading-relaxed text-on-surface-variant">
             JacketList maintains two reading orders for every series: a{' '}
             <strong className="text-on-surface">Chronological</strong> order and an{' '}
-            <strong className="text-on-surface">Author's Recommended</strong> order. These are
+            <strong className="text-on-surface">Author&apos;s Recommended</strong> order. These are
             researched from author interviews, official series websites, and publishing notes.
           </p>
         </section>
 
         <section>
           <h2 className="font-headline text-[1.75rem] font-medium mb-4">
-            What "Author's Recommended" means
+            What &quot;Author&apos;s Recommended&quot; means
           </h2>
           <p className="text-base leading-relaxed text-on-surface-variant">
-            The Author's Recommended order reflects the sequence the author has publicly stated
+            The Author&apos;s Recommended order reflects the sequence the author has publicly stated
             is the best way to experience the series for the first time. This is often — but not
             always — the publication order. Where an author has given conflicting advice over time,
             we use the most recent authoritative statement.
@@ -36,9 +36,9 @@ export default function EditorialPolicyPage() {
         <section>
           <h2 className="font-headline text-[1.75rem] font-medium mb-4">How we resolve conflicts</h2>
           <p className="text-base leading-relaxed text-on-surface-variant">
-            When the chronological order and the author's recommended order are identical, we
+            When the chronological order and the author&apos;s recommended order are identical, we
             display a single reading list without the tab toggle. When they differ, we default to
-            showing the Author's Recommended order and allow readers to switch to Chronological
+            showing the Author&apos;s Recommended order and allow readers to switch to Chronological
             if they prefer.
           </p>
         </section>
