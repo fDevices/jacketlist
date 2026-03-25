@@ -48,7 +48,7 @@ Requirements:
 1. `id` — URL-safe slug (e.g. `"harry-potter"`, `"mistborn"`)
 2. `title` — official series name
 3. `author` — full name(s), comma-separated if multiple
-4. `genres` — array of 1–3 genre tags (use: Fantasy, Sci-Fi, Thriller, Mystery, Romance, Historical Fiction, Horror, YA, Literary Fiction, Crime)
+4. `genres` — array of 1–3 genre tags (use: Fantasy, Sci-Fi, Thriller, Mystery, Romance, Historical Fiction, Horror, Young Adult, Literary Fiction, Crime)
 5. `total_books` — count of main series books (exclude short stories and novellas unless they are essential to the plot)
 6. `currently_on_bestseller_list` — set to `false` unless you have strong evidence it is currently charting
 7. `description` — 2–3 sentences. Hook the reader. Focus on what makes the series distinctive, not just the plot summary.
@@ -110,4 +110,4 @@ Output **only** a valid JSON array — no commentary, no markdown fences, no exp
 
 ## Genre reference (use these exact strings in the `genres` field)
 
-Fantasy, Sci-Fi, Thriller, Mystery, Romance, Historical Fiction, Horror, YA, Literary Fiction, Crime
+Fantasy, Sci-Fi, Thriller, Mystery, Romance, Historical Fiction, Horror, Young Adult, Literary Fiction, Crime

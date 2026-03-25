@@ -59,7 +59,7 @@ Format: `Series Name — Author (Genre)`
 - Masters of Rome — Colleen McCullough
 - The Cazalet Chronicle — Elizabeth Jane Howard
 
-## YA
+## Young Adult
 
 - Harry Potter — J.K. Rowling
 - The Hunger Games — Suzanne Collins
