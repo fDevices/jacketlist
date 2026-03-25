@@ -18,12 +18,12 @@ Use this prompt with Claude CoWork to research and add new series to `src/data/s
 ```
 GENRE: Fantasy
 BATCH_SIZE: 5
-EXCLUDE_ALREADY_IN_DB: Wheel of Time, Stormlight Archive, Mistborn, Kingkiller Chronicle, A Song of Ice and Fire, The First Law, The Witcher, His Dark Materials, Dune, Foundation, The Expanse, Red Rising, Old Man's War, Jack Reacher, Harry Hole, Alex Cross, Mitch Rapp, Jason Bourne, Hercule Poirot, Miss Marple, Chief Inspector Gamache, Thursday Murder Club, Flavia de Luce, Harry Potter, The Hunger Games, Divergent, Percy Jackson, The Mortal Instruments, Outlander
-BESTSELLER_AUTHORS: Brandon Sanderson, Lee Child
+EXCLUDE_ALREADY_IN_DB: The Wheel of Time, The Stormlight Archive, Mistborn, The Kingkiller Chronicle, A Song of Ice and Fire, The First Law, The Witcher, His Dark Materials, Dune, Foundation, The Expanse, Red Rising, Old Man's War, Jack Reacher, Harry Hole, Alex Cross, Mitch Rapp, Jason Bourne, Hercule Poirot, Miss Marple, Chief Inspector Gamache, The Thursday Murder Club, Flavia de Luce, Harry Potter, The Hunger Games, Percy Jackson and the Olympians, Divergent, The Mortal Instruments, Outlander
+BESTSELLER_AUTHORS: Andy Weir, Freida McFadden, James Patterson, Lucy Score, Rachel Reid, Rebecca Yarros, Sarah J. Maas, Matt Dinniman
 FOCUS: Popular series with 500k+ Goodreads ratings
 ```
 
-*(Update before each run. Copy `BESTSELLER_AUTHORS` from the author names currently in `bestsellers.json` — these get first priority.)*
+*(Update before each run. See `cowork/series-list.md` for the full list of series already in the DB — copy all titles into `EXCLUDE_ALREADY_IN_DB`. Copy `BESTSELLER_AUTHORS` from the author names currently in `bestsellers.json` — these get first priority.)*
 
 ---
 
@@ -102,7 +102,7 @@ Output **only** a valid JSON array — no commentary, no markdown fences, no exp
 
 1. **Verify** — spot-check 2–3 entries against Goodreads or the author's website for reading order accuracy
 2. **Merge** — paste approved entries into the `series` array in `src/data/series.json`
-3. **Update backlog** — remove added series from `cowork/series-backlog.md`
+3. **Update series list** — add new entries to `cowork/series-list.md` (sorted by author last name)
 4. **Rebuild** — run `npm run build` to confirm the static export generates correctly
 5. **Next run** — update `BESTSELLER_AUTHORS` by checking the current `bestsellers.json` for any author changes
 
