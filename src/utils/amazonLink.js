@@ -1,4 +1,4 @@
-const AMAZON_TAG = 'YOURTAG-20';
+const AMAZON_TAG = 'jacketlist-20';
 
 export function buildAmazonSearchLink(title, author = '') {
   const query = encodeURIComponent(`${title} ${author}`.trim());

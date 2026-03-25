@@ -14,7 +14,7 @@
       "weeks_on_list": 1,
       "series_id": "stormlight-archive",
       "series_book_number": 2,
-      "amazon_url": "https://www.amazon.com/s?k=Words+of+Radiance+Sanderson&tag=YOURTAG-20"
+      "amazon_url": "https://www.amazon.com/s?k=Words+of+Radiance+Sanderson&tag=jacketlist-20"
     },
     {
       "id": "the-way-of-kings",
@@ -29,7 +29,7 @@
       "weeks_on_list": 8,
       "series_id": "stormlight-archive",
       "series_book_number": 1,
-      "amazon_url": "https://www.amazon.com/s?k=The+Way+of+Kings+Sanderson&tag=YOURTAG-20"
+      "amazon_url": "https://www.amazon.com/s?k=The+Way+of+Kings+Sanderson&tag=jacketlist-20"
     },
     {
       "id": "the-eye-of-the-world",
@@ -44,7 +44,7 @@
       "weeks_on_list": 4,
       "series_id": "wheel-of-time",
       "series_book_number": 1,
-      "amazon_url": "https://www.amazon.com/s?k=Eye+of+the+World+Jordan&tag=YOURTAG-20"
+      "amazon_url": "https://www.amazon.com/s?k=Eye+of+the+World+Jordan&tag=jacketlist-20"
     },
     {
       "id": "outlander",
@@ -59,7 +59,7 @@
       "weeks_on_list": 12,
       "series_id": "outlander",
       "series_book_number": 1,
-      "amazon_url": "https://www.amazon.com/s?k=Outlander+Gabaldon&tag=YOURTAG-20"
+      "amazon_url": "https://www.amazon.com/s?k=Outlander+Gabaldon&tag=jacketlist-20"
     },
     {
       "id": "killing-floor",
@@ -74,7 +74,7 @@
       "weeks_on_list": 3,
       "series_id": "jack-reacher",
       "series_book_number": 1,
-      "amazon_url": "https://www.amazon.com/s?k=Killing+Floor+Lee+Child&tag=YOURTAG-20"
+      "amazon_url": "https://www.amazon.com/s?k=Killing+Floor+Lee+Child&tag=jacketlist-20"
     },
     {
       "id": "project-hail-mary",
@@ -87,7 +87,7 @@
       "rank": 6,
       "new_this_week": false,
       "weeks_on_list": 6,
-      "amazon_url": "https://www.amazon.com/s?k=Project+Hail+Mary+Andy+Weir&tag=YOURTAG-20"
+      "amazon_url": "https://www.amazon.com/s?k=Project+Hail+Mary+Andy+Weir&tag=jacketlist-20"
     }
   ]
 }
