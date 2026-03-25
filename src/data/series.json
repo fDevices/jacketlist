@@ -623,6 +623,137 @@
           { "position": 6, "title": "City of Heavenly Fire", "amazon_url": "https://www.amazon.com/s?k=City+of+Heavenly+Fire+Cassandra+Clare&tag=jacketlist-20" }
         ]
       }
+    },
+    {
+      "id": "a-song-of-ice-and-fire",
+      "title": "A Song of Ice and Fire",
+      "author": "George R.R. Martin",
+      "genres": ["Fantasy"],
+      "total_books": 5,
+      "currently_on_bestseller_list": false,
+      "description": "In the brutal struggle for the Iron Throne, noble houses rise and fall, dragons return to the world, and winter threatens to bury everything. The most morally complex, politically intricate fantasy ever written — and the inspiration for Game of Thrones.",
+      "orders": {
+        "chronological": [
+          { "position": 1, "title": "A Game of Thrones", "amazon_url": "https://www.amazon.com/s?k=A+Game+of+Thrones+Martin&tag=jacketlist-20" },
+          { "position": 2, "title": "A Clash of Kings", "amazon_url": "https://www.amazon.com/s?k=A+Clash+of+Kings+Martin&tag=jacketlist-20" },
+          { "position": 3, "title": "A Storm of Swords", "amazon_url": "https://www.amazon.com/s?k=A+Storm+of+Swords+Martin&tag=jacketlist-20" },
+          { "position": 4, "title": "A Feast for Crows", "amazon_url": "https://www.amazon.com/s?k=A+Feast+for+Crows+Martin&tag=jacketlist-20" },
+          { "position": 5, "title": "A Dance with Dragons", "amazon_url": "https://www.amazon.com/s?k=A+Dance+with+Dragons+Martin&tag=jacketlist-20" }
+        ],
+        "authors_recommended": [
+          { "position": 1, "title": "A Game of Thrones", "note": "Must be read in order — do not skip ahead.", "amazon_url": "https://www.amazon.com/s?k=A+Game+of+Thrones+Martin&tag=jacketlist-20" },
+          { "position": 2, "title": "A Clash of Kings", "amazon_url": "https://www.amazon.com/s?k=A+Clash+of+Kings+Martin&tag=jacketlist-20" },
+          { "position": 3, "title": "A Storm of Swords", "amazon_url": "https://www.amazon.com/s?k=A+Storm+of+Swords+Martin&tag=jacketlist-20" },
+          { "position": 4, "title": "A Feast for Crows", "amazon_url": "https://www.amazon.com/s?k=A+Feast+for+Crows+Martin&tag=jacketlist-20" },
+          { "position": 5, "title": "A Dance with Dragons", "amazon_url": "https://www.amazon.com/s?k=A+Dance+with+Dragons+Martin&tag=jacketlist-20" }
+        ]
+      }
+    },
+    {
+      "id": "kingkiller-chronicle",
+      "title": "The Kingkiller Chronicle",
+      "author": "Patrick Rothfuss",
+      "genres": ["Fantasy"],
+      "total_books": 3,
+      "currently_on_bestseller_list": false,
+      "description": "A legendary wizard sits in a country inn and tells the true story of his life — a tale of music, magic, love, and the ruthless pursuit of knowledge. Rothfuss writes fantasy prose unlike anyone else; every sentence earns its place.",
+      "orders": {
+        "chronological": [
+          { "position": 1, "title": "The Name of the Wind", "amazon_url": "https://www.amazon.com/s?k=The+Name+of+the+Wind+Rothfuss&tag=jacketlist-20" },
+          { "position": 2, "title": "The Wise Man's Fear", "amazon_url": "https://www.amazon.com/s?k=The+Wise+Mans+Fear+Rothfuss&tag=jacketlist-20" },
+          { "position": 3, "title": "The Slow Regard of Silent Things", "note": "Novella — a quiet, strange companion story. Read after Book 2.", "amazon_url": "https://www.amazon.com/s?k=The+Slow+Regard+of+Silent+Things+Rothfuss&tag=jacketlist-20" }
+        ],
+        "authors_recommended": [
+          { "position": 1, "title": "The Name of the Wind", "note": "Start here — one of the finest opening chapters in fantasy.", "amazon_url": "https://www.amazon.com/s?k=The+Name+of+the+Wind+Rothfuss&tag=jacketlist-20" },
+          { "position": 2, "title": "The Wise Man's Fear", "amazon_url": "https://www.amazon.com/s?k=The+Wise+Mans+Fear+Rothfuss&tag=jacketlist-20" },
+          { "position": 3, "title": "The Slow Regard of Silent Things", "note": "Optional novella — Rothfuss himself warns it is unlike any other fantasy book.", "amazon_url": "https://www.amazon.com/s?k=The+Slow+Regard+of+Silent+Things+Rothfuss&tag=jacketlist-20" }
+        ]
+      }
+    },
+    {
+      "id": "first-law",
+      "title": "The First Law",
+      "author": "Joe Abercrombie",
+      "genres": ["Fantasy"],
+      "total_books": 9,
+      "currently_on_bestseller_list": false,
+      "description": "In a world at war where heroes are frauds and villains have excellent reasons, a crippled torturer, a cowardly nobleman, and a barbarian northman are thrown together on a doomed quest. Abercrombie is the master of grimdark fantasy — brutal, funny, and impossible to predict.",
+      "orders": {
+        "chronological": [
+          { "position": 1, "title": "The Blade Itself", "amazon_url": "https://www.amazon.com/s?k=The+Blade+Itself+Abercrombie&tag=jacketlist-20" },
+          { "position": 2, "title": "Before They Are Hanged", "amazon_url": "https://www.amazon.com/s?k=Before+They+Are+Hanged+Abercrombie&tag=jacketlist-20" },
+          { "position": 3, "title": "Last Argument of Kings", "amazon_url": "https://www.amazon.com/s?k=Last+Argument+of+Kings+Abercrombie&tag=jacketlist-20" },
+          { "position": 4, "title": "Best Served Cold", "note": "Standalone set in the same world — can be read after the trilogy.", "amazon_url": "https://www.amazon.com/s?k=Best+Served+Cold+Abercrombie&tag=jacketlist-20" },
+          { "position": 5, "title": "The Heroes", "note": "Standalone — a single battle told over three days.", "amazon_url": "https://www.amazon.com/s?k=The+Heroes+Abercrombie&tag=jacketlist-20" },
+          { "position": 6, "title": "Red Country", "note": "Standalone — grimdark western.", "amazon_url": "https://www.amazon.com/s?k=Red+Country+Abercrombie&tag=jacketlist-20" },
+          { "position": 7, "title": "A Little Hatred", "note": "The Age of Madness begins — set 30 years after the original trilogy.", "amazon_url": "https://www.amazon.com/s?k=A+Little+Hatred+Abercrombie&tag=jacketlist-20" },
+          { "position": 8, "title": "The Trouble with Peace", "amazon_url": "https://www.amazon.com/s?k=The+Trouble+with+Peace+Abercrombie&tag=jacketlist-20" },
+          { "position": 9, "title": "The Wisdom of Crowds", "amazon_url": "https://www.amazon.com/s?k=The+Wisdom+of+Crowds+Abercrombie&tag=jacketlist-20" }
+        ],
+        "authors_recommended": [
+          { "position": 1, "title": "The Blade Itself", "note": "Start with the original trilogy — the standalones reward knowing the world.", "amazon_url": "https://www.amazon.com/s?k=The+Blade+Itself+Abercrombie&tag=jacketlist-20" },
+          { "position": 2, "title": "Before They Are Hanged", "amazon_url": "https://www.amazon.com/s?k=Before+They+Are+Hanged+Abercrombie&tag=jacketlist-20" },
+          { "position": 3, "title": "Last Argument of Kings", "amazon_url": "https://www.amazon.com/s?k=Last+Argument+of+Kings+Abercrombie&tag=jacketlist-20" },
+          { "position": 4, "title": "Best Served Cold", "amazon_url": "https://www.amazon.com/s?k=Best+Served+Cold+Abercrombie&tag=jacketlist-20" },
+          { "position": 5, "title": "The Heroes", "amazon_url": "https://www.amazon.com/s?k=The+Heroes+Abercrombie&tag=jacketlist-20" },
+          { "position": 6, "title": "Red Country", "amazon_url": "https://www.amazon.com/s?k=Red+Country+Abercrombie&tag=jacketlist-20" },
+          { "position": 7, "title": "A Little Hatred", "amazon_url": "https://www.amazon.com/s?k=A+Little+Hatred+Abercrombie&tag=jacketlist-20" },
+          { "position": 8, "title": "The Trouble with Peace", "amazon_url": "https://www.amazon.com/s?k=The+Trouble+with+Peace+Abercrombie&tag=jacketlist-20" },
+          { "position": 9, "title": "The Wisdom of Crowds", "amazon_url": "https://www.amazon.com/s?k=The+Wisdom+of+Crowds+Abercrombie&tag=jacketlist-20" }
+        ]
+      }
+    },
+    {
+      "id": "the-witcher",
+      "title": "The Witcher",
+      "author": "Andrzej Sapkowski",
+      "genres": ["Fantasy"],
+      "total_books": 8,
+      "currently_on_bestseller_list": false,
+      "description": "Geralt of Rivia is a Witcher — a mutant monster hunter for hire in a morally ambiguous world where humans are often more monstrous than the beasts he kills. The basis for the hit Netflix series and video game trilogy, but richer and darker in the original.",
+      "orders": {
+        "chronological": [
+          { "position": 1, "title": "The Last Wish", "note": "Short story collection — Geralt's origin stories.", "amazon_url": "https://www.amazon.com/s?k=The+Last+Wish+Sapkowski&tag=jacketlist-20" },
+          { "position": 2, "title": "Sword of Destiny", "note": "Short story collection — introduces Ciri.", "amazon_url": "https://www.amazon.com/s?k=Sword+of+Destiny+Sapkowski&tag=jacketlist-20" },
+          { "position": 3, "title": "Blood of Elves", "amazon_url": "https://www.amazon.com/s?k=Blood+of+Elves+Sapkowski&tag=jacketlist-20" },
+          { "position": 4, "title": "Time of Contempt", "amazon_url": "https://www.amazon.com/s?k=Time+of+Contempt+Sapkowski&tag=jacketlist-20" },
+          { "position": 5, "title": "Baptism of Fire", "amazon_url": "https://www.amazon.com/s?k=Baptism+of+Fire+Sapkowski&tag=jacketlist-20" },
+          { "position": 6, "title": "The Tower of the Swallow", "amazon_url": "https://www.amazon.com/s?k=The+Tower+of+the+Swallow+Sapkowski&tag=jacketlist-20" },
+          { "position": 7, "title": "The Lady of the Lake", "amazon_url": "https://www.amazon.com/s?k=The+Lady+of+the+Lake+Sapkowski&tag=jacketlist-20" },
+          { "position": 8, "title": "Season of Storms", "note": "Standalone prequel — can be read last.", "amazon_url": "https://www.amazon.com/s?k=Season+of+Storms+Sapkowski&tag=jacketlist-20" }
+        ],
+        "authors_recommended": [
+          { "position": 1, "title": "The Last Wish", "note": "Start here — the short stories are essential before the saga.", "amazon_url": "https://www.amazon.com/s?k=The+Last+Wish+Sapkowski&tag=jacketlist-20" },
+          { "position": 2, "title": "Sword of Destiny", "amazon_url": "https://www.amazon.com/s?k=Sword+of+Destiny+Sapkowski&tag=jacketlist-20" },
+          { "position": 3, "title": "Blood of Elves", "amazon_url": "https://www.amazon.com/s?k=Blood+of+Elves+Sapkowski&tag=jacketlist-20" },
+          { "position": 4, "title": "Time of Contempt", "amazon_url": "https://www.amazon.com/s?k=Time+of+Contempt+Sapkowski&tag=jacketlist-20" },
+          { "position": 5, "title": "Baptism of Fire", "amazon_url": "https://www.amazon.com/s?k=Baptism+of+Fire+Sapkowski&tag=jacketlist-20" },
+          { "position": 6, "title": "The Tower of the Swallow", "amazon_url": "https://www.amazon.com/s?k=The+Tower+of+the+Swallow+Sapkowski&tag=jacketlist-20" },
+          { "position": 7, "title": "The Lady of the Lake", "amazon_url": "https://www.amazon.com/s?k=The+Lady+of+the+Lake+Sapkowski&tag=jacketlist-20" },
+          { "position": 8, "title": "Season of Storms", "note": "Read last — a standalone prequel that rewards knowing the full saga.", "amazon_url": "https://www.amazon.com/s?k=Season+of+Storms+Sapkowski&tag=jacketlist-20" }
+        ]
+      }
+    },
+    {
+      "id": "his-dark-materials",
+      "title": "His Dark Materials",
+      "author": "Philip Pullman",
+      "genres": ["Fantasy"],
+      "total_books": 3,
+      "currently_on_bestseller_list": false,
+      "description": "A girl and a boy travel through parallel worlds, guided by a mysterious compass that can answer any question — and hunted by forces that will do anything to stop the truth from coming out. Pullman's trilogy is breathtaking in its ambition and tenderness.",
+      "orders": {
+        "chronological": [
+          { "position": 1, "title": "Northern Lights", "note": "Published as The Golden Compass in North America.", "amazon_url": "https://www.amazon.com/s?k=Northern+Lights+Pullman&tag=jacketlist-20" },
+          { "position": 2, "title": "The Subtle Knife", "amazon_url": "https://www.amazon.com/s?k=The+Subtle+Knife+Pullman&tag=jacketlist-20" },
+          { "position": 3, "title": "The Amber Spyglass", "amazon_url": "https://www.amazon.com/s?k=The+Amber+Spyglass+Pullman&tag=jacketlist-20" }
+        ],
+        "authors_recommended": [
+          { "position": 1, "title": "Northern Lights", "note": "Start here — must be read in order.", "amazon_url": "https://www.amazon.com/s?k=Northern+Lights+Pullman&tag=jacketlist-20" },
+          { "position": 2, "title": "The Subtle Knife", "amazon_url": "https://www.amazon.com/s?k=The+Subtle+Knife+Pullman&tag=jacketlist-20" },
+          { "position": 3, "title": "The Amber Spyglass", "amazon_url": "https://www.amazon.com/s?k=The+Amber+Spyglass+Pullman&tag=jacketlist-20" }
+        ]
+      }
     }
   ]
 }
