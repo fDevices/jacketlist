@@ -30,7 +30,7 @@ Output the top **20 books**, sorted by score descending, then by overall promine
 1. `id` — URL-safe slug (e.g. `"the-great-alone"`)
 2. `title` — exact title
 3. `author` — full name
-4. `cover_url` — Open Library URL using ISBN: `https://covers.openlibrary.org/b/isbn/{ISBN}-M.jpg` — use the book's ISBN-13 if known, otherwise leave as empty string `""`
+4. `cover_url` — Look up the correct Open Library cover ID by searching: `https://openlibrary.org/search.json?q={title}+{author}&limit=1&fields=cover_i` — then use the `cover_i` value to build the URL: `https://covers.openlibrary.org/b/id/{cover_i}-M.jpg`. If no `cover_i` is returned, set `cover_url` to `""`. Do **not** guess ISBNs — wrong ISBNs return the wrong cover image.
 5. `description` — 1–2 sentences. Engaging, spoiler-free.
 6. `sources` — array of source strings: `"nyt"`, `"guardian"`, `"goodreads"`
 7. `score` — integer 1–3 (count of sources)
