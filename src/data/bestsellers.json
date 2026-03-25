@@ -88,6 +88,66 @@
       "new_this_week": false,
       "weeks_on_list": 6,
       "amazon_url": "https://www.amazon.com/s?k=Project+Hail+Mary+Andy+Weir&tag=jacketlist-20"
+    },
+    {
+      "id": "a-game-of-thrones",
+      "title": "A Game of Thrones",
+      "author": "George R. R. Martin",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/9780553103540-M.jpg",
+      "description": "Noble families vie for control of the Iron Throne in a world where seasons last years and ancient enemies stir in the frozen north.",
+      "sources": ["nyt", "goodreads"],
+      "score": 2,
+      "rank": 7,
+      "new_this_week": true,
+      "weeks_on_list": 1,
+      "series_id": "a-song-of-ice-and-fire",
+      "series_book_number": 1,
+      "amazon_url": "https://www.amazon.com/s?k=A+Game+of+Thrones+Martin&tag=jacketlist-20"
+    },
+    {
+      "id": "the-name-of-the-wind",
+      "title": "The Name of the Wind",
+      "author": "Patrick Rothfuss",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/9780756404079-M.jpg",
+      "description": "A legendary wizard recounts his extraordinary life, from humble beginnings to the arcane university where he honed his gifts.",
+      "sources": ["guardian"],
+      "score": 1,
+      "rank": 8,
+      "new_this_week": false,
+      "weeks_on_list": 2,
+      "series_id": "kingkiller-chronicle",
+      "series_book_number": 1,
+      "amazon_url": "https://www.amazon.com/s?k=The+Name+of+the+Wind+Rothfuss&tag=jacketlist-20"
+    },
+    {
+      "id": "the-blade-itself",
+      "title": "The Blade Itself",
+      "author": "Joe Abercrombie",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/9780575079793-M.jpg",
+      "description": "A reluctant hero, a torturer, and a barbarian warrior are drawn into a grand quest with no clean endings in this grimdark opener.",
+      "sources": ["guardian"],
+      "score": 1,
+      "rank": 9,
+      "new_this_week": false,
+      "weeks_on_list": 5,
+      "series_id": "the-first-law",
+      "series_book_number": 1,
+      "amazon_url": "https://www.amazon.com/s?k=The+Blade+Itself+Abercrombie&tag=jacketlist-20"
+    },
+    {
+      "id": "the-final-empire",
+      "title": "The Final Empire",
+      "author": "Brandon Sanderson",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/9780765311788-M.jpg",
+      "description": "In a world ruled by an immortal tyrant where ash falls from the sky, a young street thief joins a crew of rebels with magical powers.",
+      "sources": ["goodreads"],
+      "score": 1,
+      "rank": 10,
+      "new_this_week": false,
+      "weeks_on_list": 3,
+      "series_id": "mistborn",
+      "series_book_number": 1,
+      "amazon_url": "https://www.amazon.com/s?k=The+Final+Empire+Sanderson&tag=jacketlist-20"
     }
   ]
 }
