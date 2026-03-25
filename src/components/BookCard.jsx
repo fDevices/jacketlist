@@ -1,4 +1,6 @@
+'use client';
 // src/components/BookCard.jsx
+import { useState } from 'react';
 import Link from 'next/link';
 import SourceBadge from './SourceBadge';
 import { scoreBadge } from '@/utils/scoring';
@@ -6,16 +8,18 @@ import { scoreBadge } from '@/utils/scoring';
 export default function BookCard({ book, seriesMap = {} }) {
   const badge = scoreBadge(book.score);
   const hasValidSeries = book.series_id && seriesMap[book.series_id];
+  const [coverFailed, setCoverFailed] = useState(false);
 
   return (
     <article className="bg-surface-container-lowest rounded-xl p-0 flex flex-col hover:[box-shadow:0_12px_40px_rgba(27,28,26,0.05)] transition-shadow duration-300">
       {/* Cover */}
       <div className="w-full aspect-[2/3] rounded-t-xl overflow-hidden bg-surface-container-low flex items-center justify-center">
-        {book.cover_url ? (
+        {book.cover_url && !coverFailed ? (
           <img
             src={book.cover_url}
             alt={book.title}
             className="w-full h-full object-cover"
+            onError={() => setCoverFailed(true)}
           />
         ) : (
           <span className="text-center text-on-surface-variant text-sm font-body px-4">
