@@ -2503,6 +2503,491 @@
           }
         ]
       }
+    },
+    {
+      "id": "the-housemaid",
+      "title": "The Housemaid",
+      "author": "Freida McFadden",
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "total_books": 3,
+      "currently_on_bestseller_list": true,
+      "description": "A psychological thriller trilogy built on secrets, power, and shocking reversals. Each book follows Millie, a woman hiding a dark past who takes a job as a housemaid — only to discover the family she works for may be more dangerous than she is. McFadden's trademark twist endings have made this one of the most talked-about thriller series of the decade.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "The Housemaid",
+            "note": "Start here — the twist ending sets up everything that follows.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Housemaid+McFadden&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Housemaid's Secret",
+            "amazon_url": "https://www.amazon.com/s?k=The+Housemaid%27s+Secret+McFadden&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Housemaid Is Watching",
+            "amazon_url": "https://www.amazon.com/s?k=The+Housemaid+Is+Watching+McFadden&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "The Housemaid",
+            "note": "Start here — the twist ending sets up everything that follows.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Housemaid+McFadden&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Housemaid's Secret",
+            "amazon_url": "https://www.amazon.com/s?k=The+Housemaid%27s+Secret+McFadden&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Housemaid Is Watching",
+            "amazon_url": "https://www.amazon.com/s?k=The+Housemaid+Is+Watching+McFadden&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "knockemout",
+      "title": "Knockemout",
+      "author": "Lucy Score",
+      "genres": [
+        "Romance"
+      ],
+      "total_books": 3,
+      "currently_on_bestseller_list": true,
+      "description": "Set in the chaotic, charming small town of Knockemout, Virginia, this series follows three interconnected love stories that are funny, steamy, and surprisingly emotional. Each book centers on a different couple, but the overlapping cast of friends and rivals means reading in order pays off — you'll see relationships develop across all three books in deeply satisfying ways.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Things We Never Got Over",
+            "note": "Knox and Naomi's story — start here.",
+            "amazon_url": "https://www.amazon.com/s?k=Things+We+Never+Got+Over+Score&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Things We Hide from the Light",
+            "note": "Nash and Lina's story.",
+            "amazon_url": "https://www.amazon.com/s?k=Things+We+Hide+from+the+Light+Score&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Things We Left Behind",
+            "note": "Lucian and Sloane's story — the most anticipated pairing in the series.",
+            "amazon_url": "https://www.amazon.com/s?k=Things+We+Left+Behind+Score&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Things We Never Got Over",
+            "note": "Knox and Naomi's story — start here.",
+            "amazon_url": "https://www.amazon.com/s?k=Things+We+Never+Got+Over+Score&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Things We Hide from the Light",
+            "note": "Nash and Lina's story.",
+            "amazon_url": "https://www.amazon.com/s?k=Things+We+Hide+from+the+Light+Score&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Things We Left Behind",
+            "note": "Lucian and Sloane's story — the most anticipated pairing in the series.",
+            "amazon_url": "https://www.amazon.com/s?k=Things+We+Left+Behind+Score&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "jake-brigance",
+      "title": "Jake Brigance",
+      "author": "John Grisham",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Literary Fiction"
+      ],
+      "total_books": 3,
+      "currently_on_bestseller_list": true,
+      "description": "Set in the fictional Ford County, Mississippi, this trilogy follows small-town defense attorney Jake Brigance through some of the most explosive, morally charged trials in legal fiction. Grisham's most personal series — rooted in racial justice, Southern law, and the cost of doing the right thing — rewards readers who follow Jake's career from his fiery debut through his most nuanced cases.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "A Time to Kill",
+            "note": "Grisham's first novel and the best starting point — introduces Jake and Ford County.",
+            "amazon_url": "https://www.amazon.com/s?k=A+Time+to+Kill+Grisham&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Sycamore Row",
+            "amazon_url": "https://www.amazon.com/s?k=Sycamore+Row+Grisham&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "A Time for Mercy",
+            "amazon_url": "https://www.amazon.com/s?k=A+Time+for+Mercy+Grisham&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "A Time to Kill",
+            "note": "Grisham's first novel and the best starting point — introduces Jake and Ford County.",
+            "amazon_url": "https://www.amazon.com/s?k=A+Time+to+Kill+Grisham&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Sycamore Row",
+            "amazon_url": "https://www.amazon.com/s?k=Sycamore+Row+Grisham&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "A Time for Mercy",
+            "amazon_url": "https://www.amazon.com/s?k=A+Time+for+Mercy+Grisham&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "joe-pickett",
+      "title": "Joe Pickett",
+      "author": "C.J. Box",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "total_books": 26,
+      "currently_on_bestseller_list": true,
+      "description": "Wyoming game warden Joe Pickett enforces wildlife laws in the rugged wilderness outside Saddlestring — and keeps stumbling into murder, corruption, and federal conspiracies that threaten his family. C.J. Box's long-running series is the gold standard of the American West thriller, with a protagonist who ages and evolves realistically over two-plus decades of publication.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Open Season",
+            "note": "Start here — introduces Joe, his family, and the Wyoming setting.",
+            "amazon_url": "https://www.amazon.com/s?k=Open+Season+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Savage Run",
+            "amazon_url": "https://www.amazon.com/s?k=Savage+Run+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Winterkill",
+            "amazon_url": "https://www.amazon.com/s?k=Winterkill+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Trophy Hunt",
+            "amazon_url": "https://www.amazon.com/s?k=Trophy+Hunt+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Out of Range",
+            "amazon_url": "https://www.amazon.com/s?k=Out+of+Range+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "In Plain Sight",
+            "amazon_url": "https://www.amazon.com/s?k=In+Plain+Sight+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Free Fire",
+            "amazon_url": "https://www.amazon.com/s?k=Free+Fire+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Blood Trail",
+            "amazon_url": "https://www.amazon.com/s?k=Blood+Trail+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Below Zero",
+            "amazon_url": "https://www.amazon.com/s?k=Below+Zero+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Nowhere to Run",
+            "amazon_url": "https://www.amazon.com/s?k=Nowhere+to+Run+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "Cold Wind",
+            "amazon_url": "https://www.amazon.com/s?k=Cold+Wind+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "Force of Nature",
+            "amazon_url": "https://www.amazon.com/s?k=Force+of+Nature+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "Breaking Point",
+            "amazon_url": "https://www.amazon.com/s?k=Breaking+Point+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 14,
+            "title": "Stone Cold",
+            "amazon_url": "https://www.amazon.com/s?k=Stone+Cold+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 15,
+            "title": "Endangered",
+            "amazon_url": "https://www.amazon.com/s?k=Endangered+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 16,
+            "title": "Off the Grid",
+            "amazon_url": "https://www.amazon.com/s?k=Off+the+Grid+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 17,
+            "title": "Vicious Circle",
+            "amazon_url": "https://www.amazon.com/s?k=Vicious+Circle+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 18,
+            "title": "The Disappeared",
+            "amazon_url": "https://www.amazon.com/s?k=The+Disappeared+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 19,
+            "title": "Wolf Pack",
+            "amazon_url": "https://www.amazon.com/s?k=Wolf+Pack+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 20,
+            "title": "Long Range",
+            "amazon_url": "https://www.amazon.com/s?k=Long+Range+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 21,
+            "title": "Dark Sky",
+            "amazon_url": "https://www.amazon.com/s?k=Dark+Sky+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 22,
+            "title": "Shadows Reel",
+            "amazon_url": "https://www.amazon.com/s?k=Shadows+Reel+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 23,
+            "title": "Storm Watch",
+            "amazon_url": "https://www.amazon.com/s?k=Storm+Watch+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 24,
+            "title": "Three-Inch Teeth",
+            "amazon_url": "https://www.amazon.com/s?k=Three-Inch+Teeth+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 25,
+            "title": "Battle Mountain",
+            "amazon_url": "https://www.amazon.com/s?k=Battle+Mountain+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 26,
+            "title": "The Crossroads",
+            "amazon_url": "https://www.amazon.com/s?k=The+Crossroads+Box&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Open Season",
+            "note": "Start here — introduces Joe, his family, and the Wyoming setting.",
+            "amazon_url": "https://www.amazon.com/s?k=Open+Season+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Savage Run",
+            "amazon_url": "https://www.amazon.com/s?k=Savage+Run+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Winterkill",
+            "amazon_url": "https://www.amazon.com/s?k=Winterkill+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Trophy Hunt",
+            "amazon_url": "https://www.amazon.com/s?k=Trophy+Hunt+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Out of Range",
+            "amazon_url": "https://www.amazon.com/s?k=Out+of+Range+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "In Plain Sight",
+            "amazon_url": "https://www.amazon.com/s?k=In+Plain+Sight+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Free Fire",
+            "amazon_url": "https://www.amazon.com/s?k=Free+Fire+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Blood Trail",
+            "amazon_url": "https://www.amazon.com/s?k=Blood+Trail+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Below Zero",
+            "amazon_url": "https://www.amazon.com/s?k=Below+Zero+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Nowhere to Run",
+            "amazon_url": "https://www.amazon.com/s?k=Nowhere+to+Run+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "Cold Wind",
+            "amazon_url": "https://www.amazon.com/s?k=Cold+Wind+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "Force of Nature",
+            "amazon_url": "https://www.amazon.com/s?k=Force+of+Nature+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "Breaking Point",
+            "amazon_url": "https://www.amazon.com/s?k=Breaking+Point+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 14,
+            "title": "Stone Cold",
+            "amazon_url": "https://www.amazon.com/s?k=Stone+Cold+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 15,
+            "title": "Endangered",
+            "amazon_url": "https://www.amazon.com/s?k=Endangered+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 16,
+            "title": "Off the Grid",
+            "amazon_url": "https://www.amazon.com/s?k=Off+the+Grid+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 17,
+            "title": "Vicious Circle",
+            "amazon_url": "https://www.amazon.com/s?k=Vicious+Circle+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 18,
+            "title": "The Disappeared",
+            "amazon_url": "https://www.amazon.com/s?k=The+Disappeared+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 19,
+            "title": "Wolf Pack",
+            "amazon_url": "https://www.amazon.com/s?k=Wolf+Pack+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 20,
+            "title": "Long Range",
+            "amazon_url": "https://www.amazon.com/s?k=Long+Range+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 21,
+            "title": "Dark Sky",
+            "amazon_url": "https://www.amazon.com/s?k=Dark+Sky+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 22,
+            "title": "Shadows Reel",
+            "amazon_url": "https://www.amazon.com/s?k=Shadows+Reel+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 23,
+            "title": "Storm Watch",
+            "amazon_url": "https://www.amazon.com/s?k=Storm+Watch+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 24,
+            "title": "Three-Inch Teeth",
+            "amazon_url": "https://www.amazon.com/s?k=Three-Inch+Teeth+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 25,
+            "title": "Battle Mountain",
+            "amazon_url": "https://www.amazon.com/s?k=Battle+Mountain+Box&tag=jacketlist-20"
+          },
+          {
+            "position": 26,
+            "title": "The Crossroads",
+            "amazon_url": "https://www.amazon.com/s?k=The+Crossroads+Box&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "part-of-your-world",
+      "title": "Part of Your World",
+      "author": "Abby Jimenez",
+      "genres": [
+        "Romance"
+      ],
+      "total_books": 3,
+      "currently_on_bestseller_list": true,
+      "description": "A witty, warm contemporary romance series set among the medical community and small-town residents of Wakan, Minnesota. Each book pairs characters from overlapping social circles, building a rich ensemble that grows across all three novels — reading in order means getting to see fan-favorite characters fall in love before they step into the spotlight in their own story.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Part of Your World",
+            "note": "Alexis and Daniel's story — the age-gap romance that started the series.",
+            "amazon_url": "https://www.amazon.com/s?k=Part+of+Your+World+Jimenez&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Yours Truly",
+            "note": "Bri and Brody's story — best read after Book 1.",
+            "amazon_url": "https://www.amazon.com/s?k=Yours+Truly+Jimenez&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Just for the Summer",
+            "amazon_url": "https://www.amazon.com/s?k=Just+for+the+Summer+Jimenez&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Part of Your World",
+            "note": "Alexis and Daniel's story — the age-gap romance that started the series.",
+            "amazon_url": "https://www.amazon.com/s?k=Part+of+Your+World+Jimenez&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Yours Truly",
+            "note": "Bri and Brody's story — best read after Book 1.",
+            "amazon_url": "https://www.amazon.com/s?k=Yours+Truly+Jimenez&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Just for the Summer",
+            "amazon_url": "https://www.amazon.com/s?k=Just+for+the+Summer+Jimenez&tag=jacketlist-20"
+          }
+        ]
+      }
     }
   ]
 }

@@ -29,7 +29,7 @@ export default function SeriesContent({ allSeries }) {
   function toggleGenre(genre) {
     setActiveGenres((prev) => {
       const next = new Set(prev);
-      next.has(genre) ? next.delete(genre) : next.add(genre);
+      if (next.has(genre)) { next.delete(genre); } else { next.add(genre); }
       return next;
     });
   }

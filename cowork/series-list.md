@@ -16,6 +16,7 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 
 | Author | Series | ID |
 |--------|--------|----|
+| Box, C.J. | Joe Pickett | `joe-pickett` |
 | Bradley, Alan | Flavia de Luce | `flavia-de-luce` |
 | Brown, Pierce | Red Rising | `red-rising` |
 
@@ -41,6 +42,7 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 | Author | Series | ID |
 |--------|--------|----|
 | Gabaldon, Diana | Outlander | `outlander` |
+| Grisham, John | Jake Brigance | `jake-brigance` |
 
 ## H
 
@@ -52,6 +54,7 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 
 | Author | Series | ID |
 |--------|--------|----|
+| Jimenez, Abby | Part of Your World | `part-of-your-world` |
 | Jordan, Robert (cont. Brandon Sanderson) | The Wheel of Time | `wheel-of-time` |
 
 ## L
@@ -65,6 +68,7 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 | Author | Series | ID |
 |--------|--------|----|
 | Maas, Sarah J. | A Court of Thorns and Roses | `a-court-of-thorns-and-roses` |
+| McFadden, Freida | The Housemaid | `the-housemaid` |
 | Maas, Sarah J. | Crescent City | `crescent-city` |
 | Maas, Sarah J. | Throne of Glass | `throne-of-glass` |
 | Martin, George R.R. | A Song of Ice and Fire | `a-song-of-ice-and-fire` |
@@ -104,6 +108,7 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 | Author | Series | ID |
 |--------|--------|----|
 | Sanderson, Brandon | The Stormlight Archive | `stormlight-archive` |
+| Score, Lucy | Knockemout | `knockemout` |
 | Sanderson, Brandon | Mistborn | `mistborn` |
 | Sapkowski, Andrzej | The Witcher | `the-witcher` |
 | Scalzi, John | Old Man's War | `old-mans-war` |
@@ -116,4 +121,4 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 
 ---
 
-*34 series total. Update this file whenever a new series is merged into `series.json`.*
+*39 series total. Update this file whenever a new series is merged into `series.json`.*
