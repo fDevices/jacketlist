@@ -8,7 +8,7 @@
       "image_url": "/images/ads/bookbrowse.jpg",
       "cta_text": "Explore now",
       "url": "https://www.bookbrowse.com",
-      "active": true
+      "active": false
     },
     {
       "id": "ad-002",
