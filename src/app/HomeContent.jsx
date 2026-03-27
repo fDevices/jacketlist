@@ -1,10 +1,21 @@
 'use client';
 
 import { useState } from 'react';
+import Link from 'next/link';
 import SearchBar from '@/components/SearchBar';
 import BookCard from '@/components/BookCard';
 import SeriesCard from '@/components/SeriesCard';
 import { scoreBadge } from '@/utils/scoring';
+
+const SOURCE_PILLS = [
+  { label: 'NYT', href: '/lists/nyt' },
+  { label: 'Guardian', href: '/lists/guardian' },
+  { label: 'Goodreads', href: '/lists/goodreads' },
+  { label: 'Amazon', href: '/lists/amazon' },
+  { label: 'USA Today', href: '/lists/usatoday' },
+  { label: 'Publishers Weekly', href: '/lists/publishersweekly' },
+  { label: 'Audible', href: '/lists/audible' },
+];
 
 function matchesQuery(query, ...fields) {
   const q = query.toLowerCase();
@@ -47,13 +58,26 @@ export default function HomeContent({ books, alsoTrending = [], series, seriesMa
       {/* Weekly Bestsellers */}
       <section className="py-16 px-8">
         <div className="max-w-7xl mx-auto">
-          <div className="flex items-baseline gap-4 mb-8">
+          <div className="flex items-baseline gap-4 mb-6">
             <h2 className="font-headline text-[1.75rem] font-medium text-on-surface">
               Weekly Bestsellers
             </h2>
             <span className="text-sm text-on-surface-variant font-label">
               Updated {updatedDate}
             </span>
+          </div>
+
+          {/* Source pills */}
+          <div className="flex flex-wrap gap-2 mb-8">
+            {SOURCE_PILLS.map(({ label, href }) => (
+              <Link
+                key={href}
+                href={href}
+                className="px-3 py-1.5 rounded-full text-sm font-label bg-surface-container-high text-on-surface-variant hover:bg-surface-container transition-colors duration-300"
+              >
+                {label}
+              </Link>
+            ))}
           </div>
           {filteredBooks.length === 0 ? (
             <p className="text-on-surface-variant">No books match your search.</p>

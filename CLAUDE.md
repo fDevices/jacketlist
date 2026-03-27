@@ -34,11 +34,14 @@ jacketlist/
 │   ├── app/                      # Next.js App Router
 │   │   ├── layout.jsx            # Root layout — renders Nav + Footer on every page
 │   │   ├── page.jsx              # HomePage (/)
+│   │   ├── HomeContent.jsx       # Client component — search + interactive state for homepage
 │   │   ├── lists/
 │   │   │   ├── page.jsx          # Lists hub (/lists) — links to all 7 source pages
 │   │   │   └── [source]/
 │   │   │       └── page.jsx      # Per-source page (/lists/nyt, /lists/amazon, etc.)
 │   │   ├── series/
+│   │   │   ├── page.jsx          # Series index (/series) — server component
+│   │   │   ├── SeriesContent.jsx # Client component — search + sort for series index
 │   │   │   └── [id]/
 │   │   │       └── page.jsx      # SeriesPage (/series/[id])
 │   │   ├── methodology/
@@ -222,10 +225,10 @@ Merged top-25 list produced by CoWork from the 7 source files:
 - Non-sticky — scrolls with the page
 
 ### SearchBar
-- Rendered in the Hero section of HomePage only
-- Client-side filter: searches bestsellers and series by title + author in real time
-- Updates React state in `page.jsx`; HomePage passes filtered arrays as props to each section
-- Empty query shows all results; no dropdown, no routing
+- Reusable client-side filter component — used in Hero (HomePage) and Series index page
+- Filters by title + author in real time; empty query shows all results; no dropdown, no routing
+- On HomePage: state lives in `HomeContent.jsx`, filtered arrays passed as props to each section
+- On Series index: state lives in `SeriesContent.jsx`
 
 ### BookCard
 - Used for bestsellers, series pages, and per-source list pages
@@ -329,8 +332,14 @@ See `DESIGN.md` for the full design system. Key rules for implementation:
 
 ### HomePage (`/`)
 1. **Hero** — Site name "JacketList", tagline ("The list worth reading. In the right order."), SearchBar
-2. **Weekly Bestsellers** — Section heading with last-updated date, Top 10 BookCards (score desc → tiebreaker desc), then "Also trending this week" compact ranked list (books 11–25: rank, title, author, badge emoji, Buy → link). Compact list hidden when search is active.
+2. **Weekly Bestsellers** — Section heading with last-updated date, source pills row (NYT, Guardian, Goodreads, Amazon, USA Today, Publishers Weekly, Audible — each links to its per-source page), Top 10 BookCards (score desc → tiebreaker desc), then "Also trending this week" compact ranked list (books 11–25: rank, title, author, badge emoji, Buy → link). Compact list hidden when search is active.
 3. **Popular Series** — Section heading, filterable by genre, SeriesCards grid
+4. **FooterAdZone + Footer**
+
+### Series Index (`/series`)
+1. **Heading** — "Book Series Guide" + count of series
+2. **SearchBar** — filters by title or author in real time
+3. **SeriesCards grid** — sorted alphabetically by title; shows "No series match your search." when empty
 4. **FooterAdZone + Footer**
 
 ### Lists Hub (`/lists`)
