@@ -13,7 +13,12 @@ export default function BookCard({ book, seriesMap = {}, showScore = true }) {
   return (
     <article className="bg-surface-container-lowest rounded-xl p-0 flex flex-col hover:[box-shadow:0_12px_40px_rgba(27,28,26,0.05)] transition-shadow duration-300">
       {/* Cover */}
-      <div className="w-full aspect-[2/3] rounded-t-xl overflow-hidden bg-surface-container-low flex items-center justify-center">
+      <a
+        href={book.amazon_url}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="w-full aspect-[2/3] rounded-t-xl overflow-hidden bg-surface-container-low flex items-center justify-center"
+      >
         {book.cover_url && !coverFailed ? (
           <img
             src={book.cover_url}
@@ -26,7 +31,7 @@ export default function BookCard({ book, seriesMap = {}, showScore = true }) {
             {book.title}
           </span>
         )}
-      </div>
+      </a>
 
       {/* Metadata */}
       <div className="p-4 flex flex-col gap-3 flex-1">
