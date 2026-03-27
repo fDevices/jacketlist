@@ -20,6 +20,7 @@ The site is English-language only.
 - **Affiliate links:** Amazon Associates (`?tag=YOURTAG-20` — replace with real tag before deploying)
 - **Ads:** Footer zone only — Google AdSense, BookBub, direct sponsors
 - **Automation:** Claude CoWork handles weekly data refresh (see `/cowork/` folder)
+- **Analytics:** Vercel Analytics (`@vercel/analytics`) — `<Analytics />` rendered in root layout; enable in Vercel dashboard (Project → Analytics tab)
 - **Design system:** See `DESIGN.md` for full token set, typography, and styling rules
 
 ---
