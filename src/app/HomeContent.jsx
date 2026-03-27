@@ -35,10 +35,17 @@ export default function HomeContent({ books, alsoTrending = [], series, seriesMa
 
   const allGenres = [...new Set(series.flatMap((s) => s.genres))].sort();
   const [activeGenre, setActiveGenre] = useState(null);
+  const [seriesQuery, setSeriesQuery] = useState('');
 
-  const displayedSeries = activeGenre
-    ? filteredSeries.filter((s) => s.genres.includes(activeGenre))
-    : filteredSeries;
+  const displayedSeries = filteredSeries
+    .filter((s) => {
+      if (activeGenre && !s.genres.includes(activeGenre)) return false;
+      if (seriesQuery) {
+        const q = seriesQuery.toLowerCase();
+        if (!s.title.toLowerCase().includes(q) && !s.author.toLowerCase().includes(q)) return false;
+      }
+      return true;
+    });
 
   return (
     <>
@@ -130,6 +137,10 @@ export default function HomeContent({ books, alsoTrending = [], series, seriesMa
           <h2 className="font-headline text-[1.75rem] font-medium text-on-surface mb-6">
             Popular Series
           </h2>
+
+          <div className="mb-6 max-w-xl">
+            <SearchBar value={seriesQuery} onChange={setSeriesQuery} />
+          </div>
 
           {/* Genre filter chips */}
           <div className="flex flex-wrap gap-2 mb-8">
