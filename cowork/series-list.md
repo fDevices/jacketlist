@@ -21,6 +21,7 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 | Bradley, Alan | Flavia de Luce | `flavia-de-luce` |
 | Brown, Pierce | Red Rising | `red-rising` |
 | Buehlman, Christopher | The Blacktongue Thief | `blacktongue` |
+| Butcher, Jim | The Dresden Files | `dresden-files` |
 
 ## C
 
@@ -43,6 +44,7 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 
 | Author | Series | ID |
 |--------|--------|----|
+| Eddings, David | The Belgariad | `belgariad` |
 | Erikson, Steven | The Malazan Book of the Fallen | `malazan` |
 
 ## F
@@ -83,6 +85,7 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 
 | Author | Series | ID |
 |--------|--------|----|
+| Le Guin, Ursula K. | Earthsea | `earthsea` |
 | Lewis, C.S. | The Chronicles of Narnia | `chronicles-of-narnia` |
 | Ludlum, Robert (cont. Eric Van Lustbader) | Jason Bourne | `jason-bourne` |
 | Lynch, Scott | The Gentlemen Bastards | `gentlemen-bastards` |
@@ -116,12 +119,14 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 | Paolini, Christopher | The Inheritance Cycle | `the-inheritance-cycle` |
 | Patterson, James | Alex Cross | `alex-cross` |
 | Penny, Louise | Chief Inspector Gamache | `inspector-gamache` |
+| Pratchett, Terry | Discworld | `discworld` |
 | Pullman, Philip | His Dark Materials | `his-dark-materials` |
 
 ## R
 
 | Author | Series | ID |
 |--------|--------|----|
+| Rice, Anne | The Vampire Chronicles | `vampire-chronicles` |
 | Riordan, Rick | Percy Jackson and the Olympians | `percy-jackson` |
 | Roth, Veronica | Divergent | `divergent` |
 | Rothfuss, Patrick | The Kingkiller Chronicle | `kingkiller-chronicle` |
@@ -146,4 +151,4 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 
 ---
 
-*49 series total. Update this file whenever a new series is merged into `series.json`.*
+*54 series total. Update this file whenever a new series is merged into `series.json`.*

@@ -3812,6 +3812,923 @@
           }
         ]
       }
+    },
+    {
+      "id": "discworld",
+      "title": "Discworld",
+      "author": "Terry Pratchett",
+      "genres": ["Fantasy"],
+      "total_books": 41,
+      "currently_on_bestseller_list": false,
+      "description": "A flat world balanced on the backs of four elephants standing on a giant turtle — and somehow the funniest, most humane, and most quietly profound fantasy series ever written. Pratchett used absurdist satire to examine death, belief, gender, power, and the nature of stories themselves across 41 novels spanning three decades.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "The Colour of Magic",
+            "note": "The first Discworld novel, though many readers prefer starting with Guards! Guards! (Book 8), Mort (Book 4), or Small Gods (Book 13)",
+            "amazon_url": "https://www.amazon.com/s?k=The+Colour+of+Magic+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Light Fantastic",
+            "amazon_url": "https://www.amazon.com/s?k=The+Light+Fantastic+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Equal Rites",
+            "amazon_url": "https://www.amazon.com/s?k=Equal+Rites+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Mort",
+            "amazon_url": "https://www.amazon.com/s?k=Mort+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Sourcery",
+            "amazon_url": "https://www.amazon.com/s?k=Sourcery+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Wyrd Sisters",
+            "amazon_url": "https://www.amazon.com/s?k=Wyrd+Sisters+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Pyramids",
+            "amazon_url": "https://www.amazon.com/s?k=Pyramids+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Guards! Guards!",
+            "note": "Start of the Watch subseries and the most popular entry point for new readers",
+            "amazon_url": "https://www.amazon.com/s?k=Guards+Guards+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Eric",
+            "note": "Rincewind novella — can be skipped without missing anything essential",
+            "amazon_url": "https://www.amazon.com/s?k=Eric+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Moving Pictures",
+            "amazon_url": "https://www.amazon.com/s?k=Moving+Pictures+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "Reaper Man",
+            "amazon_url": "https://www.amazon.com/s?k=Reaper+Man+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "Witches Abroad",
+            "amazon_url": "https://www.amazon.com/s?k=Witches+Abroad+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "Small Gods",
+            "note": "Standalone — widely considered the single best Discworld novel and an ideal entry point",
+            "amazon_url": "https://www.amazon.com/s?k=Small+Gods+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 14,
+            "title": "Lords and Ladies",
+            "amazon_url": "https://www.amazon.com/s?k=Lords+and+Ladies+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 15,
+            "title": "Men at Arms",
+            "amazon_url": "https://www.amazon.com/s?k=Men+at+Arms+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 16,
+            "title": "Soul Music",
+            "amazon_url": "https://www.amazon.com/s?k=Soul+Music+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 17,
+            "title": "Interesting Times",
+            "amazon_url": "https://www.amazon.com/s?k=Interesting+Times+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 18,
+            "title": "Maskerade",
+            "amazon_url": "https://www.amazon.com/s?k=Maskerade+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 19,
+            "title": "Feet of Clay",
+            "amazon_url": "https://www.amazon.com/s?k=Feet+of+Clay+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 20,
+            "title": "Hogfather",
+            "amazon_url": "https://www.amazon.com/s?k=Hogfather+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 21,
+            "title": "Jingo",
+            "amazon_url": "https://www.amazon.com/s?k=Jingo+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 22,
+            "title": "The Last Continent",
+            "amazon_url": "https://www.amazon.com/s?k=The+Last+Continent+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 23,
+            "title": "Carpe Jugulum",
+            "amazon_url": "https://www.amazon.com/s?k=Carpe+Jugulum+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 24,
+            "title": "The Fifth Elephant",
+            "amazon_url": "https://www.amazon.com/s?k=The+Fifth+Elephant+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 25,
+            "title": "The Truth",
+            "amazon_url": "https://www.amazon.com/s?k=The+Truth+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 26,
+            "title": "Thief of Time",
+            "amazon_url": "https://www.amazon.com/s?k=Thief+of+Time+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 27,
+            "title": "The Last Hero",
+            "note": "Illustrated novella — can be skipped without missing plot",
+            "amazon_url": "https://www.amazon.com/s?k=The+Last+Hero+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 28,
+            "title": "The Amazing Maurice and His Educated Rodents",
+            "amazon_url": "https://www.amazon.com/s?k=The+Amazing+Maurice+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 29,
+            "title": "Night Watch",
+            "amazon_url": "https://www.amazon.com/s?k=Night+Watch+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 30,
+            "title": "The Wee Free Men",
+            "note": "First Tiffany Aching book — a superb entry point for younger readers",
+            "amazon_url": "https://www.amazon.com/s?k=The+Wee+Free+Men+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 31,
+            "title": "Monstrous Regiment",
+            "amazon_url": "https://www.amazon.com/s?k=Monstrous+Regiment+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 32,
+            "title": "A Hat Full of Sky",
+            "amazon_url": "https://www.amazon.com/s?k=A+Hat+Full+of+Sky+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 33,
+            "title": "Going Postal",
+            "amazon_url": "https://www.amazon.com/s?k=Going+Postal+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 34,
+            "title": "Thud!",
+            "amazon_url": "https://www.amazon.com/s?k=Thud+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 35,
+            "title": "Wintersmith",
+            "amazon_url": "https://www.amazon.com/s?k=Wintersmith+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 36,
+            "title": "Making Money",
+            "amazon_url": "https://www.amazon.com/s?k=Making+Money+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 37,
+            "title": "Unseen Academicals",
+            "amazon_url": "https://www.amazon.com/s?k=Unseen+Academicals+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 38,
+            "title": "I Shall Wear Midnight",
+            "amazon_url": "https://www.amazon.com/s?k=I+Shall+Wear+Midnight+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 39,
+            "title": "Snuff",
+            "amazon_url": "https://www.amazon.com/s?k=Snuff+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 40,
+            "title": "Raising Steam",
+            "amazon_url": "https://www.amazon.com/s?k=Raising+Steam+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 41,
+            "title": "The Shepherd's Crown",
+            "note": "Pratchett's final novel, completed shortly before his death",
+            "amazon_url": "https://www.amazon.com/s?k=The+Shepherd%27s+Crown+Terry+Pratchett&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "The Colour of Magic",
+            "note": "The first Discworld novel, though many readers prefer starting with Guards! Guards! (Book 8), Mort (Book 4), or Small Gods (Book 13)",
+            "amazon_url": "https://www.amazon.com/s?k=The+Colour+of+Magic+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Light Fantastic",
+            "amazon_url": "https://www.amazon.com/s?k=The+Light+Fantastic+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Equal Rites",
+            "amazon_url": "https://www.amazon.com/s?k=Equal+Rites+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Mort",
+            "amazon_url": "https://www.amazon.com/s?k=Mort+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Sourcery",
+            "amazon_url": "https://www.amazon.com/s?k=Sourcery+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Wyrd Sisters",
+            "amazon_url": "https://www.amazon.com/s?k=Wyrd+Sisters+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Pyramids",
+            "amazon_url": "https://www.amazon.com/s?k=Pyramids+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Guards! Guards!",
+            "note": "Start of the Watch subseries and the most popular entry point for new readers",
+            "amazon_url": "https://www.amazon.com/s?k=Guards+Guards+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Eric",
+            "note": "Rincewind novella — can be skipped without missing anything essential",
+            "amazon_url": "https://www.amazon.com/s?k=Eric+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Moving Pictures",
+            "amazon_url": "https://www.amazon.com/s?k=Moving+Pictures+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "Reaper Man",
+            "amazon_url": "https://www.amazon.com/s?k=Reaper+Man+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "Witches Abroad",
+            "amazon_url": "https://www.amazon.com/s?k=Witches+Abroad+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "Small Gods",
+            "note": "Standalone — widely considered the single best Discworld novel and an ideal entry point",
+            "amazon_url": "https://www.amazon.com/s?k=Small+Gods+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 14,
+            "title": "Lords and Ladies",
+            "amazon_url": "https://www.amazon.com/s?k=Lords+and+Ladies+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 15,
+            "title": "Men at Arms",
+            "amazon_url": "https://www.amazon.com/s?k=Men+at+Arms+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 16,
+            "title": "Soul Music",
+            "amazon_url": "https://www.amazon.com/s?k=Soul+Music+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 17,
+            "title": "Interesting Times",
+            "amazon_url": "https://www.amazon.com/s?k=Interesting+Times+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 18,
+            "title": "Maskerade",
+            "amazon_url": "https://www.amazon.com/s?k=Maskerade+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 19,
+            "title": "Feet of Clay",
+            "amazon_url": "https://www.amazon.com/s?k=Feet+of+Clay+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 20,
+            "title": "Hogfather",
+            "amazon_url": "https://www.amazon.com/s?k=Hogfather+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 21,
+            "title": "Jingo",
+            "amazon_url": "https://www.amazon.com/s?k=Jingo+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 22,
+            "title": "The Last Continent",
+            "amazon_url": "https://www.amazon.com/s?k=The+Last+Continent+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 23,
+            "title": "Carpe Jugulum",
+            "amazon_url": "https://www.amazon.com/s?k=Carpe+Jugulum+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 24,
+            "title": "The Fifth Elephant",
+            "amazon_url": "https://www.amazon.com/s?k=The+Fifth+Elephant+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 25,
+            "title": "The Truth",
+            "amazon_url": "https://www.amazon.com/s?k=The+Truth+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 26,
+            "title": "Thief of Time",
+            "amazon_url": "https://www.amazon.com/s?k=Thief+of+Time+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 27,
+            "title": "The Last Hero",
+            "note": "Illustrated novella — can be skipped without missing plot",
+            "amazon_url": "https://www.amazon.com/s?k=The+Last+Hero+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 28,
+            "title": "The Amazing Maurice and His Educated Rodents",
+            "amazon_url": "https://www.amazon.com/s?k=The+Amazing+Maurice+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 29,
+            "title": "Night Watch",
+            "amazon_url": "https://www.amazon.com/s?k=Night+Watch+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 30,
+            "title": "The Wee Free Men",
+            "note": "First Tiffany Aching book — a superb entry point for younger readers",
+            "amazon_url": "https://www.amazon.com/s?k=The+Wee+Free+Men+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 31,
+            "title": "Monstrous Regiment",
+            "amazon_url": "https://www.amazon.com/s?k=Monstrous+Regiment+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 32,
+            "title": "A Hat Full of Sky",
+            "amazon_url": "https://www.amazon.com/s?k=A+Hat+Full+of+Sky+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 33,
+            "title": "Going Postal",
+            "amazon_url": "https://www.amazon.com/s?k=Going+Postal+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 34,
+            "title": "Thud!",
+            "amazon_url": "https://www.amazon.com/s?k=Thud+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 35,
+            "title": "Wintersmith",
+            "amazon_url": "https://www.amazon.com/s?k=Wintersmith+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 36,
+            "title": "Making Money",
+            "amazon_url": "https://www.amazon.com/s?k=Making+Money+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 37,
+            "title": "Unseen Academicals",
+            "amazon_url": "https://www.amazon.com/s?k=Unseen+Academicals+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 38,
+            "title": "I Shall Wear Midnight",
+            "amazon_url": "https://www.amazon.com/s?k=I+Shall+Wear+Midnight+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 39,
+            "title": "Snuff",
+            "amazon_url": "https://www.amazon.com/s?k=Snuff+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 40,
+            "title": "Raising Steam",
+            "amazon_url": "https://www.amazon.com/s?k=Raising+Steam+Terry+Pratchett&tag=jacketlist-20"
+          },
+          {
+            "position": 41,
+            "title": "The Shepherd's Crown",
+            "note": "Pratchett's final novel, completed shortly before his death",
+            "amazon_url": "https://www.amazon.com/s?k=The+Shepherd%27s+Crown+Terry+Pratchett&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dresden-files",
+      "title": "The Dresden Files",
+      "author": "Jim Butcher",
+      "genres": ["Fantasy"],
+      "total_books": 17,
+      "currently_on_bestseller_list": false,
+      "description": "Harry Dresden is Chicago's only professional wizard — listed in the Yellow Pages under 'Wizard' — and business is picking up. Jim Butcher's urban fantasy series starts as fun noir-mystery and escalates into one of the most ambitious ongoing epics in the genre, with each book raising the stakes for Harry and the world he protects.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Storm Front",
+            "amazon_url": "https://www.amazon.com/s?k=Storm+Front+Jim+Butcher+Dresden&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Fool Moon",
+            "amazon_url": "https://www.amazon.com/s?k=Fool+Moon+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Grave Peril",
+            "amazon_url": "https://www.amazon.com/s?k=Grave+Peril+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Summer Knight",
+            "amazon_url": "https://www.amazon.com/s?k=Summer+Knight+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Death Masks",
+            "amazon_url": "https://www.amazon.com/s?k=Death+Masks+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Blood Rites",
+            "amazon_url": "https://www.amazon.com/s?k=Blood+Rites+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Dead Beat",
+            "amazon_url": "https://www.amazon.com/s?k=Dead+Beat+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Proven Guilty",
+            "amazon_url": "https://www.amazon.com/s?k=Proven+Guilty+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "White Night",
+            "amazon_url": "https://www.amazon.com/s?k=White+Night+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Small Favor",
+            "amazon_url": "https://www.amazon.com/s?k=Small+Favor+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "Turn Coat",
+            "amazon_url": "https://www.amazon.com/s?k=Turn+Coat+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "Changes",
+            "amazon_url": "https://www.amazon.com/s?k=Changes+Jim+Butcher+Dresden&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "Ghost Story",
+            "amazon_url": "https://www.amazon.com/s?k=Ghost+Story+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 14,
+            "title": "Cold Days",
+            "amazon_url": "https://www.amazon.com/s?k=Cold+Days+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 15,
+            "title": "Skin Game",
+            "amazon_url": "https://www.amazon.com/s?k=Skin+Game+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 16,
+            "title": "Peace Talks",
+            "amazon_url": "https://www.amazon.com/s?k=Peace+Talks+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 17,
+            "title": "Battle Ground",
+            "amazon_url": "https://www.amazon.com/s?k=Battle+Ground+Jim+Butcher&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Storm Front",
+            "amazon_url": "https://www.amazon.com/s?k=Storm+Front+Jim+Butcher+Dresden&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Fool Moon",
+            "amazon_url": "https://www.amazon.com/s?k=Fool+Moon+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Grave Peril",
+            "amazon_url": "https://www.amazon.com/s?k=Grave+Peril+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Summer Knight",
+            "amazon_url": "https://www.amazon.com/s?k=Summer+Knight+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Death Masks",
+            "amazon_url": "https://www.amazon.com/s?k=Death+Masks+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Blood Rites",
+            "amazon_url": "https://www.amazon.com/s?k=Blood+Rites+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Dead Beat",
+            "amazon_url": "https://www.amazon.com/s?k=Dead+Beat+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Proven Guilty",
+            "amazon_url": "https://www.amazon.com/s?k=Proven+Guilty+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "White Night",
+            "amazon_url": "https://www.amazon.com/s?k=White+Night+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Small Favor",
+            "amazon_url": "https://www.amazon.com/s?k=Small+Favor+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "Turn Coat",
+            "amazon_url": "https://www.amazon.com/s?k=Turn+Coat+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "Changes",
+            "amazon_url": "https://www.amazon.com/s?k=Changes+Jim+Butcher+Dresden&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "Ghost Story",
+            "amazon_url": "https://www.amazon.com/s?k=Ghost+Story+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 14,
+            "title": "Cold Days",
+            "amazon_url": "https://www.amazon.com/s?k=Cold+Days+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 15,
+            "title": "Skin Game",
+            "amazon_url": "https://www.amazon.com/s?k=Skin+Game+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 16,
+            "title": "Peace Talks",
+            "amazon_url": "https://www.amazon.com/s?k=Peace+Talks+Jim+Butcher&tag=jacketlist-20"
+          },
+          {
+            "position": 17,
+            "title": "Battle Ground",
+            "amazon_url": "https://www.amazon.com/s?k=Battle+Ground+Jim+Butcher&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "earthsea",
+      "title": "Earthsea",
+      "author": "Ursula K. Le Guin",
+      "genres": ["Fantasy"],
+      "total_books": 6,
+      "currently_on_bestseller_list": false,
+      "description": "In an archipelago world where magic is the mastery of true names, a young boy with extraordinary power must learn what it means to use it wisely. Le Guin's Earthsea is one of the great works of 20th-century fiction — intimate in scale, mythic in resonance, and quietly revolutionary in its ideas about power, gender, and death.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "A Wizard of Earthsea",
+            "amazon_url": "https://www.amazon.com/s?k=A+Wizard+of+Earthsea+Le+Guin&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Tombs of Atuan",
+            "amazon_url": "https://www.amazon.com/s?k=The+Tombs+of+Atuan+Le+Guin&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Farthest Shore",
+            "amazon_url": "https://www.amazon.com/s?k=The+Farthest+Shore+Le+Guin&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Tehanu",
+            "amazon_url": "https://www.amazon.com/s?k=Tehanu+Le+Guin&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Tales from Earthsea",
+            "note": "Short story collection — can be read alongside or after the main novels",
+            "amazon_url": "https://www.amazon.com/s?k=Tales+from+Earthsea+Le+Guin&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The Other Wind",
+            "amazon_url": "https://www.amazon.com/s?k=The+Other+Wind+Le+Guin&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "A Wizard of Earthsea",
+            "amazon_url": "https://www.amazon.com/s?k=A+Wizard+of+Earthsea+Le+Guin&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Tombs of Atuan",
+            "amazon_url": "https://www.amazon.com/s?k=The+Tombs+of+Atuan+Le+Guin&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Farthest Shore",
+            "amazon_url": "https://www.amazon.com/s?k=The+Farthest+Shore+Le+Guin&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Tehanu",
+            "amazon_url": "https://www.amazon.com/s?k=Tehanu+Le+Guin&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Tales from Earthsea",
+            "note": "Short story collection — can be read alongside or after the main novels",
+            "amazon_url": "https://www.amazon.com/s?k=Tales+from+Earthsea+Le+Guin&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The Other Wind",
+            "amazon_url": "https://www.amazon.com/s?k=The+Other+Wind+Le+Guin&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "belgariad",
+      "title": "The Belgariad",
+      "author": "David Eddings",
+      "genres": ["Fantasy"],
+      "total_books": 5,
+      "currently_on_bestseller_list": false,
+      "description": "A farm boy named Garion discovers he is the center of an ancient prophecy and must recover a stolen god-stone before it can be used to destroy the world. Eddings' five-book series is the quintessential quest fantasy — fast-paced, warm-hearted, and stuffed with memorable companions — and one of the most beloved gateway series in the genre.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Pawn of Prophecy",
+            "amazon_url": "https://www.amazon.com/s?k=Pawn+of+Prophecy+David+Eddings&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Queen of Sorcery",
+            "amazon_url": "https://www.amazon.com/s?k=Queen+of+Sorcery+David+Eddings&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Magician's Gambit",
+            "amazon_url": "https://www.amazon.com/s?k=Magician%27s+Gambit+David+Eddings&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Castle of Wizardry",
+            "amazon_url": "https://www.amazon.com/s?k=Castle+of+Wizardry+David+Eddings&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Enchanters' End Game",
+            "note": "Continues directly into The Malloreon series for readers who want more",
+            "amazon_url": "https://www.amazon.com/s?k=Enchanters+End+Game+David+Eddings&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Pawn of Prophecy",
+            "amazon_url": "https://www.amazon.com/s?k=Pawn+of+Prophecy+David+Eddings&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Queen of Sorcery",
+            "amazon_url": "https://www.amazon.com/s?k=Queen+of+Sorcery+David+Eddings&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Magician's Gambit",
+            "amazon_url": "https://www.amazon.com/s?k=Magician%27s+Gambit+David+Eddings&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Castle of Wizardry",
+            "amazon_url": "https://www.amazon.com/s?k=Castle+of+Wizardry+David+Eddings&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Enchanters' End Game",
+            "note": "Continues directly into The Malloreon series for readers who want more",
+            "amazon_url": "https://www.amazon.com/s?k=Enchanters+End+Game+David+Eddings&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vampire-chronicles",
+      "title": "The Vampire Chronicles",
+      "author": "Anne Rice",
+      "genres": ["Horror", "Fantasy"],
+      "total_books": 13,
+      "currently_on_bestseller_list": false,
+      "description": "Beginning with the haunted confession of Louis de Pointe du Lac and the dazzling Lestat de Lioncourt, Anne Rice redefined the vampire genre and made it literary. The series spans centuries of immortal life, philosophical torment, and baroque beauty — from 18th-century New Orleans to ancient Egypt to the present day.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Interview with the Vampire",
+            "amazon_url": "https://www.amazon.com/s?k=Interview+with+the+Vampire+Anne+Rice&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Vampire Lestat",
+            "amazon_url": "https://www.amazon.com/s?k=The+Vampire+Lestat+Anne+Rice&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Queen of the Damned",
+            "amazon_url": "https://www.amazon.com/s?k=The+Queen+of+the+Damned+Anne+Rice&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Tale of the Body Thief",
+            "amazon_url": "https://www.amazon.com/s?k=The+Tale+of+the+Body+Thief+Anne+Rice&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Memnoch the Devil",
+            "amazon_url": "https://www.amazon.com/s?k=Memnoch+the+Devil+Anne+Rice&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The Vampire Armand",
+            "amazon_url": "https://www.amazon.com/s?k=The+Vampire+Armand+Anne+Rice&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Merrick",
+            "note": "Crosses over with the Mayfair Witches series — no prior knowledge of that series required",
+            "amazon_url": "https://www.amazon.com/s?k=Merrick+Anne+Rice&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Blood and Gold",
+            "amazon_url": "https://www.amazon.com/s?k=Blood+and+Gold+Anne+Rice&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Blackwood Farm",
+            "amazon_url": "https://www.amazon.com/s?k=Blackwood+Farm+Anne+Rice&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Blood Canticle",
+            "amazon_url": "https://www.amazon.com/s?k=Blood+Canticle+Anne+Rice&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "Prince Lestat",
+            "note": "Picks up the series after an 11-year gap — a strong re-entry point for lapsed readers",
+            "amazon_url": "https://www.amazon.com/s?k=Prince+Lestat+Anne+Rice&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "Prince Lestat and the Realms of Atlantis",
+            "amazon_url": "https://www.amazon.com/s?k=Prince+Lestat+and+the+Realms+of+Atlantis+Anne+Rice&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "Blood Communion: A Tale of Prince Lestat",
+            "amazon_url": "https://www.amazon.com/s?k=Blood+Communion+Anne+Rice&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Interview with the Vampire",
+            "amazon_url": "https://www.amazon.com/s?k=Interview+with+the+Vampire+Anne+Rice&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Vampire Lestat",
+            "amazon_url": "https://www.amazon.com/s?k=The+Vampire+Lestat+Anne+Rice&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Queen of the Damned",
+            "amazon_url": "https://www.amazon.com/s?k=The+Queen+of+the+Damned+Anne+Rice&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Tale of the Body Thief",
+            "amazon_url": "https://www.amazon.com/s?k=The+Tale+of+the+Body+Thief+Anne+Rice&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Memnoch the Devil",
+            "amazon_url": "https://www.amazon.com/s?k=Memnoch+the+Devil+Anne+Rice&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The Vampire Armand",
+            "amazon_url": "https://www.amazon.com/s?k=The+Vampire+Armand+Anne+Rice&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Merrick",
+            "note": "Crosses over with the Mayfair Witches series — no prior knowledge of that series required",
+            "amazon_url": "https://www.amazon.com/s?k=Merrick+Anne+Rice&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Blood and Gold",
+            "amazon_url": "https://www.amazon.com/s?k=Blood+and+Gold+Anne+Rice&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Blackwood Farm",
+            "amazon_url": "https://www.amazon.com/s?k=Blackwood+Farm+Anne+Rice&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Blood Canticle",
+            "amazon_url": "https://www.amazon.com/s?k=Blood+Canticle+Anne+Rice&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "Prince Lestat",
+            "note": "Picks up the series after an 11-year gap — a strong re-entry point for lapsed readers",
+            "amazon_url": "https://www.amazon.com/s?k=Prince+Lestat+Anne+Rice&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "Prince Lestat and the Realms of Atlantis",
+            "amazon_url": "https://www.amazon.com/s?k=Prince+Lestat+and+the+Realms+of+Atlantis+Anne+Rice&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "Blood Communion: A Tale of Prince Lestat",
+            "amazon_url": "https://www.amazon.com/s?k=Blood+Communion+Anne+Rice&tag=jacketlist-20"
+          }
+        ]
+      }
     }
   ]
 }
