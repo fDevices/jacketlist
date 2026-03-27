@@ -4,13 +4,14 @@ import { useState } from 'react';
 import SearchBar from '@/components/SearchBar';
 import BookCard from '@/components/BookCard';
 import SeriesCard from '@/components/SeriesCard';
+import { scoreBadge } from '@/utils/scoring';
 
 function matchesQuery(query, ...fields) {
   const q = query.toLowerCase();
   return fields.some((f) => f?.toLowerCase().includes(q));
 }
 
-export default function HomeContent({ books, series, seriesMap, updatedDate }) {
+export default function HomeContent({ books, alsoTrending = [], series, seriesMap, updatedDate }) {
   const [query, setQuery] = useState('');
 
   const filteredBooks = query
@@ -61,6 +62,39 @@ export default function HomeContent({ books, series, seriesMap, updatedDate }) {
               {filteredBooks.map((book) => (
                 <BookCard key={book.id} book={book} seriesMap={seriesMap} />
               ))}
+            </div>
+          )}
+
+          {/* Also trending — hidden when search is active */}
+          {!query && alsoTrending.length > 0 && (
+            <div className="mt-12">
+              <h3 className="font-headline text-lg font-medium text-on-surface mb-4">
+                Also trending this week
+              </h3>
+              <ol className="space-y-2">
+                {alsoTrending.map((book) => {
+                  const badge = scoreBadge(book.score);
+                  return (
+                    <li key={book.id} className="flex items-center gap-3 text-sm font-body">
+                      <span className="w-6 text-right text-on-surface-variant font-label shrink-0">
+                        {book.rank}.
+                      </span>
+                      <span className="font-medium text-on-surface">{book.title}</span>
+                      <span className="text-on-surface-variant">—</span>
+                      <span className="text-on-surface-variant">{book.author}</span>
+                      <span className="shrink-0">{badge.emoji}</span>
+                      <a
+                        href={book.amazon_url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="ml-auto shrink-0 text-secondary font-label hover:underline"
+                      >
+                        Buy →
+                      </a>
+                    </li>
+                  );
+                })}
+              </ol>
             </div>
           )}
         </div>
