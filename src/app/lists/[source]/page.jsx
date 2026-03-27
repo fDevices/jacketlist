@@ -2,6 +2,7 @@ import Link from 'next/link';
 import BookCard from '@/components/BookCard';
 import FooterAdZone from '@/components/FooterAdZone';
 import adsData from '@/data/ads.json';
+import bestsellersData from '@/data/bestsellers.json';
 import nyt from '@/data/sources/nyt.json';
 import guardian from '@/data/sources/guardian.json';
 import goodreads from '@/data/sources/goodreads.json';
@@ -21,11 +22,15 @@ export default function SourceListPage({ params }) {
 
   if (!sourceData) return null;
 
+  const bestsellerCoverMap = Object.fromEntries(
+    bestsellersData.books.map((b) => [b.title.toLowerCase(), b.cover_url])
+  );
+
   const books = sourceData.books.map((b) => ({
     id: `${sourceData.source}-${b.position}`,
     title: b.title,
     author: b.author,
-    cover_url: b.cover_url,
+    cover_url: bestsellerCoverMap[b.title.toLowerCase()] || b.cover_url,
     description: '',
     sources: [sourceData.source],
     score: null,
