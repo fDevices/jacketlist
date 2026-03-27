@@ -5,8 +5,8 @@ import Link from 'next/link';
 import SourceBadge from './SourceBadge';
 import { scoreBadge } from '@/utils/scoring';
 
-export default function BookCard({ book, seriesMap = {} }) {
-  const badge = scoreBadge(book.score);
+export default function BookCard({ book, seriesMap = {}, showScore = true }) {
+  const badge = book.score !== null ? scoreBadge(book.score) : null;
   const hasValidSeries = book.series_id && seriesMap[book.series_id];
   const [coverFailed, setCoverFailed] = useState(false);
 
@@ -31,9 +31,11 @@ export default function BookCard({ book, seriesMap = {} }) {
       {/* Metadata */}
       <div className="p-4 flex flex-col gap-3 flex-1">
         {/* Score badge */}
-        <span className="text-xs font-label font-medium text-secondary">
-          {badge.emoji} {badge.label}
-        </span>
+        {showScore && badge && (
+          <span className="text-xs font-label font-medium text-secondary">
+            {badge.emoji} {badge.label}
+          </span>
+        )}
 
         <div>
           <h3 className="font-body font-semibold text-on-surface text-base leading-snug">
@@ -67,9 +69,11 @@ export default function BookCard({ book, seriesMap = {} }) {
         )}
 
         {/* Description */}
-        <p className="text-sm text-on-surface-variant font-body flex-1">
-          {book.description}
-        </p>
+        {book.description && (
+          <p className="text-sm text-on-surface-variant font-body flex-1">
+            {book.description}
+          </p>
+        )}
 
         {/* CTA */}
         <a

@@ -26,11 +26,16 @@ describe('BookCard', () => {
 
   it('renders the correct score badge for score 2', () => {
     render(<BookCard book={baseBook} seriesMap={seriesMap} />);
+    expect(screen.getByText(/Worth Watching/)).toBeInTheDocument();
+  });
+
+  it('renders score 3 badge as Trending', () => {
+    render(<BookCard book={{ ...baseBook, score: 3, sources: ['nyt', 'guardian', 'goodreads'] }} seriesMap={seriesMap} />);
     expect(screen.getByText(/Trending/)).toBeInTheDocument();
   });
 
-  it('renders score 3 badge as Top Pick', () => {
-    render(<BookCard book={{ ...baseBook, score: 3, sources: ['nyt', 'guardian', 'goodreads'] }} seriesMap={seriesMap} />);
+  it('renders score 5 badge as Top Pick', () => {
+    render(<BookCard book={{ ...baseBook, score: 5, sources: ['nyt', 'guardian', 'goodreads', 'amazon', 'audible'] }} seriesMap={seriesMap} />);
     expect(screen.getByText(/Top Pick/)).toBeInTheDocument();
   });
 
