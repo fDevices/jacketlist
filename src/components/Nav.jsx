@@ -10,6 +10,14 @@ export default function Nav() {
         >
           JacketList
         </Link>
+        <div className="flex items-center gap-6">
+          <Link href="/lists" className="text-sm font-label text-on-surface-variant hover:text-on-surface transition-colors duration-200">
+            Lists
+          </Link>
+          <Link href="/series" className="text-sm font-label text-on-surface-variant hover:text-on-surface transition-colors duration-200">
+            Series
+          </Link>
+        </div>
       </nav>
     </header>
   );
