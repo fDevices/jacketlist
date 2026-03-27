@@ -64,6 +64,9 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 
 | Author | Series | ID |
 |--------|--------|----|
+| Maas, Sarah J. | A Court of Thorns and Roses | `a-court-of-thorns-and-roses` |
+| Maas, Sarah J. | Crescent City | `crescent-city` |
+| Maas, Sarah J. | Throne of Glass | `throne-of-glass` |
 | Martin, George R.R. | A Song of Ice and Fire | `a-song-of-ice-and-fire` |
 
 ## N
@@ -82,6 +85,7 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 
 | Author | Series | ID |
 |--------|--------|----|
+| Paolini, Christopher | The Inheritance Cycle | `the-inheritance-cycle` |
 | Patterson, James | Alex Cross | `alex-cross` |
 | Penny, Louise | Chief Inspector Gamache | `inspector-gamache` |
 | Pullman, Philip | His Dark Materials | `his-dark-materials` |
@@ -104,6 +108,12 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 | Sapkowski, Andrzej | The Witcher | `the-witcher` |
 | Scalzi, John | Old Man's War | `old-mans-war` |
 
+## T
+
+| Author | Series | ID |
+|--------|--------|----|
+| Tolkien, J.R.R. | The Lord of the Rings | `lord-of-the-rings` |
+
 ---
 
-*29 series total. Update this file whenever a new series is merged into `series.json`.*
+*34 series total. Update this file whenever a new series is merged into `series.json`.*

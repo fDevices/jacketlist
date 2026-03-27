@@ -4,22 +4,59 @@
       "id": "wheel-of-time",
       "title": "The Wheel of Time",
       "author": "Robert Jordan, Brandon Sanderson",
-      "genres": ["Fantasy"],
+      "genres": [
+        "Fantasy"
+      ],
       "total_books": 14,
       "currently_on_bestseller_list": true,
       "description": "One of the most epic fantasy series ever written. A young man from a backwater village learns he may be the Dragon Reborn — destined to save the world, or break it.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "New Spring", "note": "Prequel — many readers recommend saving this until after Book 10.", "amazon_url": "https://www.amazon.com/s?k=New+Spring+Robert+Jordan&tag=jacketlist-20" },
-          { "position": 2, "title": "The Eye of the World", "amazon_url": "https://www.amazon.com/s?k=Eye+of+the+World+Jordan&tag=jacketlist-20" },
-          { "position": 3, "title": "The Great Hunt", "amazon_url": "https://www.amazon.com/s?k=The+Great+Hunt+Jordan&tag=jacketlist-20" },
-          { "position": 4, "title": "The Dragon Reborn", "amazon_url": "https://www.amazon.com/s?k=The+Dragon+Reborn+Jordan&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "New Spring",
+            "note": "Prequel — many readers recommend saving this until after Book 10.",
+            "amazon_url": "https://www.amazon.com/s?k=New+Spring+Robert+Jordan&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Eye of the World",
+            "amazon_url": "https://www.amazon.com/s?k=Eye+of+the+World+Jordan&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Great Hunt",
+            "amazon_url": "https://www.amazon.com/s?k=The+Great+Hunt+Jordan&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Dragon Reborn",
+            "amazon_url": "https://www.amazon.com/s?k=The+Dragon+Reborn+Jordan&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "The Eye of the World", "note": "Start here — best first-time experience.", "amazon_url": "https://www.amazon.com/s?k=Eye+of+the+World+Jordan&tag=jacketlist-20" },
-          { "position": 2, "title": "The Great Hunt", "amazon_url": "https://www.amazon.com/s?k=The+Great+Hunt+Jordan&tag=jacketlist-20" },
-          { "position": 3, "title": "The Dragon Reborn", "amazon_url": "https://www.amazon.com/s?k=The+Dragon+Reborn+Jordan&tag=jacketlist-20" },
-          { "position": 4, "title": "New Spring", "note": "Read after Book 10 for best impact.", "amazon_url": "https://www.amazon.com/s?k=New+Spring+Robert+Jordan&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Eye of the World",
+            "note": "Start here — best first-time experience.",
+            "amazon_url": "https://www.amazon.com/s?k=Eye+of+the+World+Jordan&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Great Hunt",
+            "amazon_url": "https://www.amazon.com/s?k=The+Great+Hunt+Jordan&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Dragon Reborn",
+            "amazon_url": "https://www.amazon.com/s?k=The+Dragon+Reborn+Jordan&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "New Spring",
+            "note": "Read after Book 10 for best impact.",
+            "amazon_url": "https://www.amazon.com/s?k=New+Spring+Robert+Jordan&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -27,24 +64,69 @@
       "id": "stormlight-archive",
       "title": "The Stormlight Archive",
       "author": "Brandon Sanderson",
-      "genres": ["Fantasy"],
+      "genres": [
+        "Fantasy"
+      ],
       "total_books": 5,
       "currently_on_bestseller_list": true,
       "description": "Set on the storm-ravaged world of Roshar, this epic series follows soldiers, scholars, and assassins bound together by ancient oaths and a coming desolation.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "The Way of Kings", "amazon_url": "https://www.amazon.com/s?k=The+Way+of+Kings+Sanderson&tag=jacketlist-20" },
-          { "position": 2, "title": "Words of Radiance", "amazon_url": "https://www.amazon.com/s?k=Words+of+Radiance+Sanderson&tag=jacketlist-20" },
-          { "position": 3, "title": "Edgedancer", "note": "Novella — can be read between Books 2 and 3.", "amazon_url": "https://www.amazon.com/s?k=Edgedancer+Sanderson&tag=jacketlist-20" },
-          { "position": 4, "title": "Oathbringer", "amazon_url": "https://www.amazon.com/s?k=Oathbringer+Sanderson&tag=jacketlist-20" },
-          { "position": 5, "title": "Rhythm of War", "amazon_url": "https://www.amazon.com/s?k=Rhythm+of+War+Sanderson&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Way of Kings",
+            "amazon_url": "https://www.amazon.com/s?k=The+Way+of+Kings+Sanderson&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Words of Radiance",
+            "amazon_url": "https://www.amazon.com/s?k=Words+of+Radiance+Sanderson&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Edgedancer",
+            "note": "Novella — can be read between Books 2 and 3.",
+            "amazon_url": "https://www.amazon.com/s?k=Edgedancer+Sanderson&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Oathbringer",
+            "amazon_url": "https://www.amazon.com/s?k=Oathbringer+Sanderson&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Rhythm of War",
+            "amazon_url": "https://www.amazon.com/s?k=Rhythm+of+War+Sanderson&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "The Way of Kings", "note": "Start here — do not skip.", "amazon_url": "https://www.amazon.com/s?k=The+Way+of+Kings+Sanderson&tag=jacketlist-20" },
-          { "position": 2, "title": "Words of Radiance", "amazon_url": "https://www.amazon.com/s?k=Words+of+Radiance+Sanderson&tag=jacketlist-20" },
-          { "position": 3, "title": "Oathbringer", "amazon_url": "https://www.amazon.com/s?k=Oathbringer+Sanderson&tag=jacketlist-20" },
-          { "position": 4, "title": "Edgedancer", "note": "Read after Oathbringer.", "amazon_url": "https://www.amazon.com/s?k=Edgedancer+Sanderson&tag=jacketlist-20" },
-          { "position": 5, "title": "Rhythm of War", "amazon_url": "https://www.amazon.com/s?k=Rhythm+of+War+Sanderson&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Way of Kings",
+            "note": "Start here — do not skip.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Way+of+Kings+Sanderson&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Words of Radiance",
+            "amazon_url": "https://www.amazon.com/s?k=Words+of+Radiance+Sanderson&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Oathbringer",
+            "amazon_url": "https://www.amazon.com/s?k=Oathbringer+Sanderson&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Edgedancer",
+            "note": "Read after Oathbringer.",
+            "amazon_url": "https://www.amazon.com/s?k=Edgedancer+Sanderson&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Rhythm of War",
+            "amazon_url": "https://www.amazon.com/s?k=Rhythm+of+War+Sanderson&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -52,20 +134,46 @@
       "id": "jack-reacher",
       "title": "Jack Reacher",
       "author": "Lee Child",
-      "genres": ["Thriller"],
+      "genres": [
+        "Thriller"
+      ],
       "total_books": 27,
       "currently_on_bestseller_list": true,
       "description": "A nomadic ex-military cop with no address, no phone, and no agenda — just a toothbrush and a talent for trouble. Pure thriller momentum.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "Killing Floor", "amazon_url": "https://www.amazon.com/s?k=Killing+Floor+Lee+Child&tag=jacketlist-20" },
-          { "position": 2, "title": "Die Trying", "amazon_url": "https://www.amazon.com/s?k=Die+Trying+Lee+Child&tag=jacketlist-20" },
-          { "position": 3, "title": "Tripwire", "amazon_url": "https://www.amazon.com/s?k=Tripwire+Lee+Child&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Killing Floor",
+            "amazon_url": "https://www.amazon.com/s?k=Killing+Floor+Lee+Child&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Die Trying",
+            "amazon_url": "https://www.amazon.com/s?k=Die+Trying+Lee+Child&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Tripwire",
+            "amazon_url": "https://www.amazon.com/s?k=Tripwire+Lee+Child&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "Killing Floor", "amazon_url": "https://www.amazon.com/s?k=Killing+Floor+Lee+Child&tag=jacketlist-20" },
-          { "position": 2, "title": "Die Trying", "amazon_url": "https://www.amazon.com/s?k=Die+Trying+Lee+Child&tag=jacketlist-20" },
-          { "position": 3, "title": "Tripwire", "amazon_url": "https://www.amazon.com/s?k=Tripwire+Lee+Child&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Killing Floor",
+            "amazon_url": "https://www.amazon.com/s?k=Killing+Floor+Lee+Child&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Die Trying",
+            "amazon_url": "https://www.amazon.com/s?k=Die+Trying+Lee+Child&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Tripwire",
+            "amazon_url": "https://www.amazon.com/s?k=Tripwire+Lee+Child&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -73,20 +181,48 @@
       "id": "outlander",
       "title": "Outlander",
       "author": "Diana Gabaldon",
-      "genres": ["Historical Fiction", "Romance"],
+      "genres": [
+        "Historical Fiction",
+        "Romance"
+      ],
       "total_books": 9,
       "currently_on_bestseller_list": true,
       "description": "A time-travel historical epic beginning in 1945 Scotland, sweeping through Jacobite rebellions and American Revolution. Romantic, detailed, addictive.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "Outlander", "amazon_url": "https://www.amazon.com/s?k=Outlander+Gabaldon&tag=jacketlist-20" },
-          { "position": 2, "title": "Dragonfly in Amber", "amazon_url": "https://www.amazon.com/s?k=Dragonfly+in+Amber+Gabaldon&tag=jacketlist-20" },
-          { "position": 3, "title": "Voyager", "amazon_url": "https://www.amazon.com/s?k=Voyager+Gabaldon&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Outlander",
+            "amazon_url": "https://www.amazon.com/s?k=Outlander+Gabaldon&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Dragonfly in Amber",
+            "amazon_url": "https://www.amazon.com/s?k=Dragonfly+in+Amber+Gabaldon&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Voyager",
+            "amazon_url": "https://www.amazon.com/s?k=Voyager+Gabaldon&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "Outlander", "note": "Begin here — the books must be read in order.", "amazon_url": "https://www.amazon.com/s?k=Outlander+Gabaldon&tag=jacketlist-20" },
-          { "position": 2, "title": "Dragonfly in Amber", "amazon_url": "https://www.amazon.com/s?k=Dragonfly+in+Amber+Gabaldon&tag=jacketlist-20" },
-          { "position": 3, "title": "Voyager", "amazon_url": "https://www.amazon.com/s?k=Voyager+Gabaldon&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Outlander",
+            "note": "Begin here — the books must be read in order.",
+            "amazon_url": "https://www.amazon.com/s?k=Outlander+Gabaldon&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Dragonfly in Amber",
+            "amazon_url": "https://www.amazon.com/s?k=Dragonfly+in+Amber+Gabaldon&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Voyager",
+            "amazon_url": "https://www.amazon.com/s?k=Voyager+Gabaldon&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -94,28 +230,89 @@
       "id": "mistborn",
       "title": "Mistborn",
       "author": "Brandon Sanderson",
-      "genres": ["Fantasy"],
+      "genres": [
+        "Fantasy"
+      ],
       "total_books": 7,
       "currently_on_bestseller_list": true,
       "description": "In a world smothered in ash where the Dark Lord won a thousand years ago, a street thief discovers she has rare magic — and joins a heist to overthrow an immortal god-emperor. Sanderson's plotting is relentless and his magic systems are the best in fantasy.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "The Final Empire", "amazon_url": "https://www.amazon.com/s?k=The+Final+Empire+Sanderson&tag=jacketlist-20" },
-          { "position": 2, "title": "The Well of Ascension", "amazon_url": "https://www.amazon.com/s?k=The+Well+of+Ascension+Sanderson&tag=jacketlist-20" },
-          { "position": 3, "title": "The Hero of Ages", "amazon_url": "https://www.amazon.com/s?k=The+Hero+of+Ages+Sanderson&tag=jacketlist-20" },
-          { "position": 4, "title": "The Alloy of Law", "note": "Era 2 begins — set 300 years later, standalone-friendly.", "amazon_url": "https://www.amazon.com/s?k=The+Alloy+of+Law+Sanderson&tag=jacketlist-20" },
-          { "position": 5, "title": "Shadows of Self", "amazon_url": "https://www.amazon.com/s?k=Shadows+of+Self+Sanderson&tag=jacketlist-20" },
-          { "position": 6, "title": "The Bands of Mourning", "amazon_url": "https://www.amazon.com/s?k=The+Bands+of+Mourning+Sanderson&tag=jacketlist-20" },
-          { "position": 7, "title": "The Lost Metal", "amazon_url": "https://www.amazon.com/s?k=The+Lost+Metal+Sanderson&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Final Empire",
+            "amazon_url": "https://www.amazon.com/s?k=The+Final+Empire+Sanderson&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Well of Ascension",
+            "amazon_url": "https://www.amazon.com/s?k=The+Well+of+Ascension+Sanderson&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Hero of Ages",
+            "amazon_url": "https://www.amazon.com/s?k=The+Hero+of+Ages+Sanderson&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Alloy of Law",
+            "note": "Era 2 begins — set 300 years later, standalone-friendly.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Alloy+of+Law+Sanderson&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Shadows of Self",
+            "amazon_url": "https://www.amazon.com/s?k=Shadows+of+Self+Sanderson&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The Bands of Mourning",
+            "amazon_url": "https://www.amazon.com/s?k=The+Bands+of+Mourning+Sanderson&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "The Lost Metal",
+            "amazon_url": "https://www.amazon.com/s?k=The+Lost+Metal+Sanderson&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "The Final Empire", "note": "Start here — do not skip Era 1.", "amazon_url": "https://www.amazon.com/s?k=The+Final+Empire+Sanderson&tag=jacketlist-20" },
-          { "position": 2, "title": "The Well of Ascension", "amazon_url": "https://www.amazon.com/s?k=The+Well+of+Ascension+Sanderson&tag=jacketlist-20" },
-          { "position": 3, "title": "The Hero of Ages", "amazon_url": "https://www.amazon.com/s?k=The+Hero+of+Ages+Sanderson&tag=jacketlist-20" },
-          { "position": 4, "title": "The Alloy of Law", "note": "Era 2 begins — set 300 years later.", "amazon_url": "https://www.amazon.com/s?k=The+Alloy+of+Law+Sanderson&tag=jacketlist-20" },
-          { "position": 5, "title": "Shadows of Self", "amazon_url": "https://www.amazon.com/s?k=Shadows+of+Self+Sanderson&tag=jacketlist-20" },
-          { "position": 6, "title": "The Bands of Mourning", "amazon_url": "https://www.amazon.com/s?k=The+Bands+of+Mourning+Sanderson&tag=jacketlist-20" },
-          { "position": 7, "title": "The Lost Metal", "amazon_url": "https://www.amazon.com/s?k=The+Lost+Metal+Sanderson&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Final Empire",
+            "note": "Start here — do not skip Era 1.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Final+Empire+Sanderson&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Well of Ascension",
+            "amazon_url": "https://www.amazon.com/s?k=The+Well+of+Ascension+Sanderson&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Hero of Ages",
+            "amazon_url": "https://www.amazon.com/s?k=The+Hero+of+Ages+Sanderson&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Alloy of Law",
+            "note": "Era 2 begins — set 300 years later.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Alloy+of+Law+Sanderson&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Shadows of Self",
+            "amazon_url": "https://www.amazon.com/s?k=Shadows+of+Self+Sanderson&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The Bands of Mourning",
+            "amazon_url": "https://www.amazon.com/s?k=The+Bands+of+Mourning+Sanderson&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "The Lost Metal",
+            "amazon_url": "https://www.amazon.com/s?k=The+Lost+Metal+Sanderson&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -123,38 +320,140 @@
       "id": "harry-hole",
       "title": "Harry Hole",
       "author": "Jo Nesbø",
-      "genres": ["Crime", "Thriller"],
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
       "total_books": 12,
       "currently_on_bestseller_list": false,
       "description": "Oslo's most brilliant and self-destructive detective hunts serial killers across Scandinavia and beyond. Dark, intricate, and utterly compulsive — Nesbø is Scandinavian noir at its finest.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "The Bat", "note": "First published in Norway 1997 — sets up Harry's character.", "amazon_url": "https://www.amazon.com/s?k=The+Bat+Nesbo&tag=jacketlist-20" },
-          { "position": 2, "title": "Cockroaches", "amazon_url": "https://www.amazon.com/s?k=Cockroaches+Nesbo&tag=jacketlist-20" },
-          { "position": 3, "title": "The Redbreast", "amazon_url": "https://www.amazon.com/s?k=The+Redbreast+Nesbo&tag=jacketlist-20" },
-          { "position": 4, "title": "Nemesis", "amazon_url": "https://www.amazon.com/s?k=Nemesis+Nesbo&tag=jacketlist-20" },
-          { "position": 5, "title": "The Devil's Star", "amazon_url": "https://www.amazon.com/s?k=The+Devils+Star+Nesbo&tag=jacketlist-20" },
-          { "position": 6, "title": "The Redeemer", "amazon_url": "https://www.amazon.com/s?k=The+Redeemer+Nesbo&tag=jacketlist-20" },
-          { "position": 7, "title": "The Snowman", "amazon_url": "https://www.amazon.com/s?k=The+Snowman+Nesbo&tag=jacketlist-20" },
-          { "position": 8, "title": "The Leopard", "amazon_url": "https://www.amazon.com/s?k=The+Leopard+Nesbo&tag=jacketlist-20" },
-          { "position": 9, "title": "Phantom", "amazon_url": "https://www.amazon.com/s?k=Phantom+Nesbo&tag=jacketlist-20" },
-          { "position": 10, "title": "Police", "amazon_url": "https://www.amazon.com/s?k=Police+Nesbo&tag=jacketlist-20" },
-          { "position": 11, "title": "The Thirst", "amazon_url": "https://www.amazon.com/s?k=The+Thirst+Nesbo&tag=jacketlist-20" },
-          { "position": 12, "title": "Knife", "amazon_url": "https://www.amazon.com/s?k=Knife+Nesbo&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Bat",
+            "note": "First published in Norway 1997 — sets up Harry's character.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Bat+Nesbo&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Cockroaches",
+            "amazon_url": "https://www.amazon.com/s?k=Cockroaches+Nesbo&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Redbreast",
+            "amazon_url": "https://www.amazon.com/s?k=The+Redbreast+Nesbo&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Nemesis",
+            "amazon_url": "https://www.amazon.com/s?k=Nemesis+Nesbo&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Devil's Star",
+            "amazon_url": "https://www.amazon.com/s?k=The+Devils+Star+Nesbo&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The Redeemer",
+            "amazon_url": "https://www.amazon.com/s?k=The+Redeemer+Nesbo&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "The Snowman",
+            "amazon_url": "https://www.amazon.com/s?k=The+Snowman+Nesbo&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "The Leopard",
+            "amazon_url": "https://www.amazon.com/s?k=The+Leopard+Nesbo&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Phantom",
+            "amazon_url": "https://www.amazon.com/s?k=Phantom+Nesbo&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Police",
+            "amazon_url": "https://www.amazon.com/s?k=Police+Nesbo&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "The Thirst",
+            "amazon_url": "https://www.amazon.com/s?k=The+Thirst+Nesbo&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "Knife",
+            "amazon_url": "https://www.amazon.com/s?k=Knife+Nesbo&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "The Bat", "note": "Start from the beginning for full character arc.", "amazon_url": "https://www.amazon.com/s?k=The+Bat+Nesbo&tag=jacketlist-20" },
-          { "position": 2, "title": "Cockroaches", "amazon_url": "https://www.amazon.com/s?k=Cockroaches+Nesbo&tag=jacketlist-20" },
-          { "position": 3, "title": "The Redbreast", "note": "Where many readers say the series hits its stride.", "amazon_url": "https://www.amazon.com/s?k=The+Redbreast+Nesbo&tag=jacketlist-20" },
-          { "position": 4, "title": "Nemesis", "amazon_url": "https://www.amazon.com/s?k=Nemesis+Nesbo&tag=jacketlist-20" },
-          { "position": 5, "title": "The Devil's Star", "amazon_url": "https://www.amazon.com/s?k=The+Devils+Star+Nesbo&tag=jacketlist-20" },
-          { "position": 6, "title": "The Redeemer", "amazon_url": "https://www.amazon.com/s?k=The+Redeemer+Nesbo&tag=jacketlist-20" },
-          { "position": 7, "title": "The Snowman", "amazon_url": "https://www.amazon.com/s?k=The+Snowman+Nesbo&tag=jacketlist-20" },
-          { "position": 8, "title": "The Leopard", "amazon_url": "https://www.amazon.com/s?k=The+Leopard+Nesbo&tag=jacketlist-20" },
-          { "position": 9, "title": "Phantom", "amazon_url": "https://www.amazon.com/s?k=Phantom+Nesbo&tag=jacketlist-20" },
-          { "position": 10, "title": "Police", "amazon_url": "https://www.amazon.com/s?k=Police+Nesbo&tag=jacketlist-20" },
-          { "position": 11, "title": "The Thirst", "amazon_url": "https://www.amazon.com/s?k=The+Thirst+Nesbo&tag=jacketlist-20" },
-          { "position": 12, "title": "Knife", "amazon_url": "https://www.amazon.com/s?k=Knife+Nesbo&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Bat",
+            "note": "Start from the beginning for full character arc.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Bat+Nesbo&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Cockroaches",
+            "amazon_url": "https://www.amazon.com/s?k=Cockroaches+Nesbo&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Redbreast",
+            "note": "Where many readers say the series hits its stride.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Redbreast+Nesbo&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Nemesis",
+            "amazon_url": "https://www.amazon.com/s?k=Nemesis+Nesbo&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Devil's Star",
+            "amazon_url": "https://www.amazon.com/s?k=The+Devils+Star+Nesbo&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The Redeemer",
+            "amazon_url": "https://www.amazon.com/s?k=The+Redeemer+Nesbo&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "The Snowman",
+            "amazon_url": "https://www.amazon.com/s?k=The+Snowman+Nesbo&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "The Leopard",
+            "amazon_url": "https://www.amazon.com/s?k=The+Leopard+Nesbo&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Phantom",
+            "amazon_url": "https://www.amazon.com/s?k=Phantom+Nesbo&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Police",
+            "amazon_url": "https://www.amazon.com/s?k=Police+Nesbo&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "The Thirst",
+            "amazon_url": "https://www.amazon.com/s?k=The+Thirst+Nesbo&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "Knife",
+            "amazon_url": "https://www.amazon.com/s?k=Knife+Nesbo&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -162,24 +461,70 @@
       "id": "mitch-rapp",
       "title": "Mitch Rapp",
       "author": "Vince Flynn, Kyle Mills",
-      "genres": ["Thriller"],
+      "genres": [
+        "Thriller"
+      ],
       "total_books": 21,
       "currently_on_bestseller_list": false,
       "description": "America's most lethal counterterrorism operative works outside the law to stop threats before politicians even know they exist. Flynn's Rapp is the gold standard of the post-9/11 political thriller — fast, morally complex, brutally satisfying.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "American Assassin", "note": "Prequel — Rapp's origin story, written after the series was established.", "amazon_url": "https://www.amazon.com/s?k=American+Assassin+Flynn&tag=jacketlist-20" },
-          { "position": 2, "title": "Kill Shot", "note": "Second prequel — follows directly from American Assassin.", "amazon_url": "https://www.amazon.com/s?k=Kill+Shot+Vince+Flynn&tag=jacketlist-20" },
-          { "position": 3, "title": "Transfer of Power", "amazon_url": "https://www.amazon.com/s?k=Transfer+of+Power+Flynn&tag=jacketlist-20" },
-          { "position": 4, "title": "The Third Option", "amazon_url": "https://www.amazon.com/s?k=The+Third+Option+Flynn&tag=jacketlist-20" },
-          { "position": 5, "title": "Separation of Power", "amazon_url": "https://www.amazon.com/s?k=Separation+of+Power+Flynn&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "American Assassin",
+            "note": "Prequel — Rapp's origin story, written after the series was established.",
+            "amazon_url": "https://www.amazon.com/s?k=American+Assassin+Flynn&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Kill Shot",
+            "note": "Second prequel — follows directly from American Assassin.",
+            "amazon_url": "https://www.amazon.com/s?k=Kill+Shot+Vince+Flynn&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Transfer of Power",
+            "amazon_url": "https://www.amazon.com/s?k=Transfer+of+Power+Flynn&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Third Option",
+            "amazon_url": "https://www.amazon.com/s?k=The+Third+Option+Flynn&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Separation of Power",
+            "amazon_url": "https://www.amazon.com/s?k=Separation+of+Power+Flynn&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "Transfer of Power", "note": "Start here — Flynn's original opening. Read the prequels after you're hooked.", "amazon_url": "https://www.amazon.com/s?k=Transfer+of+Power+Flynn&tag=jacketlist-20" },
-          { "position": 2, "title": "The Third Option", "amazon_url": "https://www.amazon.com/s?k=The+Third+Option+Flynn&tag=jacketlist-20" },
-          { "position": 3, "title": "Separation of Power", "amazon_url": "https://www.amazon.com/s?k=Separation+of+Power+Flynn&tag=jacketlist-20" },
-          { "position": 4, "title": "American Assassin", "note": "Now read the prequel — hits harder once you know Rapp.", "amazon_url": "https://www.amazon.com/s?k=American+Assassin+Flynn&tag=jacketlist-20" },
-          { "position": 5, "title": "Kill Shot", "amazon_url": "https://www.amazon.com/s?k=Kill+Shot+Vince+Flynn&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Transfer of Power",
+            "note": "Start here — Flynn's original opening. Read the prequels after you're hooked.",
+            "amazon_url": "https://www.amazon.com/s?k=Transfer+of+Power+Flynn&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Third Option",
+            "amazon_url": "https://www.amazon.com/s?k=The+Third+Option+Flynn&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Separation of Power",
+            "amazon_url": "https://www.amazon.com/s?k=Separation+of+Power+Flynn&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "American Assassin",
+            "note": "Now read the prequel — hits harder once you know Rapp.",
+            "amazon_url": "https://www.amazon.com/s?k=American+Assassin+Flynn&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Kill Shot",
+            "amazon_url": "https://www.amazon.com/s?k=Kill+Shot+Vince+Flynn&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -187,24 +532,69 @@
       "id": "jason-bourne",
       "title": "Jason Bourne",
       "author": "Robert Ludlum, Eric Van Lustbader",
-      "genres": ["Thriller"],
+      "genres": [
+        "Thriller"
+      ],
       "total_books": 14,
       "currently_on_bestseller_list": false,
       "description": "An amnesiac assassin dredged from the Mediterranean must piece together who he is before his past kills him. Ludlum's original trilogy defined the modern spy thriller — relentless, globe-spanning, and endlessly imitated.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "The Bourne Identity", "amazon_url": "https://www.amazon.com/s?k=The+Bourne+Identity+Ludlum&tag=jacketlist-20" },
-          { "position": 2, "title": "The Bourne Supremacy", "amazon_url": "https://www.amazon.com/s?k=The+Bourne+Supremacy+Ludlum&tag=jacketlist-20" },
-          { "position": 3, "title": "The Bourne Ultimatum", "amazon_url": "https://www.amazon.com/s?k=The+Bourne+Ultimatum+Ludlum&tag=jacketlist-20" },
-          { "position": 4, "title": "The Bourne Legacy", "note": "Continued by Eric Van Lustbader after Ludlum's death.", "amazon_url": "https://www.amazon.com/s?k=The+Bourne+Legacy+Van+Lustbader&tag=jacketlist-20" },
-          { "position": 5, "title": "The Bourne Betrayal", "amazon_url": "https://www.amazon.com/s?k=The+Bourne+Betrayal+Van+Lustbader&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Bourne Identity",
+            "amazon_url": "https://www.amazon.com/s?k=The+Bourne+Identity+Ludlum&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Bourne Supremacy",
+            "amazon_url": "https://www.amazon.com/s?k=The+Bourne+Supremacy+Ludlum&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Bourne Ultimatum",
+            "amazon_url": "https://www.amazon.com/s?k=The+Bourne+Ultimatum+Ludlum&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Bourne Legacy",
+            "note": "Continued by Eric Van Lustbader after Ludlum's death.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Bourne+Legacy+Van+Lustbader&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Bourne Betrayal",
+            "amazon_url": "https://www.amazon.com/s?k=The+Bourne+Betrayal+Van+Lustbader&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "The Bourne Identity", "note": "The original trilogy stands alone — many readers stop at Book 3.", "amazon_url": "https://www.amazon.com/s?k=The+Bourne+Identity+Ludlum&tag=jacketlist-20" },
-          { "position": 2, "title": "The Bourne Supremacy", "amazon_url": "https://www.amazon.com/s?k=The+Bourne+Supremacy+Ludlum&tag=jacketlist-20" },
-          { "position": 3, "title": "The Bourne Ultimatum", "amazon_url": "https://www.amazon.com/s?k=The+Bourne+Ultimatum+Ludlum&tag=jacketlist-20" },
-          { "position": 4, "title": "The Bourne Legacy", "note": "Continue here if you want more — different author, same character.", "amazon_url": "https://www.amazon.com/s?k=The+Bourne+Legacy+Van+Lustbader&tag=jacketlist-20" },
-          { "position": 5, "title": "The Bourne Betrayal", "amazon_url": "https://www.amazon.com/s?k=The+Bourne+Betrayal+Van+Lustbader&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Bourne Identity",
+            "note": "The original trilogy stands alone — many readers stop at Book 3.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Bourne+Identity+Ludlum&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Bourne Supremacy",
+            "amazon_url": "https://www.amazon.com/s?k=The+Bourne+Supremacy+Ludlum&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Bourne Ultimatum",
+            "amazon_url": "https://www.amazon.com/s?k=The+Bourne+Ultimatum+Ludlum&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Bourne Legacy",
+            "note": "Continue here if you want more — different author, same character.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Bourne+Legacy+Van+Lustbader&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Bourne Betrayal",
+            "amazon_url": "https://www.amazon.com/s?k=The+Bourne+Betrayal+Van+Lustbader&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -212,24 +602,68 @@
       "id": "alex-cross",
       "title": "Alex Cross",
       "author": "James Patterson",
-      "genres": ["Thriller", "Crime"],
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
       "total_books": 32,
       "currently_on_bestseller_list": false,
       "description": "Washington D.C. psychologist and homicide detective Alex Cross faces the most twisted minds in America — and they always seem to know him. Patterson's pace is unmatched: short chapters, high stakes, impossible to put down.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "Along Came a Spider", "amazon_url": "https://www.amazon.com/s?k=Along+Came+a+Spider+Patterson&tag=jacketlist-20" },
-          { "position": 2, "title": "Kiss the Girls", "amazon_url": "https://www.amazon.com/s?k=Kiss+the+Girls+Patterson&tag=jacketlist-20" },
-          { "position": 3, "title": "Jack & Jill", "amazon_url": "https://www.amazon.com/s?k=Jack+and+Jill+Patterson&tag=jacketlist-20" },
-          { "position": 4, "title": "Cat & Mouse", "amazon_url": "https://www.amazon.com/s?k=Cat+and+Mouse+Patterson&tag=jacketlist-20" },
-          { "position": 5, "title": "Pop Goes the Weasel", "amazon_url": "https://www.amazon.com/s?k=Pop+Goes+the+Weasel+Patterson&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Along Came a Spider",
+            "amazon_url": "https://www.amazon.com/s?k=Along+Came+a+Spider+Patterson&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Kiss the Girls",
+            "amazon_url": "https://www.amazon.com/s?k=Kiss+the+Girls+Patterson&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Jack & Jill",
+            "amazon_url": "https://www.amazon.com/s?k=Jack+and+Jill+Patterson&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Cat & Mouse",
+            "amazon_url": "https://www.amazon.com/s?k=Cat+and+Mouse+Patterson&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Pop Goes the Weasel",
+            "amazon_url": "https://www.amazon.com/s?k=Pop+Goes+the+Weasel+Patterson&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "Along Came a Spider", "note": "Start here — introduces Cross and his nemesis Gary Soneji.", "amazon_url": "https://www.amazon.com/s?k=Along+Came+a+Spider+Patterson&tag=jacketlist-20" },
-          { "position": 2, "title": "Kiss the Girls", "amazon_url": "https://www.amazon.com/s?k=Kiss+the+Girls+Patterson&tag=jacketlist-20" },
-          { "position": 3, "title": "Jack & Jill", "amazon_url": "https://www.amazon.com/s?k=Jack+and+Jill+Patterson&tag=jacketlist-20" },
-          { "position": 4, "title": "Cat & Mouse", "amazon_url": "https://www.amazon.com/s?k=Cat+and+Mouse+Patterson&tag=jacketlist-20" },
-          { "position": 5, "title": "Pop Goes the Weasel", "amazon_url": "https://www.amazon.com/s?k=Pop+Goes+the+Weasel+Patterson&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Along Came a Spider",
+            "note": "Start here — introduces Cross and his nemesis Gary Soneji.",
+            "amazon_url": "https://www.amazon.com/s?k=Along+Came+a+Spider+Patterson&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Kiss the Girls",
+            "amazon_url": "https://www.amazon.com/s?k=Kiss+the+Girls+Patterson&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Jack & Jill",
+            "amazon_url": "https://www.amazon.com/s?k=Jack+and+Jill+Patterson&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Cat & Mouse",
+            "amazon_url": "https://www.amazon.com/s?k=Cat+and+Mouse+Patterson&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Pop Goes the Weasel",
+            "amazon_url": "https://www.amazon.com/s?k=Pop+Goes+the+Weasel+Patterson&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -237,26 +671,77 @@
       "id": "dune",
       "title": "Dune",
       "author": "Frank Herbert",
-      "genres": ["Sci-Fi"],
+      "genres": [
+        "Sci-Fi"
+      ],
       "total_books": 6,
       "currently_on_bestseller_list": false,
       "description": "On the desert planet Arrakis — the only source of the most valuable substance in the universe — a young nobleman's exile becomes the spark of an interstellar revolution. The deepest, most influential sci-fi series ever written.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "Dune", "amazon_url": "https://www.amazon.com/s?k=Dune+Frank+Herbert&tag=jacketlist-20" },
-          { "position": 2, "title": "Dune Messiah", "amazon_url": "https://www.amazon.com/s?k=Dune+Messiah+Herbert&tag=jacketlist-20" },
-          { "position": 3, "title": "Children of Dune", "amazon_url": "https://www.amazon.com/s?k=Children+of+Dune+Herbert&tag=jacketlist-20" },
-          { "position": 4, "title": "God Emperor of Dune", "amazon_url": "https://www.amazon.com/s?k=God+Emperor+of+Dune+Herbert&tag=jacketlist-20" },
-          { "position": 5, "title": "Heretics of Dune", "amazon_url": "https://www.amazon.com/s?k=Heretics+of+Dune+Herbert&tag=jacketlist-20" },
-          { "position": 6, "title": "Chapterhouse: Dune", "amazon_url": "https://www.amazon.com/s?k=Chapterhouse+Dune+Herbert&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Dune",
+            "amazon_url": "https://www.amazon.com/s?k=Dune+Frank+Herbert&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Dune Messiah",
+            "amazon_url": "https://www.amazon.com/s?k=Dune+Messiah+Herbert&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Children of Dune",
+            "amazon_url": "https://www.amazon.com/s?k=Children+of+Dune+Herbert&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "God Emperor of Dune",
+            "amazon_url": "https://www.amazon.com/s?k=God+Emperor+of+Dune+Herbert&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Heretics of Dune",
+            "amazon_url": "https://www.amazon.com/s?k=Heretics+of+Dune+Herbert&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Chapterhouse: Dune",
+            "amazon_url": "https://www.amazon.com/s?k=Chapterhouse+Dune+Herbert&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "Dune", "note": "The original novel is a complete story — many readers stop here and are satisfied.", "amazon_url": "https://www.amazon.com/s?k=Dune+Frank+Herbert&tag=jacketlist-20" },
-          { "position": 2, "title": "Dune Messiah", "amazon_url": "https://www.amazon.com/s?k=Dune+Messiah+Herbert&tag=jacketlist-20" },
-          { "position": 3, "title": "Children of Dune", "amazon_url": "https://www.amazon.com/s?k=Children+of+Dune+Herbert&tag=jacketlist-20" },
-          { "position": 4, "title": "God Emperor of Dune", "amazon_url": "https://www.amazon.com/s?k=God+Emperor+of+Dune+Herbert&tag=jacketlist-20" },
-          { "position": 5, "title": "Heretics of Dune", "amazon_url": "https://www.amazon.com/s?k=Heretics+of+Dune+Herbert&tag=jacketlist-20" },
-          { "position": 6, "title": "Chapterhouse: Dune", "amazon_url": "https://www.amazon.com/s?k=Chapterhouse+Dune+Herbert&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Dune",
+            "note": "The original novel is a complete story — many readers stop here and are satisfied.",
+            "amazon_url": "https://www.amazon.com/s?k=Dune+Frank+Herbert&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Dune Messiah",
+            "amazon_url": "https://www.amazon.com/s?k=Dune+Messiah+Herbert&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Children of Dune",
+            "amazon_url": "https://www.amazon.com/s?k=Children+of+Dune+Herbert&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "God Emperor of Dune",
+            "amazon_url": "https://www.amazon.com/s?k=God+Emperor+of+Dune+Herbert&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Heretics of Dune",
+            "amazon_url": "https://www.amazon.com/s?k=Heretics+of+Dune+Herbert&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Chapterhouse: Dune",
+            "amazon_url": "https://www.amazon.com/s?k=Chapterhouse+Dune+Herbert&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -264,32 +749,107 @@
       "id": "the-expanse",
       "title": "The Expanse",
       "author": "James S.A. Corey",
-      "genres": ["Sci-Fi"],
+      "genres": [
+        "Sci-Fi"
+      ],
       "total_books": 9,
       "currently_on_bestseller_list": false,
       "description": "Two hundred years from now, humanity has colonised the solar system — and is about to tear itself apart. The most scientifically grounded space opera of its generation, with a cast and scope that rivals Game of Thrones.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "Leviathan Wakes", "amazon_url": "https://www.amazon.com/s?k=Leviathan+Wakes+Corey&tag=jacketlist-20" },
-          { "position": 2, "title": "Caliban's War", "amazon_url": "https://www.amazon.com/s?k=Calibans+War+Corey&tag=jacketlist-20" },
-          { "position": 3, "title": "Abaddon's Gate", "amazon_url": "https://www.amazon.com/s?k=Abaddons+Gate+Corey&tag=jacketlist-20" },
-          { "position": 4, "title": "Cibola Burn", "amazon_url": "https://www.amazon.com/s?k=Cibola+Burn+Corey&tag=jacketlist-20" },
-          { "position": 5, "title": "Nemesis Games", "amazon_url": "https://www.amazon.com/s?k=Nemesis+Games+Corey&tag=jacketlist-20" },
-          { "position": 6, "title": "Babylon's Ashes", "amazon_url": "https://www.amazon.com/s?k=Babylons+Ashes+Corey&tag=jacketlist-20" },
-          { "position": 7, "title": "Persepolis Rising", "amazon_url": "https://www.amazon.com/s?k=Persepolis+Rising+Corey&tag=jacketlist-20" },
-          { "position": 8, "title": "Tiamat's Wrath", "amazon_url": "https://www.amazon.com/s?k=Tiamats+Wrath+Corey&tag=jacketlist-20" },
-          { "position": 9, "title": "Leviathan Falls", "amazon_url": "https://www.amazon.com/s?k=Leviathan+Falls+Corey&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Leviathan Wakes",
+            "amazon_url": "https://www.amazon.com/s?k=Leviathan+Wakes+Corey&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Caliban's War",
+            "amazon_url": "https://www.amazon.com/s?k=Calibans+War+Corey&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Abaddon's Gate",
+            "amazon_url": "https://www.amazon.com/s?k=Abaddons+Gate+Corey&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Cibola Burn",
+            "amazon_url": "https://www.amazon.com/s?k=Cibola+Burn+Corey&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Nemesis Games",
+            "amazon_url": "https://www.amazon.com/s?k=Nemesis+Games+Corey&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Babylon's Ashes",
+            "amazon_url": "https://www.amazon.com/s?k=Babylons+Ashes+Corey&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Persepolis Rising",
+            "amazon_url": "https://www.amazon.com/s?k=Persepolis+Rising+Corey&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Tiamat's Wrath",
+            "amazon_url": "https://www.amazon.com/s?k=Tiamats+Wrath+Corey&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Leviathan Falls",
+            "amazon_url": "https://www.amazon.com/s?k=Leviathan+Falls+Corey&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "Leviathan Wakes", "note": "Start here — reads as a self-contained thriller before the series expands.", "amazon_url": "https://www.amazon.com/s?k=Leviathan+Wakes+Corey&tag=jacketlist-20" },
-          { "position": 2, "title": "Caliban's War", "amazon_url": "https://www.amazon.com/s?k=Calibans+War+Corey&tag=jacketlist-20" },
-          { "position": 3, "title": "Abaddon's Gate", "amazon_url": "https://www.amazon.com/s?k=Abaddons+Gate+Corey&tag=jacketlist-20" },
-          { "position": 4, "title": "Cibola Burn", "amazon_url": "https://www.amazon.com/s?k=Cibola+Burn+Corey&tag=jacketlist-20" },
-          { "position": 5, "title": "Nemesis Games", "amazon_url": "https://www.amazon.com/s?k=Nemesis+Games+Corey&tag=jacketlist-20" },
-          { "position": 6, "title": "Babylon's Ashes", "amazon_url": "https://www.amazon.com/s?k=Babylons+Ashes+Corey&tag=jacketlist-20" },
-          { "position": 7, "title": "Persepolis Rising", "amazon_url": "https://www.amazon.com/s?k=Persepolis+Rising+Corey&tag=jacketlist-20" },
-          { "position": 8, "title": "Tiamat's Wrath", "amazon_url": "https://www.amazon.com/s?k=Tiamats+Wrath+Corey&tag=jacketlist-20" },
-          { "position": 9, "title": "Leviathan Falls", "amazon_url": "https://www.amazon.com/s?k=Leviathan+Falls+Corey&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Leviathan Wakes",
+            "note": "Start here — reads as a self-contained thriller before the series expands.",
+            "amazon_url": "https://www.amazon.com/s?k=Leviathan+Wakes+Corey&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Caliban's War",
+            "amazon_url": "https://www.amazon.com/s?k=Calibans+War+Corey&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Abaddon's Gate",
+            "amazon_url": "https://www.amazon.com/s?k=Abaddons+Gate+Corey&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Cibola Burn",
+            "amazon_url": "https://www.amazon.com/s?k=Cibola+Burn+Corey&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Nemesis Games",
+            "amazon_url": "https://www.amazon.com/s?k=Nemesis+Games+Corey&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Babylon's Ashes",
+            "amazon_url": "https://www.amazon.com/s?k=Babylons+Ashes+Corey&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Persepolis Rising",
+            "amazon_url": "https://www.amazon.com/s?k=Persepolis+Rising+Corey&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Tiamat's Wrath",
+            "amazon_url": "https://www.amazon.com/s?k=Tiamats+Wrath+Corey&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Leviathan Falls",
+            "amazon_url": "https://www.amazon.com/s?k=Leviathan+Falls+Corey&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -297,28 +857,89 @@
       "id": "foundation",
       "title": "Foundation",
       "author": "Isaac Asimov",
-      "genres": ["Sci-Fi"],
+      "genres": [
+        "Sci-Fi"
+      ],
       "total_books": 7,
       "currently_on_bestseller_list": false,
       "description": "A mathematician predicts the fall of galactic civilisation and sets in motion a thousand-year plan to shorten the coming dark age. Asimov's Foundation is the bedrock of science fiction — grand in scope, endlessly surprising in execution.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "Prelude to Foundation", "note": "Chronological prequel — written after the original trilogy.", "amazon_url": "https://www.amazon.com/s?k=Prelude+to+Foundation+Asimov&tag=jacketlist-20" },
-          { "position": 2, "title": "Forward the Foundation", "amazon_url": "https://www.amazon.com/s?k=Forward+the+Foundation+Asimov&tag=jacketlist-20" },
-          { "position": 3, "title": "Foundation", "amazon_url": "https://www.amazon.com/s?k=Foundation+Asimov&tag=jacketlist-20" },
-          { "position": 4, "title": "Foundation and Empire", "amazon_url": "https://www.amazon.com/s?k=Foundation+and+Empire+Asimov&tag=jacketlist-20" },
-          { "position": 5, "title": "Second Foundation", "amazon_url": "https://www.amazon.com/s?k=Second+Foundation+Asimov&tag=jacketlist-20" },
-          { "position": 6, "title": "Foundation's Edge", "amazon_url": "https://www.amazon.com/s?k=Foundations+Edge+Asimov&tag=jacketlist-20" },
-          { "position": 7, "title": "Foundation and Earth", "amazon_url": "https://www.amazon.com/s?k=Foundation+and+Earth+Asimov&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Prelude to Foundation",
+            "note": "Chronological prequel — written after the original trilogy.",
+            "amazon_url": "https://www.amazon.com/s?k=Prelude+to+Foundation+Asimov&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Forward the Foundation",
+            "amazon_url": "https://www.amazon.com/s?k=Forward+the+Foundation+Asimov&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Foundation",
+            "amazon_url": "https://www.amazon.com/s?k=Foundation+Asimov&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Foundation and Empire",
+            "amazon_url": "https://www.amazon.com/s?k=Foundation+and+Empire+Asimov&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Second Foundation",
+            "amazon_url": "https://www.amazon.com/s?k=Second+Foundation+Asimov&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Foundation's Edge",
+            "amazon_url": "https://www.amazon.com/s?k=Foundations+Edge+Asimov&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Foundation and Earth",
+            "amazon_url": "https://www.amazon.com/s?k=Foundation+and+Earth+Asimov&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "Foundation", "note": "Start with the original — Asimov wrote it first and it's the best entry point.", "amazon_url": "https://www.amazon.com/s?k=Foundation+Asimov&tag=jacketlist-20" },
-          { "position": 2, "title": "Foundation and Empire", "amazon_url": "https://www.amazon.com/s?k=Foundation+and+Empire+Asimov&tag=jacketlist-20" },
-          { "position": 3, "title": "Second Foundation", "amazon_url": "https://www.amazon.com/s?k=Second+Foundation+Asimov&tag=jacketlist-20" },
-          { "position": 4, "title": "Foundation's Edge", "amazon_url": "https://www.amazon.com/s?k=Foundations+Edge+Asimov&tag=jacketlist-20" },
-          { "position": 5, "title": "Foundation and Earth", "amazon_url": "https://www.amazon.com/s?k=Foundation+and+Earth+Asimov&tag=jacketlist-20" },
-          { "position": 6, "title": "Prelude to Foundation", "note": "Read the prequels last — they reward knowing the full story.", "amazon_url": "https://www.amazon.com/s?k=Prelude+to+Foundation+Asimov&tag=jacketlist-20" },
-          { "position": 7, "title": "Forward the Foundation", "amazon_url": "https://www.amazon.com/s?k=Forward+the+Foundation+Asimov&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Foundation",
+            "note": "Start with the original — Asimov wrote it first and it's the best entry point.",
+            "amazon_url": "https://www.amazon.com/s?k=Foundation+Asimov&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Foundation and Empire",
+            "amazon_url": "https://www.amazon.com/s?k=Foundation+and+Empire+Asimov&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Second Foundation",
+            "amazon_url": "https://www.amazon.com/s?k=Second+Foundation+Asimov&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Foundation's Edge",
+            "amazon_url": "https://www.amazon.com/s?k=Foundations+Edge+Asimov&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Foundation and Earth",
+            "amazon_url": "https://www.amazon.com/s?k=Foundation+and+Earth+Asimov&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Prelude to Foundation",
+            "note": "Read the prequels last — they reward knowing the full story.",
+            "amazon_url": "https://www.amazon.com/s?k=Prelude+to+Foundation+Asimov&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Forward the Foundation",
+            "amazon_url": "https://www.amazon.com/s?k=Forward+the+Foundation+Asimov&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -326,26 +947,78 @@
       "id": "red-rising",
       "title": "Red Rising",
       "author": "Pierce Brown",
-      "genres": ["Sci-Fi"],
+      "genres": [
+        "Sci-Fi"
+      ],
       "total_books": 6,
       "currently_on_bestseller_list": false,
       "description": "A miner born into the lowest caste of a colour-coded society on Mars infiltrates the ruling class to destroy it from within. Brutal, propulsive, and emotionally devastating — Red Rising is the heir to both Hunger Games and classic sci-fi.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "Red Rising", "amazon_url": "https://www.amazon.com/s?k=Red+Rising+Pierce+Brown&tag=jacketlist-20" },
-          { "position": 2, "title": "Golden Son", "amazon_url": "https://www.amazon.com/s?k=Golden+Son+Pierce+Brown&tag=jacketlist-20" },
-          { "position": 3, "title": "Morning Star", "amazon_url": "https://www.amazon.com/s?k=Morning+Star+Pierce+Brown&tag=jacketlist-20" },
-          { "position": 4, "title": "Iron Gold", "note": "Saga continues — set 10 years later with multiple POVs.", "amazon_url": "https://www.amazon.com/s?k=Iron+Gold+Pierce+Brown&tag=jacketlist-20" },
-          { "position": 5, "title": "Dark Age", "amazon_url": "https://www.amazon.com/s?k=Dark+Age+Pierce+Brown&tag=jacketlist-20" },
-          { "position": 6, "title": "Light Bringer", "amazon_url": "https://www.amazon.com/s?k=Light+Bringer+Pierce+Brown&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Red Rising",
+            "amazon_url": "https://www.amazon.com/s?k=Red+Rising+Pierce+Brown&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Golden Son",
+            "amazon_url": "https://www.amazon.com/s?k=Golden+Son+Pierce+Brown&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Morning Star",
+            "amazon_url": "https://www.amazon.com/s?k=Morning+Star+Pierce+Brown&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Iron Gold",
+            "note": "Saga continues — set 10 years later with multiple POVs.",
+            "amazon_url": "https://www.amazon.com/s?k=Iron+Gold+Pierce+Brown&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Dark Age",
+            "amazon_url": "https://www.amazon.com/s?k=Dark+Age+Pierce+Brown&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Light Bringer",
+            "amazon_url": "https://www.amazon.com/s?k=Light+Bringer+Pierce+Brown&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "Red Rising", "note": "The original trilogy (Books 1–3) is self-contained. Continue to Iron Gold for the saga.", "amazon_url": "https://www.amazon.com/s?k=Red+Rising+Pierce+Brown&tag=jacketlist-20" },
-          { "position": 2, "title": "Golden Son", "amazon_url": "https://www.amazon.com/s?k=Golden+Son+Pierce+Brown&tag=jacketlist-20" },
-          { "position": 3, "title": "Morning Star", "amazon_url": "https://www.amazon.com/s?k=Morning+Star+Pierce+Brown&tag=jacketlist-20" },
-          { "position": 4, "title": "Iron Gold", "amazon_url": "https://www.amazon.com/s?k=Iron+Gold+Pierce+Brown&tag=jacketlist-20" },
-          { "position": 5, "title": "Dark Age", "amazon_url": "https://www.amazon.com/s?k=Dark+Age+Pierce+Brown&tag=jacketlist-20" },
-          { "position": 6, "title": "Light Bringer", "amazon_url": "https://www.amazon.com/s?k=Light+Bringer+Pierce+Brown&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Red Rising",
+            "note": "The original trilogy (Books 1–3) is self-contained. Continue to Iron Gold for the saga.",
+            "amazon_url": "https://www.amazon.com/s?k=Red+Rising+Pierce+Brown&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Golden Son",
+            "amazon_url": "https://www.amazon.com/s?k=Golden+Son+Pierce+Brown&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Morning Star",
+            "amazon_url": "https://www.amazon.com/s?k=Morning+Star+Pierce+Brown&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Iron Gold",
+            "amazon_url": "https://www.amazon.com/s?k=Iron+Gold+Pierce+Brown&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Dark Age",
+            "amazon_url": "https://www.amazon.com/s?k=Dark+Age+Pierce+Brown&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Light Bringer",
+            "amazon_url": "https://www.amazon.com/s?k=Light+Bringer+Pierce+Brown&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -353,26 +1026,79 @@
       "id": "old-mans-war",
       "title": "Old Man's War",
       "author": "John Scalzi",
-      "genres": ["Sci-Fi"],
+      "genres": [
+        "Sci-Fi"
+      ],
       "total_books": 6,
       "currently_on_bestseller_list": false,
       "description": "At 75, John Perry enlists in the army — because that's the minimum age. In Scalzi's wry, action-packed universe, old men get young bodies and fight humanity's wars among the stars. The perfect gateway sci-fi series.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "Old Man's War", "amazon_url": "https://www.amazon.com/s?k=Old+Mans+War+Scalzi&tag=jacketlist-20" },
-          { "position": 2, "title": "The Ghost Brigades", "amazon_url": "https://www.amazon.com/s?k=The+Ghost+Brigades+Scalzi&tag=jacketlist-20" },
-          { "position": 3, "title": "The Last Colony", "amazon_url": "https://www.amazon.com/s?k=The+Last+Colony+Scalzi&tag=jacketlist-20" },
-          { "position": 4, "title": "Zoe's Tale", "note": "Companion to The Last Colony — same events, different POV.", "amazon_url": "https://www.amazon.com/s?k=Zoes+Tale+Scalzi&tag=jacketlist-20" },
-          { "position": 5, "title": "The Human Division", "amazon_url": "https://www.amazon.com/s?k=The+Human+Division+Scalzi&tag=jacketlist-20" },
-          { "position": 6, "title": "The End of All Things", "amazon_url": "https://www.amazon.com/s?k=The+End+of+All+Things+Scalzi&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Old Man's War",
+            "amazon_url": "https://www.amazon.com/s?k=Old+Mans+War+Scalzi&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Ghost Brigades",
+            "amazon_url": "https://www.amazon.com/s?k=The+Ghost+Brigades+Scalzi&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Last Colony",
+            "amazon_url": "https://www.amazon.com/s?k=The+Last+Colony+Scalzi&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Zoe's Tale",
+            "note": "Companion to The Last Colony — same events, different POV.",
+            "amazon_url": "https://www.amazon.com/s?k=Zoes+Tale+Scalzi&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Human Division",
+            "amazon_url": "https://www.amazon.com/s?k=The+Human+Division+Scalzi&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The End of All Things",
+            "amazon_url": "https://www.amazon.com/s?k=The+End+of+All+Things+Scalzi&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "Old Man's War", "note": "Start here — fast, funny, and completely standalone.", "amazon_url": "https://www.amazon.com/s?k=Old+Mans+War+Scalzi&tag=jacketlist-20" },
-          { "position": 2, "title": "The Ghost Brigades", "amazon_url": "https://www.amazon.com/s?k=The+Ghost+Brigades+Scalzi&tag=jacketlist-20" },
-          { "position": 3, "title": "The Last Colony", "amazon_url": "https://www.amazon.com/s?k=The+Last+Colony+Scalzi&tag=jacketlist-20" },
-          { "position": 4, "title": "Zoe's Tale", "note": "Optional — skip if you want to keep moving.", "amazon_url": "https://www.amazon.com/s?k=Zoes+Tale+Scalzi&tag=jacketlist-20" },
-          { "position": 5, "title": "The Human Division", "amazon_url": "https://www.amazon.com/s?k=The+Human+Division+Scalzi&tag=jacketlist-20" },
-          { "position": 6, "title": "The End of All Things", "amazon_url": "https://www.amazon.com/s?k=The+End+of+All+Things+Scalzi&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Old Man's War",
+            "note": "Start here — fast, funny, and completely standalone.",
+            "amazon_url": "https://www.amazon.com/s?k=Old+Mans+War+Scalzi&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Ghost Brigades",
+            "amazon_url": "https://www.amazon.com/s?k=The+Ghost+Brigades+Scalzi&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Last Colony",
+            "amazon_url": "https://www.amazon.com/s?k=The+Last+Colony+Scalzi&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Zoe's Tale",
+            "note": "Optional — skip if you want to keep moving.",
+            "amazon_url": "https://www.amazon.com/s?k=Zoes+Tale+Scalzi&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Human Division",
+            "amazon_url": "https://www.amazon.com/s?k=The+Human+Division+Scalzi&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The End of All Things",
+            "amazon_url": "https://www.amazon.com/s?k=The+End+of+All+Things+Scalzi&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -380,24 +1106,71 @@
       "id": "hercule-poirot",
       "title": "Hercule Poirot",
       "author": "Agatha Christie",
-      "genres": ["Mystery"],
+      "genres": [
+        "Mystery"
+      ],
       "total_books": 33,
       "currently_on_bestseller_list": false,
       "description": "The fastidious Belgian detective with the magnificent moustaches and the 'little grey cells' solves the most impossible crimes in England. Christie's Poirot is the definitive cosy mystery — endlessly clever, endlessly satisfying.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "The Mysterious Affair at Styles", "note": "Poirot's debut — where it all begins.", "amazon_url": "https://www.amazon.com/s?k=The+Mysterious+Affair+at+Styles+Christie&tag=jacketlist-20" },
-          { "position": 2, "title": "The Murder on the Links", "amazon_url": "https://www.amazon.com/s?k=The+Murder+on+the+Links+Christie&tag=jacketlist-20" },
-          { "position": 3, "title": "Poirot Investigates", "amazon_url": "https://www.amazon.com/s?k=Poirot+Investigates+Christie&tag=jacketlist-20" },
-          { "position": 4, "title": "The Murder of Roger Ackroyd", "note": "One of the greatest mystery novels ever written.", "amazon_url": "https://www.amazon.com/s?k=The+Murder+of+Roger+Ackroyd+Christie&tag=jacketlist-20" },
-          { "position": 5, "title": "Murder on the Orient Express", "amazon_url": "https://www.amazon.com/s?k=Murder+on+the+Orient+Express+Christie&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Mysterious Affair at Styles",
+            "note": "Poirot's debut — where it all begins.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Mysterious+Affair+at+Styles+Christie&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Murder on the Links",
+            "amazon_url": "https://www.amazon.com/s?k=The+Murder+on+the+Links+Christie&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Poirot Investigates",
+            "amazon_url": "https://www.amazon.com/s?k=Poirot+Investigates+Christie&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Murder of Roger Ackroyd",
+            "note": "One of the greatest mystery novels ever written.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Murder+of+Roger+Ackroyd+Christie&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Murder on the Orient Express",
+            "amazon_url": "https://www.amazon.com/s?k=Murder+on+the+Orient+Express+Christie&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "Murder on the Orient Express", "note": "The most famous entry — a perfect standalone starting point.", "amazon_url": "https://www.amazon.com/s?k=Murder+on+the+Orient+Express+Christie&tag=jacketlist-20" },
-          { "position": 2, "title": "The Murder of Roger Ackroyd", "note": "Read this second — it will change how you see mysteries.", "amazon_url": "https://www.amazon.com/s?k=The+Murder+of+Roger+Ackroyd+Christie&tag=jacketlist-20" },
-          { "position": 3, "title": "The Mysterious Affair at Styles", "note": "Go back to the beginning once you're hooked.", "amazon_url": "https://www.amazon.com/s?k=The+Mysterious+Affair+at+Styles+Christie&tag=jacketlist-20" },
-          { "position": 4, "title": "The Murder on the Links", "amazon_url": "https://www.amazon.com/s?k=The+Murder+on+the+Links+Christie&tag=jacketlist-20" },
-          { "position": 5, "title": "Poirot Investigates", "amazon_url": "https://www.amazon.com/s?k=Poirot+Investigates+Christie&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Murder on the Orient Express",
+            "note": "The most famous entry — a perfect standalone starting point.",
+            "amazon_url": "https://www.amazon.com/s?k=Murder+on+the+Orient+Express+Christie&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Murder of Roger Ackroyd",
+            "note": "Read this second — it will change how you see mysteries.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Murder+of+Roger+Ackroyd+Christie&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Mysterious Affair at Styles",
+            "note": "Go back to the beginning once you're hooked.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Mysterious+Affair+at+Styles+Christie&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Murder on the Links",
+            "amazon_url": "https://www.amazon.com/s?k=The+Murder+on+the+Links+Christie&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Poirot Investigates",
+            "amazon_url": "https://www.amazon.com/s?k=Poirot+Investigates+Christie&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -405,24 +1178,67 @@
       "id": "inspector-gamache",
       "title": "Chief Inspector Gamache",
       "author": "Louise Penny",
-      "genres": ["Mystery"],
+      "genres": [
+        "Mystery"
+      ],
       "total_books": 19,
       "currently_on_bestseller_list": false,
       "description": "In the idyllic Quebec village of Three Pines, Chief Inspector Armand Gamache investigates murders with wisdom, patience, and quiet moral courage. Louise Penny has built the most beloved mystery series of the 21st century.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "Still Life", "amazon_url": "https://www.amazon.com/s?k=Still+Life+Louise+Penny&tag=jacketlist-20" },
-          { "position": 2, "title": "A Fatal Grace", "amazon_url": "https://www.amazon.com/s?k=A+Fatal+Grace+Louise+Penny&tag=jacketlist-20" },
-          { "position": 3, "title": "The Cruelest Month", "amazon_url": "https://www.amazon.com/s?k=The+Cruelest+Month+Louise+Penny&tag=jacketlist-20" },
-          { "position": 4, "title": "A Rule Against Murder", "amazon_url": "https://www.amazon.com/s?k=A+Rule+Against+Murder+Louise+Penny&tag=jacketlist-20" },
-          { "position": 5, "title": "The Brutal Telling", "amazon_url": "https://www.amazon.com/s?k=The+Brutal+Telling+Louise+Penny&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Still Life",
+            "amazon_url": "https://www.amazon.com/s?k=Still+Life+Louise+Penny&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "A Fatal Grace",
+            "amazon_url": "https://www.amazon.com/s?k=A+Fatal+Grace+Louise+Penny&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Cruelest Month",
+            "amazon_url": "https://www.amazon.com/s?k=The+Cruelest+Month+Louise+Penny&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "A Rule Against Murder",
+            "amazon_url": "https://www.amazon.com/s?k=A+Rule+Against+Murder+Louise+Penny&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Brutal Telling",
+            "amazon_url": "https://www.amazon.com/s?k=The+Brutal+Telling+Louise+Penny&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "Still Life", "note": "Must be read in order — characters and arcs build across every book.", "amazon_url": "https://www.amazon.com/s?k=Still+Life+Louise+Penny&tag=jacketlist-20" },
-          { "position": 2, "title": "A Fatal Grace", "amazon_url": "https://www.amazon.com/s?k=A+Fatal+Grace+Louise+Penny&tag=jacketlist-20" },
-          { "position": 3, "title": "The Cruelest Month", "amazon_url": "https://www.amazon.com/s?k=The+Cruelest+Month+Louise+Penny&tag=jacketlist-20" },
-          { "position": 4, "title": "A Rule Against Murder", "amazon_url": "https://www.amazon.com/s?k=A+Rule+Against+Murder+Louise+Penny&tag=jacketlist-20" },
-          { "position": 5, "title": "The Brutal Telling", "amazon_url": "https://www.amazon.com/s?k=The+Brutal+Telling+Louise+Penny&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Still Life",
+            "note": "Must be read in order — characters and arcs build across every book.",
+            "amazon_url": "https://www.amazon.com/s?k=Still+Life+Louise+Penny&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "A Fatal Grace",
+            "amazon_url": "https://www.amazon.com/s?k=A+Fatal+Grace+Louise+Penny&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Cruelest Month",
+            "amazon_url": "https://www.amazon.com/s?k=The+Cruelest+Month+Louise+Penny&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "A Rule Against Murder",
+            "amazon_url": "https://www.amazon.com/s?k=A+Rule+Against+Murder+Louise+Penny&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Brutal Telling",
+            "amazon_url": "https://www.amazon.com/s?k=The+Brutal+Telling+Louise+Penny&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -430,22 +1246,57 @@
       "id": "thursday-murder-club",
       "title": "The Thursday Murder Club",
       "author": "Richard Osman",
-      "genres": ["Mystery"],
+      "genres": [
+        "Mystery"
+      ],
       "total_books": 4,
       "currently_on_bestseller_list": false,
       "description": "Four retirees in a peaceful English village meet weekly to solve cold cases — then a real murder lands on their doorstep. Warm, witty, and wildly entertaining, Osman's series is the cosiest crime phenomenon in years.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "The Thursday Murder Club", "amazon_url": "https://www.amazon.com/s?k=The+Thursday+Murder+Club+Osman&tag=jacketlist-20" },
-          { "position": 2, "title": "The Man Who Died Twice", "amazon_url": "https://www.amazon.com/s?k=The+Man+Who+Died+Twice+Osman&tag=jacketlist-20" },
-          { "position": 3, "title": "The Bullet That Missed", "amazon_url": "https://www.amazon.com/s?k=The+Bullet+That+Missed+Osman&tag=jacketlist-20" },
-          { "position": 4, "title": "The Last Devil to Die", "amazon_url": "https://www.amazon.com/s?k=The+Last+Devil+to+Die+Osman&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Thursday Murder Club",
+            "amazon_url": "https://www.amazon.com/s?k=The+Thursday+Murder+Club+Osman&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Man Who Died Twice",
+            "amazon_url": "https://www.amazon.com/s?k=The+Man+Who+Died+Twice+Osman&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Bullet That Missed",
+            "amazon_url": "https://www.amazon.com/s?k=The+Bullet+That+Missed+Osman&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Last Devil to Die",
+            "amazon_url": "https://www.amazon.com/s?k=The+Last+Devil+to+Die+Osman&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "The Thursday Murder Club", "note": "Start here — introduces all four characters perfectly.", "amazon_url": "https://www.amazon.com/s?k=The+Thursday+Murder+Club+Osman&tag=jacketlist-20" },
-          { "position": 2, "title": "The Man Who Died Twice", "amazon_url": "https://www.amazon.com/s?k=The+Man+Who+Died+Twice+Osman&tag=jacketlist-20" },
-          { "position": 3, "title": "The Bullet That Missed", "amazon_url": "https://www.amazon.com/s?k=The+Bullet+That+Missed+Osman&tag=jacketlist-20" },
-          { "position": 4, "title": "The Last Devil to Die", "amazon_url": "https://www.amazon.com/s?k=The+Last+Devil+to+Die+Osman&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Thursday Murder Club",
+            "note": "Start here — introduces all four characters perfectly.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Thursday+Murder+Club+Osman&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Man Who Died Twice",
+            "amazon_url": "https://www.amazon.com/s?k=The+Man+Who+Died+Twice+Osman&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Bullet That Missed",
+            "amazon_url": "https://www.amazon.com/s?k=The+Bullet+That+Missed+Osman&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Last Devil to Die",
+            "amazon_url": "https://www.amazon.com/s?k=The+Last+Devil+to+Die+Osman&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -453,24 +1304,67 @@
       "id": "flavia-de-luce",
       "title": "Flavia de Luce",
       "author": "Alan Bradley",
-      "genres": ["Mystery"],
+      "genres": [
+        "Mystery"
+      ],
       "total_books": 9,
       "currently_on_bestseller_list": false,
       "description": "An eleven-year-old chemistry prodigy in 1950s English countryside solves murders with forensic brilliance and absolutely no regard for adult authority. One of the most original detective characters in fiction.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "The Sweetness at the Bottom of the Pie", "amazon_url": "https://www.amazon.com/s?k=The+Sweetness+at+the+Bottom+of+the+Pie+Bradley&tag=jacketlist-20" },
-          { "position": 2, "title": "The Weed That Strings the Hangman's Bag", "amazon_url": "https://www.amazon.com/s?k=The+Weed+That+Strings+the+Hangmans+Bag+Bradley&tag=jacketlist-20" },
-          { "position": 3, "title": "A Red Herring Without Mustard", "amazon_url": "https://www.amazon.com/s?k=A+Red+Herring+Without+Mustard+Bradley&tag=jacketlist-20" },
-          { "position": 4, "title": "I Am Half-Sick of Shadows", "amazon_url": "https://www.amazon.com/s?k=I+Am+Half+Sick+of+Shadows+Bradley&tag=jacketlist-20" },
-          { "position": 5, "title": "Speaking from Among the Bones", "amazon_url": "https://www.amazon.com/s?k=Speaking+from+Among+the+Bones+Bradley&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Sweetness at the Bottom of the Pie",
+            "amazon_url": "https://www.amazon.com/s?k=The+Sweetness+at+the+Bottom+of+the+Pie+Bradley&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Weed That Strings the Hangman's Bag",
+            "amazon_url": "https://www.amazon.com/s?k=The+Weed+That+Strings+the+Hangmans+Bag+Bradley&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "A Red Herring Without Mustard",
+            "amazon_url": "https://www.amazon.com/s?k=A+Red+Herring+Without+Mustard+Bradley&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "I Am Half-Sick of Shadows",
+            "amazon_url": "https://www.amazon.com/s?k=I+Am+Half+Sick+of+Shadows+Bradley&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Speaking from Among the Bones",
+            "amazon_url": "https://www.amazon.com/s?k=Speaking+from+Among+the+Bones+Bradley&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "The Sweetness at the Bottom of the Pie", "note": "Start here — Flavia's debut is one of the great mystery openings.", "amazon_url": "https://www.amazon.com/s?k=The+Sweetness+at+the+Bottom+of+the+Pie+Bradley&tag=jacketlist-20" },
-          { "position": 2, "title": "The Weed That Strings the Hangman's Bag", "amazon_url": "https://www.amazon.com/s?k=The+Weed+That+Strings+the+Hangmans+Bag+Bradley&tag=jacketlist-20" },
-          { "position": 3, "title": "A Red Herring Without Mustard", "amazon_url": "https://www.amazon.com/s?k=A+Red+Herring+Without+Mustard+Bradley&tag=jacketlist-20" },
-          { "position": 4, "title": "I Am Half-Sick of Shadows", "amazon_url": "https://www.amazon.com/s?k=I+Am+Half+Sick+of+Shadows+Bradley&tag=jacketlist-20" },
-          { "position": 5, "title": "Speaking from Among the Bones", "amazon_url": "https://www.amazon.com/s?k=Speaking+from+Among+the+Bones+Bradley&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Sweetness at the Bottom of the Pie",
+            "note": "Start here — Flavia's debut is one of the great mystery openings.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Sweetness+at+the+Bottom+of+the+Pie+Bradley&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Weed That Strings the Hangman's Bag",
+            "amazon_url": "https://www.amazon.com/s?k=The+Weed+That+Strings+the+Hangmans+Bag+Bradley&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "A Red Herring Without Mustard",
+            "amazon_url": "https://www.amazon.com/s?k=A+Red+Herring+Without+Mustard+Bradley&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "I Am Half-Sick of Shadows",
+            "amazon_url": "https://www.amazon.com/s?k=I+Am+Half+Sick+of+Shadows+Bradley&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Speaking from Among the Bones",
+            "amazon_url": "https://www.amazon.com/s?k=Speaking+from+Among+the+Bones+Bradley&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -478,24 +1372,69 @@
       "id": "miss-marple",
       "title": "Miss Marple",
       "author": "Agatha Christie",
-      "genres": ["Mystery"],
+      "genres": [
+        "Mystery"
+      ],
       "total_books": 12,
       "currently_on_bestseller_list": false,
       "description": "A sharp-eyed elderly spinster in the village of St Mary Mead sees through human nature better than any detective. Miss Marple proves that the most dangerous observer in any room is the quiet old lady in the corner.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "The Murder at the Vicarage", "note": "Miss Marple's first novel.", "amazon_url": "https://www.amazon.com/s?k=The+Murder+at+the+Vicarage+Christie&tag=jacketlist-20" },
-          { "position": 2, "title": "The Body in the Library", "amazon_url": "https://www.amazon.com/s?k=The+Body+in+the+Library+Christie&tag=jacketlist-20" },
-          { "position": 3, "title": "The Moving Finger", "amazon_url": "https://www.amazon.com/s?k=The+Moving+Finger+Christie&tag=jacketlist-20" },
-          { "position": 4, "title": "A Murder is Announced", "amazon_url": "https://www.amazon.com/s?k=A+Murder+is+Announced+Christie&tag=jacketlist-20" },
-          { "position": 5, "title": "A Caribbean Mystery", "amazon_url": "https://www.amazon.com/s?k=A+Caribbean+Mystery+Christie&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Murder at the Vicarage",
+            "note": "Miss Marple's first novel.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Murder+at+the+Vicarage+Christie&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Body in the Library",
+            "amazon_url": "https://www.amazon.com/s?k=The+Body+in+the+Library+Christie&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Moving Finger",
+            "amazon_url": "https://www.amazon.com/s?k=The+Moving+Finger+Christie&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "A Murder is Announced",
+            "amazon_url": "https://www.amazon.com/s?k=A+Murder+is+Announced+Christie&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "A Caribbean Mystery",
+            "amazon_url": "https://www.amazon.com/s?k=A+Caribbean+Mystery+Christie&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "A Murder is Announced", "note": "Christie's own favourite Marple — a perfect standalone entry point.", "amazon_url": "https://www.amazon.com/s?k=A+Murder+is+Announced+Christie&tag=jacketlist-20" },
-          { "position": 2, "title": "The Murder at the Vicarage", "note": "Go back to the beginning once you're a Marple fan.", "amazon_url": "https://www.amazon.com/s?k=The+Murder+at+the+Vicarage+Christie&tag=jacketlist-20" },
-          { "position": 3, "title": "The Body in the Library", "amazon_url": "https://www.amazon.com/s?k=The+Body+in+the+Library+Christie&tag=jacketlist-20" },
-          { "position": 4, "title": "The Moving Finger", "amazon_url": "https://www.amazon.com/s?k=The+Moving+Finger+Christie&tag=jacketlist-20" },
-          { "position": 5, "title": "A Caribbean Mystery", "amazon_url": "https://www.amazon.com/s?k=A+Caribbean+Mystery+Christie&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "A Murder is Announced",
+            "note": "Christie's own favourite Marple — a perfect standalone entry point.",
+            "amazon_url": "https://www.amazon.com/s?k=A+Murder+is+Announced+Christie&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Murder at the Vicarage",
+            "note": "Go back to the beginning once you're a Marple fan.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Murder+at+the+Vicarage+Christie&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Body in the Library",
+            "amazon_url": "https://www.amazon.com/s?k=The+Body+in+the+Library+Christie&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Moving Finger",
+            "amazon_url": "https://www.amazon.com/s?k=The+Moving+Finger+Christie&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "A Caribbean Mystery",
+            "amazon_url": "https://www.amazon.com/s?k=A+Caribbean+Mystery+Christie&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -503,28 +1442,88 @@
       "id": "harry-potter",
       "title": "Harry Potter",
       "author": "J.K. Rowling",
-      "genres": ["Young Adult", "Fantasy"],
+      "genres": [
+        "Young Adult",
+        "Fantasy"
+      ],
       "total_books": 7,
       "currently_on_bestseller_list": false,
       "description": "An orphaned boy discovers he is a wizard and enters a hidden world of magic, friendship, and a darkness that has been hunting him since birth. The most beloved fantasy series of a generation — and just as good the second time.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "Harry Potter and the Philosopher's Stone", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Philosophers+Stone+Rowling&tag=jacketlist-20" },
-          { "position": 2, "title": "Harry Potter and the Chamber of Secrets", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Chamber+of+Secrets+Rowling&tag=jacketlist-20" },
-          { "position": 3, "title": "Harry Potter and the Prisoner of Azkaban", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Prisoner+of+Azkaban+Rowling&tag=jacketlist-20" },
-          { "position": 4, "title": "Harry Potter and the Goblet of Fire", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Goblet+of+Fire+Rowling&tag=jacketlist-20" },
-          { "position": 5, "title": "Harry Potter and the Order of the Phoenix", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Order+of+the+Phoenix+Rowling&tag=jacketlist-20" },
-          { "position": 6, "title": "Harry Potter and the Half-Blood Prince", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Half+Blood+Prince+Rowling&tag=jacketlist-20" },
-          { "position": 7, "title": "Harry Potter and the Deathly Hallows", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Deathly+Hallows+Rowling&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Harry Potter and the Philosopher's Stone",
+            "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Philosophers+Stone+Rowling&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Harry Potter and the Chamber of Secrets",
+            "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Chamber+of+Secrets+Rowling&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Harry Potter and the Prisoner of Azkaban",
+            "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Prisoner+of+Azkaban+Rowling&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Harry Potter and the Goblet of Fire",
+            "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Goblet+of+Fire+Rowling&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Harry Potter and the Order of the Phoenix",
+            "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Order+of+the+Phoenix+Rowling&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Harry Potter and the Half-Blood Prince",
+            "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Half+Blood+Prince+Rowling&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Harry Potter and the Deathly Hallows",
+            "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Deathly+Hallows+Rowling&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "Harry Potter and the Philosopher's Stone", "note": "Must be read in order — each book builds on the last.", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Philosophers+Stone+Rowling&tag=jacketlist-20" },
-          { "position": 2, "title": "Harry Potter and the Chamber of Secrets", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Chamber+of+Secrets+Rowling&tag=jacketlist-20" },
-          { "position": 3, "title": "Harry Potter and the Prisoner of Azkaban", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Prisoner+of+Azkaban+Rowling&tag=jacketlist-20" },
-          { "position": 4, "title": "Harry Potter and the Goblet of Fire", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Goblet+of+Fire+Rowling&tag=jacketlist-20" },
-          { "position": 5, "title": "Harry Potter and the Order of the Phoenix", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Order+of+the+Phoenix+Rowling&tag=jacketlist-20" },
-          { "position": 6, "title": "Harry Potter and the Half-Blood Prince", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Half+Blood+Prince+Rowling&tag=jacketlist-20" },
-          { "position": 7, "title": "Harry Potter and the Deathly Hallows", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Deathly+Hallows+Rowling&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Harry Potter and the Philosopher's Stone",
+            "note": "Must be read in order — each book builds on the last.",
+            "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Philosophers+Stone+Rowling&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Harry Potter and the Chamber of Secrets",
+            "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Chamber+of+Secrets+Rowling&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Harry Potter and the Prisoner of Azkaban",
+            "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Prisoner+of+Azkaban+Rowling&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Harry Potter and the Goblet of Fire",
+            "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Goblet+of+Fire+Rowling&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Harry Potter and the Order of the Phoenix",
+            "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Order+of+the+Phoenix+Rowling&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Harry Potter and the Half-Blood Prince",
+            "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Half+Blood+Prince+Rowling&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Harry Potter and the Deathly Hallows",
+            "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Deathly+Hallows+Rowling&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -532,22 +1531,60 @@
       "id": "hunger-games",
       "title": "The Hunger Games",
       "author": "Suzanne Collins",
-      "genres": ["Young Adult", "Sci-Fi"],
+      "genres": [
+        "Young Adult",
+        "Sci-Fi"
+      ],
       "total_books": 4,
       "currently_on_bestseller_list": false,
       "description": "In the ruins of North America, a teenage girl volunteers to fight to the death on live television to save her sister — and accidentally ignites a revolution. The YA dystopia that defined a decade and still hits harder than anything that followed.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "The Ballad of Songbirds and Snakes", "note": "Prequel — set 64 years before the main trilogy.", "amazon_url": "https://www.amazon.com/s?k=The+Ballad+of+Songbirds+and+Snakes+Collins&tag=jacketlist-20" },
-          { "position": 2, "title": "The Hunger Games", "amazon_url": "https://www.amazon.com/s?k=The+Hunger+Games+Collins&tag=jacketlist-20" },
-          { "position": 3, "title": "Catching Fire", "amazon_url": "https://www.amazon.com/s?k=Catching+Fire+Collins&tag=jacketlist-20" },
-          { "position": 4, "title": "Mockingjay", "amazon_url": "https://www.amazon.com/s?k=Mockingjay+Collins&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Ballad of Songbirds and Snakes",
+            "note": "Prequel — set 64 years before the main trilogy.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Ballad+of+Songbirds+and+Snakes+Collins&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Hunger Games",
+            "amazon_url": "https://www.amazon.com/s?k=The+Hunger+Games+Collins&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Catching Fire",
+            "amazon_url": "https://www.amazon.com/s?k=Catching+Fire+Collins&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Mockingjay",
+            "amazon_url": "https://www.amazon.com/s?k=Mockingjay+Collins&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "The Hunger Games", "note": "Start with the original trilogy — the prequel lands harder once you know the world.", "amazon_url": "https://www.amazon.com/s?k=The+Hunger+Games+Collins&tag=jacketlist-20" },
-          { "position": 2, "title": "Catching Fire", "amazon_url": "https://www.amazon.com/s?k=Catching+Fire+Collins&tag=jacketlist-20" },
-          { "position": 3, "title": "Mockingjay", "amazon_url": "https://www.amazon.com/s?k=Mockingjay+Collins&tag=jacketlist-20" },
-          { "position": 4, "title": "The Ballad of Songbirds and Snakes", "note": "Read the prequel last for full emotional impact.", "amazon_url": "https://www.amazon.com/s?k=The+Ballad+of+Songbirds+and+Snakes+Collins&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Hunger Games",
+            "note": "Start with the original trilogy — the prequel lands harder once you know the world.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Hunger+Games+Collins&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Catching Fire",
+            "amazon_url": "https://www.amazon.com/s?k=Catching+Fire+Collins&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Mockingjay",
+            "amazon_url": "https://www.amazon.com/s?k=Mockingjay+Collins&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Ballad of Songbirds and Snakes",
+            "note": "Read the prequel last for full emotional impact.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Ballad+of+Songbirds+and+Snakes+Collins&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -555,24 +1592,68 @@
       "id": "percy-jackson",
       "title": "Percy Jackson and the Olympians",
       "author": "Rick Riordan",
-      "genres": ["Young Adult", "Fantasy"],
+      "genres": [
+        "Young Adult",
+        "Fantasy"
+      ],
       "total_books": 5,
       "currently_on_bestseller_list": false,
       "description": "A twelve-year-old with ADHD and dyslexia discovers he is the son of a Greek god — and that Mount Olympus is currently sitting above the Empire State Building. Riordan makes mythology hilarious, heartfelt, and completely unputdownable.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "The Lightning Thief", "amazon_url": "https://www.amazon.com/s?k=The+Lightning+Thief+Riordan&tag=jacketlist-20" },
-          { "position": 2, "title": "The Sea of Monsters", "amazon_url": "https://www.amazon.com/s?k=The+Sea+of+Monsters+Riordan&tag=jacketlist-20" },
-          { "position": 3, "title": "The Titan's Curse", "amazon_url": "https://www.amazon.com/s?k=The+Titans+Curse+Riordan&tag=jacketlist-20" },
-          { "position": 4, "title": "The Battle of the Labyrinth", "amazon_url": "https://www.amazon.com/s?k=The+Battle+of+the+Labyrinth+Riordan&tag=jacketlist-20" },
-          { "position": 5, "title": "The Last Olympian", "amazon_url": "https://www.amazon.com/s?k=The+Last+Olympian+Riordan&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Lightning Thief",
+            "amazon_url": "https://www.amazon.com/s?k=The+Lightning+Thief+Riordan&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Sea of Monsters",
+            "amazon_url": "https://www.amazon.com/s?k=The+Sea+of+Monsters+Riordan&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Titan's Curse",
+            "amazon_url": "https://www.amazon.com/s?k=The+Titans+Curse+Riordan&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Battle of the Labyrinth",
+            "amazon_url": "https://www.amazon.com/s?k=The+Battle+of+the+Labyrinth+Riordan&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Last Olympian",
+            "amazon_url": "https://www.amazon.com/s?k=The+Last+Olympian+Riordan&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "The Lightning Thief", "note": "Must be read in order — each book escalates the stakes.", "amazon_url": "https://www.amazon.com/s?k=The+Lightning+Thief+Riordan&tag=jacketlist-20" },
-          { "position": 2, "title": "The Sea of Monsters", "amazon_url": "https://www.amazon.com/s?k=The+Sea+of+Monsters+Riordan&tag=jacketlist-20" },
-          { "position": 3, "title": "The Titan's Curse", "amazon_url": "https://www.amazon.com/s?k=The+Titans+Curse+Riordan&tag=jacketlist-20" },
-          { "position": 4, "title": "The Battle of the Labyrinth", "amazon_url": "https://www.amazon.com/s?k=The+Battle+of+the+Labyrinth+Riordan&tag=jacketlist-20" },
-          { "position": 5, "title": "The Last Olympian", "amazon_url": "https://www.amazon.com/s?k=The+Last+Olympian+Riordan&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Lightning Thief",
+            "note": "Must be read in order — each book escalates the stakes.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Lightning+Thief+Riordan&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Sea of Monsters",
+            "amazon_url": "https://www.amazon.com/s?k=The+Sea+of+Monsters+Riordan&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Titan's Curse",
+            "amazon_url": "https://www.amazon.com/s?k=The+Titans+Curse+Riordan&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Battle of the Labyrinth",
+            "amazon_url": "https://www.amazon.com/s?k=The+Battle+of+the+Labyrinth+Riordan&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Last Olympian",
+            "amazon_url": "https://www.amazon.com/s?k=The+Last+Olympian+Riordan&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -580,20 +1661,48 @@
       "id": "divergent",
       "title": "Divergent",
       "author": "Veronica Roth",
-      "genres": ["Young Adult", "Sci-Fi"],
+      "genres": [
+        "Young Adult",
+        "Sci-Fi"
+      ],
       "total_books": 3,
       "currently_on_bestseller_list": false,
       "description": "In a future Chicago divided into five factions by personality, a girl who doesn't fit any of them must choose where she belongs — before her secret gets her killed. Fast-paced, gripping dystopian YA with a genuinely surprising ending.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "Divergent", "amazon_url": "https://www.amazon.com/s?k=Divergent+Veronica+Roth&tag=jacketlist-20" },
-          { "position": 2, "title": "Insurgent", "amazon_url": "https://www.amazon.com/s?k=Insurgent+Veronica+Roth&tag=jacketlist-20" },
-          { "position": 3, "title": "Allegiant", "amazon_url": "https://www.amazon.com/s?k=Allegiant+Veronica+Roth&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Divergent",
+            "amazon_url": "https://www.amazon.com/s?k=Divergent+Veronica+Roth&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Insurgent",
+            "amazon_url": "https://www.amazon.com/s?k=Insurgent+Veronica+Roth&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Allegiant",
+            "amazon_url": "https://www.amazon.com/s?k=Allegiant+Veronica+Roth&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "Divergent", "note": "Must be read in order — the trilogy is one continuous story.", "amazon_url": "https://www.amazon.com/s?k=Divergent+Veronica+Roth&tag=jacketlist-20" },
-          { "position": 2, "title": "Insurgent", "amazon_url": "https://www.amazon.com/s?k=Insurgent+Veronica+Roth&tag=jacketlist-20" },
-          { "position": 3, "title": "Allegiant", "amazon_url": "https://www.amazon.com/s?k=Allegiant+Veronica+Roth&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Divergent",
+            "note": "Must be read in order — the trilogy is one continuous story.",
+            "amazon_url": "https://www.amazon.com/s?k=Divergent+Veronica+Roth&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Insurgent",
+            "amazon_url": "https://www.amazon.com/s?k=Insurgent+Veronica+Roth&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Allegiant",
+            "amazon_url": "https://www.amazon.com/s?k=Allegiant+Veronica+Roth&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -601,26 +1710,78 @@
       "id": "the-mortal-instruments",
       "title": "The Mortal Instruments",
       "author": "Cassandra Clare",
-      "genres": ["Young Adult", "Fantasy"],
+      "genres": [
+        "Young Adult",
+        "Fantasy"
+      ],
       "total_books": 6,
       "currently_on_bestseller_list": false,
       "description": "When Clary Fray's mother disappears, she is pulled into the hidden world of Shadowhunters — half-human, half-angel warriors who hunt demons. Clare's world-building is immense and her fanbase is fiercely devoted.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "City of Bones", "amazon_url": "https://www.amazon.com/s?k=City+of+Bones+Cassandra+Clare&tag=jacketlist-20" },
-          { "position": 2, "title": "City of Ashes", "amazon_url": "https://www.amazon.com/s?k=City+of+Ashes+Cassandra+Clare&tag=jacketlist-20" },
-          { "position": 3, "title": "City of Glass", "amazon_url": "https://www.amazon.com/s?k=City+of+Glass+Cassandra+Clare&tag=jacketlist-20" },
-          { "position": 4, "title": "City of Fallen Angels", "amazon_url": "https://www.amazon.com/s?k=City+of+Fallen+Angels+Cassandra+Clare&tag=jacketlist-20" },
-          { "position": 5, "title": "City of Lost Souls", "amazon_url": "https://www.amazon.com/s?k=City+of+Lost+Souls+Cassandra+Clare&tag=jacketlist-20" },
-          { "position": 6, "title": "City of Heavenly Fire", "amazon_url": "https://www.amazon.com/s?k=City+of+Heavenly+Fire+Cassandra+Clare&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "City of Bones",
+            "amazon_url": "https://www.amazon.com/s?k=City+of+Bones+Cassandra+Clare&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "City of Ashes",
+            "amazon_url": "https://www.amazon.com/s?k=City+of+Ashes+Cassandra+Clare&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "City of Glass",
+            "amazon_url": "https://www.amazon.com/s?k=City+of+Glass+Cassandra+Clare&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "City of Fallen Angels",
+            "amazon_url": "https://www.amazon.com/s?k=City+of+Fallen+Angels+Cassandra+Clare&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "City of Lost Souls",
+            "amazon_url": "https://www.amazon.com/s?k=City+of+Lost+Souls+Cassandra+Clare&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "City of Heavenly Fire",
+            "amazon_url": "https://www.amazon.com/s?k=City+of+Heavenly+Fire+Cassandra+Clare&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "City of Bones", "note": "Start here — the first trilogy (Books 1–3) is self-contained.", "amazon_url": "https://www.amazon.com/s?k=City+of+Bones+Cassandra+Clare&tag=jacketlist-20" },
-          { "position": 2, "title": "City of Ashes", "amazon_url": "https://www.amazon.com/s?k=City+of+Ashes+Cassandra+Clare&tag=jacketlist-20" },
-          { "position": 3, "title": "City of Glass", "amazon_url": "https://www.amazon.com/s?k=City+of+Glass+Cassandra+Clare&tag=jacketlist-20" },
-          { "position": 4, "title": "City of Fallen Angels", "amazon_url": "https://www.amazon.com/s?k=City+of+Fallen+Angels+Cassandra+Clare&tag=jacketlist-20" },
-          { "position": 5, "title": "City of Lost Souls", "amazon_url": "https://www.amazon.com/s?k=City+of+Lost+Souls+Cassandra+Clare&tag=jacketlist-20" },
-          { "position": 6, "title": "City of Heavenly Fire", "amazon_url": "https://www.amazon.com/s?k=City+of+Heavenly+Fire+Cassandra+Clare&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "City of Bones",
+            "note": "Start here — the first trilogy (Books 1–3) is self-contained.",
+            "amazon_url": "https://www.amazon.com/s?k=City+of+Bones+Cassandra+Clare&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "City of Ashes",
+            "amazon_url": "https://www.amazon.com/s?k=City+of+Ashes+Cassandra+Clare&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "City of Glass",
+            "amazon_url": "https://www.amazon.com/s?k=City+of+Glass+Cassandra+Clare&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "City of Fallen Angels",
+            "amazon_url": "https://www.amazon.com/s?k=City+of+Fallen+Angels+Cassandra+Clare&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "City of Lost Souls",
+            "amazon_url": "https://www.amazon.com/s?k=City+of+Lost+Souls+Cassandra+Clare&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "City of Heavenly Fire",
+            "amazon_url": "https://www.amazon.com/s?k=City+of+Heavenly+Fire+Cassandra+Clare&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -628,24 +1789,67 @@
       "id": "a-song-of-ice-and-fire",
       "title": "A Song of Ice and Fire",
       "author": "George R.R. Martin",
-      "genres": ["Fantasy"],
+      "genres": [
+        "Fantasy"
+      ],
       "total_books": 5,
       "currently_on_bestseller_list": false,
       "description": "In the brutal struggle for the Iron Throne, noble houses rise and fall, dragons return to the world, and winter threatens to bury everything. The most morally complex, politically intricate fantasy ever written — and the inspiration for Game of Thrones.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "A Game of Thrones", "amazon_url": "https://www.amazon.com/s?k=A+Game+of+Thrones+Martin&tag=jacketlist-20" },
-          { "position": 2, "title": "A Clash of Kings", "amazon_url": "https://www.amazon.com/s?k=A+Clash+of+Kings+Martin&tag=jacketlist-20" },
-          { "position": 3, "title": "A Storm of Swords", "amazon_url": "https://www.amazon.com/s?k=A+Storm+of+Swords+Martin&tag=jacketlist-20" },
-          { "position": 4, "title": "A Feast for Crows", "amazon_url": "https://www.amazon.com/s?k=A+Feast+for+Crows+Martin&tag=jacketlist-20" },
-          { "position": 5, "title": "A Dance with Dragons", "amazon_url": "https://www.amazon.com/s?k=A+Dance+with+Dragons+Martin&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "A Game of Thrones",
+            "amazon_url": "https://www.amazon.com/s?k=A+Game+of+Thrones+Martin&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "A Clash of Kings",
+            "amazon_url": "https://www.amazon.com/s?k=A+Clash+of+Kings+Martin&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "A Storm of Swords",
+            "amazon_url": "https://www.amazon.com/s?k=A+Storm+of+Swords+Martin&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "A Feast for Crows",
+            "amazon_url": "https://www.amazon.com/s?k=A+Feast+for+Crows+Martin&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "A Dance with Dragons",
+            "amazon_url": "https://www.amazon.com/s?k=A+Dance+with+Dragons+Martin&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "A Game of Thrones", "note": "Must be read in order — do not skip ahead.", "amazon_url": "https://www.amazon.com/s?k=A+Game+of+Thrones+Martin&tag=jacketlist-20" },
-          { "position": 2, "title": "A Clash of Kings", "amazon_url": "https://www.amazon.com/s?k=A+Clash+of+Kings+Martin&tag=jacketlist-20" },
-          { "position": 3, "title": "A Storm of Swords", "amazon_url": "https://www.amazon.com/s?k=A+Storm+of+Swords+Martin&tag=jacketlist-20" },
-          { "position": 4, "title": "A Feast for Crows", "amazon_url": "https://www.amazon.com/s?k=A+Feast+for+Crows+Martin&tag=jacketlist-20" },
-          { "position": 5, "title": "A Dance with Dragons", "amazon_url": "https://www.amazon.com/s?k=A+Dance+with+Dragons+Martin&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "A Game of Thrones",
+            "note": "Must be read in order — do not skip ahead.",
+            "amazon_url": "https://www.amazon.com/s?k=A+Game+of+Thrones+Martin&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "A Clash of Kings",
+            "amazon_url": "https://www.amazon.com/s?k=A+Clash+of+Kings+Martin&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "A Storm of Swords",
+            "amazon_url": "https://www.amazon.com/s?k=A+Storm+of+Swords+Martin&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "A Feast for Crows",
+            "amazon_url": "https://www.amazon.com/s?k=A+Feast+for+Crows+Martin&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "A Dance with Dragons",
+            "amazon_url": "https://www.amazon.com/s?k=A+Dance+with+Dragons+Martin&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -653,20 +1857,49 @@
       "id": "kingkiller-chronicle",
       "title": "The Kingkiller Chronicle",
       "author": "Patrick Rothfuss",
-      "genres": ["Fantasy"],
+      "genres": [
+        "Fantasy"
+      ],
       "total_books": 3,
       "currently_on_bestseller_list": false,
       "description": "A legendary wizard sits in a country inn and tells the true story of his life — a tale of music, magic, love, and the ruthless pursuit of knowledge. Rothfuss writes fantasy prose unlike anyone else; every sentence earns its place.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "The Name of the Wind", "amazon_url": "https://www.amazon.com/s?k=The+Name+of+the+Wind+Rothfuss&tag=jacketlist-20" },
-          { "position": 2, "title": "The Wise Man's Fear", "amazon_url": "https://www.amazon.com/s?k=The+Wise+Mans+Fear+Rothfuss&tag=jacketlist-20" },
-          { "position": 3, "title": "The Slow Regard of Silent Things", "note": "Novella — a quiet, strange companion story. Read after Book 2.", "amazon_url": "https://www.amazon.com/s?k=The+Slow+Regard+of+Silent+Things+Rothfuss&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Name of the Wind",
+            "amazon_url": "https://www.amazon.com/s?k=The+Name+of+the+Wind+Rothfuss&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Wise Man's Fear",
+            "amazon_url": "https://www.amazon.com/s?k=The+Wise+Mans+Fear+Rothfuss&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Slow Regard of Silent Things",
+            "note": "Novella — a quiet, strange companion story. Read after Book 2.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Slow+Regard+of+Silent+Things+Rothfuss&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "The Name of the Wind", "note": "Start here — one of the finest opening chapters in fantasy.", "amazon_url": "https://www.amazon.com/s?k=The+Name+of+the+Wind+Rothfuss&tag=jacketlist-20" },
-          { "position": 2, "title": "The Wise Man's Fear", "amazon_url": "https://www.amazon.com/s?k=The+Wise+Mans+Fear+Rothfuss&tag=jacketlist-20" },
-          { "position": 3, "title": "The Slow Regard of Silent Things", "note": "Optional novella — Rothfuss himself warns it is unlike any other fantasy book.", "amazon_url": "https://www.amazon.com/s?k=The+Slow+Regard+of+Silent+Things+Rothfuss&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Name of the Wind",
+            "note": "Start here — one of the finest opening chapters in fantasy.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Name+of+the+Wind+Rothfuss&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Wise Man's Fear",
+            "amazon_url": "https://www.amazon.com/s?k=The+Wise+Mans+Fear+Rothfuss&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Slow Regard of Silent Things",
+            "note": "Optional novella — Rothfuss himself warns it is unlike any other fantasy book.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Slow+Regard+of+Silent+Things+Rothfuss&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -674,32 +1907,111 @@
       "id": "first-law",
       "title": "The First Law",
       "author": "Joe Abercrombie",
-      "genres": ["Fantasy"],
+      "genres": [
+        "Fantasy"
+      ],
       "total_books": 9,
       "currently_on_bestseller_list": false,
       "description": "In a world at war where heroes are frauds and villains have excellent reasons, a crippled torturer, a cowardly nobleman, and a barbarian northman are thrown together on a doomed quest. Abercrombie is the master of grimdark fantasy — brutal, funny, and impossible to predict.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "The Blade Itself", "amazon_url": "https://www.amazon.com/s?k=The+Blade+Itself+Abercrombie&tag=jacketlist-20" },
-          { "position": 2, "title": "Before They Are Hanged", "amazon_url": "https://www.amazon.com/s?k=Before+They+Are+Hanged+Abercrombie&tag=jacketlist-20" },
-          { "position": 3, "title": "Last Argument of Kings", "amazon_url": "https://www.amazon.com/s?k=Last+Argument+of+Kings+Abercrombie&tag=jacketlist-20" },
-          { "position": 4, "title": "Best Served Cold", "note": "Standalone set in the same world — can be read after the trilogy.", "amazon_url": "https://www.amazon.com/s?k=Best+Served+Cold+Abercrombie&tag=jacketlist-20" },
-          { "position": 5, "title": "The Heroes", "note": "Standalone — a single battle told over three days.", "amazon_url": "https://www.amazon.com/s?k=The+Heroes+Abercrombie&tag=jacketlist-20" },
-          { "position": 6, "title": "Red Country", "note": "Standalone — grimdark western.", "amazon_url": "https://www.amazon.com/s?k=Red+Country+Abercrombie&tag=jacketlist-20" },
-          { "position": 7, "title": "A Little Hatred", "note": "The Age of Madness begins — set 30 years after the original trilogy.", "amazon_url": "https://www.amazon.com/s?k=A+Little+Hatred+Abercrombie&tag=jacketlist-20" },
-          { "position": 8, "title": "The Trouble with Peace", "amazon_url": "https://www.amazon.com/s?k=The+Trouble+with+Peace+Abercrombie&tag=jacketlist-20" },
-          { "position": 9, "title": "The Wisdom of Crowds", "amazon_url": "https://www.amazon.com/s?k=The+Wisdom+of+Crowds+Abercrombie&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Blade Itself",
+            "amazon_url": "https://www.amazon.com/s?k=The+Blade+Itself+Abercrombie&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Before They Are Hanged",
+            "amazon_url": "https://www.amazon.com/s?k=Before+They+Are+Hanged+Abercrombie&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Last Argument of Kings",
+            "amazon_url": "https://www.amazon.com/s?k=Last+Argument+of+Kings+Abercrombie&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Best Served Cold",
+            "note": "Standalone set in the same world — can be read after the trilogy.",
+            "amazon_url": "https://www.amazon.com/s?k=Best+Served+Cold+Abercrombie&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Heroes",
+            "note": "Standalone — a single battle told over three days.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Heroes+Abercrombie&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Red Country",
+            "note": "Standalone — grimdark western.",
+            "amazon_url": "https://www.amazon.com/s?k=Red+Country+Abercrombie&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "A Little Hatred",
+            "note": "The Age of Madness begins — set 30 years after the original trilogy.",
+            "amazon_url": "https://www.amazon.com/s?k=A+Little+Hatred+Abercrombie&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "The Trouble with Peace",
+            "amazon_url": "https://www.amazon.com/s?k=The+Trouble+with+Peace+Abercrombie&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "The Wisdom of Crowds",
+            "amazon_url": "https://www.amazon.com/s?k=The+Wisdom+of+Crowds+Abercrombie&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "The Blade Itself", "note": "Start with the original trilogy — the standalones reward knowing the world.", "amazon_url": "https://www.amazon.com/s?k=The+Blade+Itself+Abercrombie&tag=jacketlist-20" },
-          { "position": 2, "title": "Before They Are Hanged", "amazon_url": "https://www.amazon.com/s?k=Before+They+Are+Hanged+Abercrombie&tag=jacketlist-20" },
-          { "position": 3, "title": "Last Argument of Kings", "amazon_url": "https://www.amazon.com/s?k=Last+Argument+of+Kings+Abercrombie&tag=jacketlist-20" },
-          { "position": 4, "title": "Best Served Cold", "amazon_url": "https://www.amazon.com/s?k=Best+Served+Cold+Abercrombie&tag=jacketlist-20" },
-          { "position": 5, "title": "The Heroes", "amazon_url": "https://www.amazon.com/s?k=The+Heroes+Abercrombie&tag=jacketlist-20" },
-          { "position": 6, "title": "Red Country", "amazon_url": "https://www.amazon.com/s?k=Red+Country+Abercrombie&tag=jacketlist-20" },
-          { "position": 7, "title": "A Little Hatred", "amazon_url": "https://www.amazon.com/s?k=A+Little+Hatred+Abercrombie&tag=jacketlist-20" },
-          { "position": 8, "title": "The Trouble with Peace", "amazon_url": "https://www.amazon.com/s?k=The+Trouble+with+Peace+Abercrombie&tag=jacketlist-20" },
-          { "position": 9, "title": "The Wisdom of Crowds", "amazon_url": "https://www.amazon.com/s?k=The+Wisdom+of+Crowds+Abercrombie&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Blade Itself",
+            "note": "Start with the original trilogy — the standalones reward knowing the world.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Blade+Itself+Abercrombie&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Before They Are Hanged",
+            "amazon_url": "https://www.amazon.com/s?k=Before+They+Are+Hanged+Abercrombie&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Last Argument of Kings",
+            "amazon_url": "https://www.amazon.com/s?k=Last+Argument+of+Kings+Abercrombie&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Best Served Cold",
+            "amazon_url": "https://www.amazon.com/s?k=Best+Served+Cold+Abercrombie&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Heroes",
+            "amazon_url": "https://www.amazon.com/s?k=The+Heroes+Abercrombie&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Red Country",
+            "amazon_url": "https://www.amazon.com/s?k=Red+Country+Abercrombie&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "A Little Hatred",
+            "amazon_url": "https://www.amazon.com/s?k=A+Little+Hatred+Abercrombie&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "The Trouble with Peace",
+            "amazon_url": "https://www.amazon.com/s?k=The+Trouble+with+Peace+Abercrombie&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "The Wisdom of Crowds",
+            "amazon_url": "https://www.amazon.com/s?k=The+Wisdom+of+Crowds+Abercrombie&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -707,30 +2019,101 @@
       "id": "the-witcher",
       "title": "The Witcher",
       "author": "Andrzej Sapkowski",
-      "genres": ["Fantasy"],
+      "genres": [
+        "Fantasy"
+      ],
       "total_books": 8,
       "currently_on_bestseller_list": false,
       "description": "Geralt of Rivia is a Witcher — a mutant monster hunter for hire in a morally ambiguous world where humans are often more monstrous than the beasts he kills. The basis for the hit Netflix series and video game trilogy, but richer and darker in the original.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "The Last Wish", "note": "Short story collection — Geralt's origin stories.", "amazon_url": "https://www.amazon.com/s?k=The+Last+Wish+Sapkowski&tag=jacketlist-20" },
-          { "position": 2, "title": "Sword of Destiny", "note": "Short story collection — introduces Ciri.", "amazon_url": "https://www.amazon.com/s?k=Sword+of+Destiny+Sapkowski&tag=jacketlist-20" },
-          { "position": 3, "title": "Blood of Elves", "amazon_url": "https://www.amazon.com/s?k=Blood+of+Elves+Sapkowski&tag=jacketlist-20" },
-          { "position": 4, "title": "Time of Contempt", "amazon_url": "https://www.amazon.com/s?k=Time+of+Contempt+Sapkowski&tag=jacketlist-20" },
-          { "position": 5, "title": "Baptism of Fire", "amazon_url": "https://www.amazon.com/s?k=Baptism+of+Fire+Sapkowski&tag=jacketlist-20" },
-          { "position": 6, "title": "The Tower of the Swallow", "amazon_url": "https://www.amazon.com/s?k=The+Tower+of+the+Swallow+Sapkowski&tag=jacketlist-20" },
-          { "position": 7, "title": "The Lady of the Lake", "amazon_url": "https://www.amazon.com/s?k=The+Lady+of+the+Lake+Sapkowski&tag=jacketlist-20" },
-          { "position": 8, "title": "Season of Storms", "note": "Standalone prequel — can be read last.", "amazon_url": "https://www.amazon.com/s?k=Season+of+Storms+Sapkowski&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Last Wish",
+            "note": "Short story collection — Geralt's origin stories.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Last+Wish+Sapkowski&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Sword of Destiny",
+            "note": "Short story collection — introduces Ciri.",
+            "amazon_url": "https://www.amazon.com/s?k=Sword+of+Destiny+Sapkowski&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Blood of Elves",
+            "amazon_url": "https://www.amazon.com/s?k=Blood+of+Elves+Sapkowski&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Time of Contempt",
+            "amazon_url": "https://www.amazon.com/s?k=Time+of+Contempt+Sapkowski&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Baptism of Fire",
+            "amazon_url": "https://www.amazon.com/s?k=Baptism+of+Fire+Sapkowski&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The Tower of the Swallow",
+            "amazon_url": "https://www.amazon.com/s?k=The+Tower+of+the+Swallow+Sapkowski&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "The Lady of the Lake",
+            "amazon_url": "https://www.amazon.com/s?k=The+Lady+of+the+Lake+Sapkowski&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Season of Storms",
+            "note": "Standalone prequel — can be read last.",
+            "amazon_url": "https://www.amazon.com/s?k=Season+of+Storms+Sapkowski&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "The Last Wish", "note": "Start here — the short stories are essential before the saga.", "amazon_url": "https://www.amazon.com/s?k=The+Last+Wish+Sapkowski&tag=jacketlist-20" },
-          { "position": 2, "title": "Sword of Destiny", "amazon_url": "https://www.amazon.com/s?k=Sword+of+Destiny+Sapkowski&tag=jacketlist-20" },
-          { "position": 3, "title": "Blood of Elves", "amazon_url": "https://www.amazon.com/s?k=Blood+of+Elves+Sapkowski&tag=jacketlist-20" },
-          { "position": 4, "title": "Time of Contempt", "amazon_url": "https://www.amazon.com/s?k=Time+of+Contempt+Sapkowski&tag=jacketlist-20" },
-          { "position": 5, "title": "Baptism of Fire", "amazon_url": "https://www.amazon.com/s?k=Baptism+of+Fire+Sapkowski&tag=jacketlist-20" },
-          { "position": 6, "title": "The Tower of the Swallow", "amazon_url": "https://www.amazon.com/s?k=The+Tower+of+the+Swallow+Sapkowski&tag=jacketlist-20" },
-          { "position": 7, "title": "The Lady of the Lake", "amazon_url": "https://www.amazon.com/s?k=The+Lady+of+the+Lake+Sapkowski&tag=jacketlist-20" },
-          { "position": 8, "title": "Season of Storms", "note": "Read last — a standalone prequel that rewards knowing the full saga.", "amazon_url": "https://www.amazon.com/s?k=Season+of+Storms+Sapkowski&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Last Wish",
+            "note": "Start here — the short stories are essential before the saga.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Last+Wish+Sapkowski&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Sword of Destiny",
+            "amazon_url": "https://www.amazon.com/s?k=Sword+of+Destiny+Sapkowski&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Blood of Elves",
+            "amazon_url": "https://www.amazon.com/s?k=Blood+of+Elves+Sapkowski&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Time of Contempt",
+            "amazon_url": "https://www.amazon.com/s?k=Time+of+Contempt+Sapkowski&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Baptism of Fire",
+            "amazon_url": "https://www.amazon.com/s?k=Baptism+of+Fire+Sapkowski&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The Tower of the Swallow",
+            "amazon_url": "https://www.amazon.com/s?k=The+Tower+of+the+Swallow+Sapkowski&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "The Lady of the Lake",
+            "amazon_url": "https://www.amazon.com/s?k=The+Lady+of+the+Lake+Sapkowski&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Season of Storms",
+            "note": "Read last — a standalone prequel that rewards knowing the full saga.",
+            "amazon_url": "https://www.amazon.com/s?k=Season+of+Storms+Sapkowski&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -738,20 +2121,386 @@
       "id": "his-dark-materials",
       "title": "His Dark Materials",
       "author": "Philip Pullman",
-      "genres": ["Fantasy"],
+      "genres": [
+        "Fantasy"
+      ],
       "total_books": 3,
       "currently_on_bestseller_list": false,
       "description": "A girl and a boy travel through parallel worlds, guided by a mysterious compass that can answer any question — and hunted by forces that will do anything to stop the truth from coming out. Pullman's trilogy is breathtaking in its ambition and tenderness.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "Northern Lights", "note": "Published as The Golden Compass in North America.", "amazon_url": "https://www.amazon.com/s?k=Northern+Lights+Pullman&tag=jacketlist-20" },
-          { "position": 2, "title": "The Subtle Knife", "amazon_url": "https://www.amazon.com/s?k=The+Subtle+Knife+Pullman&tag=jacketlist-20" },
-          { "position": 3, "title": "The Amber Spyglass", "amazon_url": "https://www.amazon.com/s?k=The+Amber+Spyglass+Pullman&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Northern Lights",
+            "note": "Published as The Golden Compass in North America.",
+            "amazon_url": "https://www.amazon.com/s?k=Northern+Lights+Pullman&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Subtle Knife",
+            "amazon_url": "https://www.amazon.com/s?k=The+Subtle+Knife+Pullman&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Amber Spyglass",
+            "amazon_url": "https://www.amazon.com/s?k=The+Amber+Spyglass+Pullman&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "Northern Lights", "note": "Start here — must be read in order.", "amazon_url": "https://www.amazon.com/s?k=Northern+Lights+Pullman&tag=jacketlist-20" },
-          { "position": 2, "title": "The Subtle Knife", "amazon_url": "https://www.amazon.com/s?k=The+Subtle+Knife+Pullman&tag=jacketlist-20" },
-          { "position": 3, "title": "The Amber Spyglass", "amazon_url": "https://www.amazon.com/s?k=The+Amber+Spyglass+Pullman&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Northern Lights",
+            "note": "Start here — must be read in order.",
+            "amazon_url": "https://www.amazon.com/s?k=Northern+Lights+Pullman&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Subtle Knife",
+            "amazon_url": "https://www.amazon.com/s?k=The+Subtle+Knife+Pullman&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Amber Spyglass",
+            "amazon_url": "https://www.amazon.com/s?k=The+Amber+Spyglass+Pullman&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a-court-of-thorns-and-roses",
+      "title": "A Court of Thorns and Roses",
+      "author": "Sarah J. Maas",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "total_books": 5,
+      "currently_on_bestseller_list": false,
+      "description": "When mortal huntress Feyre kills a wolf in the woods, she is dragged into a treacherous faerie land where ancient magic and brutal politics collide. Sarah J. Maas weaves a lush, sensual world that evolves from fairy-tale romance into high-stakes epic fantasy — each book darker and more addictive than the last.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "A Court of Thorns and Roses",
+            "amazon_url": "https://www.amazon.com/s?k=A+Court+of+Thorns+and+Roses+Maas&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "A Court of Mist and Fury",
+            "amazon_url": "https://www.amazon.com/s?k=A+Court+of+Mist+and+Fury+Maas&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "A Court of Wings and Ruin",
+            "amazon_url": "https://www.amazon.com/s?k=A+Court+of+Wings+and+Ruin+Maas&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "A Court of Frost and Starlight",
+            "note": "Novella-length bridge story; best read before A Court of Silver Flames",
+            "amazon_url": "https://www.amazon.com/s?k=A+Court+of+Frost+and+Starlight+Maas&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "A Court of Silver Flames",
+            "amazon_url": "https://www.amazon.com/s?k=A+Court+of+Silver+Flames+Maas&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "A Court of Thorns and Roses",
+            "amazon_url": "https://www.amazon.com/s?k=A+Court+of+Thorns+and+Roses+Maas&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "A Court of Mist and Fury",
+            "amazon_url": "https://www.amazon.com/s?k=A+Court+of+Mist+and+Fury+Maas&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "A Court of Wings and Ruin",
+            "amazon_url": "https://www.amazon.com/s?k=A+Court+of+Wings+and+Ruin+Maas&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "A Court of Frost and Starlight",
+            "note": "Novella-length bridge story; best read before A Court of Silver Flames",
+            "amazon_url": "https://www.amazon.com/s?k=A+Court+of+Frost+and+Starlight+Maas&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "A Court of Silver Flames",
+            "amazon_url": "https://www.amazon.com/s?k=A+Court+of+Silver+Flames+Maas&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "throne-of-glass",
+      "title": "Throne of Glass",
+      "author": "Sarah J. Maas",
+      "genres": [
+        "Fantasy",
+        "Young Adult"
+      ],
+      "total_books": 7,
+      "currently_on_bestseller_list": false,
+      "description": "Celaena Sardothien is the most feared assassin in the land — and a slave. When the Crown Prince pulls her from the mines to compete in a deadly tournament for the king, she sees a chance at freedom that could cost her everything. This series transforms from swashbuckling YA adventure into a sprawling epic fantasy with one of fiction's most ferociously complex heroines.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "The Assassin's Blade",
+            "note": "Prequel novellas — chronologically first, but Maas recommends reading after Crown of Midnight for best impact",
+            "amazon_url": "https://www.amazon.com/s?k=The+Assassin%27s+Blade+Maas&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Throne of Glass",
+            "amazon_url": "https://www.amazon.com/s?k=Throne+of+Glass+Maas&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Crown of Midnight",
+            "amazon_url": "https://www.amazon.com/s?k=Crown+of+Midnight+Maas&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Heir of Fire",
+            "amazon_url": "https://www.amazon.com/s?k=Heir+of+Fire+Maas&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Queen of Shadows",
+            "amazon_url": "https://www.amazon.com/s?k=Queen+of+Shadows+Maas&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Empire of Storms",
+            "amazon_url": "https://www.amazon.com/s?k=Empire+of+Storms+Maas&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Tower of Dawn",
+            "note": "Runs parallel to Empire of Storms; best read after it",
+            "amazon_url": "https://www.amazon.com/s?k=Tower+of+Dawn+Maas&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Kingdom of Ash",
+            "amazon_url": "https://www.amazon.com/s?k=Kingdom+of+Ash+Maas&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Throne of Glass",
+            "amazon_url": "https://www.amazon.com/s?k=Throne+of+Glass+Maas&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Crown of Midnight",
+            "amazon_url": "https://www.amazon.com/s?k=Crown+of+Midnight+Maas&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Assassin's Blade",
+            "note": "Read here after Crown of Midnight for maximum emotional impact, as Maas intended",
+            "amazon_url": "https://www.amazon.com/s?k=The+Assassin%27s+Blade+Maas&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Heir of Fire",
+            "amazon_url": "https://www.amazon.com/s?k=Heir+of+Fire+Maas&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Queen of Shadows",
+            "amazon_url": "https://www.amazon.com/s?k=Queen+of+Shadows+Maas&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Empire of Storms",
+            "amazon_url": "https://www.amazon.com/s?k=Empire+of+Storms+Maas&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Tower of Dawn",
+            "note": "Runs parallel to Empire of Storms; best read after it",
+            "amazon_url": "https://www.amazon.com/s?k=Tower+of+Dawn+Maas&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Kingdom of Ash",
+            "amazon_url": "https://www.amazon.com/s?k=Kingdom+of+Ash+Maas&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "the-inheritance-cycle",
+      "title": "The Inheritance Cycle",
+      "author": "Christopher Paolini",
+      "genres": [
+        "Fantasy",
+        "Young Adult"
+      ],
+      "total_books": 4,
+      "currently_on_bestseller_list": false,
+      "description": "Fifteen-year-old farm boy Eragon discovers a mysterious stone that hatches into a dragon, thrusting him into a war against an immortal tyrant and the legacy of an ancient order of Dragon Riders. Written by Paolini starting at age fifteen, this epic series is a testament to the staying power of classic high fantasy — full of magic systems, elvish lore, and sweeping battles across a richly imagined world.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Eragon",
+            "amazon_url": "https://www.amazon.com/s?k=Eragon+Paolini&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Eldest",
+            "amazon_url": "https://www.amazon.com/s?k=Eldest+Paolini&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Brisingr",
+            "amazon_url": "https://www.amazon.com/s?k=Brisingr+Paolini&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Inheritance",
+            "amazon_url": "https://www.amazon.com/s?k=Inheritance+Paolini&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Eragon",
+            "amazon_url": "https://www.amazon.com/s?k=Eragon+Paolini&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Eldest",
+            "amazon_url": "https://www.amazon.com/s?k=Eldest+Paolini&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Brisingr",
+            "amazon_url": "https://www.amazon.com/s?k=Brisingr+Paolini&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Inheritance",
+            "amazon_url": "https://www.amazon.com/s?k=Inheritance+Paolini&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lord-of-the-rings",
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "genres": [
+        "Fantasy"
+      ],
+      "total_books": 3,
+      "currently_on_bestseller_list": false,
+      "description": "When a humble hobbit inherits a Ring of power that could enslave all of Middle-earth, an unlikely fellowship sets out on an impossible quest to destroy it. Tolkien's masterwork invented the template for modern epic fantasy — its languages, maps, mythologies, and moral weight remain unsurpassed nearly a century later.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "The Hobbit",
+            "note": "Prequel set 60 years earlier — widely recommended as the best starting point for first-time readers",
+            "amazon_url": "https://www.amazon.com/s?k=The+Hobbit+Tolkien&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Fellowship of the Ring",
+            "amazon_url": "https://www.amazon.com/s?k=The+Fellowship+of+the+Ring+Tolkien&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Two Towers",
+            "amazon_url": "https://www.amazon.com/s?k=The+Two+Towers+Tolkien&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Return of the King",
+            "amazon_url": "https://www.amazon.com/s?k=The+Return+of+the+King+Tolkien&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "The Hobbit",
+            "note": "Tolkien wrote this as the gateway into Middle-earth; read it first for the full journey",
+            "amazon_url": "https://www.amazon.com/s?k=The+Hobbit+Tolkien&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Fellowship of the Ring",
+            "amazon_url": "https://www.amazon.com/s?k=The+Fellowship+of+the+Ring+Tolkien&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Two Towers",
+            "amazon_url": "https://www.amazon.com/s?k=The+Two+Towers+Tolkien&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Return of the King",
+            "amazon_url": "https://www.amazon.com/s?k=The+Return+of+the+King+Tolkien&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "crescent-city",
+      "title": "Crescent City",
+      "author": "Sarah J. Maas",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "total_books": 3,
+      "currently_on_bestseller_list": false,
+      "description": "In a glittering city where ancient gods, fallen angels, and shifters live alongside humans, half-Fae party girl Bryce Quinlan must hunt down the demon that murdered her best friends — and uncover a conspiracy that reaches every corner of her world. Maas's most ambitious series yet blends noir detective mystery with sweeping fantasy mythology and the author's trademark slow-burn romance.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "House of Earth and Blood",
+            "amazon_url": "https://www.amazon.com/s?k=House+of+Earth+and+Blood+Maas&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "House of Sky and Breath",
+            "amazon_url": "https://www.amazon.com/s?k=House+of+Sky+and+Breath+Maas&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "House of Flame and Shadow",
+            "amazon_url": "https://www.amazon.com/s?k=House+of+Flame+and+Shadow+Maas&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "House of Earth and Blood",
+            "note": "Read ACOTAR and Throne of Glass before starting Crescent City — crossover events pay off more with that context",
+            "amazon_url": "https://www.amazon.com/s?k=House+of+Earth+and+Blood+Maas&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "House of Sky and Breath",
+            "amazon_url": "https://www.amazon.com/s?k=House+of+Sky+and+Breath+Maas&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "House of Flame and Shadow",
+            "amazon_url": "https://www.amazon.com/s?k=House+of+Flame+and+Shadow+Maas&tag=jacketlist-20"
+          }
         ]
       }
     }
