@@ -3259,6 +3259,559 @@
           }
         ]
       }
+    },
+    {
+      "id": "gentlemen-bastards",
+      "title": "The Gentlemen Bastards",
+      "author": "Scott Lynch",
+      "genres": ["Fantasy"],
+      "total_books": 3,
+      "currently_on_bestseller_list": false,
+      "description": "Locke Lamora is the most cunning thief in the city of Camorr — a place built on ancient magic and ruled by criminal guilds. His audacious cons target the nobility, but when a mysterious figure called the Grey King begins wiping out gang lords one by one, even the Gentleman Bastards find themselves outplayed. Propulsive, witty, and surprisingly emotional.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "The Lies of Locke Lamora",
+            "amazon_url": "https://www.amazon.com/s?k=The+Lies+of+Locke+Lamora+Lynch&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Red Seas Under Red Skies",
+            "amazon_url": "https://www.amazon.com/s?k=Red+Seas+Under+Red+Skies+Lynch&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Republic of Thieves",
+            "amazon_url": "https://www.amazon.com/s?k=The+Republic+of+Thieves+Lynch&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "The Lies of Locke Lamora",
+            "amazon_url": "https://www.amazon.com/s?k=The+Lies+of+Locke+Lamora+Lynch&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Red Seas Under Red Skies",
+            "amazon_url": "https://www.amazon.com/s?k=Red+Seas+Under+Red+Skies+Lynch&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Republic of Thieves",
+            "amazon_url": "https://www.amazon.com/s?k=The+Republic+of+Thieves+Lynch&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "realm-of-the-elderlings",
+      "title": "Realm of the Elderlings",
+      "author": "Robin Hobb",
+      "genres": ["Fantasy"],
+      "total_books": 16,
+      "currently_on_bestseller_list": false,
+      "description": "Beginning with FitzChivalry Farseer — royal bastard, assassin's apprentice, and bonded to a wolf — Robin Hobb's interconnected trilogies weave one of fantasy's most emotionally devastating tapestries. Each trilogy follows different characters across the same richly imagined world, but the threads pull together in ways that will break your heart.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Assassin's Apprentice",
+            "note": "Farseer Trilogy Book 1 — start here",
+            "amazon_url": "https://www.amazon.com/s?k=Assassin%27s+Apprentice+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Royal Assassin",
+            "note": "Farseer Trilogy Book 2",
+            "amazon_url": "https://www.amazon.com/s?k=Royal+Assassin+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Assassin's Quest",
+            "note": "Farseer Trilogy Book 3",
+            "amazon_url": "https://www.amazon.com/s?k=Assassin%27s+Quest+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Ship of Magic",
+            "note": "Liveship Traders Book 1 — different characters, same world",
+            "amazon_url": "https://www.amazon.com/s?k=Ship+of+Magic+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Mad Ship",
+            "note": "Liveship Traders Book 2",
+            "amazon_url": "https://www.amazon.com/s?k=The+Mad+Ship+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Ship of Destiny",
+            "note": "Liveship Traders Book 3",
+            "amazon_url": "https://www.amazon.com/s?k=Ship+of+Destiny+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Fool's Errand",
+            "note": "Tawny Man Trilogy Book 1",
+            "amazon_url": "https://www.amazon.com/s?k=Fool%27s+Errand+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Golden Fool",
+            "note": "Tawny Man Trilogy Book 2",
+            "amazon_url": "https://www.amazon.com/s?k=Golden+Fool+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Fool's Fate",
+            "note": "Tawny Man Trilogy Book 3",
+            "amazon_url": "https://www.amazon.com/s?k=Fool%27s+Fate+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Dragon Keeper",
+            "note": "Rain Wilds Chronicles Book 1",
+            "amazon_url": "https://www.amazon.com/s?k=Dragon+Keeper+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "Dragon Haven",
+            "note": "Rain Wilds Chronicles Book 2",
+            "amazon_url": "https://www.amazon.com/s?k=Dragon+Haven+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "City of Dragons",
+            "note": "Rain Wilds Chronicles Book 3",
+            "amazon_url": "https://www.amazon.com/s?k=City+of+Dragons+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "Blood of Dragons",
+            "note": "Rain Wilds Chronicles Book 4",
+            "amazon_url": "https://www.amazon.com/s?k=Blood+of+Dragons+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 14,
+            "title": "Fool's Assassin",
+            "note": "Fitz and the Fool Trilogy Book 1",
+            "amazon_url": "https://www.amazon.com/s?k=Fool%27s+Assassin+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 15,
+            "title": "Fool's Quest",
+            "note": "Fitz and the Fool Trilogy Book 2",
+            "amazon_url": "https://www.amazon.com/s?k=Fool%27s+Quest+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 16,
+            "title": "Assassin's Fate",
+            "note": "Fitz and the Fool Trilogy Book 3",
+            "amazon_url": "https://www.amazon.com/s?k=Assassin%27s+Fate+Robin+Hobb&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Assassin's Apprentice",
+            "note": "Farseer Trilogy Book 1 — start here",
+            "amazon_url": "https://www.amazon.com/s?k=Assassin%27s+Apprentice+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Royal Assassin",
+            "note": "Farseer Trilogy Book 2",
+            "amazon_url": "https://www.amazon.com/s?k=Royal+Assassin+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Assassin's Quest",
+            "note": "Farseer Trilogy Book 3",
+            "amazon_url": "https://www.amazon.com/s?k=Assassin%27s+Quest+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Ship of Magic",
+            "note": "Liveship Traders Book 1",
+            "amazon_url": "https://www.amazon.com/s?k=Ship+of+Magic+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Mad Ship",
+            "note": "Liveship Traders Book 2",
+            "amazon_url": "https://www.amazon.com/s?k=The+Mad+Ship+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Ship of Destiny",
+            "note": "Liveship Traders Book 3",
+            "amazon_url": "https://www.amazon.com/s?k=Ship+of+Destiny+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Fool's Errand",
+            "note": "Tawny Man Trilogy Book 1",
+            "amazon_url": "https://www.amazon.com/s?k=Fool%27s+Errand+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Golden Fool",
+            "note": "Tawny Man Trilogy Book 2",
+            "amazon_url": "https://www.amazon.com/s?k=Golden+Fool+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Fool's Fate",
+            "note": "Tawny Man Trilogy Book 3",
+            "amazon_url": "https://www.amazon.com/s?k=Fool%27s+Fate+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Dragon Keeper",
+            "note": "Rain Wilds Chronicles Book 1",
+            "amazon_url": "https://www.amazon.com/s?k=Dragon+Keeper+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "Dragon Haven",
+            "note": "Rain Wilds Chronicles Book 2",
+            "amazon_url": "https://www.amazon.com/s?k=Dragon+Haven+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "City of Dragons",
+            "note": "Rain Wilds Chronicles Book 3",
+            "amazon_url": "https://www.amazon.com/s?k=City+of+Dragons+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "Blood of Dragons",
+            "note": "Rain Wilds Chronicles Book 4",
+            "amazon_url": "https://www.amazon.com/s?k=Blood+of+Dragons+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 14,
+            "title": "Fool's Assassin",
+            "note": "Fitz and the Fool Trilogy Book 1",
+            "amazon_url": "https://www.amazon.com/s?k=Fool%27s+Assassin+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 15,
+            "title": "Fool's Quest",
+            "note": "Fitz and the Fool Trilogy Book 2",
+            "amazon_url": "https://www.amazon.com/s?k=Fool%27s+Quest+Robin+Hobb&tag=jacketlist-20"
+          },
+          {
+            "position": 16,
+            "title": "Assassin's Fate",
+            "note": "Fitz and the Fool Trilogy Book 3",
+            "amazon_url": "https://www.amazon.com/s?k=Assassin%27s+Fate+Robin+Hobb&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "malazan",
+      "title": "The Malazan Book of the Fallen",
+      "author": "Steven Erikson",
+      "genres": ["Fantasy"],
+      "total_books": 10,
+      "currently_on_bestseller_list": false,
+      "description": "The most ambitious epic fantasy series ever written — spanning continents, millennia, and hundreds of characters across ten doorstop novels. Malazan drops you in with no handholding and rewards patient readers with an unmatched sense of scope, tragedy, and awe. Notoriously difficult to enter, impossible to forget.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Gardens of the Moon",
+            "amazon_url": "https://www.amazon.com/s?k=Gardens+of+the+Moon+Erikson&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Deadhouse Gates",
+            "amazon_url": "https://www.amazon.com/s?k=Deadhouse+Gates+Erikson&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Memories of Ice",
+            "amazon_url": "https://www.amazon.com/s?k=Memories+of+Ice+Erikson&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "House of Chains",
+            "amazon_url": "https://www.amazon.com/s?k=House+of+Chains+Erikson&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Midnight Tides",
+            "amazon_url": "https://www.amazon.com/s?k=Midnight+Tides+Erikson&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The Bonehunters",
+            "amazon_url": "https://www.amazon.com/s?k=The+Bonehunters+Erikson&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Reaper's Gale",
+            "amazon_url": "https://www.amazon.com/s?k=Reaper%27s+Gale+Erikson&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Toll the Hounds",
+            "amazon_url": "https://www.amazon.com/s?k=Toll+the+Hounds+Erikson&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Dust of Dreams",
+            "amazon_url": "https://www.amazon.com/s?k=Dust+of+Dreams+Erikson&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "The Crippled God",
+            "amazon_url": "https://www.amazon.com/s?k=The+Crippled+God+Erikson&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Gardens of the Moon",
+            "note": "Erikson recommends starting here despite the steep learning curve — trust the process",
+            "amazon_url": "https://www.amazon.com/s?k=Gardens+of+the+Moon+Erikson&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Deadhouse Gates",
+            "amazon_url": "https://www.amazon.com/s?k=Deadhouse+Gates+Erikson&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Memories of Ice",
+            "amazon_url": "https://www.amazon.com/s?k=Memories+of+Ice+Erikson&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "House of Chains",
+            "amazon_url": "https://www.amazon.com/s?k=House+of+Chains+Erikson&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Midnight Tides",
+            "amazon_url": "https://www.amazon.com/s?k=Midnight+Tides+Erikson&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The Bonehunters",
+            "amazon_url": "https://www.amazon.com/s?k=The+Bonehunters+Erikson&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Reaper's Gale",
+            "amazon_url": "https://www.amazon.com/s?k=Reaper%27s+Gale+Erikson&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Toll the Hounds",
+            "amazon_url": "https://www.amazon.com/s?k=Toll+the+Hounds+Erikson&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Dust of Dreams",
+            "amazon_url": "https://www.amazon.com/s?k=Dust+of+Dreams+Erikson&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "The Crippled God",
+            "amazon_url": "https://www.amazon.com/s?k=The+Crippled+God+Erikson&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "chronicles-of-narnia",
+      "title": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "genres": ["Fantasy", "Young Adult"],
+      "total_books": 7,
+      "currently_on_bestseller_list": false,
+      "description": "Seven books set in the magical land of Narnia — entered through a wardrobe, a painting, or a pool between worlds — where talking animals, ancient magic, and the great lion Aslan shape the destinies of children from our world. Beloved across generations, and home to one of the great reading-order debates in all of literature.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "The Magician's Nephew",
+            "note": "The origin of Narnia — but Lewis wrote it 6th; many readers prefer saving it until after The Lion, the Witch and the Wardrobe",
+            "amazon_url": "https://www.amazon.com/s?k=The+Magician%27s+Nephew+CS+Lewis&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Lion, the Witch and the Wardrobe",
+            "amazon_url": "https://www.amazon.com/s?k=The+Lion+the+Witch+and+the+Wardrobe+CS+Lewis&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Horse and His Boy",
+            "amazon_url": "https://www.amazon.com/s?k=The+Horse+and+His+Boy+CS+Lewis&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Prince Caspian",
+            "amazon_url": "https://www.amazon.com/s?k=Prince+Caspian+CS+Lewis&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Voyage of the Dawn Treader",
+            "amazon_url": "https://www.amazon.com/s?k=The+Voyage+of+the+Dawn+Treader+CS+Lewis&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The Silver Chair",
+            "amazon_url": "https://www.amazon.com/s?k=The+Silver+Chair+CS+Lewis&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "The Last Battle",
+            "amazon_url": "https://www.amazon.com/s?k=The+Last+Battle+CS+Lewis&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "The Lion, the Witch and the Wardrobe",
+            "note": "The classic entry point — Lewis wrote this first and it remains the best introduction to Narnia",
+            "amazon_url": "https://www.amazon.com/s?k=The+Lion+the+Witch+and+the+Wardrobe+CS+Lewis&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Prince Caspian",
+            "amazon_url": "https://www.amazon.com/s?k=Prince+Caspian+CS+Lewis&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Voyage of the Dawn Treader",
+            "amazon_url": "https://www.amazon.com/s?k=The+Voyage+of+the+Dawn+Treader+CS+Lewis&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Silver Chair",
+            "amazon_url": "https://www.amazon.com/s?k=The+Silver+Chair+CS+Lewis&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Horse and His Boy",
+            "amazon_url": "https://www.amazon.com/s?k=The+Horse+and+His+Boy+CS+Lewis&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The Magician's Nephew",
+            "amazon_url": "https://www.amazon.com/s?k=The+Magician%27s+Nephew+CS+Lewis&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "The Last Battle",
+            "amazon_url": "https://www.amazon.com/s?k=The+Last+Battle+CS+Lewis&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dark-tower",
+      "title": "The Dark Tower",
+      "author": "Stephen King",
+      "genres": ["Fantasy", "Horror"],
+      "total_books": 8,
+      "currently_on_bestseller_list": false,
+      "description": "Roland Deschain, the last gunslinger, pursues the mysterious Man in Black across a dying world toward the Dark Tower — the nexus of all universes. King's magnum opus fuses spaghetti-western grit with Arthurian myth, horror, and meta-fiction in a saga spanning eight books and thirty years of writing.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "The Gunslinger",
+            "amazon_url": "https://www.amazon.com/s?k=The+Gunslinger+Stephen+King+Dark+Tower&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Drawing of the Three",
+            "amazon_url": "https://www.amazon.com/s?k=The+Drawing+of+the+Three+Stephen+King&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Waste Lands",
+            "amazon_url": "https://www.amazon.com/s?k=The+Waste+Lands+Stephen+King&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Wizard and Glass",
+            "amazon_url": "https://www.amazon.com/s?k=Wizard+and+Glass+Stephen+King&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Wind Through the Keyhole",
+            "note": "Set between Books 4 and 5 — can also be read after completing the series",
+            "amazon_url": "https://www.amazon.com/s?k=The+Wind+Through+the+Keyhole+Stephen+King&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Wolves of the Calla",
+            "amazon_url": "https://www.amazon.com/s?k=Wolves+of+the+Calla+Stephen+King&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Song of Susannah",
+            "amazon_url": "https://www.amazon.com/s?k=Song+of+Susannah+Stephen+King&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "The Dark Tower",
+            "amazon_url": "https://www.amazon.com/s?k=The+Dark+Tower+Stephen+King+novel&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "The Gunslinger",
+            "note": "King recommends the revised 2003 edition as the definitive starting point",
+            "amazon_url": "https://www.amazon.com/s?k=The+Gunslinger+Stephen+King+Dark+Tower&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Drawing of the Three",
+            "amazon_url": "https://www.amazon.com/s?k=The+Drawing+of+the+Three+Stephen+King&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Waste Lands",
+            "amazon_url": "https://www.amazon.com/s?k=The+Waste+Lands+Stephen+King&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Wizard and Glass",
+            "amazon_url": "https://www.amazon.com/s?k=Wizard+and+Glass+Stephen+King&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Wind Through the Keyhole",
+            "note": "Set between Books 4 and 5 — can also be read after completing the series",
+            "amazon_url": "https://www.amazon.com/s?k=The+Wind+Through+the+Keyhole+Stephen+King&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Wolves of the Calla",
+            "amazon_url": "https://www.amazon.com/s?k=Wolves+of+the+Calla+Stephen+King&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Song of Susannah",
+            "amazon_url": "https://www.amazon.com/s?k=Song+of+Susannah+Stephen+King&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "The Dark Tower",
+            "amazon_url": "https://www.amazon.com/s?k=The+Dark+Tower+Stephen+King+novel&tag=jacketlist-20"
+          }
+        ]
+      }
     }
   ]
 }

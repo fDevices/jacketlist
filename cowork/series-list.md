@@ -39,6 +39,12 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 |--------|--------|----|
 | Dinniman, Matt | Dungeon Crawler Carl | `dungeon-crawler-carl` |
 
+## E
+
+| Author | Series | ID |
+|--------|--------|----|
+| Erikson, Steven | The Malazan Book of the Fallen | `malazan` |
+
 ## F
 
 | Author | Series | ID |
@@ -57,6 +63,7 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 | Author | Series | ID |
 |--------|--------|----|
 | Herbert, Frank | Dune | `dune` |
+| Hobb, Robin | Realm of the Elderlings | `realm-of-the-elderlings` |
 | Hoover, Colleen | It Ends with Us | `it-ends-with-us` |
 
 ## J
@@ -66,11 +73,19 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 | Jimenez, Abby | Part of Your World | `part-of-your-world` |
 | Jordan, Robert (cont. Brandon Sanderson) | The Wheel of Time | `wheel-of-time` |
 
+## K
+
+| Author | Series | ID |
+|--------|--------|----|
+| King, Stephen | The Dark Tower | `dark-tower` |
+
 ## L
 
 | Author | Series | ID |
 |--------|--------|----|
+| Lewis, C.S. | The Chronicles of Narnia | `chronicles-of-narnia` |
 | Ludlum, Robert (cont. Eric Van Lustbader) | Jason Bourne | `jason-bourne` |
+| Lynch, Scott | The Gentlemen Bastards | `gentlemen-bastards` |
 
 ## M
 
@@ -131,4 +146,4 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 
 ---
 
-*44 series total. Update this file whenever a new series is merged into `series.json`.*
+*49 series total. Update this file whenever a new series is merged into `series.json`.*
