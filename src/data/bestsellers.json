@@ -5,7 +5,7 @@
       "id": "the-correspondent",
       "title": "The Correspondent",
       "author": "Virginia Evans",
-      "cover_url": "",
+      "cover_url": "/images/the-correspondent.webp",
       "description": "Letters from someone Sybil Van Antwerp used to know pull her back toward a past she buried — and a forgiveness she isn't sure she can give.",
       "sources": ["nyt", "publishersweekly", "goodreads", "audible", "amazon", "usatoday", "guardian"],
       "sources_positions": [
@@ -29,7 +29,7 @@
       "id": "judge-stone",
       "title": "Judge Stone",
       "author": "Viola Davis and James Patterson",
-      "cover_url": "",
+      "cover_url": "/images/judge-stone.webp",
       "description": "Judge Mary Stone takes on an ethically explosive case in her Alabama courtroom — and must decide how far justice can go before it becomes something else.",
       "sources": ["nyt", "publishersweekly", "audible", "amazon", "usatoday", "guardian"],
       "sources_positions": [
@@ -160,7 +160,7 @@
       "id": "kin",
       "title": "Kin",
       "author": "Tayari Jones",
-      "cover_url": "",
+      "cover_url": "/images/kin.webp",
       "description": "A sweeping story of a Black American family across three generations — tracing how history, ambition, and love shape who we become and who we leave behind.",
       "sources": ["publishersweekly", "usatoday", "guardian"],
       "sources_positions": [
@@ -180,7 +180,7 @@
       "id": "the-wings-that-bind",
       "title": "The Wings That Bind",
       "author": "Briar Boleyn",
-      "cover_url": "",
+      "cover_url": "/images/the-wings-that-bind.jpeg",
       "description": "In a world where magical bonds are unbreakable, one woman discovers the bond she thought was her salvation may be the very thing that destroys her.",
       "sources": ["nyt", "publishersweekly", "usatoday"],
       "sources_positions": [
@@ -200,7 +200,7 @@
       "id": "mistakes-were-made",
       "title": "Mistakes Were Made",
       "author": "Lucy Score",
-      "cover_url": "",
+      "cover_url": "/images/mistakes-were-made.jpg",
       "description": "A commitment-phobic literary agent stranded in a small town finds herself renegotiating everything she thought she wanted — starting with her impossible new landlord.",
       "sources": ["nyt", "amazon", "usatoday"],
       "sources_positions": [
