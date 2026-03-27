@@ -3,22 +3,27 @@ import seriesData from '@/data/series.json';
 import adsData from '@/data/ads.json';
 import HomeContent from './HomeContent';
 import FooterAdZone from '@/components/FooterAdZone';
+import { computeTiebreaker } from '@/utils/scoring';
 
 export default function HomePage() {
-  // Build seriesMap: { [series_id]: series_id } for BookCard validity checks
   const seriesMap = Object.fromEntries(
     seriesData.series.map((s) => [s.id, s.id])
   );
 
-  // Sort books: score desc, rank asc
   const books = [...bestsellersData.books].sort(
-    (a, b) => b.score - a.score || a.rank - b.rank
+    (a, b) =>
+      b.score - a.score ||
+      computeTiebreaker(b) - computeTiebreaker(a)
   );
+
+  const topBooks = books.slice(0, 10);
+  const alsoTrending = books.slice(10, 25);
 
   return (
     <>
       <HomeContent
-        books={books}
+        books={topBooks}
+        alsoTrending={alsoTrending}
         series={seriesData.series}
         seriesMap={seriesMap}
         updatedDate={bestsellersData.updated}
