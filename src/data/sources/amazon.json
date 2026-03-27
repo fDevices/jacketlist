@@ -1,18 +1,18 @@
 {
   "source": "amazon",
   "label": "Amazon Best Sellers",
-  "url": "https://www.amazon.com/charts/mostread/books",
-  "updated": "2026-03-25",
+  "url": "https://www.amazon.com/charts/mostsold/fiction",
+  "updated": "2026-03-22",
   "books": [
-    { "position": 1, "title": "Project Hail Mary", "author": "Andy Weir", "cover_url": "https://covers.openlibrary.org/b/isbn/9780593135204-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Project+Hail+Mary+Andy+Weir&tag=jacketlist-20" },
-    { "position": 2, "title": "Fourth Wing", "author": "Rebecca Yarros", "cover_url": "https://covers.openlibrary.org/b/isbn/9781649374042-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Fourth+Wing+Rebecca+Yarros&tag=jacketlist-20" },
-    { "position": 3, "title": "Dear Debbie", "author": "Freida McFadden", "cover_url": "https://covers.openlibrary.org/b/id/15163694-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Dear+Debbie+Freida+McFadden&tag=jacketlist-20" },
-    { "position": 4, "title": "The Housemaid", "author": "Freida McFadden", "cover_url": "https://covers.openlibrary.org/b/isbn/9781538742570-M.jpg", "amazon_url": "https://www.amazon.com/s?k=The+Housemaid+Freida+McFadden&tag=jacketlist-20" },
-    { "position": 5, "title": "Want to Know a Secret?", "author": "Freida McFadden", "cover_url": "https://covers.openlibrary.org/b/id/15125133-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Want+to+Know+a+Secret+Freida+McFadden&tag=jacketlist-20" },
-    { "position": 6, "title": "Dungeon Crawler Carl", "author": "Matt Dinniman", "cover_url": "https://covers.openlibrary.org/b/id/15143022-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Dungeon+Crawler+Carl+Matt+Dinniman&tag=jacketlist-20" },
-    { "position": 7, "title": "Mistakes Were Made", "author": "Lucy Score", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Mistakes+Were+Made+Lucy+Score&tag=jacketlist-20" },
-    { "position": 8, "title": "Heated Rivalry", "author": "Rachel Reid", "cover_url": "https://covers.openlibrary.org/b/id/15152812-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Heated+Rivalry+Rachel+Reid&tag=jacketlist-20" },
-    { "position": 9, "title": "A Court of Thorns and Roses", "author": "Sarah J. Maas", "cover_url": "https://covers.openlibrary.org/b/isbn/9781619635180-M.jpg", "amazon_url": "https://www.amazon.com/s?k=A+Court+of+Thorns+and+Roses+Sarah+Maas&tag=jacketlist-20" },
-    { "position": 10, "title": "It Ends with Us", "author": "Colleen Hoover", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=It+Ends+with+Us+Colleen+Hoover&tag=jacketlist-20" }
+    { "position": 1, "title": "Theo of Golden", "author": "Allen Levi", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Theo+of+Golden+Allen+Levi&tag=jacketlist-20" },
+    { "position": 2, "title": "Project Hail Mary", "author": "Andy Weir", "cover_url": "https://covers.openlibrary.org/b/id/11200092-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Project+Hail+Mary+Andy+Weir&tag=jacketlist-20" },
+    { "position": 3, "title": "The Correspondent", "author": "Virginia Evans", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Correspondent+Virginia+Evans&tag=jacketlist-20" },
+    { "position": 4, "title": "Judge Stone", "author": "Viola Davis and James Patterson", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Judge+Stone+Viola+Davis+James+Patterson&tag=jacketlist-20" },
+    { "position": 5, "title": "The Housemaid", "author": "Freida McFadden", "cover_url": "https://covers.openlibrary.org/b/id/15105883-M.jpg", "amazon_url": "https://www.amazon.com/s?k=The+Housemaid+Freida+McFadden&tag=jacketlist-20" },
+    { "position": 6, "title": "Dear Debbie", "author": "Freida McFadden", "cover_url": "https://covers.openlibrary.org/b/id/15163694-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Dear+Debbie+Freida+McFadden&tag=jacketlist-20" },
+    { "position": 7, "title": "Reminders of Him", "author": "Colleen Hoover", "cover_url": "https://covers.openlibrary.org/b/id/12504366-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Reminders+of+Him+Colleen+Hoover&tag=jacketlist-20" },
+    { "position": 8, "title": "Mistakes Were Made", "author": "Lucy Score", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Mistakes+Were+Made+Lucy+Score&tag=jacketlist-20" },
+    { "position": 9, "title": "My Husband's Wife", "author": "Alice Feeney", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=My+Husband%27s+Wife+Alice+Feeney&tag=jacketlist-20" },
+    { "position": 10, "title": "The Let Them Theory", "author": "Mel Robbins", "cover_url": "https://covers.openlibrary.org/b/id/15165806-M.jpg", "amazon_url": "https://www.amazon.com/s?k=The+Let+Them+Theory+Mel+Robbins&tag=jacketlist-20" }
   ]
 }
