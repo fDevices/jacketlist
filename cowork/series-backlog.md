@@ -14,10 +14,14 @@ Format: `Series Name — Author (Genre)`
 - ~~The First Law — Joe Abercrombie~~ ✅
 - ~~The Witcher — Andrzej Sapkowski~~ ✅
 - ~~His Dark Materials — Philip Pullman~~ ✅
+- ~~The Blacktongue Thief — Christopher Buehlman~~ ✅
+- ~~Dungeon Crawler Carl — Matt Dinniman~~ ✅
+- ~~Six of Crows — Leigh Bardugo~~ ✅
+- ~~An Ember in the Ashes — Sabaa Tahir~~ ✅
+- ~~The Inheritance Cycle — Christopher Paolini~~ ✅
 - Discworld — Terry Pratchett
 - The Chronicles of Narnia — C.S. Lewis
 - Shannara — Terry Brooks
-- The Inheritance Cycle — Christopher Paolini
 
 ## Sci-Fi
 
@@ -51,6 +55,7 @@ Format: `Series Name — Author (Genre)`
 
 ## Romance
 
+- ~~It Ends with Us — Colleen Hoover~~ ✅
 - Bridgerton — Julia Quinn
 - In Death — J.D. Robb
 - Fever — Karen Marie Moning

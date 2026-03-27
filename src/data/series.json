@@ -2988,6 +2988,277 @@
           }
         ]
       }
+    },
+    {
+      "id": "dungeon-crawler-carl",
+      "title": "Dungeon Crawler Carl",
+      "author": "Matt Dinniman",
+      "genres": [
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "total_books": 8,
+      "currently_on_bestseller_list": true,
+      "description": "Earth has been transformed into a deadly, televised dungeon — and Carl, an ordinary guy with his foul-mouthed princess cat Donut, must fight floor after floor of monsters while an alien audience watches for entertainment. A wildly inventive LitRPG series that blends video-game mechanics with surprisingly deep world-building and genuine emotional stakes.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Dungeon Crawler Carl",
+            "amazon_url": "https://www.amazon.com/s?k=Dungeon+Crawler+Carl+Dinniman&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Carl's Doomsday Scenario",
+            "amazon_url": "https://www.amazon.com/s?k=Carls+Doomsday+Scenario+Dinniman&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Dungeon Anarchist's Cookbook",
+            "amazon_url": "https://www.amazon.com/s?k=Dungeon+Anarchists+Cookbook+Dinniman&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Gate of the Feral Gods",
+            "amazon_url": "https://www.amazon.com/s?k=Gate+of+the+Feral+Gods+Dinniman&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Butcher's Masquerade",
+            "amazon_url": "https://www.amazon.com/s?k=Butchers+Masquerade+Dinniman&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The Eye of the Bedlam Bride",
+            "amazon_url": "https://www.amazon.com/s?k=Eye+of+the+Bedlam+Bride+Dinniman&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "This Inevitable Ruin",
+            "amazon_url": "https://www.amazon.com/s?k=This+Inevitable+Ruin+Dinniman&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "A Parade of Horribles",
+            "amazon_url": "https://www.amazon.com/s?k=A+Parade+of+Horribles+Dinniman&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Dungeon Crawler Carl",
+            "amazon_url": "https://www.amazon.com/s?k=Dungeon+Crawler+Carl+Dinniman&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Carl's Doomsday Scenario",
+            "amazon_url": "https://www.amazon.com/s?k=Carls+Doomsday+Scenario+Dinniman&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Dungeon Anarchist's Cookbook",
+            "amazon_url": "https://www.amazon.com/s?k=Dungeon+Anarchists+Cookbook+Dinniman&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Gate of the Feral Gods",
+            "amazon_url": "https://www.amazon.com/s?k=Gate+of+the+Feral+Gods+Dinniman&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Butcher's Masquerade",
+            "amazon_url": "https://www.amazon.com/s?k=Butchers+Masquerade+Dinniman&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The Eye of the Bedlam Bride",
+            "amazon_url": "https://www.amazon.com/s?k=Eye+of+the+Bedlam+Bride+Dinniman&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "This Inevitable Ruin",
+            "amazon_url": "https://www.amazon.com/s?k=This+Inevitable+Ruin+Dinniman&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "A Parade of Horribles",
+            "amazon_url": "https://www.amazon.com/s?k=A+Parade+of+Horribles+Dinniman&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "blacktongue",
+      "title": "The Blacktongue Thief",
+      "author": "Christopher Buehlman",
+      "genres": [
+        "Fantasy"
+      ],
+      "total_books": 2,
+      "currently_on_bestseller_list": true,
+      "description": "Kinch Na Shannack is a thief who owes a debt to the Takers Guild — and to pay it off, he must escort a dangerous knight on a quest through a world ravaged by goblin wars. Dark, funny, and propulsively readable, this series is one of the freshest voices in modern fantasy.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "The Blacktongue Thief",
+            "amazon_url": "https://www.amazon.com/s?k=The+Blacktongue+Thief+Buehlman&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Daughters' War",
+            "amazon_url": "https://www.amazon.com/s?k=The+Daughters+War+Buehlman&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "The Blacktongue Thief",
+            "amazon_url": "https://www.amazon.com/s?k=The+Blacktongue+Thief+Buehlman&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Daughters' War",
+            "amazon_url": "https://www.amazon.com/s?k=The+Daughters+War+Buehlman&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "it-ends-with-us",
+      "title": "It Ends with Us",
+      "author": "Colleen Hoover",
+      "genres": [
+        "Romance",
+        "Literary Fiction"
+      ],
+      "total_books": 2,
+      "currently_on_bestseller_list": false,
+      "description": "Lily Bloom falls for charming neurosurgeon Ryle Kincaid in Boston, only to discover that love does not always mean safety — and that breaking a cycle can cost everything. A raw, emotionally devastating duology about domestic abuse, survival, and the courage to begin again.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "It Ends with Us",
+            "amazon_url": "https://www.amazon.com/s?k=It+Ends+with+Us+Hoover&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "It Starts with Us",
+            "amazon_url": "https://www.amazon.com/s?k=It+Starts+with+Us+Hoover&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "It Ends with Us",
+            "amazon_url": "https://www.amazon.com/s?k=It+Ends+with+Us+Hoover&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "It Starts with Us",
+            "amazon_url": "https://www.amazon.com/s?k=It+Starts+with+Us+Hoover&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "six-of-crows",
+      "title": "Six of Crows",
+      "author": "Leigh Bardugo",
+      "genres": [
+        "Fantasy",
+        "Young Adult"
+      ],
+      "total_books": 2,
+      "currently_on_bestseller_list": false,
+      "description": "A gang of six dangerous outcasts is hired to pull off an impossible heist in the icy, fortified city of Fjerda — each with their own secrets, scars, and reasons to fight. Set in Bardugo's Grishaverse, this duology is a masterclass in ensemble storytelling with razor-sharp plotting.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Six of Crows",
+            "note": "Can be read without prior Grishaverse knowledge, but reading the Shadow and Bone trilogy first adds depth.",
+            "amazon_url": "https://www.amazon.com/s?k=Six+of+Crows+Bardugo&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Crooked Kingdom",
+            "amazon_url": "https://www.amazon.com/s?k=Crooked+Kingdom+Bardugo&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Six of Crows",
+            "note": "Can be read without prior Grishaverse knowledge, but reading the Shadow and Bone trilogy first adds depth.",
+            "amazon_url": "https://www.amazon.com/s?k=Six+of+Crows+Bardugo&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Crooked Kingdom",
+            "amazon_url": "https://www.amazon.com/s?k=Crooked+Kingdom+Bardugo&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "an-ember-in-the-ashes",
+      "title": "An Ember in the Ashes",
+      "author": "Sabaa Tahir",
+      "genres": [
+        "Fantasy",
+        "Young Adult"
+      ],
+      "total_books": 4,
+      "currently_on_bestseller_list": false,
+      "description": "In a brutal empire inspired by ancient Rome, a Scholar girl and a soldier from the ruling class are thrown together in a deadly web of rebellion, loyalty, and forbidden longing. A complete four-book series known for its relentless pacing and morally complex characters.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "An Ember in the Ashes",
+            "amazon_url": "https://www.amazon.com/s?k=An+Ember+in+the+Ashes+Tahir&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "A Torch Against the Night",
+            "amazon_url": "https://www.amazon.com/s?k=A+Torch+Against+the+Night+Tahir&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "A Reaper at the Gates",
+            "amazon_url": "https://www.amazon.com/s?k=A+Reaper+at+the+Gates+Tahir&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "A Sky Beyond the Storm",
+            "amazon_url": "https://www.amazon.com/s?k=A+Sky+Beyond+the+Storm+Tahir&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "An Ember in the Ashes",
+            "amazon_url": "https://www.amazon.com/s?k=An+Ember+in+the+Ashes+Tahir&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "A Torch Against the Night",
+            "amazon_url": "https://www.amazon.com/s?k=A+Torch+Against+the+Night+Tahir&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "A Reaper at the Gates",
+            "amazon_url": "https://www.amazon.com/s?k=A+Reaper+at+the+Gates+Tahir&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "A Sky Beyond the Storm",
+            "amazon_url": "https://www.amazon.com/s?k=A+Sky+Beyond+the+Storm+Tahir&tag=jacketlist-20"
+          }
+        ]
+      }
     }
   ]
 }

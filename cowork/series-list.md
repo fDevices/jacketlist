@@ -16,9 +16,11 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 
 | Author | Series | ID |
 |--------|--------|----|
+| Bardugo, Leigh | Six of Crows | `six-of-crows` |
 | Box, C.J. | Joe Pickett | `joe-pickett` |
 | Bradley, Alan | Flavia de Luce | `flavia-de-luce` |
 | Brown, Pierce | Red Rising | `red-rising` |
+| Buehlman, Christopher | The Blacktongue Thief | `blacktongue` |
 
 ## C
 
@@ -30,6 +32,12 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 | Clare, Cassandra | The Mortal Instruments | `the-mortal-instruments` |
 | Collins, Suzanne | The Hunger Games | `hunger-games` |
 | Corey, James S.A. | The Expanse | `the-expanse` |
+
+## D
+
+| Author | Series | ID |
+|--------|--------|----|
+| Dinniman, Matt | Dungeon Crawler Carl | `dungeon-crawler-carl` |
 
 ## F
 
@@ -49,6 +57,7 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 | Author | Series | ID |
 |--------|--------|----|
 | Herbert, Frank | Dune | `dune` |
+| Hoover, Colleen | It Ends with Us | `it-ends-with-us` |
 
 ## J
 
@@ -117,8 +126,9 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 
 | Author | Series | ID |
 |--------|--------|----|
+| Tahir, Sabaa | An Ember in the Ashes | `an-ember-in-the-ashes` |
 | Tolkien, J.R.R. | The Lord of the Rings | `lord-of-the-rings` |
 
 ---
 
-*39 series total. Update this file whenever a new series is merged into `series.json`.*
+*44 series total. Update this file whenever a new series is merged into `series.json`.*
