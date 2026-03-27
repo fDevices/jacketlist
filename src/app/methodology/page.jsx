@@ -13,43 +13,54 @@ export default function MethodologyPage() {
       <div className="prose-like space-y-8 font-body text-on-surface">
         <section>
           <h2 className="font-headline text-[1.75rem] font-medium mb-4">How we compile the list</h2>
-          <p className="text-base leading-relaxed text-on-surface-variant">
-            Every week, JacketList aggregates bestseller data from three authoritative sources: the{' '}
-            <strong className="text-on-surface">New York Times</strong> bestseller list, the{' '}
-            <strong className="text-on-surface">Guardian</strong> books chart, and{' '}
-            <strong className="text-on-surface">Goodreads</strong> trending titles. We look at
-            current rankings across all three sources and compile a unified list.
+          <p className="text-base leading-relaxed text-on-surface-variant mb-4">
+            Every week, JacketList aggregates bestseller data from seven authoritative sources:
+          </p>
+          <ul className="space-y-2 text-base text-on-surface-variant">
+            <li><strong className="text-on-surface">New York Times</strong> — Combined Print &amp; E-Book Fiction and Nonfiction</li>
+            <li><strong className="text-on-surface">The Guardian</strong> — Weekly fiction and non-fiction charts</li>
+            <li><strong className="text-on-surface">Goodreads</strong> — Most-read books across all genres</li>
+            <li><strong className="text-on-surface">Amazon</strong> — Most-sold books, updated weekly</li>
+            <li><strong className="text-on-surface">USA Today</strong> — Single cross-format list of top-selling US books</li>
+            <li><strong className="text-on-surface">Publishers Weekly</strong> — Fiction and non-fiction trade bestsellers</li>
+            <li><strong className="text-on-surface">Audible</strong> — Most-downloaded audiobooks of the week</li>
+          </ul>
+          <p className="text-base leading-relaxed text-on-surface-variant mt-4">
+            We look at current rankings across all seven sources and merge them into a single unified list of up to 25 books.
           </p>
         </section>
 
         <section>
           <h2 className="font-headline text-[1.75rem] font-medium mb-4">Scoring</h2>
           <p className="text-base leading-relaxed text-on-surface-variant mb-4">
-            Each book earns a score based on how many of the three sources it appears in:
+            Each book earns a score of 1–7 based on how many sources it appears in simultaneously:
           </p>
           <ul className="space-y-3">
             <li className="flex items-center gap-3">
               <span className="text-xl">🔥</span>
               <div>
-                <strong className="text-on-surface">Top Pick (score 3)</strong>
-                <p className="text-sm text-on-surface-variant">Appears on all three lists simultaneously.</p>
+                <strong className="text-on-surface">Top Pick (score 5–7)</strong>
+                <p className="text-sm text-on-surface-variant">Appears on five or more lists — consensus breakout.</p>
               </div>
             </li>
             <li className="flex items-center gap-3">
               <span className="text-xl">⬆️</span>
               <div>
-                <strong className="text-on-surface">Trending (score 2)</strong>
-                <p className="text-sm text-on-surface-variant">Appears on two of the three lists.</p>
+                <strong className="text-on-surface">Trending (score 3–4)</strong>
+                <p className="text-sm text-on-surface-variant">Appears on three or four lists.</p>
               </div>
             </li>
             <li className="flex items-center gap-3">
               <span className="text-xl">👀</span>
               <div>
-                <strong className="text-on-surface">Worth Watching (score 1)</strong>
-                <p className="text-sm text-on-surface-variant">Appears on one list — newly charting or niche breakout.</p>
+                <strong className="text-on-surface">Worth Watching (score 1–2)</strong>
+                <p className="text-sm text-on-surface-variant">Appears on one or two lists — newly charting or niche breakout.</p>
               </div>
             </li>
           </ul>
+          <p className="text-base leading-relaxed text-on-surface-variant mt-4">
+            When books share the same score, we break ties using a combination of average list position and weeks on the list.
+          </p>
         </section>
 
         <section>
