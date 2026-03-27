@@ -95,10 +95,10 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 | Author | Series | ID |
 |--------|--------|----|
 | Maas, Sarah J. | A Court of Thorns and Roses | `a-court-of-thorns-and-roses` |
-| McFadden, Freida | The Housemaid | `the-housemaid` |
 | Maas, Sarah J. | Crescent City | `crescent-city` |
 | Maas, Sarah J. | Throne of Glass | `throne-of-glass` |
 | Martin, George R.R. | A Song of Ice and Fire | `a-song-of-ice-and-fire` |
+| McFadden, Freida | The Housemaid | `the-housemaid` |
 
 ## N
 
@@ -136,9 +136,9 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 
 | Author | Series | ID |
 |--------|--------|----|
+| Sanderson, Brandon | Mistborn | `mistborn` |
 | Sanderson, Brandon | The Stormlight Archive | `stormlight-archive` |
 | Score, Lucy | Knockemout | `knockemout` |
-| Sanderson, Brandon | Mistborn | `mistborn` |
 | Sapkowski, Andrzej | The Witcher | `the-witcher` |
 | Scalzi, John | Old Man's War | `old-mans-war` |
 
