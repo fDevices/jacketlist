@@ -36,6 +36,7 @@ export default function HomeContent({ books, alsoTrending = [], series, seriesMa
   const allGenres = [...new Set(series.flatMap((s) => s.genres))].sort();
   const [activeGenre, setActiveGenre] = useState(null);
   const [seriesQuery, setSeriesQuery] = useState('');
+  const [visibleCount, setVisibleCount] = useState(12);
 
   const displayedSeries = filteredSeries
     .filter((s) => {
@@ -46,6 +47,8 @@ export default function HomeContent({ books, alsoTrending = [], series, seriesMa
       }
       return true;
     });
+
+  const visibleSeries = displayedSeries.slice(0, visibleCount);
 
   return (
     <>
@@ -139,13 +142,13 @@ export default function HomeContent({ books, alsoTrending = [], series, seriesMa
           </h2>
 
           <div className="mb-6 max-w-xl">
-            <SearchBar value={seriesQuery} onChange={setSeriesQuery} />
+            <SearchBar value={seriesQuery} onChange={(val) => { setSeriesQuery(val); setVisibleCount(12); }} />
           </div>
 
           {/* Genre filter chips */}
           <div className="flex flex-wrap gap-2 mb-8">
             <button
-              onClick={() => setActiveGenre(null)}
+              onClick={() => { setActiveGenre(null); setVisibleCount(12); }}
               className={`px-3 py-1.5 rounded-full text-sm font-label transition-colors duration-300 ${
                 activeGenre === null
                   ? 'bg-secondary text-on-secondary'
@@ -157,7 +160,7 @@ export default function HomeContent({ books, alsoTrending = [], series, seriesMa
             {allGenres.map((genre) => (
               <button
                 key={genre}
-                onClick={() => setActiveGenre(genre === activeGenre ? null : genre)}
+                onClick={() => { setActiveGenre(genre === activeGenre ? null : genre); setVisibleCount(12); }}
                 className={`px-3 py-1.5 rounded-full text-sm font-label transition-colors duration-300 ${
                   activeGenre === genre
                     ? 'bg-secondary text-on-secondary'
@@ -172,11 +175,23 @@ export default function HomeContent({ books, alsoTrending = [], series, seriesMa
           {displayedSeries.length === 0 ? (
             <p className="text-on-surface-variant">No series match your search.</p>
           ) : (
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-              {displayedSeries.map((s) => (
-                <SeriesCard key={s.id} series={s} />
-              ))}
-            </div>
+            <>
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+                {visibleSeries.map((s) => (
+                  <SeriesCard key={s.id} series={s} />
+                ))}
+              </div>
+              {displayedSeries.length > visibleCount && (
+                <div className="mt-8 text-center">
+                  <button
+                    onClick={() => setVisibleCount((c) => c + 12)}
+                    className="px-6 py-2.5 rounded-full bg-surface-container-high text-on-surface-variant text-sm font-label hover:bg-surface-container transition-colors duration-300"
+                  >
+                    Load more series
+                  </button>
+                </div>
+              )}
+            </>
           )}
         </div>
       </section>
