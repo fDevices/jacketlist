@@ -1,4 +1,4 @@
-import { scoreBook, scoreBadge, computeTiebreaker } from '@/utils/scoring';
+import { scoreBook, scoreBadge, computeTiebreaker, editorialLabels, isNewRelease } from '@/utils/scoring';
 
 describe('scoreBook', () => {
   it('returns the number of sources', () => {
@@ -57,5 +57,27 @@ describe('computeTiebreaker', () => {
     // position_score = 11-5 = 6, longevity_score = min(52,10) = 10
     // tiebreaker = (6 + 10) / 2 = 8
     expect(computeTiebreaker(book)).toBe(8);
+  });
+});
+
+describe('isNewRelease', () => {
+  it('returns true for a date within 6 months', () => {
+    const recent = new Date();
+    recent.setMonth(recent.getMonth() - 3);
+    expect(isNewRelease(recent.toISOString().slice(0, 10))).toBe(true);
+  });
+
+  it('returns false for a date older than 6 months', () => {
+    const old = new Date();
+    old.setMonth(old.getMonth() - 7);
+    expect(isNewRelease(old.toISOString().slice(0, 10))).toBe(false);
+  });
+
+  it('returns false for null', () => {
+    expect(isNewRelease(null)).toBe(false);
+  });
+
+  it('returns false for undefined', () => {
+    expect(isNewRelease(undefined)).toBe(false);
   });
 });

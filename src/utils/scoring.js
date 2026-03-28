@@ -27,3 +27,10 @@ export function editorialLabels(book) {
   }
   return labels;
 }
+
+export function isNewRelease(releaseDate) {
+  if (!releaseDate) return false;
+  const sixMonthsAgo = new Date();
+  sixMonthsAgo.setMonth(sixMonthsAgo.getMonth() - 6);
+  return new Date(releaseDate) >= sixMonthsAgo;
+}
