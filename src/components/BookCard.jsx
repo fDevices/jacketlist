@@ -9,7 +9,7 @@ export default function BookCard({ book, seriesMap = {}, showScore = true }) {
   const badge = book.score !== null ? scoreBadge(book.score) : null;
   const hasValidSeries = book.series_id && seriesMap[book.series_id];
   const [coverFailed, setCoverFailed] = useState(false);
-  const labels = showScore ? editorialLabels(book) : [];
+  const labels = showScore && book.score !== null ? editorialLabels(book) : [];
 
   return (
     <article className="bg-surface-container-lowest rounded-xl p-0 flex flex-col hover:[box-shadow:0_12px_40px_rgba(27,28,26,0.05)] transition-shadow duration-300">
