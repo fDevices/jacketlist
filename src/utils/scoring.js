@@ -16,3 +16,14 @@ export function computeTiebreaker(book) {
   const longevityScore = Math.min(book.weeks_on_list, 10);
   return (positionScore + longevityScore) / 2;
 }
+
+export function editorialLabels(book) {
+  const labels = [];
+  if (book.new_this_week) labels.push('New This Week');
+  if (book.score >= 6) labels.push('Top Consensus');
+  if (book.weeks_on_list >= 8) labels.push('Long Running');
+  if (!book.new_this_week && book.weeks_on_list >= 2 && book.weeks_on_list <= 4 && book.score >= 5) {
+    labels.push('Rising Fast');
+  }
+  return labels;
+}
