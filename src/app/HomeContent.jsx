@@ -61,7 +61,7 @@ export default function HomeContent({ books, alsoTrending = [], series, seriesMa
           <p className="text-on-primary/80 text-lg font-body mb-8">
             The list worth reading. In the right order.
           </p>
-          <SearchBar value={query} onChange={setQuery} />
+          <SearchBar value={query} onChange={(val) => { setQuery(val); setVisibleCount(12); }} />
         </div>
       </section>
 
