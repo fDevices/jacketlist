@@ -1,5 +1,5 @@
 // src/app/__tests__/HomeContent.load-more.test.jsx
-import { render, screen, fireEvent } from '@testing-library/react';
+import { render, screen, fireEvent, within } from '@testing-library/react';
 import HomeContent from '../HomeContent';
 
 // Mock child components that have heavy deps
@@ -51,6 +51,7 @@ describe('Popular Series load-more', () => {
 
     fireEvent.click(screen.getByRole('button', { name: /load more series/i }));
     expect(screen.getAllByTestId('series-card')).toHaveLength(24);
+    expect(screen.getByRole('button', { name: /load more series/i })).toBeInTheDocument();
 
     fireEvent.click(screen.getByRole('button', { name: /load more series/i }));
     expect(screen.getAllByTestId('series-card')).toHaveLength(25);
@@ -75,9 +76,11 @@ describe('Popular Series load-more', () => {
     fireEvent.click(screen.getByRole('button', { name: /load more series/i }));
     expect(screen.getAllByTestId('series-card')).toHaveLength(24);
 
-    // The series SearchBar is the second search input on the page
-    const inputs = screen.getAllByTestId('search');
-    fireEvent.change(inputs[1], { target: { value: 'Series' } });
+    // Scope to the Popular Series section to avoid relying on index
+    const heading = screen.getByRole('heading', { name: /popular series/i });
+    const section = heading.closest('section');
+    const seriesSearch = within(section).getByTestId('search');
+    fireEvent.change(seriesSearch, { target: { value: 'Series' } });
     expect(screen.getAllByTestId('series-card')).toHaveLength(12);
   });
 });
