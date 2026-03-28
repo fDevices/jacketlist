@@ -2,6 +2,7 @@
 import { notFound } from 'next/navigation';
 import seriesData from '@/data/series.json';
 import adsData from '@/data/ads.json';
+import { isNewRelease } from '@/utils/scoring';
 import ReadingOrderTabs from '@/components/ReadingOrderTabs';
 import FooterAdZone from '@/components/FooterAdZone';
 
@@ -56,6 +57,17 @@ export default function SeriesPage({ params }) {
           <div className="max-w-3xl mx-auto">
             <div className="bg-secondary-container text-on-secondary-container rounded-xl px-5 py-3 text-sm font-label font-medium">
               🔥 Currently on the bestseller list
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* New release banner */}
+      {series.latest_book && isNewRelease(series.latest_book.release_date) && (
+        <section className="px-8 pb-8">
+          <div className="max-w-3xl mx-auto">
+            <div className="bg-tertiary-container text-on-tertiary-container rounded-xl px-5 py-3 text-sm font-label font-medium">
+              ✨ New release: {series.latest_book.title}
             </div>
           </div>
         </section>
