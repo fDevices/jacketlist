@@ -81,4 +81,60 @@ describe('BookCard', () => {
     // placeholder shows the book title
     expect(screen.getAllByText('Test Book').length).toBeGreaterThanOrEqual(1);
   });
+
+  const recentDate = (() => {
+    const d = new Date();
+    d.setMonth(d.getMonth() - 2);
+    return d.toISOString().slice(0, 10);
+  })();
+
+  const oldDate = (() => {
+    const d = new Date();
+    d.setMonth(d.getMonth() - 8);
+    return d.toISOString().slice(0, 10);
+  })();
+
+  const seriesMapWithNew = {
+    'stormlight-archive': {
+      id: 'stormlight-archive',
+      latest_book: { title: 'Wind and Truth', release_date: recentDate },
+    },
+  };
+
+  const seriesMapWithOld = {
+    'stormlight-archive': {
+      id: 'stormlight-archive',
+      latest_book: { title: 'Rhythm of War', release_date: oldDate },
+    },
+  };
+
+  it('shows ✨ New chip when series has a recent latest_book', () => {
+    render(
+      <BookCard
+        book={{ ...baseBook, series_id: 'stormlight-archive' }}
+        seriesMap={seriesMapWithNew}
+      />
+    );
+    expect(screen.getByText('✨ New')).toBeInTheDocument();
+  });
+
+  it('does not show ✨ New chip when latest_book is older than 6 months', () => {
+    render(
+      <BookCard
+        book={{ ...baseBook, series_id: 'stormlight-archive' }}
+        seriesMap={seriesMapWithOld}
+      />
+    );
+    expect(screen.queryByText('✨ New')).not.toBeInTheDocument();
+  });
+
+  it('does not show ✨ New chip when series has no latest_book', () => {
+    render(
+      <BookCard
+        book={{ ...baseBook, series_id: 'stormlight-archive' }}
+        seriesMap={{ 'stormlight-archive': { id: 'stormlight-archive' } }}
+      />
+    );
+    expect(screen.queryByText('✨ New')).not.toBeInTheDocument();
+  });
 });

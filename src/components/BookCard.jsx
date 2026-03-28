@@ -3,11 +3,13 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import SourceBadge from './SourceBadge';
-import { scoreBadge, editorialLabels } from '@/utils/scoring';
+import { scoreBadge, editorialLabels, isNewRelease } from '@/utils/scoring';
 
 export default function BookCard({ book, seriesMap = {}, showScore = true }) {
   const badge = book.score !== null ? scoreBadge(book.score) : null;
-  const hasValidSeries = book.series_id && seriesMap[book.series_id];
+  const seriesObj = seriesMap[book.series_id];
+  const hasValidSeries = book.series_id && seriesObj;
+  const hasNewRelease = hasValidSeries && isNewRelease(seriesObj?.latest_book?.release_date);
   const [coverFailed, setCoverFailed] = useState(false);
   const labels = showScore && book.score !== null ? editorialLabels(book) : [];
 
@@ -78,14 +80,21 @@ export default function BookCard({ book, seriesMap = {}, showScore = true }) {
           </p>
         )}
 
-        {/* Series badge */}
+        {/* Series badge + New chip */}
         {hasValidSeries && (
-          <Link
-            href={`/series/${book.series_id}`}
-            className="text-xs text-secondary font-label hover:underline"
-          >
-            📚 Part of a series
-          </Link>
+          <div className="flex items-center gap-2">
+            <Link
+              href={`/series/${book.series_id}`}
+              className="text-xs text-secondary font-label hover:underline"
+            >
+              📚 Part of a series
+            </Link>
+            {hasNewRelease && (
+              <span className="px-2 py-0.5 rounded-full bg-tertiary-container text-on-tertiary-container text-xs font-label">
+                ✨ New
+              </span>
+            )}
+          </div>
         )}
 
         {/* Description */}
