@@ -4729,6 +4729,111 @@
           }
         ]
       }
+    },
+    {
+      "id": "the-empyrean",
+      "title": "The Empyrean",
+      "author": "Rebecca Yarros",
+      "genres": ["Fantasy", "Romance"],
+      "total_books": 5,
+      "currently_on_bestseller_list": false,
+      "description": "Violet Sorrengail was meant for the quiet life of a scribe — until she's forced into the most dangerous training ground in the kingdom: dragon rider school. In a world where bonding a dragon means power and betrayal lurks in every corridor, Violet must survive classmates who want her dead, a war no one will name, and a rider who's keeping a secret that could destroy everything. Dark-academia fantasy with a slow-burn romance that readers have called impossible to put down.",
+      "orders": {
+        "chronological": [
+          { "position": 1, "title": "Fourth Wing", "amazon_url": "https://www.amazon.com/s?k=Fourth+Wing+Yarros&tag=jacketlist-20" },
+          { "position": 2, "title": "Iron Flame", "amazon_url": "https://www.amazon.com/s?k=Iron+Flame+Yarros&tag=jacketlist-20" },
+          { "position": 3, "title": "Onyx Storm", "amazon_url": "https://www.amazon.com/s?k=Onyx+Storm+Yarros&tag=jacketlist-20" }
+        ],
+        "authors_recommended": [
+          { "position": 1, "title": "Fourth Wing", "amazon_url": "https://www.amazon.com/s?k=Fourth+Wing+Yarros&tag=jacketlist-20" },
+          { "position": 2, "title": "Iron Flame", "amazon_url": "https://www.amazon.com/s?k=Iron+Flame+Yarros&tag=jacketlist-20" },
+          { "position": 3, "title": "Onyx Storm", "amazon_url": "https://www.amazon.com/s?k=Onyx+Storm+Yarros&tag=jacketlist-20" }
+        ]
+      }
+    },
+    {
+      "id": "grisha-trilogy",
+      "title": "The Grisha Trilogy",
+      "author": "Leigh Bardugo",
+      "genres": ["Fantasy", "Young Adult"],
+      "total_books": 3,
+      "currently_on_bestseller_list": false,
+      "description": "Alina Starkov is a soldier who discovers she has a rare power that could free her war-torn country from the Fold — a swath of impenetrable darkness swarming with monsters. Swept into the glittering world of the Grisha elite, Leigh Bardugo's debut trilogy introduced readers to the beloved Grishaverse, balancing political intrigue, dark magic, and a heroine who refuses to be anyone's weapon. The origin story of one of fantasy's most expansive modern universes.",
+      "orders": {
+        "chronological": [
+          { "position": 1, "title": "Shadow and Bone", "amazon_url": "https://www.amazon.com/s?k=Shadow+and+Bone+Bardugo&tag=jacketlist-20" },
+          { "position": 2, "title": "Siege and Storm", "amazon_url": "https://www.amazon.com/s?k=Siege+and+Storm+Bardugo&tag=jacketlist-20" },
+          { "position": 3, "title": "Ruin and Rising", "amazon_url": "https://www.amazon.com/s?k=Ruin+and+Rising+Bardugo&tag=jacketlist-20" }
+        ],
+        "authors_recommended": [
+          { "position": 1, "title": "Shadow and Bone", "note": "Start here before Six of Crows for the full Grishaverse experience", "amazon_url": "https://www.amazon.com/s?k=Shadow+and+Bone+Bardugo&tag=jacketlist-20" },
+          { "position": 2, "title": "Siege and Storm", "amazon_url": "https://www.amazon.com/s?k=Siege+and+Storm+Bardugo&tag=jacketlist-20" },
+          { "position": 3, "title": "Ruin and Rising", "amazon_url": "https://www.amazon.com/s?k=Ruin+and+Rising+Bardugo&tag=jacketlist-20" }
+        ]
+      }
+    },
+    {
+      "id": "the-broken-earth",
+      "title": "The Broken Earth",
+      "author": "N.K. Jemisin",
+      "genres": ["Fantasy", "Sci-Fi"],
+      "total_books": 3,
+      "currently_on_bestseller_list": false,
+      "description": "In a world wracked by catastrophic seismic events called Fifth Seasons, orogenes — people born with the power to control earth and stone — are both enslaved and feared. N.K. Jemisin's revolutionary trilogy won the Hugo Award for Best Novel three consecutive years, a feat never achieved before or since. Told in second person, it redefines what epic fantasy can be: a meditation on oppression, survival, and what we owe each other at the end of the world.",
+      "orders": {
+        "chronological": [
+          { "position": 1, "title": "The Fifth Season", "amazon_url": "https://www.amazon.com/s?k=The+Fifth+Season+Jemisin&tag=jacketlist-20" },
+          { "position": 2, "title": "The Obelisk Gate", "amazon_url": "https://www.amazon.com/s?k=The+Obelisk+Gate+Jemisin&tag=jacketlist-20" },
+          { "position": 3, "title": "The Stone Sky", "amazon_url": "https://www.amazon.com/s?k=The+Stone+Sky+Jemisin&tag=jacketlist-20" }
+        ],
+        "authors_recommended": [
+          { "position": 1, "title": "The Fifth Season", "amazon_url": "https://www.amazon.com/s?k=The+Fifth+Season+Jemisin&tag=jacketlist-20" },
+          { "position": 2, "title": "The Obelisk Gate", "amazon_url": "https://www.amazon.com/s?k=The+Obelisk+Gate+Jemisin&tag=jacketlist-20" },
+          { "position": 3, "title": "The Stone Sky", "amazon_url": "https://www.amazon.com/s?k=The+Stone+Sky+Jemisin&tag=jacketlist-20" }
+        ]
+      }
+    },
+    {
+      "id": "the-folk-of-the-air",
+      "title": "The Folk of the Air",
+      "author": "Holly Black",
+      "genres": ["Fantasy", "Young Adult"],
+      "total_books": 3,
+      "currently_on_bestseller_list": false,
+      "description": "Mortal girl Jude Duarte was raised in the treacherous High Court of Faerie after her parents' murder — and she'll do anything to earn a place among its dangerous, deceptive inhabitants. Holly Black weaves a deliciously dark tale of political scheming, faerie trickery, and a rivalry between Jude and Prince Cardan that readers will either love or obsessively hate. Sharp, seductive, and impossible to stop once started.",
+      "orders": {
+        "chronological": [
+          { "position": 1, "title": "The Cruel Prince", "amazon_url": "https://www.amazon.com/s?k=The+Cruel+Prince+Black&tag=jacketlist-20" },
+          { "position": 2, "title": "The Wicked King", "amazon_url": "https://www.amazon.com/s?k=The+Wicked+King+Black&tag=jacketlist-20" },
+          { "position": 3, "title": "The Queen of Nothing", "amazon_url": "https://www.amazon.com/s?k=The+Queen+of+Nothing+Black&tag=jacketlist-20" }
+        ],
+        "authors_recommended": [
+          { "position": 1, "title": "The Cruel Prince", "amazon_url": "https://www.amazon.com/s?k=The+Cruel+Prince+Black&tag=jacketlist-20" },
+          { "position": 2, "title": "The Wicked King", "amazon_url": "https://www.amazon.com/s?k=The+Wicked+King+Black&tag=jacketlist-20" },
+          { "position": 3, "title": "The Queen of Nothing", "amazon_url": "https://www.amazon.com/s?k=The+Queen+of+Nothing+Black&tag=jacketlist-20" }
+        ]
+      }
+    },
+    {
+      "id": "shades-of-magic",
+      "title": "Shades of Magic",
+      "author": "V.E. Schwab",
+      "genres": ["Fantasy"],
+      "total_books": 3,
+      "currently_on_bestseller_list": false,
+      "description": "In a world where parallel versions of London exist — Red, Grey, White, and the forbidden Black — only rare Antari magicians can travel between them. Kell, one of the last Antari, is pulled into a deadly game when a dangerous artifact surfaces that could unravel the boundaries between worlds. V.E. Schwab's swashbuckling trilogy combines vivid worldbuilding, morally complex characters, and the kind of propulsive plotting that devours entire weekends.",
+      "orders": {
+        "chronological": [
+          { "position": 1, "title": "A Darker Shade of Magic", "amazon_url": "https://www.amazon.com/s?k=A+Darker+Shade+of+Magic+Schwab&tag=jacketlist-20" },
+          { "position": 2, "title": "A Gathering of Shadows", "amazon_url": "https://www.amazon.com/s?k=A+Gathering+of+Shadows+Schwab&tag=jacketlist-20" },
+          { "position": 3, "title": "A Conjuring of Light", "amazon_url": "https://www.amazon.com/s?k=A+Conjuring+of+Light+Schwab&tag=jacketlist-20" }
+        ],
+        "authors_recommended": [
+          { "position": 1, "title": "A Darker Shade of Magic", "amazon_url": "https://www.amazon.com/s?k=A+Darker+Shade+of+Magic+Schwab&tag=jacketlist-20" },
+          { "position": 2, "title": "A Gathering of Shadows", "amazon_url": "https://www.amazon.com/s?k=A+Gathering+of+Shadows+Schwab&tag=jacketlist-20" },
+          { "position": 3, "title": "A Conjuring of Light", "amazon_url": "https://www.amazon.com/s?k=A+Conjuring+of+Light+Schwab&tag=jacketlist-20" }
+        ]
+      }
     }
   ]
 }

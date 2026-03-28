@@ -16,7 +16,9 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 
 | Author | Series | ID |
 |--------|--------|----|
+| Bardugo, Leigh | The Grisha Trilogy | `grisha-trilogy` |
 | Bardugo, Leigh | Six of Crows | `six-of-crows` |
+| Black, Holly | The Folk of the Air | `the-folk-of-the-air` |
 | Box, C.J. | Joe Pickett | `joe-pickett` |
 | Bradley, Alan | Flavia de Luce | `flavia-de-luce` |
 | Brown, Pierce | Red Rising | `red-rising` |
@@ -72,6 +74,7 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 
 | Author | Series | ID |
 |--------|--------|----|
+| Jemisin, N.K. | The Broken Earth | `the-broken-earth` |
 | Jimenez, Abby | Part of Your World | `part-of-your-world` |
 | Jordan, Robert (cont. Brandon Sanderson) | The Wheel of Time | `wheel-of-time` |
 
@@ -138,9 +141,10 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 |--------|--------|----|
 | Sanderson, Brandon | Mistborn | `mistborn` |
 | Sanderson, Brandon | The Stormlight Archive | `stormlight-archive` |
-| Score, Lucy | Knockemout | `knockemout` |
 | Sapkowski, Andrzej | The Witcher | `the-witcher` |
 | Scalzi, John | Old Man's War | `old-mans-war` |
+| Schwab, V.E. | Shades of Magic | `shades-of-magic` |
+| Score, Lucy | Knockemout | `knockemout` |
 
 ## T
 
@@ -149,6 +153,12 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 | Tahir, Sabaa | An Ember in the Ashes | `an-ember-in-the-ashes` |
 | Tolkien, J.R.R. | The Lord of the Rings | `lord-of-the-rings` |
 
+## Y
+
+| Author | Series | ID |
+|--------|--------|----|
+| Yarros, Rebecca | The Empyrean | `the-empyrean` |
+
 ---
 
-*54 series total. Update this file whenever a new series is merged into `series.json`.*
+*59 series total. Update this file whenever a new series is merged into `series.json`.*
