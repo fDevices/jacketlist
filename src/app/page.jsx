@@ -7,7 +7,7 @@ import { computeTiebreaker } from '@/utils/scoring';
 
 export default function HomePage() {
   const seriesMap = Object.fromEntries(
-    seriesData.series.map((s) => [s.id, s.id])
+    seriesData.series.map((s) => [s.id, s])
   );
 
   const books = [...bestsellersData.books].sort(
