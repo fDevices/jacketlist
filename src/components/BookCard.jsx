@@ -3,12 +3,13 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import SourceBadge from './SourceBadge';
-import { scoreBadge } from '@/utils/scoring';
+import { scoreBadge, editorialLabels } from '@/utils/scoring';
 
 export default function BookCard({ book, seriesMap = {}, showScore = true }) {
   const badge = book.score !== null ? scoreBadge(book.score) : null;
   const hasValidSeries = book.series_id && seriesMap[book.series_id];
   const [coverFailed, setCoverFailed] = useState(false);
+  const labels = showScore ? editorialLabels(book) : [];
 
   return (
     <article className="bg-surface-container-lowest rounded-xl p-0 flex flex-col hover:[box-shadow:0_12px_40px_rgba(27,28,26,0.05)] transition-shadow duration-300">
@@ -38,7 +39,7 @@ export default function BookCard({ book, seriesMap = {}, showScore = true }) {
         {/* Score badge */}
         {showScore && badge && (
           <span className="text-xs font-label font-medium text-secondary">
-            {badge.emoji} {badge.label}
+            {badge.emoji} {badge.label} · {book.score}/7 lists
           </span>
         )}
 
@@ -55,6 +56,20 @@ export default function BookCard({ book, seriesMap = {}, showScore = true }) {
             <SourceBadge key={s} source={s} />
           ))}
         </div>
+
+        {/* Editorial label chips */}
+        {labels.length > 0 && (
+          <div className="flex flex-wrap gap-1">
+            {labels.map((label) => (
+              <span
+                key={label}
+                className="px-2 py-0.5 rounded-full bg-primary-container text-on-primary-container text-xs font-label"
+              >
+                {label}
+              </span>
+            ))}
+          </div>
+        )}
 
         {/* Weeks on list */}
         {book.weeks_on_list > 1 && (
