@@ -69,6 +69,10 @@
       ],
       "total_books": 5,
       "currently_on_bestseller_list": true,
+      "latest_book": {
+        "title": "Wind and Truth",
+        "release_date": "2024-12-06"
+      },
       "description": "Set on the storm-ravaged world of Roshar, this epic series follows soldiers, scholars, and assassins bound together by ancient oaths and a coming desolation.",
       "orders": {
         "chronological": [
@@ -4275,6 +4279,10 @@
       ],
       "total_books": 17,
       "currently_on_bestseller_list": false,
+      "latest_book": {
+        "title": "Twelve Days",
+        "release_date": "2024-12-03"
+      },
       "description": "Harry Dresden is Chicago's only professional wizard \u2014 listed in the Yellow Pages under 'Wizard' \u2014 and business is picking up. Jim Butcher's urban fantasy series starts as fun noir-mystery and escalates into one of the most ambitious ongoing epics in the genre, with each book raising the stakes for Harry and the world he protects.",
       "orders": {
         "chronological": [
@@ -5285,6 +5293,1581 @@
             "position": 5,
             "title": "Seasparrow",
             "amazon_url": "https://www.amazon.com/s?k=Seasparrow+Cashore&tag=jacketlist-20"
+          }
+        ]
+      }
+    }
+  ,
+    {
+      "id": "sherlock-holmes",
+      "title": "Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "genres": ["Mystery", "Crime"],
+      "total_books": 4,
+      "currently_on_bestseller_list": false,
+      "description": "The original detective series, following the brilliant and eccentric Sherlock Holmes and his loyal companion Dr. Watson as they solve London's most baffling crimes.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "A Study in Scarlet",
+            "note": "Holmes and Watson meet for the first time.",
+            "amazon_url": "https://www.amazon.com/s?k=A+Study+in+Scarlet+Conan+Doyle&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Sign of the Four",
+            "amazon_url": "https://www.amazon.com/s?k=The+Sign+of+the+Four+Conan+Doyle&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Hound of the Baskervilles",
+            "amazon_url": "https://www.amazon.com/s?k=The+Hound+of+the+Baskervilles+Conan+Doyle&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Valley of Fear",
+            "amazon_url": "https://www.amazon.com/s?k=The+Valley+of+Fear+Conan+Doyle&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "A Study in Scarlet",
+            "note": "Start here to meet Holmes and Watson.",
+            "amazon_url": "https://www.amazon.com/s?k=A+Study+in+Scarlet+Conan+Doyle&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Hound of the Baskervilles",
+            "note": "The most celebrated Holmes novel — fine to read early.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Hound+of+the+Baskervilles+Conan+Doyle&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Sign of the Four",
+            "amazon_url": "https://www.amazon.com/s?k=The+Sign+of+the+Four+Conan+Doyle&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Valley of Fear",
+            "amazon_url": "https://www.amazon.com/s?k=The+Valley+of+Fear+Conan+Doyle&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ender-saga",
+      "title": "Ender's Game / Ender Saga",
+      "author": "Orson Scott Card",
+      "genres": ["Science Fiction"],
+      "total_books": 9,
+      "currently_on_bestseller_list": false,
+      "description": "A gifted child is trained at a military school in space to fight a future war against an alien species, in a series that expands into deep philosophical territory about empathy, genocide, and what it means to be human.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Ender's Game",
+            "note": "The essential starting point.",
+            "amazon_url": "https://www.amazon.com/s?k=Enders+Game+Orson+Scott+Card&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Ender's Shadow",
+            "note": "Parallel novel — events of Ender's Game from Bean's perspective.",
+            "amazon_url": "https://www.amazon.com/s?k=Enders+Shadow+Orson+Scott+Card&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Speaker for the Dead",
+            "amazon_url": "https://www.amazon.com/s?k=Speaker+for+the+Dead+Orson+Scott+Card&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Xenocide",
+            "amazon_url": "https://www.amazon.com/s?k=Xenocide+Orson+Scott+Card&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Children of the Mind",
+            "amazon_url": "https://www.amazon.com/s?k=Children+of+the+Mind+Orson+Scott+Card&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Ender's Game",
+            "note": "Start here — everything else follows.",
+            "amazon_url": "https://www.amazon.com/s?k=Enders+Game+Orson+Scott+Card&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Speaker for the Dead",
+            "note": "Card considers this his best work.",
+            "amazon_url": "https://www.amazon.com/s?k=Speaker+for+the+Dead+Orson+Scott+Card&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Ender's Shadow",
+            "note": "Read after Ender's Game for a fresh perspective on the same events.",
+            "amazon_url": "https://www.amazon.com/s?k=Enders+Shadow+Orson+Scott+Card&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Xenocide",
+            "amazon_url": "https://www.amazon.com/s?k=Xenocide+Orson+Scott+Card&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Children of the Mind",
+            "amazon_url": "https://www.amazon.com/s?k=Children+of+the+Mind+Orson+Scott+Card&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "remembrance-of-earths-past",
+      "title": "Remembrance of Earth's Past",
+      "author": "Liu Cixin",
+      "genres": ["Science Fiction"],
+      "total_books": 3,
+      "currently_on_bestseller_list": false,
+      "description": "Also known as the Three-Body Problem trilogy. A sweeping hard sci-fi epic spanning centuries, exploring first contact, civilizational collapse, and humanity's place in a dark and hostile universe.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "The Three-Body Problem",
+            "amazon_url": "https://www.amazon.com/s?k=The+Three-Body+Problem+Liu+Cixin&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Dark Forest",
+            "amazon_url": "https://www.amazon.com/s?k=The+Dark+Forest+Liu+Cixin&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Death's End",
+            "amazon_url": "https://www.amazon.com/s?k=Deaths+End+Liu+Cixin&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "The Three-Body Problem",
+            "note": "Must be read first — sets up the entire universe.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Three-Body+Problem+Liu+Cixin&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Dark Forest",
+            "amazon_url": "https://www.amazon.com/s?k=The+Dark+Forest+Liu+Cixin&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Death's End",
+            "amazon_url": "https://www.amazon.com/s?k=Deaths+End+Liu+Cixin&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "harry-bosch",
+      "title": "Harry Bosch",
+      "author": "Michael Connelly",
+      "genres": ["Crime", "Thriller"],
+      "total_books": 21,
+      "currently_on_bestseller_list": false,
+      "latest_book": {
+        "title": "The Wait",
+        "release_date": "2024-10-15"
+      },
+      "description": "Los Angeles detective Hieronymus 'Harry' Bosch relentlessly pursues justice for murder victims, driven by the belief that everyone counts or nobody counts.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "The Black Echo",
+            "amazon_url": "https://www.amazon.com/s?k=The+Black+Echo+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Black Ice",
+            "amazon_url": "https://www.amazon.com/s?k=The+Black+Ice+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Concrete Blonde",
+            "amazon_url": "https://www.amazon.com/s?k=The+Concrete+Blonde+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Last Coyote",
+            "amazon_url": "https://www.amazon.com/s?k=The+Last+Coyote+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Trunk Music",
+            "amazon_url": "https://www.amazon.com/s?k=Trunk+Music+Michael+Connelly&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "The Black Echo",
+            "note": "Start at the beginning — Bosch's arc is best followed in order.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Black+Echo+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Black Ice",
+            "amazon_url": "https://www.amazon.com/s?k=The+Black+Ice+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Concrete Blonde",
+            "amazon_url": "https://www.amazon.com/s?k=The+Concrete+Blonde+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Last Coyote",
+            "amazon_url": "https://www.amazon.com/s?k=The+Last+Coyote+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Trunk Music",
+            "amazon_url": "https://www.amazon.com/s?k=Trunk+Music+Michael+Connelly&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "wallander",
+      "title": "Wallander",
+      "author": "Henning Mankell",
+      "genres": ["Crime", "Mystery"],
+      "total_books": 12,
+      "currently_on_bestseller_list": false,
+      "description": "Swedish detective Kurt Wallander investigates dark, socially charged crimes in the quiet town of Ystad, in a series that defined the Scandinavian crime genre.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Faceless Killers",
+            "amazon_url": "https://www.amazon.com/s?k=Faceless+Killers+Henning+Mankell&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Dogs of Riga",
+            "amazon_url": "https://www.amazon.com/s?k=The+Dogs+of+Riga+Henning+Mankell&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The White Lioness",
+            "amazon_url": "https://www.amazon.com/s?k=The+White+Lioness+Henning+Mankell&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Man Who Smiled",
+            "amazon_url": "https://www.amazon.com/s?k=The+Man+Who+Smiled+Henning+Mankell&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Sidetracked",
+            "amazon_url": "https://www.amazon.com/s?k=Sidetracked+Henning+Mankell&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Faceless Killers",
+            "note": "The series opener — best read in order.",
+            "amazon_url": "https://www.amazon.com/s?k=Faceless+Killers+Henning+Mankell&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Dogs of Riga",
+            "amazon_url": "https://www.amazon.com/s?k=The+Dogs+of+Riga+Henning+Mankell&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The White Lioness",
+            "amazon_url": "https://www.amazon.com/s?k=The+White+Lioness+Henning+Mankell&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Man Who Smiled",
+            "amazon_url": "https://www.amazon.com/s?k=The+Man+Who+Smiled+Henning+Mankell&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Sidetracked",
+            "amazon_url": "https://www.amazon.com/s?k=Sidetracked+Henning+Mankell&tag=jacketlist-20"
+          }
+        ]
+      }
+    }
+  ,
+    {
+      "id": "shannara",
+      "title": "Shannara",
+      "author": "Terry Brooks",
+      "genres": ["Fantasy"],
+      "total_books": 27,
+      "currently_on_bestseller_list": false,
+      "description": "One of the longest-running fantasy series ever published. Set in a post-apocalyptic world reborn as a magical realm, the series spans multiple generations of heroes battling ancient evil.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "First King of Shannara",
+            "note": "Chronological prequel — many readers recommend starting with The Sword of Shannara instead.",
+            "amazon_url": "https://www.amazon.com/s?k=First+King+of+Shannara+Terry+Brooks&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Sword of Shannara",
+            "amazon_url": "https://www.amazon.com/s?k=The+Sword+of+Shannara+Terry+Brooks&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Elfstones of Shannara",
+            "amazon_url": "https://www.amazon.com/s?k=The+Elfstones+of+Shannara+Terry+Brooks&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Wishsong of Shannara",
+            "amazon_url": "https://www.amazon.com/s?k=The+Wishsong+of+Shannara+Terry+Brooks&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "The Sword of Shannara",
+            "note": "Brooks recommends starting here — the original novel and best entry point.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Sword+of+Shannara+Terry+Brooks&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Elfstones of Shannara",
+            "note": "Widely considered the best book in the series.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Elfstones+of+Shannara+Terry+Brooks&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Wishsong of Shannara",
+            "amazon_url": "https://www.amazon.com/s?k=The+Wishsong+of+Shannara+Terry+Brooks&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "First King of Shannara",
+            "note": "Read as a prequel after the original trilogy.",
+            "amazon_url": "https://www.amazon.com/s?k=First+King+of+Shannara+Terry+Brooks&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "riyria-chronicles",
+      "title": "The Riyria Chronicles",
+      "author": "Michael J. Sullivan",
+      "genres": ["Fantasy"],
+      "total_books": 6,
+      "currently_on_bestseller_list": false,
+      "description": "A charming, swashbuckling fantasy following two mismatched thieves — the brooding Hadrian and the cynical Royce — who stumble into world-altering conspiracies while just trying to get paid.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Theft of Swords",
+            "note": "Collects the first two novellas: The Crown Conspiracy and Avempartha.",
+            "amazon_url": "https://www.amazon.com/s?k=Theft+of+Swords+Michael+Sullivan&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Rise of Empire",
+            "note": "Collects Nyphron Rising and The Emerald Storm.",
+            "amazon_url": "https://www.amazon.com/s?k=Rise+of+Empire+Michael+Sullivan&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Heir of Novron",
+            "note": "Collects Wintertide and Percepliquis — the conclusion.",
+            "amazon_url": "https://www.amazon.com/s?k=Heir+of+Novron+Michael+Sullivan&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Theft of Swords",
+            "note": "Start here — Sullivan wrote the series to be read in publication order.",
+            "amazon_url": "https://www.amazon.com/s?k=Theft+of+Swords+Michael+Sullivan&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Rise of Empire",
+            "amazon_url": "https://www.amazon.com/s?k=Rise+of+Empire+Michael+Sullivan&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Heir of Novron",
+            "amazon_url": "https://www.amazon.com/s?k=Heir+of+Novron+Michael+Sullivan&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hitchhikers-guide",
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "genres": ["Science Fiction", "Comedy"],
+      "total_books": 5,
+      "currently_on_bestseller_list": false,
+      "description": "Seconds before Earth is demolished to make way for a hyperspace bypass, Arthur Dent is whisked off the planet by his alien friend Ford Prefect. A beloved comedic sci-fi series unlike anything else.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "The Hitchhiker's Guide to the Galaxy",
+            "amazon_url": "https://www.amazon.com/s?k=The+Hitchhiker%27s+Guide+to+the+Galaxy+Douglas+Adams&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Restaurant at the End of the Universe",
+            "amazon_url": "https://www.amazon.com/s?k=The+Restaurant+at+the+End+of+the+Universe+Douglas+Adams&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Life, the Universe and Everything",
+            "amazon_url": "https://www.amazon.com/s?k=Life+the+Universe+and+Everything+Douglas+Adams&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "So Long, and Thanks for All the Fish",
+            "amazon_url": "https://www.amazon.com/s?k=So+Long+and+Thanks+for+All+the+Fish+Douglas+Adams&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Mostly Harmless",
+            "amazon_url": "https://www.amazon.com/s?k=Mostly+Harmless+Douglas+Adams&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "The Hitchhiker's Guide to the Galaxy",
+            "note": "Start at the beginning — read in order.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Hitchhiker%27s+Guide+to+the+Galaxy+Douglas+Adams&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Restaurant at the End of the Universe",
+            "amazon_url": "https://www.amazon.com/s?k=The+Restaurant+at+the+End+of+the+Universe+Douglas+Adams&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Life, the Universe and Everything",
+            "amazon_url": "https://www.amazon.com/s?k=Life+the+Universe+and+Everything+Douglas+Adams&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "So Long, and Thanks for All the Fish",
+            "amazon_url": "https://www.amazon.com/s?k=So+Long+and+Thanks+for+All+the+Fish+Douglas+Adams&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Mostly Harmless",
+            "amazon_url": "https://www.amazon.com/s?k=Mostly+Harmless+Douglas+Adams&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "twilight-saga",
+      "title": "Twilight Saga",
+      "author": "Stephenie Meyer",
+      "genres": ["Fantasy", "Romance", "Young Adult"],
+      "total_books": 4,
+      "currently_on_bestseller_list": false,
+      "description": "Teenager Bella Swan moves to rainy Forks, Washington and falls in love with the mysterious Edward Cullen — who turns out to be a vampire. A cultural phenomenon that defined a generation of readers.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Twilight",
+            "amazon_url": "https://www.amazon.com/s?k=Twilight+Stephenie+Meyer&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "New Moon",
+            "amazon_url": "https://www.amazon.com/s?k=New+Moon+Stephenie+Meyer&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Eclipse",
+            "amazon_url": "https://www.amazon.com/s?k=Eclipse+Stephenie+Meyer&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Breaking Dawn",
+            "amazon_url": "https://www.amazon.com/s?k=Breaking+Dawn+Stephenie+Meyer&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Twilight",
+            "note": "Read in order.",
+            "amazon_url": "https://www.amazon.com/s?k=Twilight+Stephenie+Meyer&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "New Moon",
+            "amazon_url": "https://www.amazon.com/s?k=New+Moon+Stephenie+Meyer&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Eclipse",
+            "amazon_url": "https://www.amazon.com/s?k=Eclipse+Stephenie+Meyer&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Breaking Dawn",
+            "amazon_url": "https://www.amazon.com/s?k=Breaking+Dawn+Stephenie+Meyer&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "shadowhunter-chronicles",
+      "title": "The Shadowhunter Chronicles",
+      "author": "Cassandra Clare",
+      "genres": ["Fantasy", "Young Adult"],
+      "total_books": 17,
+      "currently_on_bestseller_list": false,
+      "description": "An ever-expanding urban fantasy universe following Shadowhunters — humans with angel blood who hunt demons. Begins with The Mortal Instruments and spans multiple sub-series set across centuries.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Clockwork Angel",
+            "note": "The Infernal Devices — set in Victorian London, chronologically first.",
+            "amazon_url": "https://www.amazon.com/s?k=Clockwork+Angel+Cassandra+Clare&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Clockwork Prince",
+            "amazon_url": "https://www.amazon.com/s?k=Clockwork+Prince+Cassandra+Clare&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Clockwork Princess",
+            "amazon_url": "https://www.amazon.com/s?k=Clockwork+Princess+Cassandra+Clare&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "City of Bones",
+            "note": "The Mortal Instruments begins here — modern-day New York.",
+            "amazon_url": "https://www.amazon.com/s?k=City+of+Bones+Cassandra+Clare&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "City of Ashes",
+            "amazon_url": "https://www.amazon.com/s?k=City+of+Ashes+Cassandra+Clare&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "City of Bones",
+            "note": "Clare recommends starting here — the original entry point with the best new-reader experience.",
+            "amazon_url": "https://www.amazon.com/s?k=City+of+Bones+Cassandra+Clare&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "City of Ashes",
+            "amazon_url": "https://www.amazon.com/s?k=City+of+Ashes+Cassandra+Clare&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "City of Glass",
+            "amazon_url": "https://www.amazon.com/s?k=City+of+Glass+Cassandra+Clare&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Clockwork Angel",
+            "note": "Read The Infernal Devices after The Mortal Instruments for maximum emotional payoff.",
+            "amazon_url": "https://www.amazon.com/s?k=Clockwork+Angel+Cassandra+Clare&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Clockwork Prince",
+            "amazon_url": "https://www.amazon.com/s?k=Clockwork+Prince+Cassandra+Clare&tag=jacketlist-20"
+          }
+        ]
+      }
+    }
+  ,
+    {
+      "id": "hyperion-cantos",
+      "title": "Hyperion Cantos",
+      "author": "Dan Simmons",
+      "genres": ["Science Fiction"],
+      "total_books": 4,
+      "currently_on_bestseller_list": false,
+      "description": "Seven pilgrims journey to the distant world of Hyperion, each carrying a tale that could determine the fate of humanity. A towering work of science fiction drawing on Keats, Canterbury Tales, and far-future cosmology.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Hyperion",
+            "note": "One of the greatest sci-fi novels ever written — essential starting point.",
+            "amazon_url": "https://www.amazon.com/s?k=Hyperion+Dan+Simmons&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Fall of Hyperion",
+            "note": "Direct continuation — read immediately after Hyperion.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Fall+of+Hyperion+Dan+Simmons&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Endymion",
+            "note": "Set 274 years later — begins a new story arc.",
+            "amazon_url": "https://www.amazon.com/s?k=Endymion+Dan+Simmons&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Rise of Endymion",
+            "amazon_url": "https://www.amazon.com/s?k=The+Rise+of+Endymion+Dan+Simmons&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Hyperion",
+            "note": "Must be read first — ends on a cliffhanger resolved in book 2.",
+            "amazon_url": "https://www.amazon.com/s?k=Hyperion+Dan+Simmons&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Fall of Hyperion",
+            "amazon_url": "https://www.amazon.com/s?k=The+Fall+of+Hyperion+Dan+Simmons&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Endymion",
+            "amazon_url": "https://www.amazon.com/s?k=Endymion+Dan+Simmons&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Rise of Endymion",
+            "amazon_url": "https://www.amazon.com/s?k=The+Rise+of+Endymion+Dan+Simmons&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "the-culture",
+      "title": "The Culture",
+      "author": "Iain M. Banks",
+      "genres": ["Science Fiction"],
+      "total_books": 9,
+      "currently_on_bestseller_list": false,
+      "description": "Set in a vast post-scarcity civilization run by benevolent AIs, the Culture series follows agents, diplomats, and drones operating at the edges of an anarchist utopia. Each novel stands alone.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Consider Phlebas",
+            "note": "Chronologically first but not the easiest entry point.",
+            "amazon_url": "https://www.amazon.com/s?k=Consider+Phlebas+Iain+Banks&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Player of Games",
+            "amazon_url": "https://www.amazon.com/s?k=The+Player+of+Games+Iain+Banks&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Use of Weapons",
+            "amazon_url": "https://www.amazon.com/s?k=Use+of+Weapons+Iain+Banks&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The State of the Art",
+            "amazon_url": "https://www.amazon.com/s?k=The+State+of+the+Art+Iain+Banks&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Excession",
+            "amazon_url": "https://www.amazon.com/s?k=Excession+Iain+Banks&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "The Player of Games",
+            "note": "Banks and most fans recommend this as the ideal entry point — shorter, self-contained, and gripping.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Player+of+Games+Iain+Banks&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Consider Phlebas",
+            "note": "The original novel — read after The Player of Games.",
+            "amazon_url": "https://www.amazon.com/s?k=Consider+Phlebas+Iain+Banks&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Use of Weapons",
+            "amazon_url": "https://www.amazon.com/s?k=Use+of+Weapons+Iain+Banks&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Excession",
+            "amazon_url": "https://www.amazon.com/s?k=Excession+Iain+Banks&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Matter",
+            "amazon_url": "https://www.amazon.com/s?k=Matter+Iain+Banks&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "silo",
+      "title": "Silo",
+      "author": "Hugh Howey",
+      "genres": ["Science Fiction", "Dystopian"],
+      "total_books": 3,
+      "currently_on_bestseller_list": false,
+      "description": "Thousands of people live in a giant underground silo, the last remnant of humanity after an apocalypse rendered the surface deadly. A gripping dystopian mystery adapted into a hit Apple TV+ series.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Wool",
+            "note": "Start here — the original and most acclaimed entry.",
+            "amazon_url": "https://www.amazon.com/s?k=Wool+Hugh+Howey&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Shift",
+            "note": "Prequel — explains how the silos came to be.",
+            "amazon_url": "https://www.amazon.com/s?k=Shift+Hugh+Howey&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Dust",
+            "note": "The conclusion — ties everything together.",
+            "amazon_url": "https://www.amazon.com/s?k=Dust+Hugh+Howey&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Wool",
+            "note": "Howey recommends starting here for the best experience.",
+            "amazon_url": "https://www.amazon.com/s?k=Wool+Hugh+Howey&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Shift",
+            "amazon_url": "https://www.amazon.com/s?k=Shift+Hugh+Howey&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Dust",
+            "amazon_url": "https://www.amazon.com/s?k=Dust+Hugh+Howey&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cormoran-strike",
+      "title": "Cormoran Strike",
+      "author": "Robert Galbraith (J.K. Rowling)",
+      "genres": ["Crime", "Mystery"],
+      "total_books": 7,
+      "currently_on_bestseller_list": false,
+      "latest_book": {
+        "title": "The Running Grave",
+        "release_date": "2023-09-26"
+      },
+      "description": "War veteran and private detective Cormoran Strike, alongside his resourceful assistant Robin Ellacott, takes on complex murder cases in contemporary London. A critically acclaimed crime series by J.K. Rowling writing as Robert Galbraith.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "The Cuckoo's Calling",
+            "note": "Introduces Strike and Robin — essential starting point.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Cuckoo%27s+Calling+Robert+Galbraith&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Silkworm",
+            "amazon_url": "https://www.amazon.com/s?k=The+Silkworm+Robert+Galbraith&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Career of Evil",
+            "amazon_url": "https://www.amazon.com/s?k=Career+of+Evil+Robert+Galbraith&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Lethal White",
+            "amazon_url": "https://www.amazon.com/s?k=Lethal+White+Robert+Galbraith&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Troubled Blood",
+            "amazon_url": "https://www.amazon.com/s?k=Troubled+Blood+Robert+Galbraith&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "The Cuckoo's Calling",
+            "note": "Must be read first — character arcs build strongly across the series.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Cuckoo%27s+Calling+Robert+Galbraith&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Silkworm",
+            "amazon_url": "https://www.amazon.com/s?k=The+Silkworm+Robert+Galbraith&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Career of Evil",
+            "amazon_url": "https://www.amazon.com/s?k=Career+of+Evil+Robert+Galbraith&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Lethal White",
+            "amazon_url": "https://www.amazon.com/s?k=Lethal+White+Robert+Galbraith&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Troubled Blood",
+            "amazon_url": "https://www.amazon.com/s?k=Troubled+Blood+Robert+Galbraith&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "inspector-rebus",
+      "title": "Inspector Rebus",
+      "author": "Ian Rankin",
+      "genres": ["Crime", "Mystery"],
+      "total_books": 23,
+      "currently_on_bestseller_list": false,
+      "description": "Edinburgh detective John Rebus is brilliant, stubborn, and self-destructive — a loner who bends rules to get results. One of the defining crime series of the past 30 years, steeped in Scottish atmosphere.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Knots & Crosses",
+            "note": "The debut — introduces Rebus and Edinburgh.",
+            "amazon_url": "https://www.amazon.com/s?k=Knots+and+Crosses+Ian+Rankin&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Hide & Seek",
+            "amazon_url": "https://www.amazon.com/s?k=Hide+and+Seek+Ian+Rankin&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Tooth & Nail",
+            "amazon_url": "https://www.amazon.com/s?k=Tooth+and+Nail+Ian+Rankin&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Strip Jack",
+            "amazon_url": "https://www.amazon.com/s?k=Strip+Jack+Ian+Rankin&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Black Book",
+            "amazon_url": "https://www.amazon.com/s?k=The+Black+Book+Ian+Rankin&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Knots & Crosses",
+            "note": "Start from the beginning — Rebus's history shapes everything.",
+            "amazon_url": "https://www.amazon.com/s?k=Knots+and+Crosses+Ian+Rankin&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Hide & Seek",
+            "amazon_url": "https://www.amazon.com/s?k=Hide+and+Seek+Ian+Rankin&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Strip Jack",
+            "note": "Rankin considers this where the series hits its stride.",
+            "amazon_url": "https://www.amazon.com/s?k=Strip+Jack+Ian+Rankin&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Black Book",
+            "amazon_url": "https://www.amazon.com/s?k=The+Black+Book+Ian+Rankin&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Mortal Causes",
+            "amazon_url": "https://www.amazon.com/s?k=Mortal+Causes+Ian+Rankin&tag=jacketlist-20"
+          }
+        ]
+      }
+    }
+  ,
+    {
+      "id": "dublin-murder-squad",
+      "title": "Dublin Murder Squad",
+      "author": "Tana French",
+      "genres": ["Crime", "Mystery"],
+      "total_books": 6,
+      "currently_on_bestseller_list": false,
+      "description": "Each novel follows a different detective from Dublin's Murder Squad, weaving psychological depth, unreliable narrators, and richly atmospheric Irish settings. One of the most acclaimed crime series of the 21st century.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "In the Woods",
+            "note": "The debut — introduces the Murder Squad and the world.",
+            "amazon_url": "https://www.amazon.com/s?k=In+the+Woods+Tana+French&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Likeness",
+            "amazon_url": "https://www.amazon.com/s?k=The+Likeness+Tana+French&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Faithful Place",
+            "amazon_url": "https://www.amazon.com/s?k=Faithful+Place+Tana+French&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Broken Harbour",
+            "amazon_url": "https://www.amazon.com/s?k=Broken+Harbour+Tana+French&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Secret Place",
+            "amazon_url": "https://www.amazon.com/s?k=The+Secret+Place+Tana+French&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The Trespasser",
+            "amazon_url": "https://www.amazon.com/s?k=The+Trespasser+Tana+French&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "In the Woods",
+            "note": "Start here — each book follows a different detective but characters recur.",
+            "amazon_url": "https://www.amazon.com/s?k=In+the+Woods+Tana+French&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Likeness",
+            "note": "Many readers consider this the best in the series.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Likeness+Tana+French&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Faithful Place",
+            "amazon_url": "https://www.amazon.com/s?k=Faithful+Place+Tana+French&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Broken Harbour",
+            "amazon_url": "https://www.amazon.com/s?k=Broken+Harbour+Tana+French&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Secret Place",
+            "amazon_url": "https://www.amazon.com/s?k=The+Secret+Place+Tana+French&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The Trespasser",
+            "amazon_url": "https://www.amazon.com/s?k=The+Trespasser+Tana+French&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "murderbot-diaries",
+      "title": "Murderbot Diaries",
+      "author": "Martha Wells",
+      "genres": ["Science Fiction"],
+      "total_books": 7,
+      "currently_on_bestseller_list": false,
+      "latest_book": {
+        "title": "System Collapse",
+        "release_date": "2023-11-14"
+      },
+      "description": "A socially anxious part-human, part-machine construct who has hacked its own governor module just wants to watch TV serials — but keeps getting pulled into saving humans against its will. Hugo and Nebula Award-winning series.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "All Systems Red",
+            "note": "The first novella — short, fast, and the perfect entry point.",
+            "amazon_url": "https://www.amazon.com/s?k=All+Systems+Red+Martha+Wells&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Artificial Condition",
+            "amazon_url": "https://www.amazon.com/s?k=Artificial+Condition+Martha+Wells&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Rogue Protocol",
+            "amazon_url": "https://www.amazon.com/s?k=Rogue+Protocol+Martha+Wells&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Exit Strategy",
+            "amazon_url": "https://www.amazon.com/s?k=Exit+Strategy+Martha+Wells&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Network Effect",
+            "note": "First full-length novel in the series.",
+            "amazon_url": "https://www.amazon.com/s?k=Network+Effect+Martha+Wells&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "All Systems Red",
+            "note": "Must be read first — the series builds continuously.",
+            "amazon_url": "https://www.amazon.com/s?k=All+Systems+Red+Martha+Wells&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Artificial Condition",
+            "amazon_url": "https://www.amazon.com/s?k=Artificial+Condition+Martha+Wells&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Rogue Protocol",
+            "amazon_url": "https://www.amazon.com/s?k=Rogue+Protocol+Martha+Wells&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Exit Strategy",
+            "amazon_url": "https://www.amazon.com/s?k=Exit+Strategy+Martha+Wells&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Network Effect",
+            "amazon_url": "https://www.amazon.com/s?k=Network+Effect+Martha+Wells&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "the-locked-tomb",
+      "title": "The Locked Tomb",
+      "author": "Tamsyn Muir",
+      "genres": ["Science Fiction", "Fantasy"],
+      "total_books": 4,
+      "currently_on_bestseller_list": false,
+      "description": "Lesbian necromancers in space. A genre-defying series blending gothic horror, dark comedy, and sci-fi in a universe of bone magic and undying emperors. Wildly original and intensely beloved.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Gideon the Ninth",
+            "note": "The debut — establishes the world and the unforgettable voice.",
+            "amazon_url": "https://www.amazon.com/s?k=Gideon+the+Ninth+Tamsyn+Muir&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Harrow the Ninth",
+            "amazon_url": "https://www.amazon.com/s?k=Harrow+the+Ninth+Tamsyn+Muir&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Nona the Ninth",
+            "amazon_url": "https://www.amazon.com/s?k=Nona+the+Ninth+Tamsyn+Muir&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Alecto the Ninth",
+            "amazon_url": "https://www.amazon.com/s?k=Alecto+the+Ninth+Tamsyn+Muir&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Gideon the Ninth",
+            "note": "Start here — the series must be read in order.",
+            "amazon_url": "https://www.amazon.com/s?k=Gideon+the+Ninth+Tamsyn+Muir&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Harrow the Ninth",
+            "amazon_url": "https://www.amazon.com/s?k=Harrow+the+Ninth+Tamsyn+Muir&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Nona the Ninth",
+            "amazon_url": "https://www.amazon.com/s?k=Nona+the+Ninth+Tamsyn+Muir&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Alecto the Ninth",
+            "amazon_url": "https://www.amazon.com/s?k=Alecto+the+Ninth+Tamsyn+Muir&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "wayfarers",
+      "title": "Wayfarers",
+      "author": "Becky Chambers",
+      "genres": ["Science Fiction"],
+      "total_books": 5,
+      "currently_on_bestseller_list": false,
+      "description": "A loosely connected series of warm, character-driven sci-fi novels set in the same spacefaring universe. Each book stands alone and celebrates kindness, community, and what it means to be alive.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "The Long Way to a Small, Angry Planet",
+            "amazon_url": "https://www.amazon.com/s?k=The+Long+Way+to+a+Small+Angry+Planet+Becky+Chambers&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "A Closed and Common Orbit",
+            "amazon_url": "https://www.amazon.com/s?k=A+Closed+and+Common+Orbit+Becky+Chambers&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Record of a Spaceborn Few",
+            "amazon_url": "https://www.amazon.com/s?k=Record+of+a+Spaceborn+Few+Becky+Chambers&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Galaxy, and the Ground Within",
+            "amazon_url": "https://www.amazon.com/s?k=The+Galaxy+and+the+Ground+Within+Becky+Chambers&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Monk & Robot: A Psalm for the Wild-Built",
+            "note": "Companion duology set in a different corner of the same universe.",
+            "amazon_url": "https://www.amazon.com/s?k=A+Psalm+for+the+Wild-Built+Becky+Chambers&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "The Long Way to a Small, Angry Planet",
+            "note": "The best starting point — each book is mostly standalone but this one sets the tone.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Long+Way+to+a+Small+Angry+Planet+Becky+Chambers&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "A Closed and Common Orbit",
+            "amazon_url": "https://www.amazon.com/s?k=A+Closed+and+Common+Orbit+Becky+Chambers&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Record of a Spaceborn Few",
+            "amazon_url": "https://www.amazon.com/s?k=Record+of+a+Spaceborn+Few+Becky+Chambers&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Galaxy, and the Ground Within",
+            "amazon_url": "https://www.amazon.com/s?k=The+Galaxy+and+the+Ground+Within+Becky+Chambers&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Monk & Robot: A Psalm for the Wild-Built",
+            "amazon_url": "https://www.amazon.com/s?k=A+Psalm+for+the+Wild-Built+Becky+Chambers&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anne-of-green-gables",
+      "title": "Anne of Green Gables",
+      "author": "L.M. Montgomery",
+      "genres": ["Classic", "Literary Fiction"],
+      "total_books": 8,
+      "currently_on_bestseller_list": false,
+      "description": "The beloved story of red-haired, fiercely imaginative orphan Anne Shirley, who is mistakenly adopted by an elderly brother and sister on Prince Edward Island. One of the most cherished series in English literature.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Anne of Green Gables",
+            "note": "The classic debut — start here.",
+            "amazon_url": "https://www.amazon.com/s?k=Anne+of+Green+Gables+LM+Montgomery&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Anne of Avonlea",
+            "amazon_url": "https://www.amazon.com/s?k=Anne+of+Avonlea+LM+Montgomery&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Anne of the Island",
+            "amazon_url": "https://www.amazon.com/s?k=Anne+of+the+Island+LM+Montgomery&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Anne of Windy Poplars",
+            "amazon_url": "https://www.amazon.com/s?k=Anne+of+Windy+Poplars+LM+Montgomery&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Anne's House of Dreams",
+            "amazon_url": "https://www.amazon.com/s?k=Anne%27s+House+of+Dreams+LM+Montgomery&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Anne of Green Gables",
+            "note": "Read in order — Anne's life unfolds across the full series.",
+            "amazon_url": "https://www.amazon.com/s?k=Anne+of+Green+Gables+LM+Montgomery&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Anne of Avonlea",
+            "amazon_url": "https://www.amazon.com/s?k=Anne+of+Avonlea+LM+Montgomery&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Anne of the Island",
+            "amazon_url": "https://www.amazon.com/s?k=Anne+of+the+Island+LM+Montgomery&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Anne of Windy Poplars",
+            "amazon_url": "https://www.amazon.com/s?k=Anne+of+Windy+Poplars+LM+Montgomery&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Anne's House of Dreams",
+            "amazon_url": "https://www.amazon.com/s?k=Anne%27s+House+of+Dreams+LM+Montgomery&tag=jacketlist-20"
+          }
+        ]
+      }
+    }
+  ,
+    {
+      "id": "vorkosigan-saga",
+      "title": "Vorkosigan Saga",
+      "author": "Lois McMaster Bujold",
+      "genres": ["Science Fiction"],
+      "total_books": 17,
+      "currently_on_bestseller_list": false,
+      "description": "Follows the brilliant, hyperactive Miles Vorkosigan — a physically disabled aristocrat from a militaristic planet who creates an interstellar mercenary fleet by sheer force of personality. A Hugo and Nebula Award-winning space opera full of wit and heart.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Falling Free",
+            "note": "Set 200 years before the main series — standalone prequel.",
+            "amazon_url": "https://www.amazon.com/s?k=Falling+Free+Lois+McMaster+Bujold&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Shards of Honor",
+            "note": "Follows Miles's parents — the true chronological start.",
+            "amazon_url": "https://www.amazon.com/s?k=Shards+of+Honor+Lois+McMaster+Bujold&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Barrayar",
+            "amazon_url": "https://www.amazon.com/s?k=Barrayar+Lois+McMaster+Bujold&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Warrior's Apprentice",
+            "note": "Miles takes center stage for the first time.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Warrior%27s+Apprentice+Lois+McMaster+Bujold&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Vor Game",
+            "amazon_url": "https://www.amazon.com/s?k=The+Vor+Game+Lois+McMaster+Bujold&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "The Warrior's Apprentice",
+            "note": "Bujold recommends starting here — drops you straight into Miles's chaos.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Warrior%27s+Apprentice+Lois+McMaster+Bujold&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Vor Game",
+            "amazon_url": "https://www.amazon.com/s?k=The+Vor+Game+Lois+McMaster+Bujold&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Shards of Honor",
+            "note": "Read after to learn Miles's parents' story.",
+            "amazon_url": "https://www.amazon.com/s?k=Shards+of+Honor+Lois+McMaster+Bujold&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Barrayar",
+            "amazon_url": "https://www.amazon.com/s?k=Barrayar+Lois+McMaster+Bujold&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Mirror Dance",
+            "note": "Widely considered the series high point.",
+            "amazon_url": "https://www.amazon.com/s?k=Mirror+Dance+Lois+McMaster+Bujold&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "winternight-trilogy",
+      "title": "The Winternight Trilogy",
+      "author": "Katherine Arden",
+      "genres": ["Fantasy"],
+      "total_books": 3,
+      "currently_on_bestseller_list": false,
+      "description": "In medieval Russia, a girl named Vasya can see the spirits that protect her village — and must use that gift to save her family and her land from forces both mortal and magical. A gorgeous, atmospheric fantasy rooted in Russian folklore.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "The Bear and the Nightingale",
+            "note": "The debut — introduces Vasya and the world.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Bear+and+the+Nightingale+Katherine+Arden&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Girl in the Tower",
+            "amazon_url": "https://www.amazon.com/s?k=The+Girl+in+the+Tower+Katherine+Arden&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Winter of the Witch",
+            "note": "The conclusion.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Winter+of+the+Witch+Katherine+Arden&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "The Bear and the Nightingale",
+            "note": "Read in order — the trilogy is one continuous story.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Bear+and+the+Nightingale+Katherine+Arden&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Girl in the Tower",
+            "amazon_url": "https://www.amazon.com/s?k=The+Girl+in+the+Tower+Katherine+Arden&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Winter of the Witch",
+            "amazon_url": "https://www.amazon.com/s?k=The+Winter+of+the+Witch+Katherine+Arden&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "green-bone-saga",
+      "title": "The Green Bone Saga",
+      "author": "Fonda Lee",
+      "genres": ["Fantasy"],
+      "total_books": 3,
+      "currently_on_bestseller_list": false,
+      "description": "On the island of Kekon, two rival clans of martial artists with jade-fueled powers fight for control of the criminal underworld and political future of their nation. A sweeping, Godfather-inspired fantasy trilogy.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Jade City",
+            "note": "The series opener — introduces the Kaul family and Kekon.",
+            "amazon_url": "https://www.amazon.com/s?k=Jade+City+Fonda+Lee&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Jade War",
+            "amazon_url": "https://www.amazon.com/s?k=Jade+War+Fonda+Lee&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Jade Legacy",
+            "note": "The conclusion — spanning decades of the Kaul family saga.",
+            "amazon_url": "https://www.amazon.com/s?k=Jade+Legacy+Fonda+Lee&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Jade City",
+            "note": "Must be read first — the trilogy is one continuous story.",
+            "amazon_url": "https://www.amazon.com/s?k=Jade+City+Fonda+Lee&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Jade War",
+            "amazon_url": "https://www.amazon.com/s?k=Jade+War+Fonda+Lee&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Jade Legacy",
+            "amazon_url": "https://www.amazon.com/s?k=Jade+Legacy+Fonda+Lee&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "old-kingdom",
+      "title": "The Old Kingdom",
+      "author": "Garth Nix",
+      "genres": ["Fantasy", "Young Adult"],
+      "total_books": 6,
+      "currently_on_bestseller_list": false,
+      "description": "North of a wall separating the modern world from an ancient magical kingdom, necromancers called Abhorsens bind the dead back into Death. A landmark YA fantasy series loved by readers of all ages.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Clariel",
+            "note": "Prequel set 600 years before Sabriel — most readers recommend saving this for later.",
+            "amazon_url": "https://www.amazon.com/s?k=Clariel+Garth+Nix&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Sabriel",
+            "note": "The chronological start of the main story.",
+            "amazon_url": "https://www.amazon.com/s?k=Sabriel+Garth+Nix&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Lirael",
+            "amazon_url": "https://www.amazon.com/s?k=Lirael+Garth+Nix&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Abhorsen",
+            "amazon_url": "https://www.amazon.com/s?k=Abhorsen+Garth+Nix&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Goldenhand",
+            "amazon_url": "https://www.amazon.com/s?k=Goldenhand+Garth+Nix&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Sabriel",
+            "note": "Start here — the classic entry point Nix intended.",
+            "amazon_url": "https://www.amazon.com/s?k=Sabriel+Garth+Nix&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Lirael",
+            "amazon_url": "https://www.amazon.com/s?k=Lirael+Garth+Nix&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Abhorsen",
+            "amazon_url": "https://www.amazon.com/s?k=Abhorsen+Garth+Nix&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Clariel",
+            "note": "Read the prequel after the original trilogy for full context.",
+            "amazon_url": "https://www.amazon.com/s?k=Clariel+Garth+Nix&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Goldenhand",
+            "amazon_url": "https://www.amazon.com/s?k=Goldenhand+Garth+Nix&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dragonlance",
+      "title": "Dragonlance",
+      "author": "Margaret Weis, Tracy Hickman",
+      "genres": ["Fantasy"],
+      "total_books": 8,
+      "currently_on_bestseller_list": false,
+      "description": "Set in the world of Krynn, dragons have returned after centuries of absence and a group of unlikely heroes must save the world from the Dragon Highlords. A foundational D&D-inspired fantasy series that defined a generation.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Dragons of Autumn Twilight",
+            "note": "The Chronicles trilogy begins here — the essential starting point.",
+            "amazon_url": "https://www.amazon.com/s?k=Dragons+of+Autumn+Twilight+Weis+Hickman&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Dragons of Winter Night",
+            "amazon_url": "https://www.amazon.com/s?k=Dragons+of+Winter+Night+Weis+Hickman&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Dragons of Spring Dawning",
+            "amazon_url": "https://www.amazon.com/s?k=Dragons+of+Spring+Dawning+Weis+Hickman&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Time of the Twins",
+            "note": "The Legends trilogy begins — set after the Chronicles.",
+            "amazon_url": "https://www.amazon.com/s?k=Time+of+the+Twins+Weis+Hickman&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "War of the Twins",
+            "amazon_url": "https://www.amazon.com/s?k=War+of+the+Twins+Weis+Hickman&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Dragons of Autumn Twilight",
+            "note": "Start with the Chronicles trilogy — the original and best entry point.",
+            "amazon_url": "https://www.amazon.com/s?k=Dragons+of+Autumn+Twilight+Weis+Hickman&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Dragons of Winter Night",
+            "amazon_url": "https://www.amazon.com/s?k=Dragons+of+Winter+Night+Weis+Hickman&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Dragons of Spring Dawning",
+            "amazon_url": "https://www.amazon.com/s?k=Dragons+of+Spring+Dawning+Weis+Hickman&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Time of the Twins",
+            "note": "Continue with Legends after completing Chronicles.",
+            "amazon_url": "https://www.amazon.com/s?k=Time+of+the+Twins+Weis+Hickman&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "War of the Twins",
+            "amazon_url": "https://www.amazon.com/s?k=War+of+the+Twins+Weis+Hickman&tag=jacketlist-20"
           }
         ]
       }
