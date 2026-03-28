@@ -1,6 +1,9 @@
 import Link from 'next/link';
+import { isNewRelease } from '@/utils/scoring';
 
 export default function SeriesCard({ series }) {
+  const showNew = isNewRelease(series.latest_book?.release_date);
+
   return (
     <Link href={`/series/${series.id}`} className="block">
       <article className="bg-surface-container-lowest rounded-xl p-4 flex flex-col gap-3 hover:[box-shadow:0_12px_40px_rgba(27,28,26,0.05)] transition-shadow duration-300">
@@ -11,8 +14,13 @@ export default function SeriesCard({ series }) {
           <p className="text-sm text-on-surface-variant mt-0.5">{series.author}</p>
         </div>
 
-        {/* Genre chips */}
+        {/* Genre chips + New chip */}
         <div className="flex flex-wrap gap-1">
+          {showNew && (
+            <span className="px-2 py-0.5 rounded-full bg-tertiary-container text-on-tertiary-container text-xs font-label">
+              ✨ New
+            </span>
+          )}
           {series.genres.map((genre) => (
             <span
               key={genre}
