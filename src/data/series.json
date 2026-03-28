@@ -9,13 +9,13 @@
       ],
       "total_books": 14,
       "currently_on_bestseller_list": true,
-      "description": "One of the most epic fantasy series ever written. A young man from a backwater village learns he may be the Dragon Reborn — destined to save the world, or break it.",
+      "description": "One of the most epic fantasy series ever written. A young man from a backwater village learns he may be the Dragon Reborn \u2014 destined to save the world, or break it.",
       "orders": {
         "chronological": [
           {
             "position": 1,
             "title": "New Spring",
-            "note": "Prequel — many readers recommend saving this until after Book 10.",
+            "note": "Prequel \u2014 many readers recommend saving this until after Book 10.",
             "amazon_url": "https://www.amazon.com/s?k=New+Spring+Robert+Jordan&tag=jacketlist-20"
           },
           {
@@ -38,7 +38,7 @@
           {
             "position": 1,
             "title": "The Eye of the World",
-            "note": "Start here — best first-time experience.",
+            "note": "Start here \u2014 best first-time experience.",
             "amazon_url": "https://www.amazon.com/s?k=Eye+of+the+World+Jordan&tag=jacketlist-20"
           },
           {
@@ -85,7 +85,7 @@
           {
             "position": 3,
             "title": "Edgedancer",
-            "note": "Novella — can be read between Books 2 and 3.",
+            "note": "Novella \u2014 can be read between Books 2 and 3.",
             "amazon_url": "https://www.amazon.com/s?k=Edgedancer+Sanderson&tag=jacketlist-20"
           },
           {
@@ -103,7 +103,7 @@
           {
             "position": 1,
             "title": "The Way of Kings",
-            "note": "Start here — do not skip.",
+            "note": "Start here \u2014 do not skip.",
             "amazon_url": "https://www.amazon.com/s?k=The+Way+of+Kings+Sanderson&tag=jacketlist-20"
           },
           {
@@ -139,7 +139,7 @@
       ],
       "total_books": 27,
       "currently_on_bestseller_list": true,
-      "description": "A nomadic ex-military cop with no address, no phone, and no agenda — just a toothbrush and a talent for trouble. Pure thriller momentum.",
+      "description": "A nomadic ex-military cop with no address, no phone, and no agenda \u2014 just a toothbrush and a talent for trouble. Pure thriller momentum.",
       "orders": {
         "chronological": [
           {
@@ -210,7 +210,7 @@
           {
             "position": 1,
             "title": "Outlander",
-            "note": "Begin here — the books must be read in order.",
+            "note": "Begin here \u2014 the books must be read in order.",
             "amazon_url": "https://www.amazon.com/s?k=Outlander+Gabaldon&tag=jacketlist-20"
           },
           {
@@ -235,7 +235,7 @@
       ],
       "total_books": 7,
       "currently_on_bestseller_list": true,
-      "description": "In a world smothered in ash where the Dark Lord won a thousand years ago, a street thief discovers she has rare magic — and joins a heist to overthrow an immortal god-emperor. Sanderson's plotting is relentless and his magic systems are the best in fantasy.",
+      "description": "In a world smothered in ash where the Dark Lord won a thousand years ago, a street thief discovers she has rare magic \u2014 and joins a heist to overthrow an immortal god-emperor. Sanderson's plotting is relentless and his magic systems are the best in fantasy.",
       "orders": {
         "chronological": [
           {
@@ -256,7 +256,7 @@
           {
             "position": 4,
             "title": "The Alloy of Law",
-            "note": "Era 2 begins — set 300 years later, standalone-friendly.",
+            "note": "Era 2 begins \u2014 set 300 years later, standalone-friendly.",
             "amazon_url": "https://www.amazon.com/s?k=The+Alloy+of+Law+Sanderson&tag=jacketlist-20"
           },
           {
@@ -279,7 +279,7 @@
           {
             "position": 1,
             "title": "The Final Empire",
-            "note": "Start here — do not skip Era 1.",
+            "note": "Start here \u2014 do not skip Era 1.",
             "amazon_url": "https://www.amazon.com/s?k=The+Final+Empire+Sanderson&tag=jacketlist-20"
           },
           {
@@ -295,7 +295,7 @@
           {
             "position": 4,
             "title": "The Alloy of Law",
-            "note": "Era 2 begins — set 300 years later.",
+            "note": "Era 2 begins \u2014 set 300 years later.",
             "amazon_url": "https://www.amazon.com/s?k=The+Alloy+of+Law+Sanderson&tag=jacketlist-20"
           },
           {
@@ -319,20 +319,20 @@
     {
       "id": "harry-hole",
       "title": "Harry Hole",
-      "author": "Jo Nesbø",
+      "author": "Jo Nesb\u00f8",
       "genres": [
         "Crime",
         "Thriller"
       ],
       "total_books": 12,
       "currently_on_bestseller_list": false,
-      "description": "Oslo's most brilliant and self-destructive detective hunts serial killers across Scandinavia and beyond. Dark, intricate, and utterly compulsive — Nesbø is Scandinavian noir at its finest.",
+      "description": "Oslo's most brilliant and self-destructive detective hunts serial killers across Scandinavia and beyond. Dark, intricate, and utterly compulsive \u2014 Nesb\u00f8 is Scandinavian noir at its finest.",
       "orders": {
         "chronological": [
           {
             "position": 1,
             "title": "The Bat",
-            "note": "First published in Norway 1997 — sets up Harry's character.",
+            "note": "First published in Norway 1997 \u2014 sets up Harry's character.",
             "amazon_url": "https://www.amazon.com/s?k=The+Bat+Nesbo&tag=jacketlist-20"
           },
           {
@@ -466,19 +466,19 @@
       ],
       "total_books": 21,
       "currently_on_bestseller_list": false,
-      "description": "America's most lethal counterterrorism operative works outside the law to stop threats before politicians even know they exist. Flynn's Rapp is the gold standard of the post-9/11 political thriller — fast, morally complex, brutally satisfying.",
+      "description": "America's most lethal counterterrorism operative works outside the law to stop threats before politicians even know they exist. Flynn's Rapp is the gold standard of the post-9/11 political thriller \u2014 fast, morally complex, brutally satisfying.",
       "orders": {
         "chronological": [
           {
             "position": 1,
             "title": "American Assassin",
-            "note": "Prequel — Rapp's origin story, written after the series was established.",
+            "note": "Prequel \u2014 Rapp's origin story, written after the series was established.",
             "amazon_url": "https://www.amazon.com/s?k=American+Assassin+Flynn&tag=jacketlist-20"
           },
           {
             "position": 2,
             "title": "Kill Shot",
-            "note": "Second prequel — follows directly from American Assassin.",
+            "note": "Second prequel \u2014 follows directly from American Assassin.",
             "amazon_url": "https://www.amazon.com/s?k=Kill+Shot+Vince+Flynn&tag=jacketlist-20"
           },
           {
@@ -501,7 +501,7 @@
           {
             "position": 1,
             "title": "Transfer of Power",
-            "note": "Start here — Flynn's original opening. Read the prequels after you're hooked.",
+            "note": "Start here \u2014 Flynn's original opening. Read the prequels after you're hooked.",
             "amazon_url": "https://www.amazon.com/s?k=Transfer+of+Power+Flynn&tag=jacketlist-20"
           },
           {
@@ -517,7 +517,7 @@
           {
             "position": 4,
             "title": "American Assassin",
-            "note": "Now read the prequel — hits harder once you know Rapp.",
+            "note": "Now read the prequel \u2014 hits harder once you know Rapp.",
             "amazon_url": "https://www.amazon.com/s?k=American+Assassin+Flynn&tag=jacketlist-20"
           },
           {
@@ -537,7 +537,7 @@
       ],
       "total_books": 14,
       "currently_on_bestseller_list": false,
-      "description": "An amnesiac assassin dredged from the Mediterranean must piece together who he is before his past kills him. Ludlum's original trilogy defined the modern spy thriller — relentless, globe-spanning, and endlessly imitated.",
+      "description": "An amnesiac assassin dredged from the Mediterranean must piece together who he is before his past kills him. Ludlum's original trilogy defined the modern spy thriller \u2014 relentless, globe-spanning, and endlessly imitated.",
       "orders": {
         "chronological": [
           {
@@ -571,7 +571,7 @@
           {
             "position": 1,
             "title": "The Bourne Identity",
-            "note": "The original trilogy stands alone — many readers stop at Book 3.",
+            "note": "The original trilogy stands alone \u2014 many readers stop at Book 3.",
             "amazon_url": "https://www.amazon.com/s?k=The+Bourne+Identity+Ludlum&tag=jacketlist-20"
           },
           {
@@ -587,7 +587,7 @@
           {
             "position": 4,
             "title": "The Bourne Legacy",
-            "note": "Continue here if you want more — different author, same character.",
+            "note": "Continue here if you want more \u2014 different author, same character.",
             "amazon_url": "https://www.amazon.com/s?k=The+Bourne+Legacy+Van+Lustbader&tag=jacketlist-20"
           },
           {
@@ -608,7 +608,7 @@
       ],
       "total_books": 32,
       "currently_on_bestseller_list": false,
-      "description": "Washington D.C. psychologist and homicide detective Alex Cross faces the most twisted minds in America — and they always seem to know him. Patterson's pace is unmatched: short chapters, high stakes, impossible to put down.",
+      "description": "Washington D.C. psychologist and homicide detective Alex Cross faces the most twisted minds in America \u2014 and they always seem to know him. Patterson's pace is unmatched: short chapters, high stakes, impossible to put down.",
       "orders": {
         "chronological": [
           {
@@ -641,7 +641,7 @@
           {
             "position": 1,
             "title": "Along Came a Spider",
-            "note": "Start here — introduces Cross and his nemesis Gary Soneji.",
+            "note": "Start here \u2014 introduces Cross and his nemesis Gary Soneji.",
             "amazon_url": "https://www.amazon.com/s?k=Along+Came+a+Spider+Patterson&tag=jacketlist-20"
           },
           {
@@ -676,7 +676,7 @@
       ],
       "total_books": 6,
       "currently_on_bestseller_list": false,
-      "description": "On the desert planet Arrakis — the only source of the most valuable substance in the universe — a young nobleman's exile becomes the spark of an interstellar revolution. The deepest, most influential sci-fi series ever written.",
+      "description": "On the desert planet Arrakis \u2014 the only source of the most valuable substance in the universe \u2014 a young nobleman's exile becomes the spark of an interstellar revolution. The deepest, most influential sci-fi series ever written.",
       "orders": {
         "chronological": [
           {
@@ -714,7 +714,7 @@
           {
             "position": 1,
             "title": "Dune",
-            "note": "The original novel is a complete story — many readers stop here and are satisfied.",
+            "note": "The original novel is a complete story \u2014 many readers stop here and are satisfied.",
             "amazon_url": "https://www.amazon.com/s?k=Dune+Frank+Herbert&tag=jacketlist-20"
           },
           {
@@ -754,7 +754,7 @@
       ],
       "total_books": 9,
       "currently_on_bestseller_list": false,
-      "description": "Two hundred years from now, humanity has colonised the solar system — and is about to tear itself apart. The most scientifically grounded space opera of its generation, with a cast and scope that rivals Game of Thrones.",
+      "description": "Two hundred years from now, humanity has colonised the solar system \u2014 and is about to tear itself apart. The most scientifically grounded space opera of its generation, with a cast and scope that rivals Game of Thrones.",
       "orders": {
         "chronological": [
           {
@@ -807,7 +807,7 @@
           {
             "position": 1,
             "title": "Leviathan Wakes",
-            "note": "Start here — reads as a self-contained thriller before the series expands.",
+            "note": "Start here \u2014 reads as a self-contained thriller before the series expands.",
             "amazon_url": "https://www.amazon.com/s?k=Leviathan+Wakes+Corey&tag=jacketlist-20"
           },
           {
@@ -862,13 +862,13 @@
       ],
       "total_books": 7,
       "currently_on_bestseller_list": false,
-      "description": "A mathematician predicts the fall of galactic civilisation and sets in motion a thousand-year plan to shorten the coming dark age. Asimov's Foundation is the bedrock of science fiction — grand in scope, endlessly surprising in execution.",
+      "description": "A mathematician predicts the fall of galactic civilisation and sets in motion a thousand-year plan to shorten the coming dark age. Asimov's Foundation is the bedrock of science fiction \u2014 grand in scope, endlessly surprising in execution.",
       "orders": {
         "chronological": [
           {
             "position": 1,
             "title": "Prelude to Foundation",
-            "note": "Chronological prequel — written after the original trilogy.",
+            "note": "Chronological prequel \u2014 written after the original trilogy.",
             "amazon_url": "https://www.amazon.com/s?k=Prelude+to+Foundation+Asimov&tag=jacketlist-20"
           },
           {
@@ -906,7 +906,7 @@
           {
             "position": 1,
             "title": "Foundation",
-            "note": "Start with the original — Asimov wrote it first and it's the best entry point.",
+            "note": "Start with the original \u2014 Asimov wrote it first and it's the best entry point.",
             "amazon_url": "https://www.amazon.com/s?k=Foundation+Asimov&tag=jacketlist-20"
           },
           {
@@ -932,7 +932,7 @@
           {
             "position": 6,
             "title": "Prelude to Foundation",
-            "note": "Read the prequels last — they reward knowing the full story.",
+            "note": "Read the prequels last \u2014 they reward knowing the full story.",
             "amazon_url": "https://www.amazon.com/s?k=Prelude+to+Foundation+Asimov&tag=jacketlist-20"
           },
           {
@@ -952,7 +952,7 @@
       ],
       "total_books": 6,
       "currently_on_bestseller_list": false,
-      "description": "A miner born into the lowest caste of a colour-coded society on Mars infiltrates the ruling class to destroy it from within. Brutal, propulsive, and emotionally devastating — Red Rising is the heir to both Hunger Games and classic sci-fi.",
+      "description": "A miner born into the lowest caste of a colour-coded society on Mars infiltrates the ruling class to destroy it from within. Brutal, propulsive, and emotionally devastating \u2014 Red Rising is the heir to both Hunger Games and classic sci-fi.",
       "orders": {
         "chronological": [
           {
@@ -973,7 +973,7 @@
           {
             "position": 4,
             "title": "Iron Gold",
-            "note": "Saga continues — set 10 years later with multiple POVs.",
+            "note": "Saga continues \u2014 set 10 years later with multiple POVs.",
             "amazon_url": "https://www.amazon.com/s?k=Iron+Gold+Pierce+Brown&tag=jacketlist-20"
           },
           {
@@ -991,7 +991,7 @@
           {
             "position": 1,
             "title": "Red Rising",
-            "note": "The original trilogy (Books 1–3) is self-contained. Continue to Iron Gold for the saga.",
+            "note": "The original trilogy (Books 1\u20133) is self-contained. Continue to Iron Gold for the saga.",
             "amazon_url": "https://www.amazon.com/s?k=Red+Rising+Pierce+Brown&tag=jacketlist-20"
           },
           {
@@ -1031,7 +1031,7 @@
       ],
       "total_books": 6,
       "currently_on_bestseller_list": false,
-      "description": "At 75, John Perry enlists in the army — because that's the minimum age. In Scalzi's wry, action-packed universe, old men get young bodies and fight humanity's wars among the stars. The perfect gateway sci-fi series.",
+      "description": "At 75, John Perry enlists in the army \u2014 because that's the minimum age. In Scalzi's wry, action-packed universe, old men get young bodies and fight humanity's wars among the stars. The perfect gateway sci-fi series.",
       "orders": {
         "chronological": [
           {
@@ -1052,7 +1052,7 @@
           {
             "position": 4,
             "title": "Zoe's Tale",
-            "note": "Companion to The Last Colony — same events, different POV.",
+            "note": "Companion to The Last Colony \u2014 same events, different POV.",
             "amazon_url": "https://www.amazon.com/s?k=Zoes+Tale+Scalzi&tag=jacketlist-20"
           },
           {
@@ -1070,7 +1070,7 @@
           {
             "position": 1,
             "title": "Old Man's War",
-            "note": "Start here — fast, funny, and completely standalone.",
+            "note": "Start here \u2014 fast, funny, and completely standalone.",
             "amazon_url": "https://www.amazon.com/s?k=Old+Mans+War+Scalzi&tag=jacketlist-20"
           },
           {
@@ -1086,7 +1086,7 @@
           {
             "position": 4,
             "title": "Zoe's Tale",
-            "note": "Optional — skip if you want to keep moving.",
+            "note": "Optional \u2014 skip if you want to keep moving.",
             "amazon_url": "https://www.amazon.com/s?k=Zoes+Tale+Scalzi&tag=jacketlist-20"
           },
           {
@@ -1111,13 +1111,13 @@
       ],
       "total_books": 33,
       "currently_on_bestseller_list": false,
-      "description": "The fastidious Belgian detective with the magnificent moustaches and the 'little grey cells' solves the most impossible crimes in England. Christie's Poirot is the definitive cosy mystery — endlessly clever, endlessly satisfying.",
+      "description": "The fastidious Belgian detective with the magnificent moustaches and the 'little grey cells' solves the most impossible crimes in England. Christie's Poirot is the definitive cosy mystery \u2014 endlessly clever, endlessly satisfying.",
       "orders": {
         "chronological": [
           {
             "position": 1,
             "title": "The Mysterious Affair at Styles",
-            "note": "Poirot's debut — where it all begins.",
+            "note": "Poirot's debut \u2014 where it all begins.",
             "amazon_url": "https://www.amazon.com/s?k=The+Mysterious+Affair+at+Styles+Christie&tag=jacketlist-20"
           },
           {
@@ -1146,13 +1146,13 @@
           {
             "position": 1,
             "title": "Murder on the Orient Express",
-            "note": "The most famous entry — a perfect standalone starting point.",
+            "note": "The most famous entry \u2014 a perfect standalone starting point.",
             "amazon_url": "https://www.amazon.com/s?k=Murder+on+the+Orient+Express+Christie&tag=jacketlist-20"
           },
           {
             "position": 2,
             "title": "The Murder of Roger Ackroyd",
-            "note": "Read this second — it will change how you see mysteries.",
+            "note": "Read this second \u2014 it will change how you see mysteries.",
             "amazon_url": "https://www.amazon.com/s?k=The+Murder+of+Roger+Ackroyd+Christie&tag=jacketlist-20"
           },
           {
@@ -1216,7 +1216,7 @@
           {
             "position": 1,
             "title": "Still Life",
-            "note": "Must be read in order — characters and arcs build across every book.",
+            "note": "Must be read in order \u2014 characters and arcs build across every book.",
             "amazon_url": "https://www.amazon.com/s?k=Still+Life+Louise+Penny&tag=jacketlist-20"
           },
           {
@@ -1251,7 +1251,7 @@
       ],
       "total_books": 4,
       "currently_on_bestseller_list": false,
-      "description": "Four retirees in a peaceful English village meet weekly to solve cold cases — then a real murder lands on their doorstep. Warm, witty, and wildly entertaining, Osman's series is the cosiest crime phenomenon in years.",
+      "description": "Four retirees in a peaceful English village meet weekly to solve cold cases \u2014 then a real murder lands on their doorstep. Warm, witty, and wildly entertaining, Osman's series is the cosiest crime phenomenon in years.",
       "orders": {
         "chronological": [
           {
@@ -1279,7 +1279,7 @@
           {
             "position": 1,
             "title": "The Thursday Murder Club",
-            "note": "Start here — introduces all four characters perfectly.",
+            "note": "Start here \u2014 introduces all four characters perfectly.",
             "amazon_url": "https://www.amazon.com/s?k=The+Thursday+Murder+Club+Osman&tag=jacketlist-20"
           },
           {
@@ -1342,7 +1342,7 @@
           {
             "position": 1,
             "title": "The Sweetness at the Bottom of the Pie",
-            "note": "Start here — Flavia's debut is one of the great mystery openings.",
+            "note": "Start here \u2014 Flavia's debut is one of the great mystery openings.",
             "amazon_url": "https://www.amazon.com/s?k=The+Sweetness+at+the+Bottom+of+the+Pie+Bradley&tag=jacketlist-20"
           },
           {
@@ -1411,7 +1411,7 @@
           {
             "position": 1,
             "title": "A Murder is Announced",
-            "note": "Christie's own favourite Marple — a perfect standalone entry point.",
+            "note": "Christie's own favourite Marple \u2014 a perfect standalone entry point.",
             "amazon_url": "https://www.amazon.com/s?k=A+Murder+is+Announced+Christie&tag=jacketlist-20"
           },
           {
@@ -1448,7 +1448,7 @@
       ],
       "total_books": 7,
       "currently_on_bestseller_list": false,
-      "description": "An orphaned boy discovers he is a wizard and enters a hidden world of magic, friendship, and a darkness that has been hunting him since birth. The most beloved fantasy series of a generation — and just as good the second time.",
+      "description": "An orphaned boy discovers he is a wizard and enters a hidden world of magic, friendship, and a darkness that has been hunting him since birth. The most beloved fantasy series of a generation \u2014 and just as good the second time.",
       "orders": {
         "chronological": [
           {
@@ -1491,7 +1491,7 @@
           {
             "position": 1,
             "title": "Harry Potter and the Philosopher's Stone",
-            "note": "Must be read in order — each book builds on the last.",
+            "note": "Must be read in order \u2014 each book builds on the last.",
             "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Philosophers+Stone+Rowling&tag=jacketlist-20"
           },
           {
@@ -1537,13 +1537,13 @@
       ],
       "total_books": 4,
       "currently_on_bestseller_list": false,
-      "description": "In the ruins of North America, a teenage girl volunteers to fight to the death on live television to save her sister — and accidentally ignites a revolution. The YA dystopia that defined a decade and still hits harder than anything that followed.",
+      "description": "In the ruins of North America, a teenage girl volunteers to fight to the death on live television to save her sister \u2014 and accidentally ignites a revolution. The YA dystopia that defined a decade and still hits harder than anything that followed.",
       "orders": {
         "chronological": [
           {
             "position": 1,
             "title": "The Ballad of Songbirds and Snakes",
-            "note": "Prequel — set 64 years before the main trilogy.",
+            "note": "Prequel \u2014 set 64 years before the main trilogy.",
             "amazon_url": "https://www.amazon.com/s?k=The+Ballad+of+Songbirds+and+Snakes+Collins&tag=jacketlist-20"
           },
           {
@@ -1566,7 +1566,7 @@
           {
             "position": 1,
             "title": "The Hunger Games",
-            "note": "Start with the original trilogy — the prequel lands harder once you know the world.",
+            "note": "Start with the original trilogy \u2014 the prequel lands harder once you know the world.",
             "amazon_url": "https://www.amazon.com/s?k=The+Hunger+Games+Collins&tag=jacketlist-20"
           },
           {
@@ -1598,7 +1598,7 @@
       ],
       "total_books": 5,
       "currently_on_bestseller_list": false,
-      "description": "A twelve-year-old with ADHD and dyslexia discovers he is the son of a Greek god — and that Mount Olympus is currently sitting above the Empire State Building. Riordan makes mythology hilarious, heartfelt, and completely unputdownable.",
+      "description": "A twelve-year-old with ADHD and dyslexia discovers he is the son of a Greek god \u2014 and that Mount Olympus is currently sitting above the Empire State Building. Riordan makes mythology hilarious, heartfelt, and completely unputdownable.",
       "orders": {
         "chronological": [
           {
@@ -1631,7 +1631,7 @@
           {
             "position": 1,
             "title": "The Lightning Thief",
-            "note": "Must be read in order — each book escalates the stakes.",
+            "note": "Must be read in order \u2014 each book escalates the stakes.",
             "amazon_url": "https://www.amazon.com/s?k=The+Lightning+Thief+Riordan&tag=jacketlist-20"
           },
           {
@@ -1667,7 +1667,7 @@
       ],
       "total_books": 3,
       "currently_on_bestseller_list": false,
-      "description": "In a future Chicago divided into five factions by personality, a girl who doesn't fit any of them must choose where she belongs — before her secret gets her killed. Fast-paced, gripping dystopian YA with a genuinely surprising ending.",
+      "description": "In a future Chicago divided into five factions by personality, a girl who doesn't fit any of them must choose where she belongs \u2014 before her secret gets her killed. Fast-paced, gripping dystopian YA with a genuinely surprising ending.",
       "orders": {
         "chronological": [
           {
@@ -1690,7 +1690,7 @@
           {
             "position": 1,
             "title": "Divergent",
-            "note": "Must be read in order — the trilogy is one continuous story.",
+            "note": "Must be read in order \u2014 the trilogy is one continuous story.",
             "amazon_url": "https://www.amazon.com/s?k=Divergent+Veronica+Roth&tag=jacketlist-20"
           },
           {
@@ -1716,7 +1716,7 @@
       ],
       "total_books": 6,
       "currently_on_bestseller_list": false,
-      "description": "When Clary Fray's mother disappears, she is pulled into the hidden world of Shadowhunters — half-human, half-angel warriors who hunt demons. Clare's world-building is immense and her fanbase is fiercely devoted.",
+      "description": "When Clary Fray's mother disappears, she is pulled into the hidden world of Shadowhunters \u2014 half-human, half-angel warriors who hunt demons. Clare's world-building is immense and her fanbase is fiercely devoted.",
       "orders": {
         "chronological": [
           {
@@ -1754,7 +1754,7 @@
           {
             "position": 1,
             "title": "City of Bones",
-            "note": "Start here — the first trilogy (Books 1–3) is self-contained.",
+            "note": "Start here \u2014 the first trilogy (Books 1\u20133) is self-contained.",
             "amazon_url": "https://www.amazon.com/s?k=City+of+Bones+Cassandra+Clare&tag=jacketlist-20"
           },
           {
@@ -1794,7 +1794,7 @@
       ],
       "total_books": 5,
       "currently_on_bestseller_list": false,
-      "description": "In the brutal struggle for the Iron Throne, noble houses rise and fall, dragons return to the world, and winter threatens to bury everything. The most morally complex, politically intricate fantasy ever written — and the inspiration for Game of Thrones.",
+      "description": "In the brutal struggle for the Iron Throne, noble houses rise and fall, dragons return to the world, and winter threatens to bury everything. The most morally complex, politically intricate fantasy ever written \u2014 and the inspiration for Game of Thrones.",
       "orders": {
         "chronological": [
           {
@@ -1827,7 +1827,7 @@
           {
             "position": 1,
             "title": "A Game of Thrones",
-            "note": "Must be read in order — do not skip ahead.",
+            "note": "Must be read in order \u2014 do not skip ahead.",
             "amazon_url": "https://www.amazon.com/s?k=A+Game+of+Thrones+Martin&tag=jacketlist-20"
           },
           {
@@ -1862,7 +1862,7 @@
       ],
       "total_books": 3,
       "currently_on_bestseller_list": false,
-      "description": "A legendary wizard sits in a country inn and tells the true story of his life — a tale of music, magic, love, and the ruthless pursuit of knowledge. Rothfuss writes fantasy prose unlike anyone else; every sentence earns its place.",
+      "description": "A legendary wizard sits in a country inn and tells the true story of his life \u2014 a tale of music, magic, love, and the ruthless pursuit of knowledge. Rothfuss writes fantasy prose unlike anyone else; every sentence earns its place.",
       "orders": {
         "chronological": [
           {
@@ -1878,7 +1878,7 @@
           {
             "position": 3,
             "title": "The Slow Regard of Silent Things",
-            "note": "Novella — a quiet, strange companion story. Read after Book 2.",
+            "note": "Novella \u2014 a quiet, strange companion story. Read after Book 2.",
             "amazon_url": "https://www.amazon.com/s?k=The+Slow+Regard+of+Silent+Things+Rothfuss&tag=jacketlist-20"
           }
         ],
@@ -1886,7 +1886,7 @@
           {
             "position": 1,
             "title": "The Name of the Wind",
-            "note": "Start here — one of the finest opening chapters in fantasy.",
+            "note": "Start here \u2014 one of the finest opening chapters in fantasy.",
             "amazon_url": "https://www.amazon.com/s?k=The+Name+of+the+Wind+Rothfuss&tag=jacketlist-20"
           },
           {
@@ -1897,7 +1897,7 @@
           {
             "position": 3,
             "title": "The Slow Regard of Silent Things",
-            "note": "Optional novella — Rothfuss himself warns it is unlike any other fantasy book.",
+            "note": "Optional novella \u2014 Rothfuss himself warns it is unlike any other fantasy book.",
             "amazon_url": "https://www.amazon.com/s?k=The+Slow+Regard+of+Silent+Things+Rothfuss&tag=jacketlist-20"
           }
         ]
@@ -1912,7 +1912,7 @@
       ],
       "total_books": 9,
       "currently_on_bestseller_list": false,
-      "description": "In a world at war where heroes are frauds and villains have excellent reasons, a crippled torturer, a cowardly nobleman, and a barbarian northman are thrown together on a doomed quest. Abercrombie is the master of grimdark fantasy — brutal, funny, and impossible to predict.",
+      "description": "In a world at war where heroes are frauds and villains have excellent reasons, a crippled torturer, a cowardly nobleman, and a barbarian northman are thrown together on a doomed quest. Abercrombie is the master of grimdark fantasy \u2014 brutal, funny, and impossible to predict.",
       "orders": {
         "chronological": [
           {
@@ -1933,25 +1933,25 @@
           {
             "position": 4,
             "title": "Best Served Cold",
-            "note": "Standalone set in the same world — can be read after the trilogy.",
+            "note": "Standalone set in the same world \u2014 can be read after the trilogy.",
             "amazon_url": "https://www.amazon.com/s?k=Best+Served+Cold+Abercrombie&tag=jacketlist-20"
           },
           {
             "position": 5,
             "title": "The Heroes",
-            "note": "Standalone — a single battle told over three days.",
+            "note": "Standalone \u2014 a single battle told over three days.",
             "amazon_url": "https://www.amazon.com/s?k=The+Heroes+Abercrombie&tag=jacketlist-20"
           },
           {
             "position": 6,
             "title": "Red Country",
-            "note": "Standalone — grimdark western.",
+            "note": "Standalone \u2014 grimdark western.",
             "amazon_url": "https://www.amazon.com/s?k=Red+Country+Abercrombie&tag=jacketlist-20"
           },
           {
             "position": 7,
             "title": "A Little Hatred",
-            "note": "The Age of Madness begins — set 30 years after the original trilogy.",
+            "note": "The Age of Madness begins \u2014 set 30 years after the original trilogy.",
             "amazon_url": "https://www.amazon.com/s?k=A+Little+Hatred+Abercrombie&tag=jacketlist-20"
           },
           {
@@ -1969,7 +1969,7 @@
           {
             "position": 1,
             "title": "The Blade Itself",
-            "note": "Start with the original trilogy — the standalones reward knowing the world.",
+            "note": "Start with the original trilogy \u2014 the standalones reward knowing the world.",
             "amazon_url": "https://www.amazon.com/s?k=The+Blade+Itself+Abercrombie&tag=jacketlist-20"
           },
           {
@@ -2024,19 +2024,19 @@
       ],
       "total_books": 8,
       "currently_on_bestseller_list": false,
-      "description": "Geralt of Rivia is a Witcher — a mutant monster hunter for hire in a morally ambiguous world where humans are often more monstrous than the beasts he kills. The basis for the hit Netflix series and video game trilogy, but richer and darker in the original.",
+      "description": "Geralt of Rivia is a Witcher \u2014 a mutant monster hunter for hire in a morally ambiguous world where humans are often more monstrous than the beasts he kills. The basis for the hit Netflix series and video game trilogy, but richer and darker in the original.",
       "orders": {
         "chronological": [
           {
             "position": 1,
             "title": "The Last Wish",
-            "note": "Short story collection — Geralt's origin stories.",
+            "note": "Short story collection \u2014 Geralt's origin stories.",
             "amazon_url": "https://www.amazon.com/s?k=The+Last+Wish+Sapkowski&tag=jacketlist-20"
           },
           {
             "position": 2,
             "title": "Sword of Destiny",
-            "note": "Short story collection — introduces Ciri.",
+            "note": "Short story collection \u2014 introduces Ciri.",
             "amazon_url": "https://www.amazon.com/s?k=Sword+of+Destiny+Sapkowski&tag=jacketlist-20"
           },
           {
@@ -2067,7 +2067,7 @@
           {
             "position": 8,
             "title": "Season of Storms",
-            "note": "Standalone prequel — can be read last.",
+            "note": "Standalone prequel \u2014 can be read last.",
             "amazon_url": "https://www.amazon.com/s?k=Season+of+Storms+Sapkowski&tag=jacketlist-20"
           }
         ],
@@ -2075,7 +2075,7 @@
           {
             "position": 1,
             "title": "The Last Wish",
-            "note": "Start here — the short stories are essential before the saga.",
+            "note": "Start here \u2014 the short stories are essential before the saga.",
             "amazon_url": "https://www.amazon.com/s?k=The+Last+Wish+Sapkowski&tag=jacketlist-20"
           },
           {
@@ -2111,7 +2111,7 @@
           {
             "position": 8,
             "title": "Season of Storms",
-            "note": "Read last — a standalone prequel that rewards knowing the full saga.",
+            "note": "Read last \u2014 a standalone prequel that rewards knowing the full saga.",
             "amazon_url": "https://www.amazon.com/s?k=Season+of+Storms+Sapkowski&tag=jacketlist-20"
           }
         ]
@@ -2126,7 +2126,7 @@
       ],
       "total_books": 3,
       "currently_on_bestseller_list": false,
-      "description": "A girl and a boy travel through parallel worlds, guided by a mysterious compass that can answer any question — and hunted by forces that will do anything to stop the truth from coming out. Pullman's trilogy is breathtaking in its ambition and tenderness.",
+      "description": "A girl and a boy travel through parallel worlds, guided by a mysterious compass that can answer any question \u2014 and hunted by forces that will do anything to stop the truth from coming out. Pullman's trilogy is breathtaking in its ambition and tenderness.",
       "orders": {
         "chronological": [
           {
@@ -2150,7 +2150,7 @@
           {
             "position": 1,
             "title": "Northern Lights",
-            "note": "Start here — must be read in order.",
+            "note": "Start here \u2014 must be read in order.",
             "amazon_url": "https://www.amazon.com/s?k=Northern+Lights+Pullman&tag=jacketlist-20"
           },
           {
@@ -2176,7 +2176,7 @@
       ],
       "total_books": 5,
       "currently_on_bestseller_list": false,
-      "description": "When mortal huntress Feyre kills a wolf in the woods, she is dragged into a treacherous faerie land where ancient magic and brutal politics collide. Sarah J. Maas weaves a lush, sensual world that evolves from fairy-tale romance into high-stakes epic fantasy — each book darker and more addictive than the last.",
+      "description": "When mortal huntress Feyre kills a wolf in the woods, she is dragged into a treacherous faerie land where ancient magic and brutal politics collide. Sarah J. Maas weaves a lush, sensual world that evolves from fairy-tale romance into high-stakes epic fantasy \u2014 each book darker and more addictive than the last.",
       "orders": {
         "chronological": [
           {
@@ -2246,13 +2246,13 @@
       ],
       "total_books": 7,
       "currently_on_bestseller_list": false,
-      "description": "Celaena Sardothien is the most feared assassin in the land — and a slave. When the Crown Prince pulls her from the mines to compete in a deadly tournament for the king, she sees a chance at freedom that could cost her everything. This series transforms from swashbuckling YA adventure into a sprawling epic fantasy with one of fiction's most ferociously complex heroines.",
+      "description": "Celaena Sardothien is the most feared assassin in the land \u2014 and a slave. When the Crown Prince pulls her from the mines to compete in a deadly tournament for the king, she sees a chance at freedom that could cost her everything. This series transforms from swashbuckling YA adventure into a sprawling epic fantasy with one of fiction's most ferociously complex heroines.",
       "orders": {
         "chronological": [
           {
             "position": 1,
             "title": "The Assassin's Blade",
-            "note": "Prequel novellas — chronologically first, but Maas recommends reading after Crown of Midnight for best impact",
+            "note": "Prequel novellas \u2014 chronologically first, but Maas recommends reading after Crown of Midnight for best impact",
             "amazon_url": "https://www.amazon.com/s?k=The+Assassin%27s+Blade+Maas&tag=jacketlist-20"
           },
           {
@@ -2348,7 +2348,7 @@
       ],
       "total_books": 4,
       "currently_on_bestseller_list": false,
-      "description": "Fifteen-year-old farm boy Eragon discovers a mysterious stone that hatches into a dragon, thrusting him into a war against an immortal tyrant and the legacy of an ancient order of Dragon Riders. Written by Paolini starting at age fifteen, this epic series is a testament to the staying power of classic high fantasy — full of magic systems, elvish lore, and sweeping battles across a richly imagined world.",
+      "description": "Fifteen-year-old farm boy Eragon discovers a mysterious stone that hatches into a dragon, thrusting him into a war against an immortal tyrant and the legacy of an ancient order of Dragon Riders. Written by Paolini starting at age fifteen, this epic series is a testament to the staying power of classic high fantasy \u2014 full of magic systems, elvish lore, and sweeping battles across a richly imagined world.",
       "orders": {
         "chronological": [
           {
@@ -2405,13 +2405,13 @@
       ],
       "total_books": 3,
       "currently_on_bestseller_list": false,
-      "description": "When a humble hobbit inherits a Ring of power that could enslave all of Middle-earth, an unlikely fellowship sets out on an impossible quest to destroy it. Tolkien's masterwork invented the template for modern epic fantasy — its languages, maps, mythologies, and moral weight remain unsurpassed nearly a century later.",
+      "description": "When a humble hobbit inherits a Ring of power that could enslave all of Middle-earth, an unlikely fellowship sets out on an impossible quest to destroy it. Tolkien's masterwork invented the template for modern epic fantasy \u2014 its languages, maps, mythologies, and moral weight remain unsurpassed nearly a century later.",
       "orders": {
         "chronological": [
           {
             "position": 1,
             "title": "The Hobbit",
-            "note": "Prequel set 60 years earlier — widely recommended as the best starting point for first-time readers",
+            "note": "Prequel set 60 years earlier \u2014 widely recommended as the best starting point for first-time readers",
             "amazon_url": "https://www.amazon.com/s?k=The+Hobbit+Tolkien&tag=jacketlist-20"
           },
           {
@@ -2465,7 +2465,7 @@
       ],
       "total_books": 3,
       "currently_on_bestseller_list": false,
-      "description": "In a glittering city where ancient gods, fallen angels, and shifters live alongside humans, half-Fae party girl Bryce Quinlan must hunt down the demon that murdered her best friends — and uncover a conspiracy that reaches every corner of her world. Maas's most ambitious series yet blends noir detective mystery with sweeping fantasy mythology and the author's trademark slow-burn romance.",
+      "description": "In a glittering city where ancient gods, fallen angels, and shifters live alongside humans, half-Fae party girl Bryce Quinlan must hunt down the demon that murdered her best friends \u2014 and uncover a conspiracy that reaches every corner of her world. Maas's most ambitious series yet blends noir detective mystery with sweeping fantasy mythology and the author's trademark slow-burn romance.",
       "orders": {
         "chronological": [
           {
@@ -2488,7 +2488,7 @@
           {
             "position": 1,
             "title": "House of Earth and Blood",
-            "note": "Read ACOTAR and Throne of Glass before starting Crescent City — crossover events pay off more with that context",
+            "note": "Read ACOTAR and Throne of Glass before starting Crescent City \u2014 crossover events pay off more with that context",
             "amazon_url": "https://www.amazon.com/s?k=House+of+Earth+and+Blood+Maas&tag=jacketlist-20"
           },
           {
@@ -2514,13 +2514,13 @@
       ],
       "total_books": 3,
       "currently_on_bestseller_list": true,
-      "description": "A psychological thriller trilogy built on secrets, power, and shocking reversals. Each book follows Millie, a woman hiding a dark past who takes a job as a housemaid — only to discover the family she works for may be more dangerous than she is. McFadden's trademark twist endings have made this one of the most talked-about thriller series of the decade.",
+      "description": "A psychological thriller trilogy built on secrets, power, and shocking reversals. Each book follows Millie, a woman hiding a dark past who takes a job as a housemaid \u2014 only to discover the family she works for may be more dangerous than she is. McFadden's trademark twist endings have made this one of the most talked-about thriller series of the decade.",
       "orders": {
         "chronological": [
           {
             "position": 1,
             "title": "The Housemaid",
-            "note": "Start here — the twist ending sets up everything that follows.",
+            "note": "Start here \u2014 the twist ending sets up everything that follows.",
             "amazon_url": "https://www.amazon.com/s?k=The+Housemaid+McFadden&tag=jacketlist-20"
           },
           {
@@ -2538,7 +2538,7 @@
           {
             "position": 1,
             "title": "The Housemaid",
-            "note": "Start here — the twist ending sets up everything that follows.",
+            "note": "Start here \u2014 the twist ending sets up everything that follows.",
             "amazon_url": "https://www.amazon.com/s?k=The+Housemaid+McFadden&tag=jacketlist-20"
           },
           {
@@ -2563,13 +2563,13 @@
       ],
       "total_books": 3,
       "currently_on_bestseller_list": true,
-      "description": "Set in the chaotic, charming small town of Knockemout, Virginia, this series follows three interconnected love stories that are funny, steamy, and surprisingly emotional. Each book centers on a different couple, but the overlapping cast of friends and rivals means reading in order pays off — you'll see relationships develop across all three books in deeply satisfying ways.",
+      "description": "Set in the chaotic, charming small town of Knockemout, Virginia, this series follows three interconnected love stories that are funny, steamy, and surprisingly emotional. Each book centers on a different couple, but the overlapping cast of friends and rivals means reading in order pays off \u2014 you'll see relationships develop across all three books in deeply satisfying ways.",
       "orders": {
         "chronological": [
           {
             "position": 1,
             "title": "Things We Never Got Over",
-            "note": "Knox and Naomi's story — start here.",
+            "note": "Knox and Naomi's story \u2014 start here.",
             "amazon_url": "https://www.amazon.com/s?k=Things+We+Never+Got+Over+Score&tag=jacketlist-20"
           },
           {
@@ -2581,7 +2581,7 @@
           {
             "position": 3,
             "title": "Things We Left Behind",
-            "note": "Lucian and Sloane's story — the most anticipated pairing in the series.",
+            "note": "Lucian and Sloane's story \u2014 the most anticipated pairing in the series.",
             "amazon_url": "https://www.amazon.com/s?k=Things+We+Left+Behind+Score&tag=jacketlist-20"
           }
         ],
@@ -2589,7 +2589,7 @@
           {
             "position": 1,
             "title": "Things We Never Got Over",
-            "note": "Knox and Naomi's story — start here.",
+            "note": "Knox and Naomi's story \u2014 start here.",
             "amazon_url": "https://www.amazon.com/s?k=Things+We+Never+Got+Over+Score&tag=jacketlist-20"
           },
           {
@@ -2601,7 +2601,7 @@
           {
             "position": 3,
             "title": "Things We Left Behind",
-            "note": "Lucian and Sloane's story — the most anticipated pairing in the series.",
+            "note": "Lucian and Sloane's story \u2014 the most anticipated pairing in the series.",
             "amazon_url": "https://www.amazon.com/s?k=Things+We+Left+Behind+Score&tag=jacketlist-20"
           }
         ]
@@ -2618,13 +2618,13 @@
       ],
       "total_books": 3,
       "currently_on_bestseller_list": true,
-      "description": "Set in the fictional Ford County, Mississippi, this trilogy follows small-town defense attorney Jake Brigance through some of the most explosive, morally charged trials in legal fiction. Grisham's most personal series — rooted in racial justice, Southern law, and the cost of doing the right thing — rewards readers who follow Jake's career from his fiery debut through his most nuanced cases.",
+      "description": "Set in the fictional Ford County, Mississippi, this trilogy follows small-town defense attorney Jake Brigance through some of the most explosive, morally charged trials in legal fiction. Grisham's most personal series \u2014 rooted in racial justice, Southern law, and the cost of doing the right thing \u2014 rewards readers who follow Jake's career from his fiery debut through his most nuanced cases.",
       "orders": {
         "chronological": [
           {
             "position": 1,
             "title": "A Time to Kill",
-            "note": "Grisham's first novel and the best starting point — introduces Jake and Ford County.",
+            "note": "Grisham's first novel and the best starting point \u2014 introduces Jake and Ford County.",
             "amazon_url": "https://www.amazon.com/s?k=A+Time+to+Kill+Grisham&tag=jacketlist-20"
           },
           {
@@ -2642,7 +2642,7 @@
           {
             "position": 1,
             "title": "A Time to Kill",
-            "note": "Grisham's first novel and the best starting point — introduces Jake and Ford County.",
+            "note": "Grisham's first novel and the best starting point \u2014 introduces Jake and Ford County.",
             "amazon_url": "https://www.amazon.com/s?k=A+Time+to+Kill+Grisham&tag=jacketlist-20"
           },
           {
@@ -2668,13 +2668,13 @@
       ],
       "total_books": 26,
       "currently_on_bestseller_list": true,
-      "description": "Wyoming game warden Joe Pickett enforces wildlife laws in the rugged wilderness outside Saddlestring — and keeps stumbling into murder, corruption, and federal conspiracies that threaten his family. C.J. Box's long-running series is the gold standard of the American West thriller, with a protagonist who ages and evolves realistically over two-plus decades of publication.",
+      "description": "Wyoming game warden Joe Pickett enforces wildlife laws in the rugged wilderness outside Saddlestring \u2014 and keeps stumbling into murder, corruption, and federal conspiracies that threaten his family. C.J. Box's long-running series is the gold standard of the American West thriller, with a protagonist who ages and evolves realistically over two-plus decades of publication.",
       "orders": {
         "chronological": [
           {
             "position": 1,
             "title": "Open Season",
-            "note": "Start here — introduces Joe, his family, and the Wyoming setting.",
+            "note": "Start here \u2014 introduces Joe, his family, and the Wyoming setting.",
             "amazon_url": "https://www.amazon.com/s?k=Open+Season+Box&tag=jacketlist-20"
           },
           {
@@ -2807,7 +2807,7 @@
           {
             "position": 1,
             "title": "Open Season",
-            "note": "Start here — introduces Joe, his family, and the Wyoming setting.",
+            "note": "Start here \u2014 introduces Joe, his family, and the Wyoming setting.",
             "amazon_url": "https://www.amazon.com/s?k=Open+Season+Box&tag=jacketlist-20"
           },
           {
@@ -2947,19 +2947,19 @@
       ],
       "total_books": 3,
       "currently_on_bestseller_list": true,
-      "description": "A witty, warm contemporary romance series set among the medical community and small-town residents of Wakan, Minnesota. Each book pairs characters from overlapping social circles, building a rich ensemble that grows across all three novels — reading in order means getting to see fan-favorite characters fall in love before they step into the spotlight in their own story.",
+      "description": "A witty, warm contemporary romance series set among the medical community and small-town residents of Wakan, Minnesota. Each book pairs characters from overlapping social circles, building a rich ensemble that grows across all three novels \u2014 reading in order means getting to see fan-favorite characters fall in love before they step into the spotlight in their own story.",
       "orders": {
         "chronological": [
           {
             "position": 1,
             "title": "Part of Your World",
-            "note": "Alexis and Daniel's story — the age-gap romance that started the series.",
+            "note": "Alexis and Daniel's story \u2014 the age-gap romance that started the series.",
             "amazon_url": "https://www.amazon.com/s?k=Part+of+Your+World+Jimenez&tag=jacketlist-20"
           },
           {
             "position": 2,
             "title": "Yours Truly",
-            "note": "Bri and Brody's story — best read after Book 1.",
+            "note": "Bri and Brody's story \u2014 best read after Book 1.",
             "amazon_url": "https://www.amazon.com/s?k=Yours+Truly+Jimenez&tag=jacketlist-20"
           },
           {
@@ -2972,13 +2972,13 @@
           {
             "position": 1,
             "title": "Part of Your World",
-            "note": "Alexis and Daniel's story — the age-gap romance that started the series.",
+            "note": "Alexis and Daniel's story \u2014 the age-gap romance that started the series.",
             "amazon_url": "https://www.amazon.com/s?k=Part+of+Your+World+Jimenez&tag=jacketlist-20"
           },
           {
             "position": 2,
             "title": "Yours Truly",
-            "note": "Bri and Brody's story — best read after Book 1.",
+            "note": "Bri and Brody's story \u2014 best read after Book 1.",
             "amazon_url": "https://www.amazon.com/s?k=Yours+Truly+Jimenez&tag=jacketlist-20"
           },
           {
@@ -2999,7 +2999,7 @@
       ],
       "total_books": 8,
       "currently_on_bestseller_list": true,
-      "description": "Earth has been transformed into a deadly, televised dungeon — and Carl, an ordinary guy with his foul-mouthed princess cat Donut, must fight floor after floor of monsters while an alien audience watches for entertainment. A wildly inventive LitRPG series that blends video-game mechanics with surprisingly deep world-building and genuine emotional stakes.",
+      "description": "Earth has been transformed into a deadly, televised dungeon \u2014 and Carl, an ordinary guy with his foul-mouthed princess cat Donut, must fight floor after floor of monsters while an alien audience watches for entertainment. A wildly inventive LitRPG series that blends video-game mechanics with surprisingly deep world-building and genuine emotional stakes.",
       "orders": {
         "chronological": [
           {
@@ -3096,7 +3096,7 @@
       ],
       "total_books": 2,
       "currently_on_bestseller_list": true,
-      "description": "Kinch Na Shannack is a thief who owes a debt to the Takers Guild — and to pay it off, he must escort a dangerous knight on a quest through a world ravaged by goblin wars. Dark, funny, and propulsively readable, this series is one of the freshest voices in modern fantasy.",
+      "description": "Kinch Na Shannack is a thief who owes a debt to the Takers Guild \u2014 and to pay it off, he must escort a dangerous knight on a quest through a world ravaged by goblin wars. Dark, funny, and propulsively readable, this series is one of the freshest voices in modern fantasy.",
       "orders": {
         "chronological": [
           {
@@ -3134,7 +3134,7 @@
       ],
       "total_books": 2,
       "currently_on_bestseller_list": false,
-      "description": "Lily Bloom falls for charming neurosurgeon Ryle Kincaid in Boston, only to discover that love does not always mean safety — and that breaking a cycle can cost everything. A raw, emotionally devastating duology about domestic abuse, survival, and the courage to begin again.",
+      "description": "Lily Bloom falls for charming neurosurgeon Ryle Kincaid in Boston, only to discover that love does not always mean safety \u2014 and that breaking a cycle can cost everything. A raw, emotionally devastating duology about domestic abuse, survival, and the courage to begin again.",
       "orders": {
         "chronological": [
           {
@@ -3172,7 +3172,7 @@
       ],
       "total_books": 2,
       "currently_on_bestseller_list": false,
-      "description": "A gang of six dangerous outcasts is hired to pull off an impossible heist in the icy, fortified city of Fjerda — each with their own secrets, scars, and reasons to fight. Set in Bardugo's Grishaverse, this duology is a masterclass in ensemble storytelling with razor-sharp plotting.",
+      "description": "A gang of six dangerous outcasts is hired to pull off an impossible heist in the icy, fortified city of Fjerda \u2014 each with their own secrets, scars, and reasons to fight. Set in Bardugo's Grishaverse, this duology is a masterclass in ensemble storytelling with razor-sharp plotting.",
       "orders": {
         "chronological": [
           {
@@ -3264,10 +3264,12 @@
       "id": "gentlemen-bastards",
       "title": "The Gentlemen Bastards",
       "author": "Scott Lynch",
-      "genres": ["Fantasy"],
+      "genres": [
+        "Fantasy"
+      ],
       "total_books": 3,
       "currently_on_bestseller_list": false,
-      "description": "Locke Lamora is the most cunning thief in the city of Camorr — a place built on ancient magic and ruled by criminal guilds. His audacious cons target the nobility, but when a mysterious figure called the Grey King begins wiping out gang lords one by one, even the Gentleman Bastards find themselves outplayed. Propulsive, witty, and surprisingly emotional.",
+      "description": "Locke Lamora is the most cunning thief in the city of Camorr \u2014 a place built on ancient magic and ruled by criminal guilds. His audacious cons target the nobility, but when a mysterious figure called the Grey King begins wiping out gang lords one by one, even the Gentleman Bastards find themselves outplayed. Propulsive, witty, and surprisingly emotional.",
       "orders": {
         "chronological": [
           {
@@ -3309,16 +3311,18 @@
       "id": "realm-of-the-elderlings",
       "title": "Realm of the Elderlings",
       "author": "Robin Hobb",
-      "genres": ["Fantasy"],
+      "genres": [
+        "Fantasy"
+      ],
       "total_books": 16,
       "currently_on_bestseller_list": false,
-      "description": "Beginning with FitzChivalry Farseer — royal bastard, assassin's apprentice, and bonded to a wolf — Robin Hobb's interconnected trilogies weave one of fantasy's most emotionally devastating tapestries. Each trilogy follows different characters across the same richly imagined world, but the threads pull together in ways that will break your heart.",
+      "description": "Beginning with FitzChivalry Farseer \u2014 royal bastard, assassin's apprentice, and bonded to a wolf \u2014 Robin Hobb's interconnected trilogies weave one of fantasy's most emotionally devastating tapestries. Each trilogy follows different characters across the same richly imagined world, but the threads pull together in ways that will break your heart.",
       "orders": {
         "chronological": [
           {
             "position": 1,
             "title": "Assassin's Apprentice",
-            "note": "Farseer Trilogy Book 1 — start here",
+            "note": "Farseer Trilogy Book 1 \u2014 start here",
             "amazon_url": "https://www.amazon.com/s?k=Assassin%27s+Apprentice+Robin+Hobb&tag=jacketlist-20"
           },
           {
@@ -3336,7 +3340,7 @@
           {
             "position": 4,
             "title": "Ship of Magic",
-            "note": "Liveship Traders Book 1 — different characters, same world",
+            "note": "Liveship Traders Book 1 \u2014 different characters, same world",
             "amazon_url": "https://www.amazon.com/s?k=Ship+of+Magic+Robin+Hobb&tag=jacketlist-20"
           },
           {
@@ -3416,7 +3420,7 @@
           {
             "position": 1,
             "title": "Assassin's Apprentice",
-            "note": "Farseer Trilogy Book 1 — start here",
+            "note": "Farseer Trilogy Book 1 \u2014 start here",
             "amazon_url": "https://www.amazon.com/s?k=Assassin%27s+Apprentice+Robin+Hobb&tag=jacketlist-20"
           },
           {
@@ -3516,10 +3520,12 @@
       "id": "malazan",
       "title": "The Malazan Book of the Fallen",
       "author": "Steven Erikson",
-      "genres": ["Fantasy"],
+      "genres": [
+        "Fantasy"
+      ],
       "total_books": 10,
       "currently_on_bestseller_list": false,
-      "description": "The most ambitious epic fantasy series ever written — spanning continents, millennia, and hundreds of characters across ten doorstop novels. Malazan drops you in with no handholding and rewards patient readers with an unmatched sense of scope, tragedy, and awe. Notoriously difficult to enter, impossible to forget.",
+      "description": "The most ambitious epic fantasy series ever written \u2014 spanning continents, millennia, and hundreds of characters across ten doorstop novels. Malazan drops you in with no handholding and rewards patient readers with an unmatched sense of scope, tragedy, and awe. Notoriously difficult to enter, impossible to forget.",
       "orders": {
         "chronological": [
           {
@@ -3577,7 +3583,7 @@
           {
             "position": 1,
             "title": "Gardens of the Moon",
-            "note": "Erikson recommends starting here despite the steep learning curve — trust the process",
+            "note": "Erikson recommends starting here despite the steep learning curve \u2014 trust the process",
             "amazon_url": "https://www.amazon.com/s?k=Gardens+of+the+Moon+Erikson&tag=jacketlist-20"
           },
           {
@@ -3632,16 +3638,19 @@
       "id": "chronicles-of-narnia",
       "title": "The Chronicles of Narnia",
       "author": "C.S. Lewis",
-      "genres": ["Fantasy", "Young Adult"],
+      "genres": [
+        "Fantasy",
+        "Young Adult"
+      ],
       "total_books": 7,
       "currently_on_bestseller_list": false,
-      "description": "Seven books set in the magical land of Narnia — entered through a wardrobe, a painting, or a pool between worlds — where talking animals, ancient magic, and the great lion Aslan shape the destinies of children from our world. Beloved across generations, and home to one of the great reading-order debates in all of literature.",
+      "description": "Seven books set in the magical land of Narnia \u2014 entered through a wardrobe, a painting, or a pool between worlds \u2014 where talking animals, ancient magic, and the great lion Aslan shape the destinies of children from our world. Beloved across generations, and home to one of the great reading-order debates in all of literature.",
       "orders": {
         "chronological": [
           {
             "position": 1,
             "title": "The Magician's Nephew",
-            "note": "The origin of Narnia — but Lewis wrote it 6th; many readers prefer saving it until after The Lion, the Witch and the Wardrobe",
+            "note": "The origin of Narnia \u2014 but Lewis wrote it 6th; many readers prefer saving it until after The Lion, the Witch and the Wardrobe",
             "amazon_url": "https://www.amazon.com/s?k=The+Magician%27s+Nephew+CS+Lewis&tag=jacketlist-20"
           },
           {
@@ -3679,7 +3688,7 @@
           {
             "position": 1,
             "title": "The Lion, the Witch and the Wardrobe",
-            "note": "The classic entry point — Lewis wrote this first and it remains the best introduction to Narnia",
+            "note": "The classic entry point \u2014 Lewis wrote this first and it remains the best introduction to Narnia",
             "amazon_url": "https://www.amazon.com/s?k=The+Lion+the+Witch+and+the+Wardrobe+CS+Lewis&tag=jacketlist-20"
           },
           {
@@ -3719,10 +3728,13 @@
       "id": "dark-tower",
       "title": "The Dark Tower",
       "author": "Stephen King",
-      "genres": ["Fantasy", "Horror"],
+      "genres": [
+        "Fantasy",
+        "Horror"
+      ],
       "total_books": 8,
       "currently_on_bestseller_list": false,
-      "description": "Roland Deschain, the last gunslinger, pursues the mysterious Man in Black across a dying world toward the Dark Tower — the nexus of all universes. King's magnum opus fuses spaghetti-western grit with Arthurian myth, horror, and meta-fiction in a saga spanning eight books and thirty years of writing.",
+      "description": "Roland Deschain, the last gunslinger, pursues the mysterious Man in Black across a dying world toward the Dark Tower \u2014 the nexus of all universes. King's magnum opus fuses spaghetti-western grit with Arthurian myth, horror, and meta-fiction in a saga spanning eight books and thirty years of writing.",
       "orders": {
         "chronological": [
           {
@@ -3748,7 +3760,7 @@
           {
             "position": 5,
             "title": "The Wind Through the Keyhole",
-            "note": "Set between Books 4 and 5 — can also be read after completing the series",
+            "note": "Set between Books 4 and 5 \u2014 can also be read after completing the series",
             "amazon_url": "https://www.amazon.com/s?k=The+Wind+Through+the+Keyhole+Stephen+King&tag=jacketlist-20"
           },
           {
@@ -3792,7 +3804,7 @@
           {
             "position": 5,
             "title": "The Wind Through the Keyhole",
-            "note": "Set between Books 4 and 5 — can also be read after completing the series",
+            "note": "Set between Books 4 and 5 \u2014 can also be read after completing the series",
             "amazon_url": "https://www.amazon.com/s?k=The+Wind+Through+the+Keyhole+Stephen+King&tag=jacketlist-20"
           },
           {
@@ -3817,10 +3829,12 @@
       "id": "discworld",
       "title": "Discworld",
       "author": "Terry Pratchett",
-      "genres": ["Fantasy"],
+      "genres": [
+        "Fantasy"
+      ],
       "total_books": 41,
       "currently_on_bestseller_list": false,
-      "description": "A flat world balanced on the backs of four elephants standing on a giant turtle — and somehow the funniest, most humane, and most quietly profound fantasy series ever written. Pratchett used absurdist satire to examine death, belief, gender, power, and the nature of stories themselves across 41 novels spanning three decades.",
+      "description": "A flat world balanced on the backs of four elephants standing on a giant turtle \u2014 and somehow the funniest, most humane, and most quietly profound fantasy series ever written. Pratchett used absurdist satire to examine death, belief, gender, power, and the nature of stories themselves across 41 novels spanning three decades.",
       "orders": {
         "chronological": [
           {
@@ -3868,7 +3882,7 @@
           {
             "position": 9,
             "title": "Eric",
-            "note": "Rincewind novella — can be skipped without missing anything essential",
+            "note": "Rincewind novella \u2014 can be skipped without missing anything essential",
             "amazon_url": "https://www.amazon.com/s?k=Eric+Terry+Pratchett&tag=jacketlist-20"
           },
           {
@@ -3889,7 +3903,7 @@
           {
             "position": 13,
             "title": "Small Gods",
-            "note": "Standalone — widely considered the single best Discworld novel and an ideal entry point",
+            "note": "Standalone \u2014 widely considered the single best Discworld novel and an ideal entry point",
             "amazon_url": "https://www.amazon.com/s?k=Small+Gods+Terry+Pratchett&tag=jacketlist-20"
           },
           {
@@ -3960,7 +3974,7 @@
           {
             "position": 27,
             "title": "The Last Hero",
-            "note": "Illustrated novella — can be skipped without missing plot",
+            "note": "Illustrated novella \u2014 can be skipped without missing plot",
             "amazon_url": "https://www.amazon.com/s?k=The+Last+Hero+Terry+Pratchett&tag=jacketlist-20"
           },
           {
@@ -3976,7 +3990,7 @@
           {
             "position": 30,
             "title": "The Wee Free Men",
-            "note": "First Tiffany Aching book — a superb entry point for younger readers",
+            "note": "First Tiffany Aching book \u2014 a superb entry point for younger readers",
             "amazon_url": "https://www.amazon.com/s?k=The+Wee+Free+Men+Terry+Pratchett&tag=jacketlist-20"
           },
           {
@@ -4082,7 +4096,7 @@
           {
             "position": 9,
             "title": "Eric",
-            "note": "Rincewind novella — can be skipped without missing anything essential",
+            "note": "Rincewind novella \u2014 can be skipped without missing anything essential",
             "amazon_url": "https://www.amazon.com/s?k=Eric+Terry+Pratchett&tag=jacketlist-20"
           },
           {
@@ -4103,7 +4117,7 @@
           {
             "position": 13,
             "title": "Small Gods",
-            "note": "Standalone — widely considered the single best Discworld novel and an ideal entry point",
+            "note": "Standalone \u2014 widely considered the single best Discworld novel and an ideal entry point",
             "amazon_url": "https://www.amazon.com/s?k=Small+Gods+Terry+Pratchett&tag=jacketlist-20"
           },
           {
@@ -4174,7 +4188,7 @@
           {
             "position": 27,
             "title": "The Last Hero",
-            "note": "Illustrated novella — can be skipped without missing plot",
+            "note": "Illustrated novella \u2014 can be skipped without missing plot",
             "amazon_url": "https://www.amazon.com/s?k=The+Last+Hero+Terry+Pratchett&tag=jacketlist-20"
           },
           {
@@ -4190,7 +4204,7 @@
           {
             "position": 30,
             "title": "The Wee Free Men",
-            "note": "First Tiffany Aching book — a superb entry point for younger readers",
+            "note": "First Tiffany Aching book \u2014 a superb entry point for younger readers",
             "amazon_url": "https://www.amazon.com/s?k=The+Wee+Free+Men+Terry+Pratchett&tag=jacketlist-20"
           },
           {
@@ -4256,10 +4270,12 @@
       "id": "dresden-files",
       "title": "The Dresden Files",
       "author": "Jim Butcher",
-      "genres": ["Fantasy"],
+      "genres": [
+        "Fantasy"
+      ],
       "total_books": 17,
       "currently_on_bestseller_list": false,
-      "description": "Harry Dresden is Chicago's only professional wizard — listed in the Yellow Pages under 'Wizard' — and business is picking up. Jim Butcher's urban fantasy series starts as fun noir-mystery and escalates into one of the most ambitious ongoing epics in the genre, with each book raising the stakes for Harry and the world he protects.",
+      "description": "Harry Dresden is Chicago's only professional wizard \u2014 listed in the Yellow Pages under 'Wizard' \u2014 and business is picking up. Jim Butcher's urban fantasy series starts as fun noir-mystery and escalates into one of the most ambitious ongoing epics in the genre, with each book raising the stakes for Harry and the world he protects.",
       "orders": {
         "chronological": [
           {
@@ -4441,10 +4457,12 @@
       "id": "earthsea",
       "title": "Earthsea",
       "author": "Ursula K. Le Guin",
-      "genres": ["Fantasy"],
+      "genres": [
+        "Fantasy"
+      ],
       "total_books": 6,
       "currently_on_bestseller_list": false,
-      "description": "In an archipelago world where magic is the mastery of true names, a young boy with extraordinary power must learn what it means to use it wisely. Le Guin's Earthsea is one of the great works of 20th-century fiction — intimate in scale, mythic in resonance, and quietly revolutionary in its ideas about power, gender, and death.",
+      "description": "In an archipelago world where magic is the mastery of true names, a young boy with extraordinary power must learn what it means to use it wisely. Le Guin's Earthsea is one of the great works of 20th-century fiction \u2014 intimate in scale, mythic in resonance, and quietly revolutionary in its ideas about power, gender, and death.",
       "orders": {
         "chronological": [
           {
@@ -4470,7 +4488,7 @@
           {
             "position": 5,
             "title": "Tales from Earthsea",
-            "note": "Short story collection — can be read alongside or after the main novels",
+            "note": "Short story collection \u2014 can be read alongside or after the main novels",
             "amazon_url": "https://www.amazon.com/s?k=Tales+from+Earthsea+Le+Guin&tag=jacketlist-20"
           },
           {
@@ -4503,7 +4521,7 @@
           {
             "position": 5,
             "title": "Tales from Earthsea",
-            "note": "Short story collection — can be read alongside or after the main novels",
+            "note": "Short story collection \u2014 can be read alongside or after the main novels",
             "amazon_url": "https://www.amazon.com/s?k=Tales+from+Earthsea+Le+Guin&tag=jacketlist-20"
           },
           {
@@ -4518,10 +4536,12 @@
       "id": "belgariad",
       "title": "The Belgariad",
       "author": "David Eddings",
-      "genres": ["Fantasy"],
+      "genres": [
+        "Fantasy"
+      ],
       "total_books": 5,
       "currently_on_bestseller_list": false,
-      "description": "A farm boy named Garion discovers he is the center of an ancient prophecy and must recover a stolen god-stone before it can be used to destroy the world. Eddings' five-book series is the quintessential quest fantasy — fast-paced, warm-hearted, and stuffed with memorable companions — and one of the most beloved gateway series in the genre.",
+      "description": "A farm boy named Garion discovers he is the center of an ancient prophecy and must recover a stolen god-stone before it can be used to destroy the world. Eddings' five-book series is the quintessential quest fantasy \u2014 fast-paced, warm-hearted, and stuffed with memorable companions \u2014 and one of the most beloved gateway series in the genre.",
       "orders": {
         "chronological": [
           {
@@ -4585,10 +4605,13 @@
       "id": "vampire-chronicles",
       "title": "The Vampire Chronicles",
       "author": "Anne Rice",
-      "genres": ["Horror", "Fantasy"],
+      "genres": [
+        "Horror",
+        "Fantasy"
+      ],
       "total_books": 13,
       "currently_on_bestseller_list": false,
-      "description": "Beginning with the haunted confession of Louis de Pointe du Lac and the dazzling Lestat de Lioncourt, Anne Rice redefined the vampire genre and made it literary. The series spans centuries of immortal life, philosophical torment, and baroque beauty — from 18th-century New Orleans to ancient Egypt to the present day.",
+      "description": "Beginning with the haunted confession of Louis de Pointe du Lac and the dazzling Lestat de Lioncourt, Anne Rice redefined the vampire genre and made it literary. The series spans centuries of immortal life, philosophical torment, and baroque beauty \u2014 from 18th-century New Orleans to ancient Egypt to the present day.",
       "orders": {
         "chronological": [
           {
@@ -4624,7 +4647,7 @@
           {
             "position": 7,
             "title": "Merrick",
-            "note": "Crosses over with the Mayfair Witches series — no prior knowledge of that series required",
+            "note": "Crosses over with the Mayfair Witches series \u2014 no prior knowledge of that series required",
             "amazon_url": "https://www.amazon.com/s?k=Merrick+Anne+Rice&tag=jacketlist-20"
           },
           {
@@ -4645,7 +4668,7 @@
           {
             "position": 11,
             "title": "Prince Lestat",
-            "note": "Picks up the series after an 11-year gap — a strong re-entry point for lapsed readers",
+            "note": "Picks up the series after an 11-year gap \u2014 a strong re-entry point for lapsed readers",
             "amazon_url": "https://www.amazon.com/s?k=Prince+Lestat+Anne+Rice&tag=jacketlist-20"
           },
           {
@@ -4693,7 +4716,7 @@
           {
             "position": 7,
             "title": "Merrick",
-            "note": "Crosses over with the Mayfair Witches series — no prior knowledge of that series required",
+            "note": "Crosses over with the Mayfair Witches series \u2014 no prior knowledge of that series required",
             "amazon_url": "https://www.amazon.com/s?k=Merrick+Anne+Rice&tag=jacketlist-20"
           },
           {
@@ -4714,7 +4737,7 @@
           {
             "position": 11,
             "title": "Prince Lestat",
-            "note": "Picks up the series after an 11-year gap — a strong re-entry point for lapsed readers",
+            "note": "Picks up the series after an 11-year gap \u2014 a strong re-entry point for lapsed readers",
             "amazon_url": "https://www.amazon.com/s?k=Prince+Lestat+Anne+Rice&tag=jacketlist-20"
           },
           {
@@ -4734,20 +4757,47 @@
       "id": "the-empyrean",
       "title": "The Empyrean",
       "author": "Rebecca Yarros",
-      "genres": ["Fantasy", "Romance"],
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
       "total_books": 5,
       "currently_on_bestseller_list": false,
-      "description": "Violet Sorrengail was meant for the quiet life of a scribe — until she's forced into the most dangerous training ground in the kingdom: dragon rider school. In a world where bonding a dragon means power and betrayal lurks in every corridor, Violet must survive classmates who want her dead, a war no one will name, and a rider who's keeping a secret that could destroy everything. Dark-academia fantasy with a slow-burn romance that readers have called impossible to put down.",
+      "description": "Violet Sorrengail was meant for the quiet life of a scribe \u2014 until she's forced into the most dangerous training ground in the kingdom: dragon rider school. In a world where bonding a dragon means power and betrayal lurks in every corridor, Violet must survive classmates who want her dead, a war no one will name, and a rider who's keeping a secret that could destroy everything. Dark-academia fantasy with a slow-burn romance that readers have called impossible to put down.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "Fourth Wing", "amazon_url": "https://www.amazon.com/s?k=Fourth+Wing+Yarros&tag=jacketlist-20" },
-          { "position": 2, "title": "Iron Flame", "amazon_url": "https://www.amazon.com/s?k=Iron+Flame+Yarros&tag=jacketlist-20" },
-          { "position": 3, "title": "Onyx Storm", "amazon_url": "https://www.amazon.com/s?k=Onyx+Storm+Yarros&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Fourth Wing",
+            "amazon_url": "https://www.amazon.com/s?k=Fourth+Wing+Yarros&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Iron Flame",
+            "amazon_url": "https://www.amazon.com/s?k=Iron+Flame+Yarros&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Onyx Storm",
+            "amazon_url": "https://www.amazon.com/s?k=Onyx+Storm+Yarros&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "Fourth Wing", "amazon_url": "https://www.amazon.com/s?k=Fourth+Wing+Yarros&tag=jacketlist-20" },
-          { "position": 2, "title": "Iron Flame", "amazon_url": "https://www.amazon.com/s?k=Iron+Flame+Yarros&tag=jacketlist-20" },
-          { "position": 3, "title": "Onyx Storm", "amazon_url": "https://www.amazon.com/s?k=Onyx+Storm+Yarros&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Fourth Wing",
+            "amazon_url": "https://www.amazon.com/s?k=Fourth+Wing+Yarros&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Iron Flame",
+            "amazon_url": "https://www.amazon.com/s?k=Iron+Flame+Yarros&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Onyx Storm",
+            "amazon_url": "https://www.amazon.com/s?k=Onyx+Storm+Yarros&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -4755,20 +4805,48 @@
       "id": "grisha-trilogy",
       "title": "The Grisha Trilogy",
       "author": "Leigh Bardugo",
-      "genres": ["Fantasy", "Young Adult"],
+      "genres": [
+        "Fantasy",
+        "Young Adult"
+      ],
       "total_books": 3,
       "currently_on_bestseller_list": false,
-      "description": "Alina Starkov is a soldier who discovers she has a rare power that could free her war-torn country from the Fold — a swath of impenetrable darkness swarming with monsters. Swept into the glittering world of the Grisha elite, Leigh Bardugo's debut trilogy introduced readers to the beloved Grishaverse, balancing political intrigue, dark magic, and a heroine who refuses to be anyone's weapon. The origin story of one of fantasy's most expansive modern universes.",
+      "description": "Alina Starkov is a soldier who discovers she has a rare power that could free her war-torn country from the Fold \u2014 a swath of impenetrable darkness swarming with monsters. Swept into the glittering world of the Grisha elite, Leigh Bardugo's debut trilogy introduced readers to the beloved Grishaverse, balancing political intrigue, dark magic, and a heroine who refuses to be anyone's weapon. The origin story of one of fantasy's most expansive modern universes.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "Shadow and Bone", "amazon_url": "https://www.amazon.com/s?k=Shadow+and+Bone+Bardugo&tag=jacketlist-20" },
-          { "position": 2, "title": "Siege and Storm", "amazon_url": "https://www.amazon.com/s?k=Siege+and+Storm+Bardugo&tag=jacketlist-20" },
-          { "position": 3, "title": "Ruin and Rising", "amazon_url": "https://www.amazon.com/s?k=Ruin+and+Rising+Bardugo&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Shadow and Bone",
+            "amazon_url": "https://www.amazon.com/s?k=Shadow+and+Bone+Bardugo&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Siege and Storm",
+            "amazon_url": "https://www.amazon.com/s?k=Siege+and+Storm+Bardugo&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Ruin and Rising",
+            "amazon_url": "https://www.amazon.com/s?k=Ruin+and+Rising+Bardugo&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "Shadow and Bone", "note": "Start here before Six of Crows for the full Grishaverse experience", "amazon_url": "https://www.amazon.com/s?k=Shadow+and+Bone+Bardugo&tag=jacketlist-20" },
-          { "position": 2, "title": "Siege and Storm", "amazon_url": "https://www.amazon.com/s?k=Siege+and+Storm+Bardugo&tag=jacketlist-20" },
-          { "position": 3, "title": "Ruin and Rising", "amazon_url": "https://www.amazon.com/s?k=Ruin+and+Rising+Bardugo&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Shadow and Bone",
+            "note": "Start here before Six of Crows for the full Grishaverse experience",
+            "amazon_url": "https://www.amazon.com/s?k=Shadow+and+Bone+Bardugo&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Siege and Storm",
+            "amazon_url": "https://www.amazon.com/s?k=Siege+and+Storm+Bardugo&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Ruin and Rising",
+            "amazon_url": "https://www.amazon.com/s?k=Ruin+and+Rising+Bardugo&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -4776,20 +4854,47 @@
       "id": "the-broken-earth",
       "title": "The Broken Earth",
       "author": "N.K. Jemisin",
-      "genres": ["Fantasy", "Sci-Fi"],
+      "genres": [
+        "Fantasy",
+        "Sci-Fi"
+      ],
       "total_books": 3,
       "currently_on_bestseller_list": false,
-      "description": "In a world wracked by catastrophic seismic events called Fifth Seasons, orogenes — people born with the power to control earth and stone — are both enslaved and feared. N.K. Jemisin's revolutionary trilogy won the Hugo Award for Best Novel three consecutive years, a feat never achieved before or since. Told in second person, it redefines what epic fantasy can be: a meditation on oppression, survival, and what we owe each other at the end of the world.",
+      "description": "In a world wracked by catastrophic seismic events called Fifth Seasons, orogenes \u2014 people born with the power to control earth and stone \u2014 are both enslaved and feared. N.K. Jemisin's revolutionary trilogy won the Hugo Award for Best Novel three consecutive years, a feat never achieved before or since. Told in second person, it redefines what epic fantasy can be: a meditation on oppression, survival, and what we owe each other at the end of the world.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "The Fifth Season", "amazon_url": "https://www.amazon.com/s?k=The+Fifth+Season+Jemisin&tag=jacketlist-20" },
-          { "position": 2, "title": "The Obelisk Gate", "amazon_url": "https://www.amazon.com/s?k=The+Obelisk+Gate+Jemisin&tag=jacketlist-20" },
-          { "position": 3, "title": "The Stone Sky", "amazon_url": "https://www.amazon.com/s?k=The+Stone+Sky+Jemisin&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Fifth Season",
+            "amazon_url": "https://www.amazon.com/s?k=The+Fifth+Season+Jemisin&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Obelisk Gate",
+            "amazon_url": "https://www.amazon.com/s?k=The+Obelisk+Gate+Jemisin&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Stone Sky",
+            "amazon_url": "https://www.amazon.com/s?k=The+Stone+Sky+Jemisin&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "The Fifth Season", "amazon_url": "https://www.amazon.com/s?k=The+Fifth+Season+Jemisin&tag=jacketlist-20" },
-          { "position": 2, "title": "The Obelisk Gate", "amazon_url": "https://www.amazon.com/s?k=The+Obelisk+Gate+Jemisin&tag=jacketlist-20" },
-          { "position": 3, "title": "The Stone Sky", "amazon_url": "https://www.amazon.com/s?k=The+Stone+Sky+Jemisin&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Fifth Season",
+            "amazon_url": "https://www.amazon.com/s?k=The+Fifth+Season+Jemisin&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Obelisk Gate",
+            "amazon_url": "https://www.amazon.com/s?k=The+Obelisk+Gate+Jemisin&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Stone Sky",
+            "amazon_url": "https://www.amazon.com/s?k=The+Stone+Sky+Jemisin&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -4797,20 +4902,47 @@
       "id": "the-folk-of-the-air",
       "title": "The Folk of the Air",
       "author": "Holly Black",
-      "genres": ["Fantasy", "Young Adult"],
+      "genres": [
+        "Fantasy",
+        "Young Adult"
+      ],
       "total_books": 3,
       "currently_on_bestseller_list": false,
-      "description": "Mortal girl Jude Duarte was raised in the treacherous High Court of Faerie after her parents' murder — and she'll do anything to earn a place among its dangerous, deceptive inhabitants. Holly Black weaves a deliciously dark tale of political scheming, faerie trickery, and a rivalry between Jude and Prince Cardan that readers will either love or obsessively hate. Sharp, seductive, and impossible to stop once started.",
+      "description": "Mortal girl Jude Duarte was raised in the treacherous High Court of Faerie after her parents' murder \u2014 and she'll do anything to earn a place among its dangerous, deceptive inhabitants. Holly Black weaves a deliciously dark tale of political scheming, faerie trickery, and a rivalry between Jude and Prince Cardan that readers will either love or obsessively hate. Sharp, seductive, and impossible to stop once started.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "The Cruel Prince", "amazon_url": "https://www.amazon.com/s?k=The+Cruel+Prince+Black&tag=jacketlist-20" },
-          { "position": 2, "title": "The Wicked King", "amazon_url": "https://www.amazon.com/s?k=The+Wicked+King+Black&tag=jacketlist-20" },
-          { "position": 3, "title": "The Queen of Nothing", "amazon_url": "https://www.amazon.com/s?k=The+Queen+of+Nothing+Black&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Cruel Prince",
+            "amazon_url": "https://www.amazon.com/s?k=The+Cruel+Prince+Black&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Wicked King",
+            "amazon_url": "https://www.amazon.com/s?k=The+Wicked+King+Black&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Queen of Nothing",
+            "amazon_url": "https://www.amazon.com/s?k=The+Queen+of+Nothing+Black&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "The Cruel Prince", "amazon_url": "https://www.amazon.com/s?k=The+Cruel+Prince+Black&tag=jacketlist-20" },
-          { "position": 2, "title": "The Wicked King", "amazon_url": "https://www.amazon.com/s?k=The+Wicked+King+Black&tag=jacketlist-20" },
-          { "position": 3, "title": "The Queen of Nothing", "amazon_url": "https://www.amazon.com/s?k=The+Queen+of+Nothing+Black&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Cruel Prince",
+            "amazon_url": "https://www.amazon.com/s?k=The+Cruel+Prince+Black&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Wicked King",
+            "amazon_url": "https://www.amazon.com/s?k=The+Wicked+King+Black&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Queen of Nothing",
+            "amazon_url": "https://www.amazon.com/s?k=The+Queen+of+Nothing+Black&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -4818,20 +4950,342 @@
       "id": "shades-of-magic",
       "title": "Shades of Magic",
       "author": "V.E. Schwab",
-      "genres": ["Fantasy"],
+      "genres": [
+        "Fantasy"
+      ],
       "total_books": 3,
       "currently_on_bestseller_list": false,
-      "description": "In a world where parallel versions of London exist — Red, Grey, White, and the forbidden Black — only rare Antari magicians can travel between them. Kell, one of the last Antari, is pulled into a deadly game when a dangerous artifact surfaces that could unravel the boundaries between worlds. V.E. Schwab's swashbuckling trilogy combines vivid worldbuilding, morally complex characters, and the kind of propulsive plotting that devours entire weekends.",
+      "description": "In a world where parallel versions of London exist \u2014 Red, Grey, White, and the forbidden Black \u2014 only rare Antari magicians can travel between them. Kell, one of the last Antari, is pulled into a deadly game when a dangerous artifact surfaces that could unravel the boundaries between worlds. V.E. Schwab's swashbuckling trilogy combines vivid worldbuilding, morally complex characters, and the kind of propulsive plotting that devours entire weekends.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "A Darker Shade of Magic", "amazon_url": "https://www.amazon.com/s?k=A+Darker+Shade+of+Magic+Schwab&tag=jacketlist-20" },
-          { "position": 2, "title": "A Gathering of Shadows", "amazon_url": "https://www.amazon.com/s?k=A+Gathering+of+Shadows+Schwab&tag=jacketlist-20" },
-          { "position": 3, "title": "A Conjuring of Light", "amazon_url": "https://www.amazon.com/s?k=A+Conjuring+of+Light+Schwab&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "A Darker Shade of Magic",
+            "amazon_url": "https://www.amazon.com/s?k=A+Darker+Shade+of+Magic+Schwab&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "A Gathering of Shadows",
+            "amazon_url": "https://www.amazon.com/s?k=A+Gathering+of+Shadows+Schwab&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "A Conjuring of Light",
+            "amazon_url": "https://www.amazon.com/s?k=A+Conjuring+of+Light+Schwab&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "A Darker Shade of Magic", "amazon_url": "https://www.amazon.com/s?k=A+Darker+Shade+of+Magic+Schwab&tag=jacketlist-20" },
-          { "position": 2, "title": "A Gathering of Shadows", "amazon_url": "https://www.amazon.com/s?k=A+Gathering+of+Shadows+Schwab&tag=jacketlist-20" },
-          { "position": 3, "title": "A Conjuring of Light", "amazon_url": "https://www.amazon.com/s?k=A+Conjuring+of+Light+Schwab&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "A Darker Shade of Magic",
+            "amazon_url": "https://www.amazon.com/s?k=A+Darker+Shade+of+Magic+Schwab&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "A Gathering of Shadows",
+            "amazon_url": "https://www.amazon.com/s?k=A+Gathering+of+Shadows+Schwab&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "A Conjuring of Light",
+            "amazon_url": "https://www.amazon.com/s?k=A+Conjuring+of+Light+Schwab&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "raven-cycle",
+      "title": "The Raven Cycle",
+      "author": "Maggie Stiefvater",
+      "genres": [
+        "Fantasy",
+        "Young Adult"
+      ],
+      "total_books": 4,
+      "currently_on_bestseller_list": false,
+      "description": "In a small Virginia town, Blue Sargent has been told her whole life that if she kisses her true love, he will die. When she falls in with a group of private school boys hunting for a legendary sleeping Welsh king buried along ley lines, she discovers fate is far more tangled than any prophecy. Equal parts moody Appalachian atmosphere and razor-sharp character work, this series redefined what YA fantasy could be.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "The Raven Boys",
+            "amazon_url": "https://www.amazon.com/s?k=The+Raven+Boys+Stiefvater&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Dream Thieves",
+            "amazon_url": "https://www.amazon.com/s?k=The+Dream+Thieves+Stiefvater&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Blue Lily, Lily Blue",
+            "amazon_url": "https://www.amazon.com/s?k=Blue+Lily+Lily+Blue+Stiefvater&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Raven King",
+            "amazon_url": "https://www.amazon.com/s?k=The+Raven+King+Stiefvater&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "The Raven Boys",
+            "amazon_url": "https://www.amazon.com/s?k=The+Raven+Boys+Stiefvater&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Dream Thieves",
+            "amazon_url": "https://www.amazon.com/s?k=The+Dream+Thieves+Stiefvater&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Blue Lily, Lily Blue",
+            "amazon_url": "https://www.amazon.com/s?k=Blue+Lily+Lily+Blue+Stiefvater&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Raven King",
+            "amazon_url": "https://www.amazon.com/s?k=The+Raven+King+Stiefvater&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lunar-chronicles",
+      "title": "The Lunar Chronicles",
+      "author": "Marissa Meyer",
+      "genres": [
+        "Fantasy",
+        "Sci-Fi",
+        "Young Adult"
+      ],
+      "total_books": 4,
+      "currently_on_bestseller_list": false,
+      "description": "Classic fairy tales reimagined as a sweeping sci-fi epic: a cyborg Cinderella, a Red Riding Hood with a gun, a hacker Rapunzel, and a Snow White princess must unite to stop a lunar queen from enslaving humanity with a mind-control plague. Meyer's world-building is clever and propulsive, blending familiar story beats with genuinely surprising twists. Perfect for readers who want their fairy tales with spaceships and revolution.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Cinder",
+            "amazon_url": "https://www.amazon.com/s?k=Cinder+Meyer&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Scarlet",
+            "amazon_url": "https://www.amazon.com/s?k=Scarlet+Meyer&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Cress",
+            "amazon_url": "https://www.amazon.com/s?k=Cress+Meyer&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Winter",
+            "note": "Read companion novel Fairest before this for full context on the villain",
+            "amazon_url": "https://www.amazon.com/s?k=Winter+Lunar+Chronicles+Meyer&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Cinder",
+            "amazon_url": "https://www.amazon.com/s?k=Cinder+Meyer&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Scarlet",
+            "amazon_url": "https://www.amazon.com/s?k=Scarlet+Meyer&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Cress",
+            "amazon_url": "https://www.amazon.com/s?k=Cress+Meyer&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Winter",
+            "note": "Read companion novel Fairest before this for full context on the villain",
+            "amazon_url": "https://www.amazon.com/s?k=Winter+Lunar+Chronicles+Meyer&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "red-queen",
+      "title": "Red Queen",
+      "author": "Victoria Aveyard",
+      "genres": [
+        "Fantasy",
+        "Young Adult"
+      ],
+      "total_books": 4,
+      "currently_on_bestseller_list": false,
+      "description": "In a world divided by blood \u2014 ruling Silvers with supernatural powers and common Reds who serve them \u2014 Mare Barrow discovers she has abilities that should be impossible for a Red. Pulled into the Silver court to hide her secret, she becomes a pawn in a deadly game of uprising and betrayal. Aveyard delivers relentless twists and a richly imagined dystopian-fantasy world that kept readers guessing through all four books.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Red Queen",
+            "amazon_url": "https://www.amazon.com/s?k=Red+Queen+Aveyard&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Glass Sword",
+            "amazon_url": "https://www.amazon.com/s?k=Glass+Sword+Aveyard&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "King's Cage",
+            "amazon_url": "https://www.amazon.com/s?k=Kings+Cage+Aveyard&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "War Storm",
+            "amazon_url": "https://www.amazon.com/s?k=War+Storm+Aveyard&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Red Queen",
+            "amazon_url": "https://www.amazon.com/s?k=Red+Queen+Aveyard&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Glass Sword",
+            "amazon_url": "https://www.amazon.com/s?k=Glass+Sword+Aveyard&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "King's Cage",
+            "amazon_url": "https://www.amazon.com/s?k=Kings+Cage+Aveyard&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "War Storm",
+            "amazon_url": "https://www.amazon.com/s?k=War+Storm+Aveyard&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "poppy-war",
+      "title": "The Poppy War",
+      "author": "R.F. Kuang",
+      "genres": [
+        "Fantasy",
+        "Historical Fiction"
+      ],
+      "total_books": 3,
+      "currently_on_bestseller_list": false,
+      "description": "Inspired by the Second Sino-Japanese War and its atrocities, this unflinching dark fantasy follows Rin, a war orphan who earns a place at the Empire's elite military academy only to discover she wields the terrifying power of the gods. Kuang blends Chinese history and mythology to create something genuinely harrowing \u2014 not a comfortable series, but an essential one. One of the most acclaimed fantasy debuts of the decade.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "The Poppy War",
+            "amazon_url": "https://www.amazon.com/s?k=The+Poppy+War+Kuang&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Dragon Republic",
+            "amazon_url": "https://www.amazon.com/s?k=The+Dragon+Republic+Kuang&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Burning God",
+            "amazon_url": "https://www.amazon.com/s?k=The+Burning+God+Kuang&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "The Poppy War",
+            "amazon_url": "https://www.amazon.com/s?k=The+Poppy+War+Kuang&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Dragon Republic",
+            "amazon_url": "https://www.amazon.com/s?k=The+Dragon+Republic+Kuang&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Burning God",
+            "amazon_url": "https://www.amazon.com/s?k=The+Burning+God+Kuang&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "graceling-realm",
+      "title": "Graceling Realm",
+      "author": "Kristin Cashore",
+      "genres": [
+        "Fantasy",
+        "Young Adult"
+      ],
+      "total_books": 5,
+      "currently_on_bestseller_list": false,
+      "description": "Set in a world where some people are born Gracelings \u2014 marked by two different-colored eyes and gifted with a supreme, often dangerous skill \u2014 this series follows fierce heroines navigating kingdoms built on power and cruelty. Cashore's prose is precise and her characters compellingly real, making this a standout in YA fantasy for its nuanced treatment of trauma, agency, and found family across five interconnected novels.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Fire",
+            "note": "Prequel set in a neighboring land \u2014 takes place before Graceling",
+            "amazon_url": "https://www.amazon.com/s?k=Fire+Cashore&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Graceling",
+            "amazon_url": "https://www.amazon.com/s?k=Graceling+Cashore&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Bitterblue",
+            "amazon_url": "https://www.amazon.com/s?k=Bitterblue+Cashore&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Winterkeep",
+            "amazon_url": "https://www.amazon.com/s?k=Winterkeep+Cashore&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Seasparrow",
+            "amazon_url": "https://www.amazon.com/s?k=Seasparrow+Cashore&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Graceling",
+            "note": "Start here \u2014 Fire contains minor spoilers for this world",
+            "amazon_url": "https://www.amazon.com/s?k=Graceling+Cashore&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Fire",
+            "note": "Companion prequel \u2014 best enjoyed after Graceling",
+            "amazon_url": "https://www.amazon.com/s?k=Fire+Cashore&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Bitterblue",
+            "amazon_url": "https://www.amazon.com/s?k=Bitterblue+Cashore&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Winterkeep",
+            "amazon_url": "https://www.amazon.com/s?k=Winterkeep+Cashore&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Seasparrow",
+            "amazon_url": "https://www.amazon.com/s?k=Seasparrow+Cashore&tag=jacketlist-20"
+          }
         ]
       }
     }

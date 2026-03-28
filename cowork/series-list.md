@@ -11,6 +11,7 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 |--------|--------|----|
 | Abercrombie, Joe | The First Law | `first-law` |
 | Asimov, Isaac | Foundation | `foundation` |
+| Aveyard, Victoria | Red Queen | `red-queen` |
 
 ## B
 
@@ -29,6 +30,7 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 
 | Author | Series | ID |
 |--------|--------|----|
+| Cashore, Kristin | Graceling Realm | `graceling-realm` |
 | Child, Lee | Jack Reacher | `jack-reacher` |
 | Christie, Agatha | Hercule Poirot | `hercule-poirot` |
 | Christie, Agatha | Miss Marple | `miss-marple` |
@@ -83,6 +85,7 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 | Author | Series | ID |
 |--------|--------|----|
 | King, Stephen | The Dark Tower | `dark-tower` |
+| Kuang, R.F. | The Poppy War | `poppy-war` |
 
 ## L
 
@@ -98,6 +101,7 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 | Author | Series | ID |
 |--------|--------|----|
 | Maas, Sarah J. | A Court of Thorns and Roses | `a-court-of-thorns-and-roses` |
+| Meyer, Marissa | The Lunar Chronicles | `lunar-chronicles` |
 | Maas, Sarah J. | Crescent City | `crescent-city` |
 | Maas, Sarah J. | Throne of Glass | `throne-of-glass` |
 | Martin, George R.R. | A Song of Ice and Fire | `a-song-of-ice-and-fire` |
@@ -140,6 +144,7 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 | Author | Series | ID |
 |--------|--------|----|
 | Sanderson, Brandon | Mistborn | `mistborn` |
+| Stiefvater, Maggie | The Raven Cycle | `raven-cycle` |
 | Sanderson, Brandon | The Stormlight Archive | `stormlight-archive` |
 | Sapkowski, Andrzej | The Witcher | `the-witcher` |
 | Scalzi, John | Old Man's War | `old-mans-war` |
@@ -161,4 +166,4 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 
 ---
 
-*59 series total. Update this file whenever a new series is merged into `series.json`.*
+*64 series total. Update this file whenever a new series is merged into `series.json`.*
