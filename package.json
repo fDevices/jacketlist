@@ -12,7 +12,9 @@
     "fetch-nyt": "node scripts/fetch-nyt.js",
     "fetch-goodreads": "node scripts/fetch-goodreads.js",
     "fetch-audible": "node scripts/fetch-audible.js",
-    "fetch-all": "npm run fetch-nyt && npm run fetch-goodreads && npm run fetch-audible"
+    "fetch-all": "npm run fetch-nyt && npm run fetch-goodreads && npm run fetch-audible",
+    "merge-bestsellers": "node scripts/merge-bestsellers.js",
+    "refresh": "npm run fetch-all && npm run merge-bestsellers"
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1",
