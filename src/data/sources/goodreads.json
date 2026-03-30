@@ -4,15 +4,75 @@
   "url": "https://www.goodreads.com/book/most_read",
   "updated": "2026-03-30",
   "books": [
-    { "position": 1, "title": "Project Hail Mary", "author": "Andy Weir", "cover_url": "https://covers.openlibrary.org/b/id/11200092-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Project+Hail+Mary+Andy+Weir&tag=jacketlist-20" },
-    { "position": 2, "title": "The Correspondent", "author": "Virginia Evans", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Correspondent+Virginia+Evans&tag=jacketlist-20" },
-    { "position": 3, "title": "Dear Debbie", "author": "Freida McFadden", "cover_url": "https://covers.openlibrary.org/b/id/15163694-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Dear+Debbie+Freida+McFadden&tag=jacketlist-20" },
-    { "position": 4, "title": "My Husband's Wife", "author": "Alice Feeney", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=My+Husband%27s+Wife+Alice+Feeney&tag=jacketlist-20" },
-    { "position": 5, "title": "Theo of Golden", "author": "Allen Levi", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Theo+of+Golden+Allen+Levi&tag=jacketlist-20" },
-    { "position": 6, "title": "In Her Own League", "author": "Liz Tomforde", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=In+Her+Own+League+Liz+Tomforde&tag=jacketlist-20" },
-    { "position": 7, "title": "Reminders of Him", "author": "Colleen Hoover", "cover_url": "https://covers.openlibrary.org/b/id/12504366-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Reminders+of+Him+Colleen+Hoover&tag=jacketlist-20" },
-    { "position": 8, "title": "Atmosphere", "author": "Taylor Jenkins Reid", "cover_url": "https://covers.openlibrary.org/b/id/15098710-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Atmosphere+Taylor+Jenkins+Reid&tag=jacketlist-20" },
-    { "position": 9, "title": "Heart the Lover", "author": "Lily King", "cover_url": "https://covers.openlibrary.org/b/id/15143628-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Heart+the+Lover+Lily+King&tag=jacketlist-20" },
-    { "position": 10, "title": "The Wedding People", "author": "Alison Espach", "cover_url": "https://covers.openlibrary.org/b/id/15127690-M.jpg", "amazon_url": "https://www.amazon.com/s?k=The+Wedding+People+Alison+Espach&tag=jacketlist-20" }
+    {
+      "position": 1,
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1764703833i/54493401._SY300_.jpg",
+      "amazon_url": "https://www.amazon.com/s?k=Project%20Hail%20Mary%20Weir&tag=jacketlist-20"
+    },
+    {
+      "position": 2,
+      "title": "The Correspondent",
+      "author": "Virginia Evans",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1735235942i/223001257._SY300_.jpg",
+      "amazon_url": "https://www.amazon.com/s?k=The%20Correspondent%20Evans&tag=jacketlist-20"
+    },
+    {
+      "position": 3,
+      "title": "Dear Debbie",
+      "author": "Freida McFadden",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1774686324i/238365535._SY300_.jpg",
+      "amazon_url": "https://www.amazon.com/s?k=Dear%20Debbie%20McFadden&tag=jacketlist-20"
+    },
+    {
+      "position": 4,
+      "title": "My Husband's Wife",
+      "author": "Alice Feeney",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1747668611i/231127462._SY300_.jpg",
+      "amazon_url": "https://www.amazon.com/s?k=My%20Husband's%20Wife%20Feeney&tag=jacketlist-20"
+    },
+    {
+      "position": 5,
+      "title": "Theo of Golden",
+      "author": "Allen Levi",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1761744192i/242376245._SY300_.jpg",
+      "amazon_url": "https://www.amazon.com/s?k=Theo%20of%20Golden%20Levi&tag=jacketlist-20"
+    },
+    {
+      "position": 6,
+      "title": "In Her Own League",
+      "author": "Liz Tomforde",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1763062347i/230926478._SY300_.jpg",
+      "amazon_url": "https://www.amazon.com/s?k=In%20Her%20Own%20League%20Tomforde&tag=jacketlist-20"
+    },
+    {
+      "position": 7,
+      "title": "Reminders of Him",
+      "author": "Colleen Hoover",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627673942i/58341222._SY300_.jpg",
+      "amazon_url": "https://www.amazon.com/s?k=Reminders%20of%20Him%20Hoover&tag=jacketlist-20"
+    },
+    {
+      "position": 8,
+      "title": "Atmosphere",
+      "author": "Taylor Jenkins Reid",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1730469032i/220817728._SY300_.jpg",
+      "amazon_url": "https://www.amazon.com/s?k=Atmosphere%20Reid&tag=jacketlist-20"
+    },
+    {
+      "position": 9,
+      "title": "Heart the Lover",
+      "author": "Lily King",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1745508457i/228110489._SY300_.jpg",
+      "amazon_url": "https://www.amazon.com/s?k=Heart%20the%20Lover%20King&tag=jacketlist-20"
+    },
+    {
+      "position": 10,
+      "title": "The Wedding People",
+      "author": "Alison Espach",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759683499i/198902277._SY300_.jpg",
+      "amazon_url": "https://www.amazon.com/s?k=The%20Wedding%20People%20Espach&tag=jacketlist-20"
+    }
   ]
 }
