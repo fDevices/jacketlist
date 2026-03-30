@@ -46,6 +46,34 @@ async function fetchList(listName) {
   return data.results;
 }
 
+// Words that stay lowercase unless they are the first or last word
+const LOWERCASE_WORDS = new Set([
+  'a', 'an', 'the',
+  'and', 'but', 'for', 'nor', 'or', 'so', 'yet',
+  'at', 'by', 'in', 'of', 'on', 'to', 'up', 'as', 'with', 'via', 'vs',
+]);
+
+function toTitleCase(str) {
+  const words = str.toLowerCase().split(' ');
+  return words
+    .map((word, i) => {
+      // Always capitalise first and last word
+      if (i === 0 || i === words.length - 1) return capitalise(word);
+      // Keep small words lowercase
+      if (LOWERCASE_WORDS.has(word)) return word;
+      return capitalise(word);
+    })
+    .join(' ');
+}
+
+function capitalise(word) {
+  // Handle hyphenated words (e.g. "Well-Being")
+  return word
+    .split('-')
+    .map(part => part.charAt(0).toUpperCase() + part.slice(1))
+    .join('-');
+}
+
 function buildAmazonUrl(title, author) {
   const lastName = author.split(' ').pop();
   const q = encodeURIComponent(`${title} ${lastName}`);
@@ -55,8 +83,8 @@ function buildAmazonUrl(title, author) {
 function formatBook(nytBook, position) {
   return {
     position,
-    title: nytBook.title,
-    author: nytBook.author,
+    title: toTitleCase(nytBook.title),
+    author: toTitleCase(nytBook.author),
     cover_url: nytBook.book_image || '',
     amazon_url: buildAmazonUrl(nytBook.title, nytBook.author),
   };
