@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-27",
+  "updated": "2026-03-30",
   "books": [
     {
       "id": "the-correspondent",
@@ -7,46 +7,20 @@
       "author": "Virginia Evans",
       "cover_url": "/images/the-correspondent.webp",
       "description": "Letters from someone Sybil Van Antwerp used to know pull her back toward a past she buried — and a forgiveness she isn't sure she can give.",
-      "sources": ["nyt", "publishersweekly", "goodreads", "audible", "amazon", "usatoday", "guardian"],
+      "sources": ["nyt", "goodreads", "audible", "publishersweekly"],
       "sources_positions": [
         { "source": "nyt", "position": 5 },
-        { "source": "publishersweekly", "position": 3 },
         { "source": "goodreads", "position": 2 },
-        { "source": "audible", "position": 8 },
-        { "source": "amazon", "position": 3 },
-        { "source": "usatoday", "position": 2 },
-        { "source": "guardian", "position": 1 }
+        { "source": "audible", "position": 4 },
+        { "source": "publishersweekly", "position": 3 }
       ],
-      "score": 7,
+      "score": 4,
       "rank": 1,
       "new_this_week": false,
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "series_id": null,
       "series_book_number": null,
       "amazon_url": "https://www.amazon.com/s?k=The+Correspondent+Virginia+Evans&tag=jacketlist-20"
-    },
-    {
-      "id": "judge-stone",
-      "title": "Judge Stone",
-      "author": "Viola Davis and James Patterson",
-      "cover_url": "/images/judge-stone.webp",
-      "description": "Judge Mary Stone takes on an ethically explosive case in her Alabama courtroom — and must decide how far justice can go before it becomes something else.",
-      "sources": ["nyt", "publishersweekly", "audible", "amazon", "usatoday", "guardian"],
-      "sources_positions": [
-        { "source": "nyt", "position": 1 },
-        { "source": "publishersweekly", "position": 1 },
-        { "source": "audible", "position": 4 },
-        { "source": "amazon", "position": 4 },
-        { "source": "usatoday", "position": 1 },
-        { "source": "guardian", "position": 4 }
-      ],
-      "score": 6,
-      "rank": 2,
-      "new_this_week": false,
-      "weeks_on_list": 3,
-      "series_id": null,
-      "series_book_number": null,
-      "amazon_url": "https://www.amazon.com/s?k=Judge+Stone+Viola+Davis+James+Patterson&tag=jacketlist-20"
     },
     {
       "id": "project-hail-mary",
@@ -54,18 +28,16 @@
       "author": "Andy Weir",
       "cover_url": "https://covers.openlibrary.org/b/id/11200092-M.jpg",
       "description": "Ryland Grace wakes up alone on a spacecraft with no memory of how he got there — and realises the fate of Earth rests entirely on his shoulders.",
-      "sources": ["nyt", "goodreads", "audible", "amazon", "usatoday"],
+      "sources": ["nyt", "goodreads", "audible"],
       "sources_positions": [
         { "source": "nyt", "position": 3 },
         { "source": "goodreads", "position": 1 },
-        { "source": "audible", "position": 1 },
-        { "source": "amazon", "position": 2 },
-        { "source": "usatoday", "position": 4 }
+        { "source": "audible", "position": 1 }
       ],
-      "score": 5,
-      "rank": 3,
+      "score": 3,
+      "rank": 2,
       "new_this_week": false,
-      "weeks_on_list": 102,
+      "weeks_on_list": 103,
       "series_id": null,
       "series_book_number": null,
       "amazon_url": "https://www.amazon.com/s?k=Project+Hail+Mary+Andy+Weir&tag=jacketlist-20"
@@ -76,43 +48,19 @@
       "author": "Allen Levi",
       "cover_url": "/images/theo-of-golden.webp",
       "description": "A wandering man visits a small Southern town, trading pencil portraits of residents for the stories of their lives — and unexpectedly finds his own.",
-      "sources": ["nyt", "goodreads", "audible", "amazon", "usatoday"],
+      "sources": ["nyt", "goodreads", "audible"],
       "sources_positions": [
         { "source": "nyt", "position": 2 },
         { "source": "goodreads", "position": 5 },
-        { "source": "audible", "position": 3 },
-        { "source": "amazon", "position": 1 },
-        { "source": "usatoday", "position": 3 }
+        { "source": "audible", "position": 2 }
       ],
-      "score": 5,
-      "rank": 4,
+      "score": 3,
+      "rank": 3,
       "new_this_week": false,
-      "weeks_on_list": 23,
+      "weeks_on_list": 24,
       "series_id": null,
       "series_book_number": null,
       "amazon_url": "https://www.amazon.com/s?k=Theo+of+Golden+Allen+Levi&tag=jacketlist-20"
-    },
-    {
-      "id": "dear-debbie",
-      "title": "Dear Debbie",
-      "author": "Freida McFadden",
-      "cover_url": "https://covers.openlibrary.org/b/id/15163694-M.jpg",
-      "description": "An advice columnist with a perfect public image starts using her column to settle private scores — with increasingly dangerous results.",
-      "sources": ["nyt", "goodreads", "audible", "amazon", "usatoday"],
-      "sources_positions": [
-        { "source": "nyt", "position": 9 },
-        { "source": "goodreads", "position": 3 },
-        { "source": "audible", "position": 6 },
-        { "source": "amazon", "position": 6 },
-        { "source": "usatoday", "position": 6 }
-      ],
-      "score": 5,
-      "rank": 5,
-      "new_this_week": false,
-      "weeks_on_list": 3,
-      "series_id": null,
-      "series_book_number": null,
-      "amazon_url": "https://www.amazon.com/s?k=Dear+Debbie+Freida+McFadden&tag=jacketlist-20"
     },
     {
       "id": "my-husbands-wife",
@@ -120,101 +68,19 @@
       "author": "Alice Feeney",
       "cover_url": "/images/my-husbands-wife.jpg",
       "description": "A woman finds her marriage unravelling when her husband's past suddenly reappears — and she realises she may never have known him at all.",
-      "sources": ["publishersweekly", "goodreads", "amazon", "usatoday", "guardian"],
+      "sources": ["goodreads", "audible", "publishersweekly"],
       "sources_positions": [
-        { "source": "publishersweekly", "position": 5 },
         { "source": "goodreads", "position": 4 },
-        { "source": "amazon", "position": 9 },
-        { "source": "usatoday", "position": 7 },
-        { "source": "guardian", "position": 6 }
-      ],
-      "score": 5,
-      "rank": 6,
-      "new_this_week": false,
-      "weeks_on_list": 2,
-      "series_id": null,
-      "series_book_number": null,
-      "amazon_url": "https://www.amazon.com/s?k=My+Husband%27s+Wife+Alice+Feeney&tag=jacketlist-20"
-    },
-    {
-      "id": "reminders-of-him",
-      "title": "Reminders of Him",
-      "author": "Colleen Hoover",
-      "cover_url": "https://covers.openlibrary.org/b/id/12504366-M.jpg",
-      "description": "After serving five years in prison, a young mother desperately tries to reconnect with her daughter — and the grieving family standing in her way.",
-      "sources": ["goodreads", "amazon", "usatoday"],
-      "sources_positions": [
-        { "source": "goodreads", "position": 7 },
-        { "source": "amazon", "position": 7 },
-        { "source": "usatoday", "position": 9 }
+        { "source": "audible", "position": 5 },
+        { "source": "publishersweekly", "position": 5 }
       ],
       "score": 3,
-      "rank": 7,
-      "new_this_week": false,
-      "weeks_on_list": 52,
-      "series_id": null,
-      "series_book_number": null,
-      "amazon_url": "https://www.amazon.com/s?k=Reminders+of+Him+Colleen+Hoover&tag=jacketlist-20"
-    },
-    {
-      "id": "kin",
-      "title": "Kin",
-      "author": "Tayari Jones",
-      "cover_url": "/images/kin.webp",
-      "description": "A sweeping story of a Black American family across three generations — tracing how history, ambition, and love shape who we become and who we leave behind.",
-      "sources": ["publishersweekly", "usatoday", "guardian"],
-      "sources_positions": [
-        { "source": "publishersweekly", "position": 4 },
-        { "source": "usatoday", "position": 5 },
-        { "source": "guardian", "position": 2 }
-      ],
-      "score": 3,
-      "rank": 8,
-      "new_this_week": false,
-      "weeks_on_list": 4,
-      "series_id": null,
-      "series_book_number": null,
-      "amazon_url": "https://www.amazon.com/s?k=Kin+Tayari+Jones&tag=jacketlist-20"
-    },
-    {
-      "id": "the-wings-that-bind",
-      "title": "The Wings That Bind",
-      "author": "Briar Boleyn",
-      "cover_url": "/images/the-wings-that-bind.jpeg",
-      "description": "In a world where magical bonds are unbreakable, one woman discovers the bond she thought was her salvation may be the very thing that destroys her.",
-      "sources": ["nyt", "publishersweekly", "usatoday"],
-      "sources_positions": [
-        { "source": "nyt", "position": 4 },
-        { "source": "publishersweekly", "position": 2 },
-        { "source": "usatoday", "position": 8 }
-      ],
-      "score": 3,
-      "rank": 9,
+      "rank": 4,
       "new_this_week": false,
       "weeks_on_list": 3,
       "series_id": null,
       "series_book_number": null,
-      "amazon_url": "https://www.amazon.com/s?k=The+Wings+That+Bind+Briar+Boleyn&tag=jacketlist-20"
-    },
-    {
-      "id": "mistakes-were-made",
-      "title": "Mistakes Were Made",
-      "author": "Lucy Score",
-      "cover_url": "/images/mistakes-were-made.jpg",
-      "description": "A commitment-phobic literary agent stranded in a small town finds herself renegotiating everything she thought she wanted — starting with her impossible new landlord.",
-      "sources": ["nyt", "amazon", "usatoday"],
-      "sources_positions": [
-        { "source": "nyt", "position": 6 },
-        { "source": "amazon", "position": 8 },
-        { "source": "usatoday", "position": 10 }
-      ],
-      "score": 3,
-      "rank": 10,
-      "new_this_week": false,
-      "weeks_on_list": 2,
-      "series_id": null,
-      "series_book_number": null,
-      "amazon_url": "https://www.amazon.com/s?k=Mistakes+Were+Made+Lucy+Score&tag=jacketlist-20"
+      "amazon_url": "https://www.amazon.com/s?k=My+Husband%27s+Wife+Alice+Feeney&tag=jacketlist-20"
     },
     {
       "id": "dungeon-crawler-carl",
@@ -225,147 +91,90 @@
       "sources": ["nyt", "audible"],
       "sources_positions": [
         { "source": "nyt", "position": 10 },
-        { "source": "audible", "position": 10 }
+        { "source": "audible", "position": 3 }
       ],
       "score": 2,
-      "rank": 11,
+      "rank": 5,
       "new_this_week": false,
-      "weeks_on_list": 52,
-      "series_id": null,
-      "series_book_number": null,
+      "weeks_on_list": 53,
+      "series_id": "dungeon-crawler-carl",
+      "series_book_number": 1,
       "amazon_url": "https://www.amazon.com/s?k=Dungeon+Crawler+Carl+Matt+Dinniman&tag=jacketlist-20"
     },
     {
-      "id": "between-two-fires",
-      "title": "Between Two Fires",
-      "author": "Christopher Buehlman",
-      "cover_url": "https://covers.openlibrary.org/b/id/8441116-M.jpg",
-      "description": "In plague-ravaged medieval France, a disgraced knight and an orphaned girl journey through a land caught between heaven and hell.",
-      "sources": ["publishersweekly", "guardian"],
+      "id": "judge-stone",
+      "title": "Judge Stone",
+      "author": "Viola Davis and James Patterson",
+      "cover_url": "/images/judge-stone.webp",
+      "description": "Judge Mary Stone takes on an ethically explosive case in her Alabama courtroom — and must decide how far justice can go before it becomes something else.",
+      "sources": ["nyt", "publishersweekly"],
       "sources_positions": [
-        { "source": "publishersweekly", "position": 8 },
-        { "source": "guardian", "position": 5 }
+        { "source": "nyt", "position": 1 },
+        { "source": "publishersweekly", "position": 1 }
       ],
       "score": 2,
-      "rank": 12,
+      "rank": 6,
       "new_this_week": false,
       "weeks_on_list": 4,
       "series_id": null,
       "series_book_number": null,
-      "amazon_url": "https://www.amazon.com/s?k=Between+Two+Fires+Christopher+Buehlman&tag=jacketlist-20"
+      "amazon_url": "https://www.amazon.com/s?k=Judge+Stone+Viola+Davis+James+Patterson&tag=jacketlist-20"
     },
     {
-      "id": "heart-the-lover",
-      "title": "Heart the Lover",
-      "author": "Lily King",
-      "cover_url": "https://covers.openlibrary.org/b/id/15143628-M.jpg",
-      "description": "A female marine biologist on a remote research post struggles between scientific ambition and a consuming love affair that threatens everything she has built.",
-      "sources": ["goodreads", "guardian"],
+      "id": "the-wings-that-bind",
+      "title": "The Wings That Bind",
+      "author": "Briar Boleyn",
+      "cover_url": "/images/the-wings-that-bind.jpeg",
+      "description": "In a world where magical bonds are unbreakable, one woman discovers the bond she thought was her salvation may be the very thing that destroys her.",
+      "sources": ["nyt", "publishersweekly"],
       "sources_positions": [
-        { "source": "goodreads", "position": 9 },
-        { "source": "guardian", "position": 3 }
+        { "source": "nyt", "position": 4 },
+        { "source": "publishersweekly", "position": 2 }
       ],
       "score": 2,
-      "rank": 13,
-      "new_this_week": false,
-      "weeks_on_list": 3,
-      "series_id": null,
-      "series_book_number": null,
-      "amazon_url": "https://www.amazon.com/s?k=Heart+the+Lover+Lily+King&tag=jacketlist-20"
-    },
-    {
-      "id": "the-wedding-people",
-      "title": "The Wedding People",
-      "author": "Alison Espach",
-      "cover_url": "https://covers.openlibrary.org/b/id/15127690-M.jpg",
-      "description": "A woman checks into a hotel on the brink of a breakdown, only to find herself swept up in a stranger's extravagant wedding weekend.",
-      "sources": ["goodreads", "guardian"],
-      "sources_positions": [
-        { "source": "goodreads", "position": 10 },
-        { "source": "guardian", "position": 9 }
-      ],
-      "score": 2,
-      "rank": 14,
-      "new_this_week": false,
-      "weeks_on_list": 5,
-      "series_id": null,
-      "series_book_number": null,
-      "amazon_url": "https://www.amazon.com/s?k=The+Wedding+People+Alison+Espach&tag=jacketlist-20"
-    },
-    {
-      "id": "atmosphere",
-      "title": "Atmosphere",
-      "author": "Taylor Jenkins Reid",
-      "cover_url": "https://covers.openlibrary.org/b/id/15098710-M.jpg",
-      "description": "A rising astronaut must choose between the mission that will define her legacy and the life on Earth she is slowly losing her grip on.",
-      "sources": ["goodreads", "guardian"],
-      "sources_positions": [
-        { "source": "goodreads", "position": 8 },
-        { "source": "guardian", "position": 10 }
-      ],
-      "score": 2,
-      "rank": 15,
+      "rank": 7,
       "new_this_week": false,
       "weeks_on_list": 4,
       "series_id": null,
       "series_book_number": null,
-      "amazon_url": "https://www.amazon.com/s?k=Atmosphere+Taylor+Jenkins+Reid&tag=jacketlist-20"
+      "amazon_url": "https://www.amazon.com/s?k=The+Wings+That+Bind+Briar+Boleyn&tag=jacketlist-20"
     },
     {
-      "id": "alchemised",
-      "title": "Alchemised",
-      "author": "SenLinYu",
-      "cover_url": "https://covers.openlibrary.org/b/id/15162548-M.jpg",
-      "description": "A young alchemist in a crumbling empire discovers the formula she has spent her life searching for — and the terrible cost of using it.",
-      "sources": ["publishersweekly", "guardian"],
-      "sources_positions": [
-        { "source": "publishersweekly", "position": 9 },
-        { "source": "guardian", "position": 7 }
-      ],
-      "score": 2,
-      "rank": 16,
-      "new_this_week": false,
-      "weeks_on_list": 2,
-      "series_id": null,
-      "series_book_number": null,
-      "amazon_url": "https://www.amazon.com/s?k=Alchemised+SenLinYu&tag=jacketlist-20"
-    },
-    {
-      "id": "the-widow",
-      "title": "The Widow",
-      "author": "John Grisham",
-      "cover_url": "https://covers.openlibrary.org/b/id/15138476-M.jpg",
-      "description": "A wrongfully convicted man's widow sets out to prove his innocence — and stumbles into a conspiracy that reaches the highest levels of the justice system.",
-      "sources": ["publishersweekly", "guardian"],
-      "sources_positions": [
-        { "source": "publishersweekly", "position": 10 },
-        { "source": "guardian", "position": 8 }
-      ],
-      "score": 2,
-      "rank": 17,
-      "new_this_week": false,
-      "weeks_on_list": 3,
-      "series_id": null,
-      "series_book_number": null,
-      "amazon_url": "https://www.amazon.com/s?k=The+Widow+John+Grisham&tag=jacketlist-20"
-    },
-    {
-      "id": "the-housemaid",
-      "title": "The Housemaid",
+      "id": "dear-debbie",
+      "title": "Dear Debbie",
       "author": "Freida McFadden",
-      "cover_url": "https://covers.openlibrary.org/b/id/15105883-M.jpg",
-      "description": "A desperate woman takes a job as a housemaid for a wealthy family, only to discover the picture-perfect household hides something very dark.",
-      "sources": ["amazon"],
+      "cover_url": "https://covers.openlibrary.org/b/id/15163694-M.jpg",
+      "description": "An advice columnist with a perfect public image starts using her column to settle private scores — with increasingly dangerous results.",
+      "sources": ["nyt", "goodreads"],
       "sources_positions": [
-        { "source": "amazon", "position": 5 }
+        { "source": "nyt", "position": 9 },
+        { "source": "goodreads", "position": 3 }
+      ],
+      "score": 2,
+      "rank": 8,
+      "new_this_week": false,
+      "weeks_on_list": 4,
+      "series_id": null,
+      "series_book_number": null,
+      "amazon_url": "https://www.amazon.com/s?k=Dear+Debbie+Freida+McFadden&tag=jacketlist-20"
+    },
+    {
+      "id": "reminders-of-him",
+      "title": "Reminders of Him",
+      "author": "Colleen Hoover",
+      "cover_url": "https://covers.openlibrary.org/b/id/12504366-M.jpg",
+      "description": "After serving five years in prison, a young mother desperately tries to reconnect with her daughter — and the grieving family standing in her way.",
+      "sources": ["goodreads"],
+      "sources_positions": [
+        { "source": "goodreads", "position": 7 }
       ],
       "score": 1,
-      "rank": 18,
+      "rank": 9,
       "new_this_week": false,
-      "weeks_on_list": 52,
+      "weeks_on_list": 53,
       "series_id": null,
       "series_book_number": null,
-      "amazon_url": "https://www.amazon.com/s?k=The+Housemaid+Freida+McFadden&tag=jacketlist-20"
+      "amazon_url": "https://www.amazon.com/s?k=Reminders+of+Him+Colleen+Hoover&tag=jacketlist-20"
     },
     {
       "id": "the-let-them-theory",
@@ -373,71 +182,35 @@
       "author": "Mel Robbins",
       "cover_url": "https://covers.openlibrary.org/b/id/15165806-M.jpg",
       "description": "A viral mindset shift — letting other people do and be as they choose — turns out to be the most powerful tool for reclaiming your own energy and life.",
-      "sources": ["amazon"],
+      "sources": ["audible"],
       "sources_positions": [
-        { "source": "amazon", "position": 10 }
+        { "source": "audible", "position": 7 }
       ],
       "score": 1,
-      "rank": 19,
+      "rank": 10,
       "new_this_week": false,
-      "weeks_on_list": 52,
+      "weeks_on_list": 53,
       "series_id": null,
       "series_book_number": null,
       "amazon_url": "https://www.amazon.com/s?k=The+Let+Them+Theory+Mel+Robbins&tag=jacketlist-20"
     },
     {
-      "id": "the-night-we-met",
-      "title": "The Night We Met",
-      "author": "Abby Jimenez",
-      "cover_url": "",
-      "description": "Two strangers who share a single memorable night find each other again years later — and must decide whether the past is something to run from or return to.",
-      "sources": ["audible"],
-      "sources_positions": [
-        { "source": "audible", "position": 2 }
-      ],
-      "score": 1,
-      "rank": 20,
-      "new_this_week": true,
-      "weeks_on_list": 1,
-      "series_id": null,
-      "series_book_number": null,
-      "amazon_url": "https://www.amazon.com/s?k=The+Night+We+Met+Abby+Jimenez&tag=jacketlist-20"
-    },
-    {
-      "id": "strangers-a-memoir-of-marriage",
-      "title": "Strangers: A Memoir of Marriage",
-      "author": "Belle Burden",
-      "cover_url": "https://covers.openlibrary.org/b/id/15165045-M.jpg",
-      "description": "A candid, at times devastating memoir about waking up one morning and realising you no longer know the person lying beside you.",
-      "sources": ["audible"],
-      "sources_positions": [
-        { "source": "audible", "position": 5 }
-      ],
-      "score": 1,
-      "rank": 21,
-      "new_this_week": false,
-      "weeks_on_list": 2,
-      "series_id": null,
-      "series_book_number": null,
-      "amazon_url": "https://www.amazon.com/s?k=Strangers+Memoir+Marriage+Belle+Burden&tag=jacketlist-20"
-    },
-    {
-      "id": "the-crossroads",
-      "title": "The Crossroads",
-      "author": "C.J. Box",
-      "cover_url": "https://covers.openlibrary.org/b/id/15175415-M.jpg",
-      "description": "Wyoming game warden Joe Pickett investigates a series of suspicious deaths tied to a remote crossroads — and a local power struggle with deadly stakes.",
+      "id": "kin",
+      "title": "Kin",
+      "author": "Tayari Jones",
+      "cover_url": "/images/kin.webp",
+      "description": "A sweeping story of a Black American family across three generations — tracing how history, ambition, and love shape who we become and who we leave behind.",
       "sources": ["publishersweekly"],
       "sources_positions": [
-        { "source": "publishersweekly", "position": 6 }
+        { "source": "publishersweekly", "position": 4 }
       ],
       "score": 1,
-      "rank": 22,
+      "rank": 11,
       "new_this_week": false,
-      "weeks_on_list": 3,
+      "weeks_on_list": 5,
       "series_id": null,
       "series_book_number": null,
-      "amazon_url": "https://www.amazon.com/s?k=The+Crossroads+CJ+Box&tag=jacketlist-20"
+      "amazon_url": "https://www.amazon.com/s?k=Kin+Tayari+Jones&tag=jacketlist-20"
     },
     {
       "id": "in-her-own-league",
@@ -450,12 +223,84 @@
         { "source": "goodreads", "position": 6 }
       ],
       "score": 1,
-      "rank": 23,
+      "rank": 12,
+      "new_this_week": false,
+      "weeks_on_list": 5,
+      "series_id": null,
+      "series_book_number": null,
+      "amazon_url": "https://www.amazon.com/s?k=In+Her+Own+League+Liz+Tomforde&tag=jacketlist-20"
+    },
+    {
+      "id": "the-crossroads",
+      "title": "The Crossroads",
+      "author": "C.J. Box",
+      "cover_url": "https://covers.openlibrary.org/b/id/15175415-M.jpg",
+      "description": "Wyoming game warden Joe Pickett investigates a series of suspicious deaths tied to a remote crossroads — and a local power struggle with deadly stakes.",
+      "sources": ["publishersweekly"],
+      "sources_positions": [
+        { "source": "publishersweekly", "position": 6 }
+      ],
+      "score": 1,
+      "rank": 13,
       "new_this_week": false,
       "weeks_on_list": 4,
       "series_id": null,
       "series_book_number": null,
-      "amazon_url": "https://www.amazon.com/s?k=In+Her+Own+League+Liz+Tomforde&tag=jacketlist-20"
+      "amazon_url": "https://www.amazon.com/s?k=The+Crossroads+CJ+Box&tag=jacketlist-20"
+    },
+    {
+      "id": "mistakes-were-made",
+      "title": "Mistakes Were Made",
+      "author": "Lucy Score",
+      "cover_url": "/images/mistakes-were-made.jpg",
+      "description": "A commitment-phobic literary agent stranded in a small town finds herself renegotiating everything she thought she wanted — starting with her impossible new landlord.",
+      "sources": ["nyt"],
+      "sources_positions": [
+        { "source": "nyt", "position": 6 }
+      ],
+      "score": 1,
+      "rank": 14,
+      "new_this_week": false,
+      "weeks_on_list": 3,
+      "series_id": null,
+      "series_book_number": null,
+      "amazon_url": "https://www.amazon.com/s?k=Mistakes+Were+Made+Lucy+Score&tag=jacketlist-20"
+    },
+    {
+      "id": "atmosphere",
+      "title": "Atmosphere",
+      "author": "Taylor Jenkins Reid",
+      "cover_url": "https://covers.openlibrary.org/b/id/15098710-M.jpg",
+      "description": "A rising astronaut must choose between the mission that will define her legacy and the life on Earth she is slowly losing her grip on.",
+      "sources": ["goodreads"],
+      "sources_positions": [
+        { "source": "goodreads", "position": 8 }
+      ],
+      "score": 1,
+      "rank": 15,
+      "new_this_week": false,
+      "weeks_on_list": 5,
+      "series_id": null,
+      "series_book_number": null,
+      "amazon_url": "https://www.amazon.com/s?k=Atmosphere+Taylor+Jenkins+Reid&tag=jacketlist-20"
+    },
+    {
+      "id": "between-two-fires",
+      "title": "Between Two Fires",
+      "author": "Christopher Buehlman",
+      "cover_url": "https://covers.openlibrary.org/b/id/8441116-M.jpg",
+      "description": "In plague-ravaged medieval France, a disgraced knight and an orphaned girl journey through a land caught between heaven and hell.",
+      "sources": ["publishersweekly"],
+      "sources_positions": [
+        { "source": "publishersweekly", "position": 8 }
+      ],
+      "score": 1,
+      "rank": 16,
+      "new_this_week": false,
+      "weeks_on_list": 5,
+      "series_id": null,
+      "series_book_number": null,
+      "amazon_url": "https://www.amazon.com/s?k=Between+Two+Fires+Christopher+Buehlman&tag=jacketlist-20"
     },
     {
       "id": "want-to-know-a-secret",
@@ -468,9 +313,9 @@
         { "source": "nyt", "position": 7 }
       ],
       "score": 1,
-      "rank": 24,
+      "rank": 17,
       "new_this_week": false,
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "series_id": null,
       "series_book_number": null,
       "amazon_url": "https://www.amazon.com/s?k=Want+to+Know+a+Secret+Freida+McFadden&tag=jacketlist-20"
@@ -486,12 +331,138 @@
         { "source": "nyt", "position": 8 }
       ],
       "score": 1,
-      "rank": 25,
+      "rank": 18,
+      "new_this_week": false,
+      "weeks_on_list": 4,
+      "series_id": null,
+      "series_book_number": null,
+      "amazon_url": "https://www.amazon.com/s?k=Heated+Rivalry+Rachel+Reid&tag=jacketlist-20"
+    },
+    {
+      "id": "the-wedding-people",
+      "title": "The Wedding People",
+      "author": "Alison Espach",
+      "cover_url": "https://covers.openlibrary.org/b/id/15127690-M.jpg",
+      "description": "A woman checks into a hotel on the brink of a breakdown, only to find herself swept up in a stranger's extravagant wedding weekend.",
+      "sources": ["goodreads"],
+      "sources_positions": [
+        { "source": "goodreads", "position": 10 }
+      ],
+      "score": 1,
+      "rank": 19,
+      "new_this_week": false,
+      "weeks_on_list": 6,
+      "series_id": null,
+      "series_book_number": null,
+      "amazon_url": "https://www.amazon.com/s?k=The+Wedding+People+Alison+Espach&tag=jacketlist-20"
+    },
+    {
+      "id": "heart-the-lover",
+      "title": "Heart the Lover",
+      "author": "Lily King",
+      "cover_url": "https://covers.openlibrary.org/b/id/15143628-M.jpg",
+      "description": "A female marine biologist on a remote research post struggles between scientific ambition and a consuming love affair that threatens everything she has built.",
+      "sources": ["goodreads"],
+      "sources_positions": [
+        { "source": "goodreads", "position": 9 }
+      ],
+      "score": 1,
+      "rank": 20,
+      "new_this_week": false,
+      "weeks_on_list": 4,
+      "series_id": null,
+      "series_book_number": null,
+      "amazon_url": "https://www.amazon.com/s?k=Heart+the+Lover+Lily+King&tag=jacketlist-20"
+    },
+    {
+      "id": "carls-doomsday-scenario",
+      "title": "Carl's Doomsday Scenario",
+      "author": "Matt Dinniman",
+      "cover_url": "",
+      "description": "Carl and Princess Donut have survived the first floors of the dungeon — but the stakes are escalating, the monsters are getting smarter, and the alien audience wants more blood.",
+      "sources": ["audible"],
+      "sources_positions": [
+        { "source": "audible", "position": 6 }
+      ],
+      "score": 1,
+      "rank": 21,
+      "new_this_week": true,
+      "weeks_on_list": 1,
+      "series_id": "dungeon-crawler-carl",
+      "series_book_number": 2,
+      "amazon_url": "https://www.amazon.com/s?k=Carl%27s+Doomsday+Scenario+Matt+Dinniman&tag=jacketlist-20"
+    },
+    {
+      "id": "felicia-s-favorites",
+      "title": "Felicia's Favorites",
+      "author": "Danielle Steel",
+      "cover_url": "",
+      "description": "Felicia Ashford has spent a lifetime perfecting the appearance of a charmed existence — until a series of revelations forces her to confront the choices she never dared make.",
+      "sources": ["publishersweekly"],
+      "sources_positions": [
+        { "source": "publishersweekly", "position": 7 }
+      ],
+      "score": 1,
+      "rank": 22,
+      "new_this_week": true,
+      "weeks_on_list": 1,
+      "series_id": null,
+      "series_book_number": null,
+      "amazon_url": "https://www.amazon.com/s?k=Felicia%27s+Favorites+Danielle+Steel&tag=jacketlist-20"
+    },
+    {
+      "id": "alchemised",
+      "title": "Alchemised",
+      "author": "SenLinYu",
+      "cover_url": "https://covers.openlibrary.org/b/id/15162548-M.jpg",
+      "description": "A young alchemist in a crumbling empire discovers the formula she has spent her life searching for — and the terrible cost of using it.",
+      "sources": ["publishersweekly"],
+      "sources_positions": [
+        { "source": "publishersweekly", "position": 9 }
+      ],
+      "score": 1,
+      "rank": 23,
       "new_this_week": false,
       "weeks_on_list": 3,
       "series_id": null,
       "series_book_number": null,
-      "amazon_url": "https://www.amazon.com/s?k=Heated+Rivalry+Rachel+Reid&tag=jacketlist-20"
+      "amazon_url": "https://www.amazon.com/s?k=Alchemised+SenLinYu&tag=jacketlist-20"
+    },
+    {
+      "id": "the-widow",
+      "title": "The Widow",
+      "author": "John Grisham",
+      "cover_url": "https://covers.openlibrary.org/b/id/15138476-M.jpg",
+      "description": "A wrongfully convicted man's widow sets out to prove his innocence — and stumbles into a conspiracy that reaches the highest levels of the justice system.",
+      "sources": ["publishersweekly"],
+      "sources_positions": [
+        { "source": "publishersweekly", "position": 10 }
+      ],
+      "score": 1,
+      "rank": 24,
+      "new_this_week": false,
+      "weeks_on_list": 4,
+      "series_id": null,
+      "series_book_number": null,
+      "amazon_url": "https://www.amazon.com/s?k=The+Widow+John+Grisham&tag=jacketlist-20"
+    },
+    {
+      "id": "the-dungeon-anarchists-cookbook",
+      "title": "The Dungeon Anarchist's Cookbook",
+      "author": "Matt Dinniman",
+      "cover_url": "",
+      "description": "Carl and Princess Donut descend further into the dungeon's deadly floors, where the only way to survive is to break every rule the dungeon thought was unbreakable.",
+      "sources": ["audible"],
+      "sources_positions": [
+        { "source": "audible", "position": 8 }
+      ],
+      "score": 1,
+      "rank": 25,
+      "new_this_week": true,
+      "weeks_on_list": 1,
+      "series_id": "dungeon-crawler-carl",
+      "series_book_number": 3,
+      "amazon_url": "https://www.amazon.com/s?k=The+Dungeon+Anarchist%27s+Cookbook+Matt+Dinniman&tag=jacketlist-20"
     }
   ]
 }

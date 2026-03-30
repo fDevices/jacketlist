@@ -2,7 +2,7 @@
   "source": "nyt",
   "label": "NYT Best Sellers",
   "url": "https://www.nytimes.com/books/best-sellers/",
-  "updated": "2026-03-20",
+  "updated": "2026-03-30",
   "books": [
     { "position": 1, "title": "Judge Stone", "author": "Viola Davis and James Patterson", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Judge+Stone+Viola+Davis+James+Patterson&tag=jacketlist-20" },
     { "position": 2, "title": "Theo of Golden", "author": "Allen Levi", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Theo+of+Golden+Allen+Levi&tag=jacketlist-20" },

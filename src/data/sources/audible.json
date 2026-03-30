@@ -1,18 +1,18 @@
 {
   "source": "audible",
   "label": "Audible Best Sellers",
-  "url": "https://www.audible.com/adblbestsellers",
-  "updated": "2026-03-27",
+  "url": "https://www.audible.com/charts/best",
+  "updated": "2026-03-30",
   "books": [
     { "position": 1, "title": "Project Hail Mary", "author": "Andy Weir", "cover_url": "https://covers.openlibrary.org/b/id/11200092-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Project+Hail+Mary+Andy+Weir&tag=jacketlist-20" },
-    { "position": 2, "title": "The Night We Met", "author": "Abby Jimenez", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Night+We+Met+Abby+Jimenez&tag=jacketlist-20" },
-    { "position": 3, "title": "Theo of Golden", "author": "Allen Levi", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Theo+of+Golden+Allen+Levi&tag=jacketlist-20" },
-    { "position": 4, "title": "Judge Stone", "author": "Viola Davis and James Patterson", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Judge+Stone+Viola+Davis+James+Patterson&tag=jacketlist-20" },
-    { "position": 5, "title": "Strangers: A Memoir of Marriage", "author": "Belle Burden", "cover_url": "https://covers.openlibrary.org/b/id/15165045-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Strangers+Memoir+Marriage+Belle+Burden&tag=jacketlist-20" },
-    { "position": 6, "title": "Dear Debbie", "author": "Freida McFadden", "cover_url": "https://covers.openlibrary.org/b/id/15163694-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Dear+Debbie+Freida+McFadden&tag=jacketlist-20" },
-    { "position": 7, "title": "We Are All Guilty Here", "author": "Karin Slaughter", "cover_url": "https://covers.openlibrary.org/b/id/15111909-M.jpg", "amazon_url": "https://www.amazon.com/s?k=We+Are+All+Guilty+Here+Karin+Slaughter&tag=jacketlist-20" },
-    { "position": 8, "title": "The Correspondent", "author": "Virginia Evans", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Correspondent+Virginia+Evans&tag=jacketlist-20" },
-    { "position": 9, "title": "The Survivors", "author": "Jane Harper", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Survivors+Jane+Harper&tag=jacketlist-20" },
-    { "position": 10, "title": "Dungeon Crawler Carl", "author": "Matt Dinniman", "cover_url": "https://covers.openlibrary.org/b/id/15143022-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Dungeon+Crawler+Carl+Matt+Dinniman&tag=jacketlist-20" }
+    { "position": 2, "title": "Theo of Golden", "author": "Allen Levi", "cover_url": "/images/theo-of-golden.webp", "amazon_url": "https://www.amazon.com/s?k=Theo+of+Golden+Allen+Levi&tag=jacketlist-20" },
+    { "position": 3, "title": "Dungeon Crawler Carl", "author": "Matt Dinniman", "cover_url": "https://covers.openlibrary.org/b/id/15143022-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Dungeon+Crawler+Carl+Matt+Dinniman&tag=jacketlist-20" },
+    { "position": 4, "title": "The Correspondent", "author": "Virginia Evans", "cover_url": "/images/the-correspondent.webp", "amazon_url": "https://www.amazon.com/s?k=The+Correspondent+Virginia+Evans&tag=jacketlist-20" },
+    { "position": 5, "title": "My Husband's Wife", "author": "Alice Feeney", "cover_url": "/images/my-husbands-wife.jpg", "amazon_url": "https://www.amazon.com/s?k=My+Husband%27s+Wife+Alice+Feeney&tag=jacketlist-20" },
+    { "position": 6, "title": "Carl's Doomsday Scenario", "author": "Matt Dinniman", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Carl%27s+Doomsday+Scenario+Matt+Dinniman&tag=jacketlist-20" },
+    { "position": 7, "title": "The Let Them Theory", "author": "Mel Robbins", "cover_url": "https://covers.openlibrary.org/b/id/15165806-M.jpg", "amazon_url": "https://www.amazon.com/s?k=The+Let+Them+Theory+Mel+Robbins&tag=jacketlist-20" },
+    { "position": 8, "title": "The Dungeon Anarchist's Cookbook", "author": "Matt Dinniman", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Dungeon+Anarchist%27s+Cookbook+Matt+Dinniman&tag=jacketlist-20" },
+    { "position": 9, "title": "The Gate of the Feral Gods", "author": "Matt Dinniman", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Gate+of+the+Feral+Gods+Matt+Dinniman&tag=jacketlist-20" },
+    { "position": 10, "title": "The Intruder", "author": "Freida McFadden", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Intruder+Freida+McFadden&tag=jacketlist-20" }
   ]
 }

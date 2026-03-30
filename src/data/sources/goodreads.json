@@ -2,7 +2,7 @@
   "source": "goodreads",
   "label": "Goodreads Most Read",
   "url": "https://www.goodreads.com/book/most_read",
-  "updated": "2026-03-27",
+  "updated": "2026-03-30",
   "books": [
     { "position": 1, "title": "Project Hail Mary", "author": "Andy Weir", "cover_url": "https://covers.openlibrary.org/b/id/11200092-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Project+Hail+Mary+Andy+Weir&tag=jacketlist-20" },
     { "position": 2, "title": "The Correspondent", "author": "Virginia Evans", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Correspondent+Virginia+Evans&tag=jacketlist-20" },

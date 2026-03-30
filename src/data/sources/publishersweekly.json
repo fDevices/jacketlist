@@ -1,8 +1,8 @@
 {
   "source": "publishersweekly",
   "label": "Publishers Weekly Best Sellers",
-  "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/99987-this-week-s-bestsellers-march-23-2026.html",
-  "updated": "2026-03-23",
+  "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/100039-this-week-s-bestsellers-march-30-2026.html",
+  "updated": "2026-03-30",
   "books": [
     { "position": 1, "title": "Judge Stone", "author": "Viola Davis and James Patterson", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Judge+Stone+Viola+Davis+James+Patterson&tag=jacketlist-20" },
     { "position": 2, "title": "The Wings That Bind", "author": "Briar Boleyn", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Wings+That+Bind+Briar+Boleyn&tag=jacketlist-20" },
