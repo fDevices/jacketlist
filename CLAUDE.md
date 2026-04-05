@@ -47,8 +47,11 @@ jacketlist/
 │   │   │       └── page.jsx      # SeriesPage (/series/[id])
 │   │   ├── methodology/
 │   │   │   └── page.jsx          # Methodology page — launch requirement
-│   │   └── editorial-policy/
-│   │       └── page.jsx          # Editorial Policy page — launch requirement
+│   │   ├── editorial-policy/
+│   │   │   └── page.jsx          # Editorial Policy page — launch requirement
+│   │   ├── adaptations/
+│   │   │   ├── page.jsx          # AdaptationsPage (/adaptations) — server component
+│   │   │   └── AdaptationsContent.jsx  # Client component — type + genre filter state
 │   ├── components/
 │   │   ├── Nav.jsx               # Top navigation bar (non-sticky, glassmorphism)
 │   │   ├── Footer.jsx            # Footer with FTC disclosure + links
@@ -58,6 +61,7 @@ jacketlist/
 │   │   ├── ReadingOrderTabs.jsx  # Chronological / Author's Recommended tab toggle
 │   │   ├── SourceBadge.jsx       # NYT / Guardian / Goodreads badge
 │   │   ├── FooterAdZone.jsx      # Footer ad strip (1–3 AdCard slots)
+│   │   ├── AdaptationCard.jsx    # Adaptation card (movie/TV type badge, hook, series link)
 │   │   └── SearchBar.jsx         # Client-side filter (title + author, no routing)
 │   ├── data/
 │   │   ├── sources/              # Raw per-source top 10 lists (updated by CoWork)
@@ -70,7 +74,8 @@ jacketlist/
 │   │   │   └── audible.json
 │   │   ├── bestsellers.json      # Merged top-25 list (scored from 7 sources, updated by CoWork)
 │   │   ├── series.json           # All series data with both reading orders
-│   │   └── ads.json              # Current footer ad placements
+│   │   ├── ads.json              # Current footer ad placements
+│   │   └── adaptations.json      # All adaptation entries (movie + TV, updated manually)
 │   └── utils/
 │       ├── amazonLink.js         # Builds affiliate URLs from title/ASIN
 │       └── scoring.js            # Cross-source scoring logic
@@ -214,6 +219,42 @@ Merged top-25 list produced by CoWork from the 7 source files:
 }
 ```
 
+### `adaptations.json`
+```json
+{
+  "updated": "2026-04-05",
+  "adaptations": [
+    {
+      "id": "gone-girl",
+      "book_title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "adaptation_title": "Gone Girl (2014)",
+      "type": "movie",
+      "genres": ["Thriller"],
+      "hook": "One-line hook shown on the card.",
+      "cover_url": "https://covers.openlibrary.org/b/id/8397453-M.jpg",
+      "amazon_url": "https://www.amazon.com/s?k=Gone+Girl+Gillian+Flynn&tag=jacketlist-20",
+      "series_id": null
+    }
+  ]
+}
+```
+
+**Field reference:**
+
+| Field | Type | Notes |
+|---|---|---|
+| `id` | string | URL-safe slug |
+| `book_title` | string | Title of the source book or series |
+| `author` | string | Author name(s) |
+| `adaptation_title` | string | Title of the adaptation (may differ from book) |
+| `type` | `"movie"` \| `"tv"` | Used for type filter |
+| `genres` | string[] | Match genre vocabulary from `series.json` |
+| `hook` | string | One-line "if you loved…" hook shown on the card |
+| `cover_url` | string | Open Library URL or placeholder |
+| `amazon_url` | string | Amazon Associates search link |
+| `series_id` | string \| null | If set, links to `/series/[id]`; null for standalone books |
+
 ---
 
 ## Component Guidelines
@@ -261,6 +302,14 @@ Merged top-25 list produced by CoWork from the 7 source files:
 - Displays 1–3 AdCards in a horizontal row (same grid as BookCards)
 - On mobile: single column stack
 - AdCards are pulled from `ads.json` where `active: true`
+
+### AdaptationCard
+- Used on the `/adaptations` page only
+- Props: `adaptation` (object matching `adaptations.json` schema)
+- Shows: cover (2:3 portrait), type badge overlay (`🎬 Movie` / `📺 TV Series`), book title, author, adaptation title (italic subtitle), hook (italic body), optional `📚 Full series →` link when `series_id` is set, "Buy on Amazon" button
+- Cover fallback: text placeholder showing `book_title`; `alt` uses `adaptation_title`
+- If `series_id` is set: renders a `📚 Full series →` link to `/series/[series_id]`
+- Always includes an Amazon Associates "Buy on Amazon" button (`target="_blank"`)
 
 ### ReadingOrderTabs
 - Two tabs: "📖 Chronological" | "✍️ Author's Recommended" (default active)
@@ -364,6 +413,13 @@ Static content page explaining how bestseller rankings are compiled: the seven s
 
 ### Editorial Policy (`/editorial-policy`) — launch requirement
 Static content page explaining how series reading orders are determined: what "Author's Recommended" means, how chronological order is defined, and how conflicts are resolved.
+
+### Adaptations (`/adaptations`)
+1. **Heading** — "Books Behind the Screen"
+2. **Subheading** — "Read the book before — or after — watching"
+3. **Filter bar** — Type pills (All · Movie · TV Series) + Genre pills (All + derived from `adaptations.json`). Filters AND together.
+4. **AdaptationCard grid** — 1 col (mobile) → 2 col (tablet) → 3 col (desktop). "No results for these filters." when empty.
+5. **FooterAdZone + Footer**
 
 ---
 
