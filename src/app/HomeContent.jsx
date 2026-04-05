@@ -15,6 +15,7 @@ const SOURCE_PILLS = [
   { label: 'USA Today', href: '/lists/usatoday' },
   { label: 'Publishers Weekly', href: '/lists/publishersweekly' },
   { label: 'Audible', href: '/lists/audible' },
+  { label: 'Indie', href: '/lists/indiebound' },
 ];
 
 function matchesQuery(query, ...fields) {
@@ -59,7 +60,7 @@ export default function HomeContent({ books, alsoTrending = [], series, seriesMa
             JacketList
           </h1>
           <p className="text-on-primary/80 text-lg font-body mb-8">
-            The list worth reading. In the right order.
+            The list worth reading. In the right order. Behind the right screen.
           </p>
           <SearchBar value={query} onChange={(val) => { setQuery(val); setVisibleCount(12); }} />
         </div>
@@ -78,7 +79,7 @@ export default function HomeContent({ books, alsoTrending = [], series, seriesMa
           </div>
 
           {/* Source pills */}
-          <div className="flex flex-wrap gap-2 mb-8">
+          <div className="flex flex-wrap gap-2 mb-3">
             {SOURCE_PILLS.map(({ label, href }) => (
               <Link
                 key={href}
@@ -88,6 +89,20 @@ export default function HomeContent({ books, alsoTrending = [], series, seriesMa
                 {label}
               </Link>
             ))}
+          </div>
+          <div className="flex items-center gap-2 mb-8">
+            <a
+              href="https://developer.nytimes.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src="/images/poweredby_nytimes_30a.png"
+                alt="Data provided by The New York Times"
+                width={30}
+                height={30}
+              />
+            </a>
           </div>
           {filteredBooks.length === 0 ? (
             <p className="text-on-surface-variant">No books match your search.</p>
