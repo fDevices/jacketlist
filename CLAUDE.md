@@ -52,6 +52,9 @@ jacketlist/
 │   │   ├── adaptations/
 │   │   │   ├── page.jsx          # AdaptationsPage (/adaptations) — server component
 │   │   │   └── AdaptationsContent.jsx  # Client component — type + genre filter state
+│   │   ├── read-next/
+│   │   │   ├── page.jsx                # ReadNextPage (/read-next) — server component
+│   │   │   └── ReadNextContent.jsx     # Client component — genre + new-this-month filter
 │   ├── components/
 │   │   ├── Nav.jsx               # Top navigation bar (non-sticky, glassmorphism)
 │   │   ├── Footer.jsx            # Footer with FTC disclosure + links
@@ -75,7 +78,8 @@ jacketlist/
 │   │   ├── bestsellers.json      # Merged top-25 list (scored from 7 sources, updated by CoWork)
 │   │   ├── series.json           # All series data with both reading orders
 │   │   ├── ads.json              # Current footer ad placements
-│   │   └── adaptations.json      # All adaptation entries (movie + TV, updated manually)
+│   │   ├── adaptations.json      # All adaptation entries (movie + TV, updated manually)
+│   │   └── read-next.json              # Curated read-next list (updated monthly)
 │   └── utils/
 │       ├── amazonLink.js         # Builds affiliate URLs from title/ASIN
 │       └── scoring.js            # Cross-source scoring logic
@@ -255,6 +259,48 @@ Merged top-25 list produced by CoWork from the 7 source files:
 | `amazon_url` | string | Amazon Associates search link |
 | `series_id` | string \| null | If set, links to `/series/[id]`; null for standalone books |
 
+### `read-next.json`
+```json
+{
+  "updated": "2026-04-05",
+  "books": [
+    {
+      "id": "intermezzo",
+      "title": "Intermezzo",
+      "author": "Sally Rooney",
+      "cover_url": "https://covers.openlibrary.org/b/id/...-M.jpg",
+      "description": "One-to-two sentence editorial hook.",
+      "genres": ["Literary Fiction"],
+      "sources": ["nyt", "guardian"],
+      "score": 4,
+      "added_date": "2026-04-01",
+      "amazon_url": "https://www.amazon.com/s?k=Intermezzo+Rooney&tag=jacketlist-20",
+      "series_id": null
+    }
+  ]
+}
+```
+
+**Field reference:**
+
+| Field | Type | Notes |
+|---|---|---|
+| `id` | string | URL-safe slug |
+| `title` | string | Book title |
+| `author` | string | Author name(s) |
+| `cover_url` | string | Open Library URL or placeholder |
+| `description` | string | Editorial hook — one to two sentences |
+| `genres` | string[] | Match genre vocabulary from `series.json` |
+| `sources` | string[] | Source slugs — not displayed at launch |
+| `score` | number | Count of sources recommending it; drives sort and badge |
+| `added_date` | string | ISO date (YYYY-MM-DD); used for "New this month" badge |
+| `amazon_url` | string | Amazon Associates search link |
+| `series_id` | string \| null | If set, links to `/series/[id]` |
+
+**Sort order:** `score` desc, tiebroken by `added_date` desc. Applied in both `page.jsx` (homepage top-4) and `read-next/page.jsx`.
+
+**"New this month":** `added_date` month + year matches current calendar month.
+
 ---
 
 ## Component Guidelines
@@ -383,8 +429,9 @@ See `DESIGN.md` for the full design system. Key rules for implementation:
 ### HomePage (`/`)
 1. **Hero** — Site name "JacketList", tagline ("The list worth reading. In the right order."), SearchBar
 2. **Weekly Bestsellers** — Section heading with last-updated date, source pills row (NYT, Guardian, Goodreads, Amazon, USA Today, Publishers Weekly, Audible — each links to its per-source page), Top 10 BookCards (score desc → tiebreaker desc), then "Also trending this week" compact ranked list (books 11–25: rank, title, author, badge emoji, Buy → link). Compact list hidden when search is active.
-3. **Popular Series** — Section heading, filterable by genre, SeriesCards grid
-4. **FooterAdZone + Footer**
+3. **Read Next teaser** — Heading "Read Next" + "Editorially curated — updated monthly.", top-4 `BookCard`s (`showScore={false}`), "See all recommendations →" link to `/read-next`. Hidden when search is active. Not rendered when `readNext` array is empty.
+4. **Popular Series** — Section heading, filterable by genre, SeriesCards grid
+5. **FooterAdZone + Footer**
 
 ### Series Index (`/series`)
 1. **Heading** — "Book Series Guide" + count of series
@@ -419,6 +466,13 @@ Static content page explaining how series reading orders are determined: what "A
 2. **Subheading** — "Read the book before — or after — watching"
 3. **Filter bar** — Type pills (All · Movie · TV Series) + Genre pills (All + derived from `adaptations.json`). Filters AND together.
 4. **AdaptationCard grid** — 1 col (mobile) → 2 col (tablet) → 3 col (desktop). "No results for these filters." when empty.
+5. **FooterAdZone + Footer**
+
+### Read Next (`/read-next`)
+1. **Heading** — "Read Next"
+2. **Subheading** — "Editorially curated picks, updated monthly."
+3. **Filter bar** — Genre pills (All + derived from `read-next.json`) + "✨ New this month" toggle. AND logic.
+4. **BookCard grid** — `showScore={false}`, `grid-cols-1 sm:grid-cols-2 lg:grid-cols-3`. "No results for these filters." when empty.
 5. **FooterAdZone + Footer**
 
 ---
