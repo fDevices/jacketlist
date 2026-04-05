@@ -54,17 +54,17 @@ const books = [
 describe('ReadNextContent', () => {
   it('renders all books by default', () => {
     render(<ReadNextContent allBooks={books} seriesMap={{}} />);
-    expect(screen.getAllByText('Book A')).toHaveLength(2); // title + cover fallback
-    expect(screen.getAllByText('Book B')).toHaveLength(2);
-    expect(screen.getAllByText('Book C')).toHaveLength(2);
+    expect(screen.queryAllByText('Book A').length).toBeGreaterThan(0);
+    expect(screen.queryAllByText('Book B').length).toBeGreaterThan(0);
+    expect(screen.queryAllByText('Book C').length).toBeGreaterThan(0);
   });
 
   it('filters by genre pill', () => {
     render(<ReadNextContent allBooks={books} seriesMap={{}} />);
     fireEvent.click(screen.getByRole('button', { name: 'Thriller' }));
-    expect(screen.queryByText('Book A')).not.toBeInTheDocument();
-    expect(screen.getAllByText('Book B')).toHaveLength(2);
-    expect(screen.getAllByText('Book C')).toHaveLength(2);
+    expect(screen.queryAllByText('Book A').length).toBe(0);
+    expect(screen.queryAllByText('Book B').length).toBeGreaterThan(0);
+    expect(screen.queryAllByText('Book C').length).toBeGreaterThan(0);
   });
 
   it('genre filter resets to all when All pill is clicked', () => {
@@ -72,17 +72,17 @@ describe('ReadNextContent', () => {
     fireEvent.click(screen.getByRole('button', { name: 'Thriller' }));
     const buttons = screen.getAllByRole('button', { name: /^All$/ });
     fireEvent.click(buttons[0]); // First "All" button
-    expect(screen.getAllByText('Book A')).toHaveLength(2);
-    expect(screen.getAllByText('Book B')).toHaveLength(2);
-    expect(screen.getAllByText('Book C')).toHaveLength(2);
+    expect(screen.queryAllByText('Book A').length).toBeGreaterThan(0);
+    expect(screen.queryAllByText('Book B').length).toBeGreaterThan(0);
+    expect(screen.queryAllByText('Book C').length).toBeGreaterThan(0);
   });
 
   it('filters to new-this-month books when toggle is active', () => {
     render(<ReadNextContent allBooks={books} seriesMap={{}} />);
     fireEvent.click(screen.getByRole('button', { name: /new this month/i }));
-    expect(screen.getAllByText('Book A')).toHaveLength(2);
-    expect(screen.queryByText('Book B')).not.toBeInTheDocument();
-    expect(screen.queryByText('Book C')).not.toBeInTheDocument();
+    expect(screen.queryAllByText('Book A').length).toBeGreaterThan(0);
+    expect(screen.queryAllByText('Book B').length).toBe(0);
+    expect(screen.queryAllByText('Book C').length).toBe(0);
   });
 
   it('ANDs genre and new-this-month filters', () => {

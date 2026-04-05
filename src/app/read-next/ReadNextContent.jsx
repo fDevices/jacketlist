@@ -4,6 +4,7 @@ import { useState } from 'react';
 import BookCard from '@/components/BookCard';
 
 function isNewThisMonth(dateStr) {
+  if (!dateStr) return false;
   const added = new Date(dateStr);
   const now = new Date();
   return added.getMonth() === now.getMonth() && added.getFullYear() === now.getFullYear();
