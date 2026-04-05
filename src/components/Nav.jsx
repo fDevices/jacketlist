@@ -20,6 +20,9 @@ export default function Nav() {
           <Link href="/adaptations" className="text-sm font-label text-on-surface-variant hover:text-on-surface transition-colors duration-200">
             Adaptations
           </Link>
+          <Link href="/read-next" className="text-sm font-label text-on-surface-variant hover:text-on-surface transition-colors duration-200">
+            Read Next
+          </Link>
         </div>
       </nav>
     </header>
