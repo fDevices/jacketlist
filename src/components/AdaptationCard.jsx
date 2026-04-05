@@ -17,7 +17,7 @@ export default function AdaptationCard({ adaptation }) {
         {adaptation.cover_url && !coverFailed ? (
           <img
             src={adaptation.cover_url}
-            alt={adaptation.book_title}
+            alt={adaptation.adaptation_title}
             className="w-full h-full object-cover"
             onError={() => setCoverFailed(true)}
           />
@@ -27,9 +27,11 @@ export default function AdaptationCard({ adaptation }) {
           </span>
         )}
         {/* Type badge overlay */}
-        <span className="absolute top-2 left-2 px-2 py-0.5 rounded-full bg-surface-container text-on-surface-variant text-xs font-label">
-          {TYPE_BADGE[adaptation.type]}
-        </span>
+        {TYPE_BADGE[adaptation.type] && (
+          <span className="absolute top-2 left-2 px-2 py-0.5 rounded-full bg-surface-container text-on-surface-variant text-xs font-label">
+            {TYPE_BADGE[adaptation.type]}
+          </span>
+        )}
       </div>
 
       {/* Metadata */}

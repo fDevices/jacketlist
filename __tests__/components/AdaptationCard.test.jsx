@@ -69,10 +69,12 @@ describe('AdaptationCard', () => {
     const link = screen.getByRole('link', { name: /buy on amazon/i });
     expect(link).toHaveAttribute('href', baseAdaptation.amazon_url);
     expect(link).toHaveAttribute('target', '_blank');
+    expect(link).toHaveAttribute('rel', 'noopener noreferrer');
   });
 
   it('renders a text placeholder when cover_url is empty', () => {
-    render(<AdaptationCard adaptation={baseAdaptation} />);
-    expect(screen.getAllByText('Gone Girl').length).toBeGreaterThanOrEqual(1);
+    render(<AdaptationCard adaptation={{ ...baseAdaptation, cover_url: '' }} />);
+    expect(screen.queryByRole('img')).not.toBeInTheDocument();
+    expect(screen.getByText('Gone Girl', { selector: 'span' })).toBeInTheDocument();
   });
 });
