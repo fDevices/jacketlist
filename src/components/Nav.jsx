@@ -17,6 +17,9 @@ export default function Nav() {
           <Link href="/series" className="text-sm font-label text-on-surface-variant hover:text-on-surface transition-colors duration-200">
             Series
           </Link>
+          <Link href="/adaptations" className="text-sm font-label text-on-surface-variant hover:text-on-surface transition-colors duration-200">
+            Adaptations
+          </Link>
         </div>
       </nav>
     </header>

@@ -1,0 +1,125 @@
+{
+  "updated": "2026-04-05",
+  "adaptations": [
+    {
+      "id": "gone-girl",
+      "book_title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "adaptation_title": "Gone Girl (2014)",
+      "type": "movie",
+      "genres": ["Thriller", "Mystery"],
+      "hook": "If the film's unreliable narrators gripped you, the book cuts even deeper.",
+      "cover_url": "https://covers.openlibrary.org/b/id/8397453-M.jpg",
+      "amazon_url": "https://www.amazon.com/s?k=Gone+Girl+Gillian+Flynn&tag=jacketlist-20",
+      "series_id": null
+    },
+    {
+      "id": "the-witcher",
+      "book_title": "The Witcher",
+      "author": "Andrzej Sapkowski",
+      "adaptation_title": "The Witcher (Netflix)",
+      "type": "tv",
+      "genres": ["Fantasy"],
+      "hook": "The show barely scratches the surface of Sapkowski's richly built world.",
+      "cover_url": "https://covers.openlibrary.org/b/id/8479819-M.jpg",
+      "amazon_url": "https://www.amazon.com/s?k=The+Last+Wish+Sapkowski&tag=jacketlist-20",
+      "series_id": "the-witcher"
+    },
+    {
+      "id": "big-little-lies",
+      "book_title": "Big Little Lies",
+      "author": "Liane Moriarty",
+      "adaptation_title": "Big Little Lies (HBO)",
+      "type": "tv",
+      "genres": ["Thriller", "Mystery"],
+      "hook": "The show is superb — the book gives you an extra layer of dark wit.",
+      "cover_url": "https://covers.openlibrary.org/b/id/8228691-M.jpg",
+      "amazon_url": "https://www.amazon.com/s?k=Big+Little+Lies+Liane+Moriarty&tag=jacketlist-20",
+      "series_id": null
+    },
+    {
+      "id": "the-handmaids-tale",
+      "book_title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "adaptation_title": "The Handmaid's Tale (Hulu)",
+      "type": "tv",
+      "genres": ["Sci-Fi"],
+      "hook": "Atwood's prose is as suffocating as the world it describes.",
+      "cover_url": "https://covers.openlibrary.org/b/id/8406526-M.jpg",
+      "amazon_url": "https://www.amazon.com/s?k=The+Handmaids+Tale+Atwood&tag=jacketlist-20",
+      "series_id": null
+    },
+    {
+      "id": "game-of-thrones",
+      "book_title": "A Song of Ice and Fire",
+      "author": "George R.R. Martin",
+      "adaptation_title": "Game of Thrones (HBO)",
+      "type": "tv",
+      "genres": ["Fantasy"],
+      "hook": "The show ended. The books haven't — and they go much further.",
+      "cover_url": "https://covers.openlibrary.org/b/id/8655752-M.jpg",
+      "amazon_url": "https://www.amazon.com/s?k=A+Game+of+Thrones+George+Martin&tag=jacketlist-20",
+      "series_id": "a-song-of-ice-and-fire"
+    },
+    {
+      "id": "the-martian",
+      "book_title": "The Martian",
+      "author": "Andy Weir",
+      "adaptation_title": "The Martian (2015)",
+      "type": "movie",
+      "genres": ["Sci-Fi"],
+      "hook": "More jokes, more science, more survival anxiety — in the best way.",
+      "cover_url": "https://covers.openlibrary.org/b/id/8219682-M.jpg",
+      "amazon_url": "https://www.amazon.com/s?k=The+Martian+Andy+Weir&tag=jacketlist-20",
+      "series_id": null
+    },
+    {
+      "id": "outlander",
+      "book_title": "Outlander",
+      "author": "Diana Gabaldon",
+      "adaptation_title": "Outlander (Starz)",
+      "type": "tv",
+      "genres": ["Romance", "Historical Fiction"],
+      "hook": "Eight seasons of TV can't contain what Gabaldon packed into eight novels.",
+      "cover_url": "https://covers.openlibrary.org/b/id/8408951-M.jpg",
+      "amazon_url": "https://www.amazon.com/s?k=Outlander+Diana+Gabaldon&tag=jacketlist-20",
+      "series_id": "outlander"
+    },
+    {
+      "id": "lord-of-the-rings",
+      "book_title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "adaptation_title": "The Lord of the Rings (films)",
+      "type": "movie",
+      "genres": ["Fantasy"],
+      "hook": "Jackson's trilogy is a masterpiece — Tolkien's prose is a different kind of magic.",
+      "cover_url": "https://covers.openlibrary.org/b/id/8405665-M.jpg",
+      "amazon_url": "https://www.amazon.com/s?k=Lord+of+the+Rings+Tolkien&tag=jacketlist-20",
+      "series_id": "the-lord-of-the-rings"
+    },
+    {
+      "id": "sharp-objects",
+      "book_title": "Sharp Objects",
+      "author": "Gillian Flynn",
+      "adaptation_title": "Sharp Objects (HBO)",
+      "type": "tv",
+      "genres": ["Thriller", "Mystery"],
+      "hook": "The mini-series is haunting. Flynn's debut novel is even more unsettling.",
+      "cover_url": "https://covers.openlibrary.org/b/id/8353362-M.jpg",
+      "amazon_url": "https://www.amazon.com/s?k=Sharp+Objects+Gillian+Flynn&tag=jacketlist-20",
+      "series_id": null
+    },
+    {
+      "id": "dune",
+      "book_title": "Dune",
+      "author": "Frank Herbert",
+      "adaptation_title": "Dune (films)",
+      "type": "movie",
+      "genres": ["Sci-Fi"],
+      "hook": "Villeneuve captured the scale — the book captures the philosophy.",
+      "cover_url": "https://covers.openlibrary.org/b/id/8474139-M.jpg",
+      "amazon_url": "https://www.amazon.com/s?k=Dune+Frank+Herbert&tag=jacketlist-20",
+      "series_id": "dune"
+    }
+  ]
+}
