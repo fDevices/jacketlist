@@ -60,6 +60,7 @@ describe('AdaptationsContent', () => {
     fireEvent.click(screen.getByRole('button', { name: 'TV Series' }));
     expect(screen.queryByText('Gone Girl')).not.toBeInTheDocument();
     expect(screen.getAllByText('The Witcher')).toHaveLength(2);
+    expect(screen.getAllByText('A Song of Ice and Fire')).toHaveLength(2);
   });
 
   it('filters by genre pill', () => {
@@ -88,9 +89,11 @@ describe('AdaptationsContent', () => {
 
   it('resets to all when All type pill is clicked', () => {
     render(<AdaptationsContent allAdaptations={adaptations} />);
+    const buttons = screen.getAllByRole('button', { name: 'All' });
     fireEvent.click(screen.getByRole('button', { name: 'Movie' }));
-    fireEvent.click(screen.getByRole('button', { name: /^All$/ }));
+    fireEvent.click(buttons[0]); // First "All" button in type filter
     expect(screen.getAllByText('Gone Girl')).toHaveLength(2);
     expect(screen.getAllByText('The Witcher')).toHaveLength(2);
+    expect(screen.getAllByText('A Song of Ice and Fire')).toHaveLength(2);
   });
 });

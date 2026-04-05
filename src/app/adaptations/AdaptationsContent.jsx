@@ -48,6 +48,12 @@ export default function AdaptationsContent({ allAdaptations }) {
 
       {/* Genre filter */}
       <div className="flex flex-wrap gap-2 mb-8">
+        <button
+          onClick={() => setActiveGenres(new Set())}
+          className={`${pillBase} ${activeGenres.size === 0 ? pillActive : pillInactive}`}
+        >
+          All
+        </button>
         {allGenres.map((genre) => (
           <button
             key={genre}
