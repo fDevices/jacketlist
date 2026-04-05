@@ -23,7 +23,7 @@ function matchesQuery(query, ...fields) {
   return fields.some((f) => f?.toLowerCase().includes(q));
 }
 
-export default function HomeContent({ books, alsoTrending = [], series, seriesMap, updatedDate }) {
+export default function HomeContent({ books, alsoTrending = [], series, seriesMap, updatedDate, readNext = [] }) {
   const [query, setQuery] = useState('');
 
   const filteredBooks = query
@@ -149,6 +149,35 @@ export default function HomeContent({ books, alsoTrending = [], series, seriesMa
         </div>
       </section>
 
+      {/* Read Next teaser — hidden when search is active */}
+      {!query && readNext.length > 0 && (
+        <section className="py-16 px-8">
+          <div className="max-w-7xl mx-auto">
+            <div className="flex items-baseline gap-4 mb-2">
+              <h2 className="font-headline text-[1.75rem] font-medium text-on-surface">
+                Read Next
+              </h2>
+            </div>
+            <p className="text-on-surface-variant font-body mb-8 text-sm">
+              Editorially curated — updated monthly.
+            </p>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+              {readNext.map((book) => (
+                <BookCard key={book.id} book={book} seriesMap={seriesMap} showScore={false} />
+              ))}
+            </div>
+            <div className="mt-8">
+              <Link
+                href="/read-next"
+                className="text-sm font-label text-secondary hover:underline"
+              >
+                See all recommendations →
+              </Link>
+            </div>
+          </div>
+        </section>
+      )}
+
       {/* Popular Series */}
       <section className="bg-surface-container-low py-16 px-8">
         <div className="max-w-7xl mx-auto">
@@ -156,9 +185,11 @@ export default function HomeContent({ books, alsoTrending = [], series, seriesMa
             Popular Series
           </h2>
 
-          <div className="mb-6 max-w-xl">
-            <SearchBar value={seriesQuery} onChange={(val) => { setSeriesQuery(val); setVisibleCount(12); }} />
-          </div>
+          {series.length > 0 && (
+            <div className="mb-6 max-w-xl">
+              <SearchBar value={seriesQuery} onChange={(val) => { setSeriesQuery(val); setVisibleCount(12); }} />
+            </div>
+          )}
 
           {/* Genre filter chips */}
           <div className="flex flex-wrap gap-2 mb-8">
