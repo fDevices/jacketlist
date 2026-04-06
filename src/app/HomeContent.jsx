@@ -12,10 +12,9 @@ const SOURCE_PILLS = [
   { label: 'Guardian', href: '/lists/guardian' },
   { label: 'Goodreads', href: '/lists/goodreads' },
   { label: 'Amazon', href: '/lists/amazon' },
-  { label: 'USA Today', href: '/lists/usatoday' },
+  { label: 'Ark', href: '/lists/ark' },
   { label: 'Publishers Weekly', href: '/lists/publishersweekly' },
   { label: 'Audible', href: '/lists/audible' },
-  { label: 'Indie', href: '/lists/indiebound' },
 ];
 
 function matchesQuery(query, ...fields) {
