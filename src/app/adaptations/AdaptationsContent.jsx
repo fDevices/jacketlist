@@ -4,6 +4,7 @@ import { useState } from 'react';
 import AdaptationCard from '@/components/AdaptationCard';
 
 export default function AdaptationsContent({ allAdaptations }) {
+  const [query, setQuery] = useState('');
   const [activeType, setActiveType] = useState('all');
   const [activeGenres, setActiveGenres] = useState(new Set());
 
@@ -17,7 +18,9 @@ export default function AdaptationsContent({ allAdaptations }) {
     });
   }
 
+  const q = query.toLowerCase();
   const filtered = allAdaptations.filter((a) => {
+    if (q && ![a.book_title, a.author, a.adaptation_title].some((s) => s.toLowerCase().includes(q))) return false;
     if (activeType !== 'all' && a.type !== activeType) return false;
     if (activeGenres.size > 0 && !a.genres.some((g) => activeGenres.has(g))) return false;
     return true;
@@ -29,6 +32,15 @@ export default function AdaptationsContent({ allAdaptations }) {
 
   return (
     <>
+      {/* Search */}
+      <input
+        type="search"
+        value={query}
+        onChange={(e) => setQuery(e.target.value)}
+        placeholder="Search by title, author, or film…"
+        className="w-full mb-6 px-4 py-2.5 rounded-xl bg-surface-container-high text-on-surface placeholder:text-on-surface-variant text-sm focus:outline-none focus:ring-2 focus:ring-secondary transition-colors duration-300"
+      />
+
       {/* Type filter */}
       <div className="flex flex-wrap gap-2 mb-4">
         {[
