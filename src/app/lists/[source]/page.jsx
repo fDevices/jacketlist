@@ -7,11 +7,11 @@ import nyt from '@/data/sources/nyt.json';
 import guardian from '@/data/sources/guardian.json';
 import goodreads from '@/data/sources/goodreads.json';
 import amazon from '@/data/sources/amazon.json';
-import usatoday from '@/data/sources/usatoday.json';
 import publishersweekly from '@/data/sources/publishersweekly.json';
 import audible from '@/data/sources/audible.json';
+import ark from '@/data/sources/ark.json';
 
-const ALL_SOURCES = [nyt, guardian, goodreads, amazon, usatoday, publishersweekly, audible];
+const ALL_SOURCES = [nyt, guardian, goodreads, amazon, ark, publishersweekly, audible];
 
 export function generateStaticParams() {
   return ALL_SOURCES.map((s) => ({ source: s.source }));
@@ -49,11 +49,27 @@ export default function SourceListPage({ params }) {
           <h1 className="font-headline text-[2.5rem] font-semibold text-on-surface mb-2">
             {sourceData.label}
           </h1>
-          <p className="text-sm text-on-surface-variant font-label mb-12">
-            Updated {sourceData.updated}
-          </p>
+          <div className="flex items-center gap-3 mb-2">
+            <p className="text-sm text-on-surface-variant font-label">
+              Updated {sourceData.updated}
+            </p>
+            {params.source === 'nyt' && (
+              <a
+                href="https://developer.nytimes.com"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <img
+                  src="/images/poweredby_nytimes_30a.png"
+                  alt="Data provided by The New York Times"
+                  width={30}
+                  height={30}
+                />
+              </a>
+            )}
+          </div>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-6">
+          <div className="mt-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-6">
             {books.map((book) => (
               <BookCard key={book.id} book={book} seriesMap={{}} showScore={false} />
             ))}
