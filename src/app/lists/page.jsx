@@ -7,7 +7,7 @@ const SOURCES = [
   { slug: 'guardian', label: 'The Guardian Best Sellers', description: 'Weekly fiction and non-fiction bestsellers from The Guardian.' },
   { slug: 'goodreads', label: 'Goodreads Most Read', description: 'The most-read books on Goodreads this week across all genres.' },
   { slug: 'amazon', label: 'Amazon Best Sellers', description: 'The most-sold books on Amazon updated weekly.' },
-  { slug: 'usatoday', label: 'USA Today Best-Selling Books', description: 'A single cross-format list of the 150 top-selling books in the US.' },
+  { slug: 'ark', label: 'Ark Bokhandel', description: 'Top 10 English-language bestsellers from Ark, Norway\'s largest bookstore chain.' },
   { slug: 'publishersweekly', label: 'Publishers Weekly Best Sellers', description: 'Fiction and non-fiction bestsellers from Publishers Weekly.' },
   { slug: 'audible', label: 'Audible Best Sellers', description: 'The most-downloaded audiobooks on Audible this week.' },
 ];
