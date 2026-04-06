@@ -1,0 +1,18 @@
+{
+  "source": "ark",
+  "label": "Ark Bokhandel",
+  "url": "https://www.ark.no/toppselgere/engelsk",
+  "updated": "2026-04-06",
+  "books": [
+    { "position": 1, "title": "Project Hail Mary", "author": "Andy Weir", "cover_url": "https://covers.openlibrary.org/b/id/11200092-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Project+Hail+Mary+Andy+Weir&tag=jacketlist-20" },
+    { "position": 2, "title": "The Housemaid", "author": "Freida McFadden", "cover_url": "https://covers.openlibrary.org/b/id/15105883-M.jpg", "amazon_url": "https://www.amazon.com/s?k=The+Housemaid+Freida+McFadden&tag=jacketlist-20" },
+    { "position": 3, "title": "Heated Rivalry", "author": "Rachel Reid", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Heated+Rivalry+Rachel+Reid&tag=jacketlist-20" },
+    { "position": 4, "title": "The Housemaid's Secret", "author": "Freida McFadden", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Housemaid%27s+Secret+Freida+McFadden&tag=jacketlist-20" },
+    { "position": 5, "title": "The Long Game", "author": "Rachel Reid", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Long+Game+Rachel+Reid&tag=jacketlist-20" },
+    { "position": 6, "title": "The Housemaid Is Watching", "author": "Freida McFadden", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Housemaid+Is+Watching+Freida+McFadden&tag=jacketlist-20" },
+    { "position": 7, "title": "Game Changer", "author": "Rachel Reid", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Game+Changer+Rachel+Reid&tag=jacketlist-20" },
+    { "position": 8, "title": "Alchemised", "author": "Sen Lin Yu", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Alchemised+Sen+Lin+Yu&tag=jacketlist-20" },
+    { "position": 9, "title": "Want to Know a Secret?", "author": "Freida McFadden", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Want+to+Know+a+Secret+Freida+McFadden&tag=jacketlist-20" },
+    { "position": 10, "title": "A Court of Thorns and Roses", "author": "Sarah J. Maas", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=A+Court+of+Thorns+and+Roses+Sarah+J+Maas&tag=jacketlist-20" }
+  ]
+}

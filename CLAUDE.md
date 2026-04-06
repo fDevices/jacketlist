@@ -3,7 +3,7 @@
 ## Project Overview
 
 **JacketList** (jacketlist.com) is a book discovery website with two core features:
-1. **Weekly Bestsellers** — ranked list aggregated from 7 sources: NYT, The Guardian, Goodreads, Amazon, USA Today, Publishers Weekly, and Audible
+1. **Weekly Bestsellers** — ranked list aggregated from 7 sources: NYT, The Guardian, Goodreads, Amazon, Ark Bokhandel, Publishers Weekly, and Audible
 2. **Book Series Guide** — reading order (chronological + author's recommended) for popular series across all genres
 
 Revenue comes from **Amazon Associates affiliate links** on every book, and a **footer ad zone** supporting Google AdSense, BookBub, and direct sponsor placements.
@@ -72,10 +72,10 @@ jacketlist/
 │   │   │   ├── guardian.json
 │   │   │   ├── goodreads.json
 │   │   │   ├── amazon.json
-│   │   │   ├── usatoday.json
+│   │   │   ├── ark.json
 │   │   │   ├── publishersweekly.json
 │   │   │   └── audible.json
-│   │   ├── bestsellers.json      # Merged top-25 list (scored from 7 sources, updated by CoWork)
+│   │   ├── bestsellers.json      # Merged top-25 list (scored from 7 sources, updated weekly)
 │   │   ├── series.json           # All series data with both reading orders
 │   │   ├── ads.json              # Current footer ad placements
 │   │   ├── adaptations.json      # All adaptation entries (movie + TV, updated manually)
@@ -118,7 +118,7 @@ Each source file holds exactly 10 books (the raw list, no scoring):
 }
 ```
 
-Source slugs: `nyt`, `guardian`, `goodreads`, `amazon`, `usatoday`, `publishersweekly`, `audible`
+Source slugs: `nyt`, `guardian`, `goodreads`, `amazon`, `ark`, `publishersweekly`, `audible`
 
 ### `bestsellers.json`
 
@@ -238,7 +238,8 @@ Merged top-25 list produced by CoWork from the 7 source files:
       "hook": "One-line hook shown on the card.",
       "cover_url": "https://covers.openlibrary.org/b/id/8397453-M.jpg",
       "amazon_url": "https://www.amazon.com/s?k=Gone+Girl+Gillian+Flynn&tag=jacketlist-20",
-      "series_id": null
+      "series_id": null,
+      "oscars": { "status": "nominated", "note": "Nominated: Best Actress (Rosamund Pike)" }
     }
   ]
 }
@@ -258,6 +259,7 @@ Merged top-25 list produced by CoWork from the 7 source files:
 | `cover_url` | string | Open Library URL or placeholder |
 | `amazon_url` | string | Amazon Associates search link |
 | `series_id` | string \| null | If set, links to `/series/[id]`; null for standalone books |
+| `oscars` | `{ status, note }` \| `null` | `status`: `"winner"` \| `"nominated"`; `note`: human-readable summary; `null` if no Oscar recognition. Winners get a 🏆 gold badge on the card. |
 
 ### `read-next.json`
 ```json
@@ -352,8 +354,9 @@ Merged top-25 list produced by CoWork from the 7 source files:
 ### AdaptationCard
 - Used on the `/adaptations` page only
 - Props: `adaptation` (object matching `adaptations.json` schema)
-- Shows: cover (2:3 portrait), type badge overlay (`🎬 Movie` / `📺 TV Series`), book title, author, adaptation title (italic subtitle), hook (italic body), optional `📚 Full series →` link when `series_id` is set, "Buy on Amazon" button
-- Cover fallback: text placeholder showing `book_title`; `alt` uses `adaptation_title`
+- No cover image — card starts directly with metadata
+- Shows: type badge (`🎬 Movie` / `📺 TV Series`), optional 🏆 Oscar Winner badge (gold, `bg-secondary-container`) when `oscars.status === "winner"`, book title, author, adaptation title (italic subtitle), hook (italic body), optional `📚 Full series →` link when `series_id` is set, "Buy on Amazon" button
+- Oscar badge `title` attribute shows the full `oscars.note` text on hover
 - If `series_id` is set: renders a `📚 Full series →` link to `/series/[series_id]`
 - Always includes an Amazon Associates "Buy on Amazon" button (`target="_blank"`)
 
@@ -428,7 +431,7 @@ See `DESIGN.md` for the full design system. Key rules for implementation:
 
 ### HomePage (`/`)
 1. **Hero** — Site name "JacketList", tagline ("The list worth reading. In the right order."), SearchBar
-2. **Weekly Bestsellers** — Section heading with last-updated date, source pills row (NYT, Guardian, Goodreads, Amazon, USA Today, Publishers Weekly, Audible — each links to its per-source page), Top 10 BookCards (score desc → tiebreaker desc), then "Also trending this week" compact ranked list (books 11–25: rank, title, author, badge emoji, Buy → link). Compact list hidden when search is active.
+2. **Weekly Bestsellers** — Section heading with last-updated date, source pills row (NYT, Guardian, Goodreads, Amazon, Ark, Publishers Weekly, Audible — each links to its per-source page), Top 10 BookCards (score desc → tiebreaker desc), then "Also trending this week" compact ranked list (books 11–25: rank, title, author, badge emoji, Buy → link). Compact list hidden when search is active.
 3. **Read Next teaser** — Heading "Read Next" + "Editorially curated — updated monthly.", top-4 `BookCard`s (`showScore={false}`), "See all recommendations →" link to `/read-next`. Hidden when search is active. Not rendered when `readNext` array is empty.
 4. **Popular Series** — Section heading, filterable by genre, SeriesCards grid
 5. **FooterAdZone + Footer**
@@ -443,7 +446,7 @@ See `DESIGN.md` for the full design system. Key rules for implementation:
 Grid of 7 source cards, each linking to its per-source page. Linked from Nav.
 
 ### Per-Source List (`/lists/[source]`)
-One static page per source (nyt, guardian, goodreads, amazon, usatoday, publishersweekly, audible). Shows:
+One static page per source (nyt, guardian, goodreads, amazon, ark, publishersweekly, audible). Shows:
 1. Source name + "As seen on" attribution
 2. Top 10 BookCards with `showScore={false}` — raw ranked list, no cross-source badge
 3. "← See our full merged Top 10" link back to homepage
@@ -456,7 +459,7 @@ One static page per source (nyt, guardian, goodreads, amazon, usatoday, publishe
 4. **FooterAdZone + Footer**
 
 ### Methodology (`/methodology`) — launch requirement
-Static content page explaining how bestseller rankings are compiled: the seven sources (NYT, The Guardian, Goodreads, Amazon, USA Today, Publishers Weekly, Audible), the scoring logic (score 1–7, badge thresholds 5–7/3–4/1–2), tiebreaker formula, and update frequency (weekly, every Monday).
+Static content page explaining how bestseller rankings are compiled: the seven sources (NYT, The Guardian, Goodreads, Amazon, Ark Bokhandel, Publishers Weekly, Audible), the scoring logic (score 1–7, badge thresholds 5–7/3–4/1–2), tiebreaker formula, and update frequency (weekly, every Monday).
 
 ### Editorial Policy (`/editorial-policy`) — launch requirement
 Static content page explaining how series reading orders are determined: what "Author's Recommended" means, how chronological order is defined, and how conflicts are resolved.
@@ -477,17 +480,19 @@ Static content page explaining how series reading orders are determined: what "A
 
 ---
 
-## CoWork Integration
+## Weekly Update Workflow
 
-The `/cowork/` folder contains two markdown prompt files used with Claude CoWork to automate data updates. Claude Code should not modify these files — they are managed separately. However, the JSON output format they produce must match the schemas defined in this file exactly.
+The `/cowork/` folder contains prompt/workflow files for recurring data updates.
 
-**CoWork Task 1 — Weekly Bestsellers** (`cowork/bestseller-prompt.md`)
-- Runs every Monday
+**Weekly Bestsellers** (`cowork/bestseller-prompt.md`)
+- Run every Monday with Claude Code (not CoWork — two sources require manual input)
+- Ark Bokhandel and Amazon are gathered manually; NYT uses the API; Guardian, Goodreads, PW, and Audible are fetched by Claude Code
 - Outputs top 10 for each of the 7 sources to `src/data/sources/*.json`
 - Outputs merged top-25 to `bestsellers.json`
+- Note: `cowork/bestseller-prompt.md` is gitignored (contains NYT API key)
 
-**CoWork Task 2 — Series Discovery** (`cowork/series-prompt.md`)
-- Runs monthly or on-demand
+**Series Discovery** (`cowork/series-prompt.md`)
+- Run monthly or on-demand with Claude Code
 - Outputs additions/updates to `series.json`
 
 ---
