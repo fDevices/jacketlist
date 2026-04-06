@@ -18956,6 +18956,2078 @@
           }
         ]
       }
+    },
+    {
+      "id": "hannibal-lecter",
+      "title": "Hannibal Lecter",
+      "author": "Thomas Harris",
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "total_books": 4,
+      "currently_on_bestseller_list": false,
+      "description": "The series that introduced the world's most iconic fictional villain. FBI agent Will Graham and, later, Clarice Starling must enter the mind of psychiatrist and cannibal Dr. Hannibal Lecter to catch other killers.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Hannibal Rising",
+            "note": "Prequel — Lecter's origin story.",
+            "amazon_url": "https://www.amazon.com/s?k=Hannibal+Rising+Thomas+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Red Dragon",
+            "amazon_url": "https://www.amazon.com/s?k=Red+Dragon+Thomas+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Silence of the Lambs",
+            "amazon_url": "https://www.amazon.com/s?k=Silence+of+the+Lambs+Thomas+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Hannibal",
+            "amazon_url": "https://www.amazon.com/s?k=Hannibal+Thomas+Harris+novel&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Red Dragon",
+            "note": "Start here — the prequel lands harder once you know Lecter.",
+            "amazon_url": "https://www.amazon.com/s?k=Red+Dragon+Thomas+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Silence of the Lambs",
+            "amazon_url": "https://www.amazon.com/s?k=Silence+of+the+Lambs+Thomas+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Hannibal",
+            "amazon_url": "https://www.amazon.com/s?k=Hannibal+Thomas+Harris+novel&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Hannibal Rising",
+            "note": "Prequel — best appreciated after the trilogy.",
+            "amazon_url": "https://www.amazon.com/s?k=Hannibal+Rising+Thomas+Harris&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "inspector-morse",
+      "title": "Inspector Morse",
+      "author": "Colin Dexter",
+      "genres": [
+        "Mystery",
+        "Crime"
+      ],
+      "total_books": 13,
+      "currently_on_bestseller_list": false,
+      "description": "Oxford detective Chief Inspector Morse solves ingeniously complex murders — crosswords in hand, classical music on the radio — alongside his long-suffering sergeant Lewis.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Last Bus to Woodstock",
+            "amazon_url": "https://www.amazon.com/s?k=Last+Bus+to+Woodstock+Colin+Dexter&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Last Seen Wearing",
+            "amazon_url": "https://www.amazon.com/s?k=Last+Seen+Wearing+Colin+Dexter&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Silent World of Nicholas Quinn",
+            "amazon_url": "https://www.amazon.com/s?k=Silent+World+Nicholas+Quinn+Dexter&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Service of All the Dead",
+            "amazon_url": "https://www.amazon.com/s?k=Service+of+All+the+Dead+Colin+Dexter&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Dead of Jericho",
+            "amazon_url": "https://www.amazon.com/s?k=Dead+of+Jericho+Colin+Dexter&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The Riddle of the Third Mile",
+            "amazon_url": "https://www.amazon.com/s?k=Riddle+Third+Mile+Colin+Dexter&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "The Secret of Annexe 3",
+            "amazon_url": "https://www.amazon.com/s?k=Secret+Annexe+3+Colin+Dexter&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "The Wench Is Dead",
+            "note": "Gold Dagger winner.",
+            "amazon_url": "https://www.amazon.com/s?k=Wench+Is+Dead+Colin+Dexter&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "The Jewel That Was Ours",
+            "amazon_url": "https://www.amazon.com/s?k=Jewel+That+Was+Ours+Colin+Dexter&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "The Way Through the Woods",
+            "note": "Gold Dagger winner.",
+            "amazon_url": "https://www.amazon.com/s?k=Way+Through+the+Woods+Colin+Dexter&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "The Daughters of Cain",
+            "amazon_url": "https://www.amazon.com/s?k=Daughters+of+Cain+Colin+Dexter&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "Death Is Now My Neighbour",
+            "amazon_url": "https://www.amazon.com/s?k=Death+Is+Now+My+Neighbour+Colin+Dexter&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "The Remorseful Day",
+            "note": "The final Morse novel.",
+            "amazon_url": "https://www.amazon.com/s?k=Remorseful+Day+Colin+Dexter&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Last Bus to Woodstock",
+            "note": "Start at the beginning — Morse is best followed in order.",
+            "amazon_url": "https://www.amazon.com/s?k=Last+Bus+to+Woodstock+Colin+Dexter&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Last Seen Wearing",
+            "amazon_url": "https://www.amazon.com/s?k=Last+Seen+Wearing+Colin+Dexter&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Silent World of Nicholas Quinn",
+            "amazon_url": "https://www.amazon.com/s?k=Silent+World+Nicholas+Quinn+Dexter&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Service of All the Dead",
+            "amazon_url": "https://www.amazon.com/s?k=Service+of+All+the+Dead+Colin+Dexter&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Dead of Jericho",
+            "amazon_url": "https://www.amazon.com/s?k=Dead+of+Jericho+Colin+Dexter&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The Riddle of the Third Mile",
+            "amazon_url": "https://www.amazon.com/s?k=Riddle+Third+Mile+Colin+Dexter&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "The Secret of Annexe 3",
+            "amazon_url": "https://www.amazon.com/s?k=Secret+Annexe+3+Colin+Dexter&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "The Wench Is Dead",
+            "amazon_url": "https://www.amazon.com/s?k=Wench+Is+Dead+Colin+Dexter&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "The Jewel That Was Ours",
+            "amazon_url": "https://www.amazon.com/s?k=Jewel+That+Was+Ours+Colin+Dexter&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "The Way Through the Woods",
+            "amazon_url": "https://www.amazon.com/s?k=Way+Through+the+Woods+Colin+Dexter&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "The Daughters of Cain",
+            "amazon_url": "https://www.amazon.com/s?k=Daughters+of+Cain+Colin+Dexter&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "Death Is Now My Neighbour",
+            "amazon_url": "https://www.amazon.com/s?k=Death+Is+Now+My+Neighbour+Colin+Dexter&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "The Remorseful Day",
+            "amazon_url": "https://www.amazon.com/s?k=Remorseful+Day+Colin+Dexter&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sookie-stackhouse",
+      "title": "Sookie Stackhouse (The Southern Vampire Mysteries)",
+      "author": "Charlaine Harris",
+      "genres": [
+        "Paranormal",
+        "Fantasy",
+        "Romance"
+      ],
+      "total_books": 13,
+      "currently_on_bestseller_list": false,
+      "description": "Louisiana waitress Sookie Stackhouse can read minds — but vampires are the one person whose thoughts she can't hear. The basis for HBO's True Blood.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Dead Until Dark",
+            "amazon_url": "https://www.amazon.com/s?k=Dead+Until+Dark+Charlaine+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Living Dead in Dallas",
+            "amazon_url": "https://www.amazon.com/s?k=Living+Dead+in+Dallas+Charlaine+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Club Dead",
+            "amazon_url": "https://www.amazon.com/s?k=Club+Dead+Charlaine+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Dead to the World",
+            "amazon_url": "https://www.amazon.com/s?k=Dead+to+the+World+Charlaine+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Dead as a Doornail",
+            "amazon_url": "https://www.amazon.com/s?k=Dead+as+a+Doornail+Charlaine+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Definitely Dead",
+            "amazon_url": "https://www.amazon.com/s?k=Definitely+Dead+Charlaine+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "All Together Dead",
+            "amazon_url": "https://www.amazon.com/s?k=All+Together+Dead+Charlaine+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "From Dead to Worse",
+            "amazon_url": "https://www.amazon.com/s?k=From+Dead+to+Worse+Charlaine+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Dead and Gone",
+            "amazon_url": "https://www.amazon.com/s?k=Dead+and+Gone+Charlaine+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Dead in the Family",
+            "amazon_url": "https://www.amazon.com/s?k=Dead+in+the+Family+Charlaine+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "Dead Reckoning",
+            "amazon_url": "https://www.amazon.com/s?k=Dead+Reckoning+Charlaine+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "Deadlocked",
+            "amazon_url": "https://www.amazon.com/s?k=Deadlocked+Charlaine+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "Dead Ever After",
+            "amazon_url": "https://www.amazon.com/s?k=Dead+Ever+After+Charlaine+Harris&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Dead Until Dark",
+            "note": "Start here — best read in publication order.",
+            "amazon_url": "https://www.amazon.com/s?k=Dead+Until+Dark+Charlaine+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Living Dead in Dallas",
+            "amazon_url": "https://www.amazon.com/s?k=Living+Dead+in+Dallas+Charlaine+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Club Dead",
+            "amazon_url": "https://www.amazon.com/s?k=Club+Dead+Charlaine+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Dead to the World",
+            "amazon_url": "https://www.amazon.com/s?k=Dead+to+the+World+Charlaine+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Dead as a Doornail",
+            "amazon_url": "https://www.amazon.com/s?k=Dead+as+a+Doornail+Charlaine+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Definitely Dead",
+            "amazon_url": "https://www.amazon.com/s?k=Definitely+Dead+Charlaine+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "All Together Dead",
+            "amazon_url": "https://www.amazon.com/s?k=All+Together+Dead+Charlaine+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "From Dead to Worse",
+            "amazon_url": "https://www.amazon.com/s?k=From+Dead+to+Worse+Charlaine+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Dead and Gone",
+            "amazon_url": "https://www.amazon.com/s?k=Dead+and+Gone+Charlaine+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Dead in the Family",
+            "amazon_url": "https://www.amazon.com/s?k=Dead+in+the+Family+Charlaine+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "Dead Reckoning",
+            "amazon_url": "https://www.amazon.com/s?k=Dead+Reckoning+Charlaine+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "Deadlocked",
+            "amazon_url": "https://www.amazon.com/s?k=Deadlocked+Charlaine+Harris&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "Dead Ever After",
+            "amazon_url": "https://www.amazon.com/s?k=Dead+Ever+After+Charlaine+Harris&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "all-souls",
+      "title": "All Souls Trilogy",
+      "author": "Deborah Harkness",
+      "genres": [
+        "Paranormal",
+        "Fantasy",
+        "Romance",
+        "Historical Fiction"
+      ],
+      "total_books": 3,
+      "currently_on_bestseller_list": false,
+      "description": "Historian and witch Diana Bishop accidentally uncovers a bewitched manuscript — and falls for vampire geneticist Matthew Clairmont. A sweeping paranormal romance spanning centuries and continents.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "A Discovery of Witches",
+            "amazon_url": "https://www.amazon.com/s?k=A+Discovery+of+Witches+Deborah+Harkness&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Shadow of Night",
+            "amazon_url": "https://www.amazon.com/s?k=Shadow+of+Night+Deborah+Harkness&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Book of Life",
+            "amazon_url": "https://www.amazon.com/s?k=The+Book+of+Life+Deborah+Harkness&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "A Discovery of Witches",
+            "note": "Start here.",
+            "amazon_url": "https://www.amazon.com/s?k=A+Discovery+of+Witches+Deborah+Harkness&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Shadow of Night",
+            "amazon_url": "https://www.amazon.com/s?k=Shadow+of+Night+Deborah+Harkness&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Book of Life",
+            "amazon_url": "https://www.amazon.com/s?k=The+Book+of+Life+Deborah+Harkness&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kate-daniels",
+      "title": "Kate Daniels",
+      "author": "Ilona Andrews",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "total_books": 11,
+      "currently_on_bestseller_list": false,
+      "description": "In an alternate Atlanta where magic and technology take turns crashing the grid, mercenary Kate Daniels cleans up supernatural messes — and uncovers a dangerous secret about her own bloodline.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Magic Bites",
+            "amazon_url": "https://www.amazon.com/s?k=Magic+Bites+Ilona+Andrews&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Magic Burns",
+            "amazon_url": "https://www.amazon.com/s?k=Magic+Burns+Ilona+Andrews&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Magic Strikes",
+            "amazon_url": "https://www.amazon.com/s?k=Magic+Strikes+Ilona+Andrews&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Magic Bleeds",
+            "amazon_url": "https://www.amazon.com/s?k=Magic+Bleeds+Ilona+Andrews&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Magic Slays",
+            "amazon_url": "https://www.amazon.com/s?k=Magic+Slays+Ilona+Andrews&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Magic Rises",
+            "amazon_url": "https://www.amazon.com/s?k=Magic+Rises+Ilona+Andrews&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Magic Breaks",
+            "amazon_url": "https://www.amazon.com/s?k=Magic+Breaks+Ilona+Andrews&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Magic Shifts",
+            "amazon_url": "https://www.amazon.com/s?k=Magic+Shifts+Ilona+Andrews&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Magic Binds",
+            "amazon_url": "https://www.amazon.com/s?k=Magic+Binds+Ilona+Andrews&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Magic Triumphs",
+            "amazon_url": "https://www.amazon.com/s?k=Magic+Triumphs+Ilona+Andrews&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "Magic Tides",
+            "note": "First book in the follow-up Wilmington Years arc.",
+            "amazon_url": "https://www.amazon.com/s?k=Magic+Tides+Ilona+Andrews&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Magic Bites",
+            "note": "Start here — the series rewards reading in order.",
+            "amazon_url": "https://www.amazon.com/s?k=Magic+Bites+Ilona+Andrews&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Magic Burns",
+            "amazon_url": "https://www.amazon.com/s?k=Magic+Burns+Ilona+Andrews&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Magic Strikes",
+            "amazon_url": "https://www.amazon.com/s?k=Magic+Strikes+Ilona+Andrews&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Magic Bleeds",
+            "amazon_url": "https://www.amazon.com/s?k=Magic+Bleeds+Ilona+Andrews&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Magic Slays",
+            "amazon_url": "https://www.amazon.com/s?k=Magic+Slays+Ilona+Andrews&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Magic Rises",
+            "amazon_url": "https://www.amazon.com/s?k=Magic+Rises+Ilona+Andrews&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Magic Breaks",
+            "amazon_url": "https://www.amazon.com/s?k=Magic+Breaks+Ilona+Andrews&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Magic Shifts",
+            "amazon_url": "https://www.amazon.com/s?k=Magic+Shifts+Ilona+Andrews&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Magic Binds",
+            "amazon_url": "https://www.amazon.com/s?k=Magic+Binds+Ilona+Andrews&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Magic Triumphs",
+            "amazon_url": "https://www.amazon.com/s?k=Magic+Triumphs+Ilona+Andrews&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "Magic Tides",
+            "amazon_url": "https://www.amazon.com/s?k=Magic+Tides+Ilona+Andrews&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "american-gods",
+      "title": "American Gods",
+      "author": "Neil Gaiman",
+      "genres": [
+        "Fantasy"
+      ],
+      "total_books": 2,
+      "currently_on_bestseller_list": false,
+      "description": "Ex-convict Shadow Moon is recruited by the mysterious Mr. Wednesday to fight on behalf of old gods who've been forgotten and displaced by modern America's new gods of technology and media.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "American Gods",
+            "amazon_url": "https://www.amazon.com/s?k=American+Gods+Neil+Gaiman&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Anansi Boys",
+            "note": "Companion novel — follows a different character in the same world.",
+            "amazon_url": "https://www.amazon.com/s?k=Anansi+Boys+Neil+Gaiman&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "American Gods",
+            "note": "Start here — Anansi Boys can be read standalone but rewards prior knowledge.",
+            "amazon_url": "https://www.amazon.com/s?k=American+Gods+Neil+Gaiman&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Anansi Boys",
+            "amazon_url": "https://www.amazon.com/s?k=Anansi+Boys+Neil+Gaiman&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "maddaddam",
+      "title": "MaddAddam Trilogy",
+      "author": "Margaret Atwood",
+      "genres": [
+        "Sci-Fi",
+        "Literary Fiction"
+      ],
+      "total_books": 3,
+      "currently_on_bestseller_list": false,
+      "description": "A post-apocalyptic world shaped by corporate bioengineering and genetic excess. Atwood's gripping companion to The Handmaid's Tale — darker, stranger, and equally prophetic.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Oryx and Crake",
+            "amazon_url": "https://www.amazon.com/s?k=Oryx+and+Crake+Margaret+Atwood&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Year of the Flood",
+            "note": "Overlapping timeline — events run parallel to Book 1.",
+            "amazon_url": "https://www.amazon.com/s?k=Year+of+the+Flood+Margaret+Atwood&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "MaddAddam",
+            "amazon_url": "https://www.amazon.com/s?k=MaddAddam+Margaret+Atwood&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Oryx and Crake",
+            "note": "Start here — establishes the world through Snowman's eyes.",
+            "amazon_url": "https://www.amazon.com/s?k=Oryx+and+Crake+Margaret+Atwood&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Year of the Flood",
+            "amazon_url": "https://www.amazon.com/s?k=Year+of+the+Flood+Margaret+Atwood&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "MaddAddam",
+            "amazon_url": "https://www.amazon.com/s?k=MaddAddam+Margaret+Atwood&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sharpe",
+      "title": "Sharpe",
+      "author": "Bernard Cornwell",
+      "genres": [
+        "Historical Fiction"
+      ],
+      "total_books": 24,
+      "currently_on_bestseller_list": false,
+      "description": "Richard Sharpe claws his way from the ranks to become one of Wellington's most formidable officers, fighting through the Napoleonic Wars from India to Waterloo. The benchmark for military historical fiction.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Sharpe's Tiger",
+            "note": "India, 1799 — Sharpe's origins.",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Tiger+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Sharpe's Triumph",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Triumph+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Sharpe's Fortress",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Fortress+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Sharpe's Trafalgar",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Trafalgar+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Sharpe's Prey",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Prey+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Sharpe's Rifles",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Rifles+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Sharpe's Havoc",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Havoc+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Sharpe's Eagle",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Eagle+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Sharpe's Gold",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Gold+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Sharpe's Escape",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Escape+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "Sharpe's Fury",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Fury+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "Sharpe's Battle",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Battle+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "Sharpe's Company",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Company+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 14,
+            "title": "Sharpe's Sword",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Sword+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 15,
+            "title": "Sharpe's Enemy",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Enemy+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 16,
+            "title": "Sharpe's Honour",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Honour+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 17,
+            "title": "Sharpe's Regiment",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Regiment+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 18,
+            "title": "Sharpe's Siege",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Siege+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 19,
+            "title": "Sharpe's Revenge",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Revenge+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 20,
+            "title": "Sharpe's Waterloo",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Waterloo+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 21,
+            "title": "Sharpe's Assassin",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Assassin+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 22,
+            "title": "Sharpe's Devil",
+            "note": "Epilogue — Chile, 1820.",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Devil+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 23,
+            "title": "Sharpe's Command",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Command+Bernard+Cornwell&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Sharpe's Rifles",
+            "note": "Start here — the first book Cornwell wrote, best entry point.",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Rifles+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Sharpe's Eagle",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Eagle+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Sharpe's Gold",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Gold+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Sharpe's Company",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Company+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Sharpe's Sword",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Sword+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Sharpe's Enemy",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Enemy+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Sharpe's Honour",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Honour+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Sharpe's Regiment",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Regiment+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Sharpe's Siege",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Siege+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Sharpe's Revenge",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Revenge+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "Sharpe's Waterloo",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Waterloo+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "Sharpe's Tiger",
+            "note": "Now go back and read the India prequels.",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Tiger+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "Sharpe's Triumph",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Triumph+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 14,
+            "title": "Sharpe's Fortress",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Fortress+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 15,
+            "title": "Sharpe's Trafalgar",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Trafalgar+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 16,
+            "title": "Sharpe's Prey",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Prey+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 17,
+            "title": "Sharpe's Havoc",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Havoc+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 18,
+            "title": "Sharpe's Escape",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Escape+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 19,
+            "title": "Sharpe's Fury",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Fury+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 20,
+            "title": "Sharpe's Battle",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Battle+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 21,
+            "title": "Sharpe's Assassin",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Assassin+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 22,
+            "title": "Sharpe's Devil",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Devil+Bernard+Cornwell&tag=jacketlist-20"
+          },
+          {
+            "position": 23,
+            "title": "Sharpe's Command",
+            "amazon_url": "https://www.amazon.com/s?k=Sharpe%27s+Command+Bernard+Cornwell&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "poldark",
+      "title": "Poldark",
+      "author": "Winston Graham",
+      "genres": [
+        "Historical Fiction",
+        "Romance"
+      ],
+      "total_books": 12,
+      "currently_on_bestseller_list": false,
+      "description": "Captain Ross Poldark returns from the American War of Independence to find his world in ruins — and falls for a poor kitchen maid. A sweeping saga of love, class, and copper mining in 18th-century Cornwall.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Ross Poldark",
+            "amazon_url": "https://www.amazon.com/s?k=Ross+Poldark+Winston+Graham&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Demelza",
+            "amazon_url": "https://www.amazon.com/s?k=Demelza+Winston+Graham&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Jeremy Poldark",
+            "amazon_url": "https://www.amazon.com/s?k=Jeremy+Poldark+Winston+Graham&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Warleggan",
+            "amazon_url": "https://www.amazon.com/s?k=Warleggan+Winston+Graham&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Black Moon",
+            "amazon_url": "https://www.amazon.com/s?k=The+Black+Moon+Winston+Graham&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The Four Swans",
+            "amazon_url": "https://www.amazon.com/s?k=The+Four+Swans+Winston+Graham&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "The Angry Tide",
+            "amazon_url": "https://www.amazon.com/s?k=The+Angry+Tide+Winston+Graham&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "The Stranger from the Sea",
+            "amazon_url": "https://www.amazon.com/s?k=Stranger+from+the+Sea+Winston+Graham&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "The Miller's Dance",
+            "amazon_url": "https://www.amazon.com/s?k=The+Miller%27s+Dance+Winston+Graham&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "The Loving Cup",
+            "amazon_url": "https://www.amazon.com/s?k=The+Loving+Cup+Winston+Graham&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "The Twisted Sword",
+            "amazon_url": "https://www.amazon.com/s?k=The+Twisted+Sword+Winston+Graham&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "Bella Poldark",
+            "amazon_url": "https://www.amazon.com/s?k=Bella+Poldark+Winston+Graham&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Ross Poldark",
+            "note": "Start at the beginning — this is a saga meant to be read in order.",
+            "amazon_url": "https://www.amazon.com/s?k=Ross+Poldark+Winston+Graham&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Demelza",
+            "amazon_url": "https://www.amazon.com/s?k=Demelza+Winston+Graham&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Jeremy Poldark",
+            "amazon_url": "https://www.amazon.com/s?k=Jeremy+Poldark+Winston+Graham&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Warleggan",
+            "amazon_url": "https://www.amazon.com/s?k=Warleggan+Winston+Graham&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Black Moon",
+            "amazon_url": "https://www.amazon.com/s?k=The+Black+Moon+Winston+Graham&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The Four Swans",
+            "amazon_url": "https://www.amazon.com/s?k=The+Four+Swans+Winston+Graham&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "The Angry Tide",
+            "amazon_url": "https://www.amazon.com/s?k=The+Angry+Tide+Winston+Graham&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "The Stranger from the Sea",
+            "amazon_url": "https://www.amazon.com/s?k=Stranger+from+the+Sea+Winston+Graham&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "The Miller's Dance",
+            "amazon_url": "https://www.amazon.com/s?k=The+Miller%27s+Dance+Winston+Graham&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "The Loving Cup",
+            "amazon_url": "https://www.amazon.com/s?k=The+Loving+Cup+Winston+Graham&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "The Twisted Sword",
+            "amazon_url": "https://www.amazon.com/s?k=The+Twisted+Sword+Winston+Graham&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "Bella Poldark",
+            "amazon_url": "https://www.amazon.com/s?k=Bella+Poldark+Winston+Graham&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "no-1-ladies",
+      "title": "No. 1 Ladies' Detective Agency",
+      "author": "Alexander McCall Smith",
+      "genres": [
+        "Mystery",
+        "Literary Fiction"
+      ],
+      "total_books": 24,
+      "currently_on_bestseller_list": false,
+      "description": "In Botswana, the traditionally built Mma Precious Ramotswe opens the country's only female-run detective agency. Warm, wise, and gently funny — as much about life and community as solving crimes.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "The No. 1 Ladies' Detective Agency",
+            "amazon_url": "https://www.amazon.com/s?k=No+1+Ladies+Detective+Agency+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Tears of the Giraffe",
+            "amazon_url": "https://www.amazon.com/s?k=Tears+of+the+Giraffe+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Morality for Beautiful Girls",
+            "amazon_url": "https://www.amazon.com/s?k=Morality+for+Beautiful+Girls+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Kalahari Typing School for Men",
+            "amazon_url": "https://www.amazon.com/s?k=Kalahari+Typing+School+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Full Cupboard of Life",
+            "amazon_url": "https://www.amazon.com/s?k=Full+Cupboard+of+Life+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "In the Company of Cheerful Ladies",
+            "amazon_url": "https://www.amazon.com/s?k=Company+of+Cheerful+Ladies+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Blue Shoes and Happiness",
+            "amazon_url": "https://www.amazon.com/s?k=Blue+Shoes+and+Happiness+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "The Good Husband of Zebra Drive",
+            "amazon_url": "https://www.amazon.com/s?k=Good+Husband+Zebra+Drive+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "The Miracle at Speedy Motors",
+            "amazon_url": "https://www.amazon.com/s?k=Miracle+at+Speedy+Motors+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Tea Time for the Traditionally Built",
+            "amazon_url": "https://www.amazon.com/s?k=Tea+Time+Traditionally+Built+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "The Double Comfort Safari Club",
+            "amazon_url": "https://www.amazon.com/s?k=Double+Comfort+Safari+Club+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "The Saturday Big Tent Wedding Party",
+            "amazon_url": "https://www.amazon.com/s?k=Saturday+Big+Tent+Wedding+Party+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "The Limpopo Academy of Private Detection",
+            "amazon_url": "https://www.amazon.com/s?k=Limpopo+Academy+Private+Detection+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 14,
+            "title": "The Minor Adjustment Beauty Salon",
+            "amazon_url": "https://www.amazon.com/s?k=Minor+Adjustment+Beauty+Salon+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 15,
+            "title": "The Handsome Man's De Luxe Café",
+            "amazon_url": "https://www.amazon.com/s?k=Handsome+Man+De+Luxe+Cafe+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 16,
+            "title": "The Woman Who Walked in Sunshine",
+            "amazon_url": "https://www.amazon.com/s?k=Woman+Who+Walked+in+Sunshine+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 17,
+            "title": "Precious and Grace",
+            "amazon_url": "https://www.amazon.com/s?k=Precious+and+Grace+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 18,
+            "title": "The House of Unexpected Sisters",
+            "amazon_url": "https://www.amazon.com/s?k=House+of+Unexpected+Sisters+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 19,
+            "title": "The Colors of All the Cattle",
+            "amazon_url": "https://www.amazon.com/s?k=Colors+of+All+the+Cattle+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 20,
+            "title": "To the Land of Long Lost Friends",
+            "amazon_url": "https://www.amazon.com/s?k=Land+of+Long+Lost+Friends+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 21,
+            "title": "How to Raise an Elephant",
+            "amazon_url": "https://www.amazon.com/s?k=How+to+Raise+an+Elephant+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 22,
+            "title": "The Joy and Light Bus Company",
+            "amazon_url": "https://www.amazon.com/s?k=Joy+and+Light+Bus+Company+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 23,
+            "title": "A Song of Comfortable Chairs",
+            "amazon_url": "https://www.amazon.com/s?k=Song+of+Comfortable+Chairs+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 24,
+            "title": "From a Far and Lovely Country",
+            "amazon_url": "https://www.amazon.com/s?k=From+a+Far+and+Lovely+Country+McCall+Smith&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "The No. 1 Ladies' Detective Agency",
+            "note": "Start here — each book stands alone, but reading in order deepens the characters.",
+            "amazon_url": "https://www.amazon.com/s?k=No+1+Ladies+Detective+Agency+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Tears of the Giraffe",
+            "amazon_url": "https://www.amazon.com/s?k=Tears+of+the+Giraffe+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Morality for Beautiful Girls",
+            "amazon_url": "https://www.amazon.com/s?k=Morality+for+Beautiful+Girls+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Kalahari Typing School for Men",
+            "amazon_url": "https://www.amazon.com/s?k=Kalahari+Typing+School+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Full Cupboard of Life",
+            "amazon_url": "https://www.amazon.com/s?k=Full+Cupboard+of+Life+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "In the Company of Cheerful Ladies",
+            "amazon_url": "https://www.amazon.com/s?k=Company+of+Cheerful+Ladies+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Blue Shoes and Happiness",
+            "amazon_url": "https://www.amazon.com/s?k=Blue+Shoes+and+Happiness+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "The Good Husband of Zebra Drive",
+            "amazon_url": "https://www.amazon.com/s?k=Good+Husband+Zebra+Drive+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "The Miracle at Speedy Motors",
+            "amazon_url": "https://www.amazon.com/s?k=Miracle+at+Speedy+Motors+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Tea Time for the Traditionally Built",
+            "amazon_url": "https://www.amazon.com/s?k=Tea+Time+Traditionally+Built+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "The Double Comfort Safari Club",
+            "amazon_url": "https://www.amazon.com/s?k=Double+Comfort+Safari+Club+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "The Saturday Big Tent Wedding Party",
+            "amazon_url": "https://www.amazon.com/s?k=Saturday+Big+Tent+Wedding+Party+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "The Limpopo Academy of Private Detection",
+            "amazon_url": "https://www.amazon.com/s?k=Limpopo+Academy+Private+Detection+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 14,
+            "title": "The Minor Adjustment Beauty Salon",
+            "amazon_url": "https://www.amazon.com/s?k=Minor+Adjustment+Beauty+Salon+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 15,
+            "title": "The Handsome Man's De Luxe Café",
+            "amazon_url": "https://www.amazon.com/s?k=Handsome+Man+De+Luxe+Cafe+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 16,
+            "title": "The Woman Who Walked in Sunshine",
+            "amazon_url": "https://www.amazon.com/s?k=Woman+Who+Walked+in+Sunshine+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 17,
+            "title": "Precious and Grace",
+            "amazon_url": "https://www.amazon.com/s?k=Precious+and+Grace+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 18,
+            "title": "The House of Unexpected Sisters",
+            "amazon_url": "https://www.amazon.com/s?k=House+of+Unexpected+Sisters+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 19,
+            "title": "The Colors of All the Cattle",
+            "amazon_url": "https://www.amazon.com/s?k=Colors+of+All+the+Cattle+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 20,
+            "title": "To the Land of Long Lost Friends",
+            "amazon_url": "https://www.amazon.com/s?k=Land+of+Long+Lost+Friends+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 21,
+            "title": "How to Raise an Elephant",
+            "amazon_url": "https://www.amazon.com/s?k=How+to+Raise+an+Elephant+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 22,
+            "title": "The Joy and Light Bus Company",
+            "amazon_url": "https://www.amazon.com/s?k=Joy+and+Light+Bus+Company+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 23,
+            "title": "A Song of Comfortable Chairs",
+            "amazon_url": "https://www.amazon.com/s?k=Song+of+Comfortable+Chairs+McCall+Smith&tag=jacketlist-20"
+          },
+          {
+            "position": 24,
+            "title": "From a Far and Lovely Country",
+            "amazon_url": "https://www.amazon.com/s?k=From+a+Far+and+Lovely+Country+McCall+Smith&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "brother-cadfael",
+      "title": "Brother Cadfael",
+      "author": "Ellis Peters",
+      "genres": [
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "total_books": 20,
+      "currently_on_bestseller_list": false,
+      "description": "A Welsh Crusader-turned-monk at Shrewsbury Abbey solves murders in 12th-century England. The classic that defined the medieval mystery genre — thoughtful, atmospheric, and irresistibly readable.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "A Morbid Taste for Bones",
+            "amazon_url": "https://www.amazon.com/s?k=Morbid+Taste+for+Bones+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "One Corpse Too Many",
+            "amazon_url": "https://www.amazon.com/s?k=One+Corpse+Too+Many+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Monk's Hood",
+            "amazon_url": "https://www.amazon.com/s?k=Monk%27s+Hood+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Saint Peter's Fair",
+            "amazon_url": "https://www.amazon.com/s?k=Saint+Peter%27s+Fair+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Leper of Saint Giles",
+            "amazon_url": "https://www.amazon.com/s?k=Leper+of+Saint+Giles+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The Virgin in the Ice",
+            "amazon_url": "https://www.amazon.com/s?k=Virgin+in+the+Ice+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "The Sanctuary Sparrow",
+            "amazon_url": "https://www.amazon.com/s?k=Sanctuary+Sparrow+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "The Devil's Novice",
+            "amazon_url": "https://www.amazon.com/s?k=Devil%27s+Novice+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Dead Man's Ransom",
+            "amazon_url": "https://www.amazon.com/s?k=Dead+Man%27s+Ransom+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "The Pilgrim of Hate",
+            "amazon_url": "https://www.amazon.com/s?k=Pilgrim+of+Hate+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "An Excellent Mystery",
+            "amazon_url": "https://www.amazon.com/s?k=An+Excellent+Mystery+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "The Raven in the Foregate",
+            "amazon_url": "https://www.amazon.com/s?k=Raven+in+the+Foregate+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "The Rose Rent",
+            "amazon_url": "https://www.amazon.com/s?k=The+Rose+Rent+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 14,
+            "title": "The Hermit of Eyton Forest",
+            "amazon_url": "https://www.amazon.com/s?k=Hermit+of+Eyton+Forest+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 15,
+            "title": "The Confession of Brother Haluin",
+            "amazon_url": "https://www.amazon.com/s?k=Confession+of+Brother+Haluin+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 16,
+            "title": "The Heretic's Apprentice",
+            "amazon_url": "https://www.amazon.com/s?k=Heretic%27s+Apprentice+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 17,
+            "title": "The Potter's Field",
+            "amazon_url": "https://www.amazon.com/s?k=Potter%27s+Field+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 18,
+            "title": "The Summer of the Danes",
+            "amazon_url": "https://www.amazon.com/s?k=Summer+of+the+Danes+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 19,
+            "title": "The Holy Thief",
+            "amazon_url": "https://www.amazon.com/s?k=The+Holy+Thief+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 20,
+            "title": "Brother Cadfael's Penance",
+            "note": "The final novel in the series.",
+            "amazon_url": "https://www.amazon.com/s?k=Brother+Cadfael%27s+Penance+Ellis+Peters&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "A Morbid Taste for Bones",
+            "note": "Start at the beginning — each book stands alone but order enriches the experience.",
+            "amazon_url": "https://www.amazon.com/s?k=Morbid+Taste+for+Bones+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "One Corpse Too Many",
+            "amazon_url": "https://www.amazon.com/s?k=One+Corpse+Too+Many+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Monk's Hood",
+            "amazon_url": "https://www.amazon.com/s?k=Monk%27s+Hood+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Saint Peter's Fair",
+            "amazon_url": "https://www.amazon.com/s?k=Saint+Peter%27s+Fair+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Leper of Saint Giles",
+            "amazon_url": "https://www.amazon.com/s?k=Leper+of+Saint+Giles+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The Virgin in the Ice",
+            "amazon_url": "https://www.amazon.com/s?k=Virgin+in+the+Ice+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "The Sanctuary Sparrow",
+            "amazon_url": "https://www.amazon.com/s?k=Sanctuary+Sparrow+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "The Devil's Novice",
+            "amazon_url": "https://www.amazon.com/s?k=Devil%27s+Novice+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Dead Man's Ransom",
+            "amazon_url": "https://www.amazon.com/s?k=Dead+Man%27s+Ransom+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "The Pilgrim of Hate",
+            "amazon_url": "https://www.amazon.com/s?k=Pilgrim+of+Hate+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "An Excellent Mystery",
+            "amazon_url": "https://www.amazon.com/s?k=An+Excellent+Mystery+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "The Raven in the Foregate",
+            "amazon_url": "https://www.amazon.com/s?k=Raven+in+the+Foregate+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "The Rose Rent",
+            "amazon_url": "https://www.amazon.com/s?k=The+Rose+Rent+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 14,
+            "title": "The Hermit of Eyton Forest",
+            "amazon_url": "https://www.amazon.com/s?k=Hermit+of+Eyton+Forest+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 15,
+            "title": "The Confession of Brother Haluin",
+            "amazon_url": "https://www.amazon.com/s?k=Confession+of+Brother+Haluin+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 16,
+            "title": "The Heretic's Apprentice",
+            "amazon_url": "https://www.amazon.com/s?k=Heretic%27s+Apprentice+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 17,
+            "title": "The Potter's Field",
+            "amazon_url": "https://www.amazon.com/s?k=Potter%27s+Field+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 18,
+            "title": "The Summer of the Danes",
+            "amazon_url": "https://www.amazon.com/s?k=Summer+of+the+Danes+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 19,
+            "title": "The Holy Thief",
+            "amazon_url": "https://www.amazon.com/s?k=The+Holy+Thief+Ellis+Peters&tag=jacketlist-20"
+          },
+          {
+            "position": 20,
+            "title": "Brother Cadfael's Penance",
+            "amazon_url": "https://www.amazon.com/s?k=Brother+Cadfael%27s+Penance+Ellis+Peters&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "phryne-fisher",
+      "title": "Phryne Fisher",
+      "author": "Kerry Greenwood",
+      "genres": [
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "total_books": 21,
+      "currently_on_bestseller_list": false,
+      "description": "The Honourable Phryne Fisher — pilot, adventurer, and brilliant detective — cuts through 1920s Melbourne society with style, wit, and absolutely no patience for injustice.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Cocaine Blues",
+            "amazon_url": "https://www.amazon.com/s?k=Cocaine+Blues+Kerry+Greenwood+Phryne&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Flying Too High",
+            "amazon_url": "https://www.amazon.com/s?k=Flying+Too+High+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Murder on the Ballarat Train",
+            "amazon_url": "https://www.amazon.com/s?k=Murder+Ballarat+Train+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Death at Victoria Dock",
+            "amazon_url": "https://www.amazon.com/s?k=Death+at+Victoria+Dock+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Green Mill Murder",
+            "amazon_url": "https://www.amazon.com/s?k=Green+Mill+Murder+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Blood and Circuses",
+            "amazon_url": "https://www.amazon.com/s?k=Blood+and+Circuses+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Ruddy Gore",
+            "amazon_url": "https://www.amazon.com/s?k=Ruddy+Gore+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Urn Burial",
+            "amazon_url": "https://www.amazon.com/s?k=Urn+Burial+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Raisins and Almonds",
+            "amazon_url": "https://www.amazon.com/s?k=Raisins+and+Almonds+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Death Before Wicket",
+            "amazon_url": "https://www.amazon.com/s?k=Death+Before+Wicket+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "Away with the Fairies",
+            "amazon_url": "https://www.amazon.com/s?k=Away+with+the+Fairies+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "Murder in Montparnasse",
+            "amazon_url": "https://www.amazon.com/s?k=Murder+in+Montparnasse+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "The Castlemaine Murders",
+            "amazon_url": "https://www.amazon.com/s?k=Castlemaine+Murders+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 14,
+            "title": "Queen of the Flowers",
+            "amazon_url": "https://www.amazon.com/s?k=Queen+of+the+Flowers+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 15,
+            "title": "Death by Water",
+            "amazon_url": "https://www.amazon.com/s?k=Death+by+Water+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 16,
+            "title": "Murder in the Dark",
+            "amazon_url": "https://www.amazon.com/s?k=Murder+in+the+Dark+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 17,
+            "title": "Murder on a Midsummer Night",
+            "amazon_url": "https://www.amazon.com/s?k=Murder+Midsummer+Night+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 18,
+            "title": "Dead Man's Chest",
+            "amazon_url": "https://www.amazon.com/s?k=Dead+Man%27s+Chest+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 19,
+            "title": "Unnatural Habits",
+            "amazon_url": "https://www.amazon.com/s?k=Unnatural+Habits+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 20,
+            "title": "Murder and Mendelssohn",
+            "amazon_url": "https://www.amazon.com/s?k=Murder+and+Mendelssohn+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 21,
+            "title": "The Tram to Bondi Beach",
+            "amazon_url": "https://www.amazon.com/s?k=Tram+to+Bondi+Beach+Kerry+Greenwood&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Cocaine Blues",
+            "note": "Start here — Phryne's introduction. Books can be read out of order but in-order is best.",
+            "amazon_url": "https://www.amazon.com/s?k=Cocaine+Blues+Kerry+Greenwood+Phryne&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Flying Too High",
+            "amazon_url": "https://www.amazon.com/s?k=Flying+Too+High+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Murder on the Ballarat Train",
+            "amazon_url": "https://www.amazon.com/s?k=Murder+Ballarat+Train+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Death at Victoria Dock",
+            "amazon_url": "https://www.amazon.com/s?k=Death+at+Victoria+Dock+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Green Mill Murder",
+            "amazon_url": "https://www.amazon.com/s?k=Green+Mill+Murder+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Blood and Circuses",
+            "amazon_url": "https://www.amazon.com/s?k=Blood+and+Circuses+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Ruddy Gore",
+            "amazon_url": "https://www.amazon.com/s?k=Ruddy+Gore+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Urn Burial",
+            "amazon_url": "https://www.amazon.com/s?k=Urn+Burial+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Raisins and Almonds",
+            "amazon_url": "https://www.amazon.com/s?k=Raisins+and+Almonds+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Death Before Wicket",
+            "amazon_url": "https://www.amazon.com/s?k=Death+Before+Wicket+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "Away with the Fairies",
+            "amazon_url": "https://www.amazon.com/s?k=Away+with+the+Fairies+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "Murder in Montparnasse",
+            "amazon_url": "https://www.amazon.com/s?k=Murder+in+Montparnasse+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "The Castlemaine Murders",
+            "amazon_url": "https://www.amazon.com/s?k=Castlemaine+Murders+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 14,
+            "title": "Queen of the Flowers",
+            "amazon_url": "https://www.amazon.com/s?k=Queen+of+the+Flowers+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 15,
+            "title": "Death by Water",
+            "amazon_url": "https://www.amazon.com/s?k=Death+by+Water+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 16,
+            "title": "Murder in the Dark",
+            "amazon_url": "https://www.amazon.com/s?k=Murder+in+the+Dark+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 17,
+            "title": "Murder on a Midsummer Night",
+            "amazon_url": "https://www.amazon.com/s?k=Murder+Midsummer+Night+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 18,
+            "title": "Dead Man's Chest",
+            "amazon_url": "https://www.amazon.com/s?k=Dead+Man%27s+Chest+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 19,
+            "title": "Unnatural Habits",
+            "amazon_url": "https://www.amazon.com/s?k=Unnatural+Habits+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 20,
+            "title": "Murder and Mendelssohn",
+            "amazon_url": "https://www.amazon.com/s?k=Murder+and+Mendelssohn+Kerry+Greenwood&tag=jacketlist-20"
+          },
+          {
+            "position": 21,
+            "title": "The Tram to Bondi Beach",
+            "amazon_url": "https://www.amazon.com/s?k=Tram+to+Bondi+Beach+Kerry+Greenwood&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "wings-of-fire",
+      "title": "Wings of Fire",
+      "author": "Tui T. Sutherland",
+      "genres": [
+        "Children's",
+        "Fantasy"
+      ],
+      "total_books": 15,
+      "currently_on_bestseller_list": false,
+      "description": "A world of warring dragon tribes where five young dragonets are destined to end a decades-long war — whether they want to or not. A middle-grade fantasy phenomenon loved by readers of all ages.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "The Dragonet Prophecy",
+            "amazon_url": "https://www.amazon.com/s?k=The+Dragonet+Prophecy+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Lost Heir",
+            "amazon_url": "https://www.amazon.com/s?k=The+Lost+Heir+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Hidden Kingdom",
+            "amazon_url": "https://www.amazon.com/s?k=The+Hidden+Kingdom+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Dark Secret",
+            "amazon_url": "https://www.amazon.com/s?k=The+Dark+Secret+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Brightest Night",
+            "amazon_url": "https://www.amazon.com/s?k=The+Brightest+Night+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Moon Rising",
+            "amazon_url": "https://www.amazon.com/s?k=Moon+Rising+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Winter Turning",
+            "amazon_url": "https://www.amazon.com/s?k=Winter+Turning+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Escaping Peril",
+            "amazon_url": "https://www.amazon.com/s?k=Escaping+Peril+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Talons of Power",
+            "amazon_url": "https://www.amazon.com/s?k=Talons+of+Power+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Darkness of Dragons",
+            "amazon_url": "https://www.amazon.com/s?k=Darkness+of+Dragons+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "The Lost Continent",
+            "amazon_url": "https://www.amazon.com/s?k=The+Lost+Continent+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "The Hive Queen",
+            "amazon_url": "https://www.amazon.com/s?k=The+Hive+Queen+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "The Poison Jungle",
+            "amazon_url": "https://www.amazon.com/s?k=The+Poison+Jungle+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 14,
+            "title": "The Dangerous Gift",
+            "amazon_url": "https://www.amazon.com/s?k=The+Dangerous+Gift+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 15,
+            "title": "The Flames of Hope",
+            "amazon_url": "https://www.amazon.com/s?k=The+Flames+of+Hope+Wings+of+Fire&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "The Dragonet Prophecy",
+            "note": "Start here — the series builds continuously across all 15 books.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Dragonet+Prophecy+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Lost Heir",
+            "amazon_url": "https://www.amazon.com/s?k=The+Lost+Heir+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Hidden Kingdom",
+            "amazon_url": "https://www.amazon.com/s?k=The+Hidden+Kingdom+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Dark Secret",
+            "amazon_url": "https://www.amazon.com/s?k=The+Dark+Secret+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Brightest Night",
+            "amazon_url": "https://www.amazon.com/s?k=The+Brightest+Night+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Moon Rising",
+            "amazon_url": "https://www.amazon.com/s?k=Moon+Rising+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Winter Turning",
+            "amazon_url": "https://www.amazon.com/s?k=Winter+Turning+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Escaping Peril",
+            "amazon_url": "https://www.amazon.com/s?k=Escaping+Peril+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Talons of Power",
+            "amazon_url": "https://www.amazon.com/s?k=Talons+of+Power+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Darkness of Dragons",
+            "amazon_url": "https://www.amazon.com/s?k=Darkness+of+Dragons+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "The Lost Continent",
+            "amazon_url": "https://www.amazon.com/s?k=The+Lost+Continent+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "The Hive Queen",
+            "amazon_url": "https://www.amazon.com/s?k=The+Hive+Queen+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "The Poison Jungle",
+            "amazon_url": "https://www.amazon.com/s?k=The+Poison+Jungle+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 14,
+            "title": "The Dangerous Gift",
+            "amazon_url": "https://www.amazon.com/s?k=The+Dangerous+Gift+Wings+of+Fire&tag=jacketlist-20"
+          },
+          {
+            "position": 15,
+            "title": "The Flames of Hope",
+            "amazon_url": "https://www.amazon.com/s?k=The+Flames+of+Hope+Wings+of+Fire&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "skulduggery-pleasant",
+      "title": "Skulduggery Pleasant",
+      "author": "Derek Landy",
+      "genres": [
+        "Fantasy",
+        "Young Adult"
+      ],
+      "total_books": 15,
+      "currently_on_bestseller_list": false,
+      "description": "Skulduggery Pleasant is a skeleton mage and detective; Valkyrie Cain is the teenage girl who becomes his partner. Together they fight dark magic and save the world — repeatedly, with excellent banter.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Skulduggery Pleasant",
+            "amazon_url": "https://www.amazon.com/s?k=Skulduggery+Pleasant+Derek+Landy&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Playing with Fire",
+            "amazon_url": "https://www.amazon.com/s?k=Playing+with+Fire+Skulduggery+Pleasant&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Faceless Ones",
+            "amazon_url": "https://www.amazon.com/s?k=The+Faceless+Ones+Skulduggery+Pleasant&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Dark Days",
+            "amazon_url": "https://www.amazon.com/s?k=Dark+Days+Skulduggery+Pleasant&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Mortal Coil",
+            "amazon_url": "https://www.amazon.com/s?k=Mortal+Coil+Skulduggery+Pleasant&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Death Bringer",
+            "amazon_url": "https://www.amazon.com/s?k=Death+Bringer+Skulduggery+Pleasant&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Kingdom of the Wicked",
+            "amazon_url": "https://www.amazon.com/s?k=Kingdom+of+the+Wicked+Skulduggery+Pleasant&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Last Stand of Dead Men",
+            "amazon_url": "https://www.amazon.com/s?k=Last+Stand+of+Dead+Men+Skulduggery+Pleasant&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "The Dying of the Light",
+            "note": "End of Phase 1.",
+            "amazon_url": "https://www.amazon.com/s?k=Dying+of+the+Light+Skulduggery+Pleasant&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Resurrection",
+            "note": "Phase 2 begins — time skip, new threats.",
+            "amazon_url": "https://www.amazon.com/s?k=Resurrection+Skulduggery+Pleasant&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "Midnight",
+            "amazon_url": "https://www.amazon.com/s?k=Midnight+Skulduggery+Pleasant&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "Bedlam",
+            "amazon_url": "https://www.amazon.com/s?k=Bedlam+Skulduggery+Pleasant&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "Seasons of War",
+            "amazon_url": "https://www.amazon.com/s?k=Seasons+of+War+Skulduggery+Pleasant&tag=jacketlist-20"
+          },
+          {
+            "position": 14,
+            "title": "Dead or Alive",
+            "amazon_url": "https://www.amazon.com/s?k=Dead+or+Alive+Skulduggery+Pleasant&tag=jacketlist-20"
+          },
+          {
+            "position": 15,
+            "title": "Until the End",
+            "note": "Final book in the series.",
+            "amazon_url": "https://www.amazon.com/s?k=Until+the+End+Skulduggery+Pleasant&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Skulduggery Pleasant",
+            "note": "Start at the beginning — this series must be read in order.",
+            "amazon_url": "https://www.amazon.com/s?k=Skulduggery+Pleasant+Derek+Landy&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Playing with Fire",
+            "amazon_url": "https://www.amazon.com/s?k=Playing+with+Fire+Skulduggery+Pleasant&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Faceless Ones",
+            "amazon_url": "https://www.amazon.com/s?k=The+Faceless+Ones+Skulduggery+Pleasant&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Dark Days",
+            "amazon_url": "https://www.amazon.com/s?k=Dark+Days+Skulduggery+Pleasant&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Mortal Coil",
+            "amazon_url": "https://www.amazon.com/s?k=Mortal+Coil+Skulduggery+Pleasant&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Death Bringer",
+            "amazon_url": "https://www.amazon.com/s?k=Death+Bringer+Skulduggery+Pleasant&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Kingdom of the Wicked",
+            "amazon_url": "https://www.amazon.com/s?k=Kingdom+of+the+Wicked+Skulduggery+Pleasant&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Last Stand of Dead Men",
+            "amazon_url": "https://www.amazon.com/s?k=Last+Stand+of+Dead+Men+Skulduggery+Pleasant&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "The Dying of the Light",
+            "amazon_url": "https://www.amazon.com/s?k=Dying+of+the+Light+Skulduggery+Pleasant&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Resurrection",
+            "amazon_url": "https://www.amazon.com/s?k=Resurrection+Skulduggery+Pleasant&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "Midnight",
+            "amazon_url": "https://www.amazon.com/s?k=Midnight+Skulduggery+Pleasant&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "Bedlam",
+            "amazon_url": "https://www.amazon.com/s?k=Bedlam+Skulduggery+Pleasant&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "Seasons of War",
+            "amazon_url": "https://www.amazon.com/s?k=Seasons+of+War+Skulduggery+Pleasant&tag=jacketlist-20"
+          },
+          {
+            "position": 14,
+            "title": "Dead or Alive",
+            "amazon_url": "https://www.amazon.com/s?k=Dead+or+Alive+Skulduggery+Pleasant&tag=jacketlist-20"
+          },
+          {
+            "position": 15,
+            "title": "Until the End",
+            "amazon_url": "https://www.amazon.com/s?k=Until+the+End+Skulduggery+Pleasant&tag=jacketlist-20"
+          }
+        ]
+      }
     }
   ]
 }
