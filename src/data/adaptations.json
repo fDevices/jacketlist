@@ -7,12 +7,18 @@
       "author": "Gillian Flynn",
       "adaptation_title": "Gone Girl (2014)",
       "type": "movie",
-      "genres": ["Thriller", "Mystery"],
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
       "hook": "If the film's unreliable narrators gripped you, the book cuts even deeper.",
       "cover_url": "https://covers.openlibrary.org/b/id/8397453-M.jpg",
       "amazon_url": "https://www.amazon.com/s?k=Gone+Girl+Gillian+Flynn&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "nominated", "note": "Nominated: Best Actress (Rosamund Pike)" }
+      "oscars": {
+        "status": "nominated",
+        "note": "Nominated: Best Actress (Rosamund Pike)"
+      }
     },
     {
       "id": "the-witcher",
@@ -20,7 +26,9 @@
       "author": "Andrzej Sapkowski",
       "adaptation_title": "The Witcher (Netflix)",
       "type": "tv",
-      "genres": ["Fantasy"],
+      "genres": [
+        "Fantasy"
+      ],
       "hook": "The show barely scratches the surface of Sapkowski's richly built world.",
       "cover_url": "https://covers.openlibrary.org/b/id/8479819-M.jpg",
       "amazon_url": "https://www.amazon.com/s?k=The+Last+Wish+Sapkowski&tag=jacketlist-20",
@@ -33,7 +41,10 @@
       "author": "Liane Moriarty",
       "adaptation_title": "Big Little Lies (HBO)",
       "type": "tv",
-      "genres": ["Thriller", "Mystery"],
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
       "hook": "The show is superb — the book gives you an extra layer of dark wit.",
       "cover_url": "https://covers.openlibrary.org/b/id/8228691-M.jpg",
       "amazon_url": "https://www.amazon.com/s?k=Big+Little+Lies+Liane+Moriarty&tag=jacketlist-20",
@@ -46,7 +57,9 @@
       "author": "Margaret Atwood",
       "adaptation_title": "The Handmaid's Tale (Hulu)",
       "type": "tv",
-      "genres": ["Sci-Fi"],
+      "genres": [
+        "Sci-Fi"
+      ],
       "hook": "Atwood's prose is as suffocating as the world it describes.",
       "cover_url": "https://covers.openlibrary.org/b/id/8406526-M.jpg",
       "amazon_url": "https://www.amazon.com/s?k=The+Handmaids+Tale+Atwood&tag=jacketlist-20",
@@ -59,7 +72,9 @@
       "author": "George R.R. Martin",
       "adaptation_title": "Game of Thrones (HBO)",
       "type": "tv",
-      "genres": ["Fantasy"],
+      "genres": [
+        "Fantasy"
+      ],
       "hook": "The show ended. The books haven't — and they go much further.",
       "cover_url": "https://covers.openlibrary.org/b/id/8655752-M.jpg",
       "amazon_url": "https://www.amazon.com/s?k=A+Game+of+Thrones+George+Martin&tag=jacketlist-20",
@@ -72,12 +87,17 @@
       "author": "Andy Weir",
       "adaptation_title": "The Martian (2015)",
       "type": "movie",
-      "genres": ["Sci-Fi"],
+      "genres": [
+        "Sci-Fi"
+      ],
       "hook": "More jokes, more science, more survival anxiety — in the best way.",
       "cover_url": "https://covers.openlibrary.org/b/id/8219682-M.jpg",
       "amazon_url": "https://www.amazon.com/s?k=The+Martian+Andy+Weir&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "nominated", "note": "Nominated: Best Picture (7 nominations)" }
+      "oscars": {
+        "status": "nominated",
+        "note": "Nominated: Best Picture (7 nominations)"
+      }
     },
     {
       "id": "outlander",
@@ -85,7 +105,10 @@
       "author": "Diana Gabaldon",
       "adaptation_title": "Outlander (Starz)",
       "type": "tv",
-      "genres": ["Romance", "Historical Fiction"],
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
       "hook": "Eight seasons of TV can't contain what Gabaldon packed into eight novels.",
       "cover_url": "https://covers.openlibrary.org/b/id/8408951-M.jpg",
       "amazon_url": "https://www.amazon.com/s?k=Outlander+Diana+Gabaldon&tag=jacketlist-20",
@@ -98,12 +121,17 @@
       "author": "J.R.R. Tolkien",
       "adaptation_title": "The Lord of the Rings (films)",
       "type": "movie",
-      "genres": ["Fantasy"],
+      "genres": [
+        "Fantasy"
+      ],
       "hook": "Jackson's trilogy is a masterpiece — Tolkien's prose is a different kind of magic.",
       "cover_url": "https://covers.openlibrary.org/b/id/8405665-M.jpg",
       "amazon_url": "https://www.amazon.com/s?k=Lord+of+the+Rings+Tolkien&tag=jacketlist-20",
       "series_id": "the-lord-of-the-rings",
-      "oscars": { "status": "winner", "note": "Won 11 Oscars incl. Best Picture (Return of the King)" }
+      "oscars": {
+        "status": "winner",
+        "note": "Won 11 Oscars incl. Best Picture (Return of the King)"
+      }
     },
     {
       "id": "sharp-objects",
@@ -111,7 +139,10 @@
       "author": "Gillian Flynn",
       "adaptation_title": "Sharp Objects (HBO)",
       "type": "tv",
-      "genres": ["Thriller", "Mystery"],
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
       "hook": "The mini-series is haunting. Flynn's debut novel is even more unsettling.",
       "cover_url": "https://covers.openlibrary.org/b/id/8353362-M.jpg",
       "amazon_url": "https://www.amazon.com/s?k=Sharp+Objects+Gillian+Flynn&tag=jacketlist-20",
@@ -124,12 +155,17 @@
       "author": "Frank Herbert",
       "adaptation_title": "Dune (films)",
       "type": "movie",
-      "genres": ["Sci-Fi"],
+      "genres": [
+        "Sci-Fi"
+      ],
       "hook": "Villeneuve captured the scale — the book captures the philosophy.",
       "cover_url": "https://covers.openlibrary.org/b/id/8474139-M.jpg",
       "amazon_url": "https://www.amazon.com/s?k=Dune+Frank+Herbert&tag=jacketlist-20",
       "series_id": "dune",
-      "oscars": { "status": "winner", "note": "Won 6 Oscars incl. Cinematography & Score (Part One)" }
+      "oscars": {
+        "status": "winner",
+        "note": "Won 6 Oscars incl. Cinematography & Score (Part One)"
+      }
     },
     {
       "id": "shawshank-redemption",
@@ -137,12 +173,18 @@
       "author": "Stephen King",
       "adaptation_title": "The Shawshank Redemption (1994)",
       "type": "movie",
-      "genres": ["Literary Fiction", "Thriller"],
+      "genres": [
+        "Literary Fiction",
+        "Thriller"
+      ],
       "hook": "The film's quiet hope comes from Stephen King at his most humane — not a word wasted.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Different+Seasons+Stephen+King&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "nominated", "note": "Nominated: Best Picture (7 nominations)" }
+      "oscars": {
+        "status": "nominated",
+        "note": "Nominated: Best Picture (7 nominations)"
+      }
     },
     {
       "id": "the-godfather",
@@ -150,12 +192,17 @@
       "author": "Mario Puzo",
       "adaptation_title": "The Godfather (1972)",
       "type": "movie",
-      "genres": ["Thriller"],
+      "genres": [
+        "Thriller"
+      ],
       "hook": "Puzo wrote the novel before the script — one of the great American crime stories.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=The+Godfather+Mario+Puzo&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "winner", "note": "Won 3 Oscars incl. Best Picture and Best Adapted Screenplay" }
+      "oscars": {
+        "status": "winner",
+        "note": "Won 3 Oscars incl. Best Picture and Best Adapted Screenplay"
+      }
     },
     {
       "id": "schindlers-list",
@@ -163,12 +210,17 @@
       "author": "Thomas Keneally",
       "adaptation_title": "Schindler's List (1993)",
       "type": "movie",
-      "genres": ["Historical Fiction"],
+      "genres": [
+        "Historical Fiction"
+      ],
       "hook": "Keneally's Booker Prize-winning account is as shattering as Spielberg's film — and more personal.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Schindlers+Ark+Thomas+Keneally&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "winner", "note": "Won 7 Oscars incl. Best Picture and Best Director" }
+      "oscars": {
+        "status": "winner",
+        "note": "Won 7 Oscars incl. Best Picture and Best Director"
+      }
     },
     {
       "id": "forrest-gump",
@@ -176,12 +228,17 @@
       "author": "Winston Groom",
       "adaptation_title": "Forrest Gump (1994)",
       "type": "movie",
-      "genres": ["Literary Fiction"],
+      "genres": [
+        "Literary Fiction"
+      ],
       "hook": "The film is beloved; the novel is stranger, funnier, and far more unhinged — in the best way.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Forrest+Gump+Winston+Groom&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "winner", "note": "Won 6 Oscars incl. Best Picture and Best Director" }
+      "oscars": {
+        "status": "winner",
+        "note": "Won 6 Oscars incl. Best Picture and Best Director"
+      }
     },
     {
       "id": "fight-club",
@@ -189,7 +246,10 @@
       "author": "Chuck Palahniuk",
       "adaptation_title": "Fight Club (1999)",
       "type": "movie",
-      "genres": ["Thriller", "Literary Fiction"],
+      "genres": [
+        "Thriller",
+        "Literary Fiction"
+      ],
       "hook": "Palahniuk's debut is leaner, darker, and ends differently — essential for anyone who loved the film.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Fight+Club+Chuck+Palahniuk&tag=jacketlist-20",
@@ -202,12 +262,17 @@
       "author": "Ken Kesey",
       "adaptation_title": "One Flew Over the Cuckoo's Nest (1975)",
       "type": "movie",
-      "genres": ["Literary Fiction"],
+      "genres": [
+        "Literary Fiction"
+      ],
       "hook": "Kesey wrote this while working night shifts at a psych ward — the novel's perspective cuts even deeper than the film.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=One+Flew+Over+the+Cuckoos+Nest+Ken+Kesey&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "winner", "note": "Won 5 Oscars incl. Best Picture, Director, Actor, Actress, and Screenplay" }
+      "oscars": {
+        "status": "winner",
+        "note": "Won 5 Oscars incl. Best Picture, Director, Actor, Actress, and Screenplay"
+      }
     },
     {
       "id": "the-silence-of-the-lambs",
@@ -215,12 +280,18 @@
       "author": "Thomas Harris",
       "adaptation_title": "The Silence of the Lambs (1991)",
       "type": "movie",
-      "genres": ["Thriller", "Mystery"],
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
       "hook": "Harris gave us Lecter — the novel is as tightly wound as the film and harder to put down.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=The+Silence+of+the+Lambs+Thomas+Harris&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "winner", "note": "Won 5 Oscars incl. Best Picture, Director, Actor, Actress, and Screenplay" }
+      "oscars": {
+        "status": "winner",
+        "note": "Won 5 Oscars incl. Best Picture, Director, Actor, Actress, and Screenplay"
+      }
     },
     {
       "id": "the-green-mile",
@@ -228,12 +299,18 @@
       "author": "Stephen King",
       "adaptation_title": "The Green Mile (1999)",
       "type": "movie",
-      "genres": ["Literary Fiction", "Thriller"],
+      "genres": [
+        "Literary Fiction",
+        "Thriller"
+      ],
       "hook": "King published this as a serial in six parts — still one of his most emotionally devastating works.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=The+Green+Mile+Stephen+King&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "nominated", "note": "Nominated: Best Picture (4 nominations)" }
+      "oscars": {
+        "status": "nominated",
+        "note": "Nominated: Best Picture (4 nominations)"
+      }
     },
     {
       "id": "the-prestige",
@@ -241,12 +318,17 @@
       "author": "Christopher Priest",
       "adaptation_title": "The Prestige (2006)",
       "type": "movie",
-      "genres": ["Thriller"],
+      "genres": [
+        "Thriller"
+      ],
       "hook": "Priest's novel layers the rivalry differently — two unreliable narrators, two magicians, one impossible trick.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=The+Prestige+Christopher+Priest&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "nominated", "note": "Nominated: Best Cinematography and Best Art Direction" }
+      "oscars": {
+        "status": "nominated",
+        "note": "Nominated: Best Cinematography and Best Art Direction"
+      }
     },
     {
       "id": "the-shining",
@@ -254,7 +336,9 @@
       "author": "Stephen King",
       "adaptation_title": "The Shining (1980)",
       "type": "movie",
-      "genres": ["Thriller"],
+      "genres": [
+        "Thriller"
+      ],
       "hook": "Kubrick's film is a masterpiece — King's novel is a different kind of horror: more intimate, more heartbreaking.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=The+Shining+Stephen+King&tag=jacketlist-20",
@@ -267,7 +351,9 @@
       "author": "Michael Dobbs",
       "adaptation_title": "House of Cards (Netflix)",
       "type": "tv",
-      "genres": ["Thriller"],
+      "genres": [
+        "Thriller"
+      ],
       "hook": "Dobbs wrote the original UK novel — cynical, sharp, and every bit as Machiavellian as the show.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=House+of+Cards+Michael+Dobbs&tag=jacketlist-20",
@@ -280,7 +366,9 @@
       "author": "Piper Kerman",
       "adaptation_title": "Orange Is the New Black (Netflix)",
       "type": "tv",
-      "genres": ["Literary Fiction"],
+      "genres": [
+        "Literary Fiction"
+      ],
       "hook": "Kerman's memoir is wittier and more sobering than the series — the real story behind the orange jumpsuit.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Orange+Is+the+New+Black+Piper+Kerman&tag=jacketlist-20",
@@ -293,7 +381,11 @@
       "author": "Caleb Carr",
       "adaptation_title": "The Alienist (TNT)",
       "type": "tv",
-      "genres": ["Thriller", "Historical Fiction", "Mystery"],
+      "genres": [
+        "Thriller",
+        "Historical Fiction",
+        "Mystery"
+      ],
       "hook": "Carr's Victorian crime novel is richly atmospheric — the show barely scratches its surface.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=The+Alienist+Caleb+Carr&tag=jacketlist-20",
@@ -306,7 +398,10 @@
       "author": "Dan Simmons",
       "adaptation_title": "The Terror (AMC)",
       "type": "tv",
-      "genres": ["Thriller", "Historical Fiction"],
+      "genres": [
+        "Thriller",
+        "Historical Fiction"
+      ],
       "hook": "Simmons blends Arctic survival horror with the supernatural — the novel is longer, stranger, and more terrifying.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=The+Terror+Dan+Simmons&tag=jacketlist-20",
@@ -319,7 +414,10 @@
       "author": "Petra Hammesfahr",
       "adaptation_title": "The Sinner (USA Network)",
       "type": "tv",
-      "genres": ["Thriller", "Mystery"],
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
       "hook": "Hammesfahr's psychological thriller is even more unsettling than the show — driven entirely from Judith's perspective.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=The+Sinner+Petra+Hammesfahr&tag=jacketlist-20",
@@ -332,7 +430,9 @@
       "author": "John Douglas",
       "adaptation_title": "Mindhunter (Netflix)",
       "type": "tv",
-      "genres": ["Thriller"],
+      "genres": [
+        "Thriller"
+      ],
       "hook": "Douglas profiled real serial killers for the FBI — this is the memoir the show is built on.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Mindhunter+John+Douglas&tag=jacketlist-20",
@@ -345,7 +445,10 @@
       "author": "Margaret Atwood",
       "adaptation_title": "Alias Grace (Netflix)",
       "type": "tv",
-      "genres": ["Literary Fiction", "Historical Fiction"],
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
       "hook": "Atwood's most unsettling novel — a true historical murder case told through unreliable memory.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Alias+Grace+Margaret+Atwood&tag=jacketlist-20",
@@ -358,7 +461,10 @@
       "author": "Jeff Lindsay",
       "adaptation_title": "Dexter (Showtime)",
       "type": "tv",
-      "genres": ["Thriller", "Mystery"],
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
       "hook": "Lindsay's original novel is darker and funnier than the show's early seasons — where the real Dexter lives.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Darkly+Dreaming+Dexter+Jeff+Lindsay&tag=jacketlist-20",
@@ -371,7 +477,10 @@
       "author": "Thomas Harris",
       "adaptation_title": "Hannibal (NBC)",
       "type": "tv",
-      "genres": ["Thriller", "Mystery"],
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
       "hook": "Thomas Harris introduced Lecter in Red Dragon — as a supporting character, he's somehow even more chilling.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Red+Dragon+Thomas+Harris&tag=jacketlist-20",
@@ -384,7 +493,9 @@
       "author": "Stephen Ambrose",
       "adaptation_title": "Band of Brothers (HBO)",
       "type": "tv",
-      "genres": ["Historical Fiction"],
+      "genres": [
+        "Historical Fiction"
+      ],
       "hook": "Ambrose's military history reads like a novel — this is where Spielberg and Hanks started.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Band+of+Brothers+Stephen+Ambrose&tag=jacketlist-20",
@@ -397,7 +508,9 @@
       "author": "Andy Weir",
       "adaptation_title": "Project Hail Mary (2026)",
       "type": "movie",
-      "genres": ["Sci-Fi"],
+      "genres": [
+        "Sci-Fi"
+      ],
       "hook": "Weir's survival thriller in deep space — the novel is even more scientifically exhilarating than the film.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Project+Hail+Mary+Andy+Weir&tag=jacketlist-20",
@@ -410,12 +523,17 @@
       "author": "Lothar-Günther Buchheim",
       "adaptation_title": "Das Boot (1981)",
       "type": "movie",
-      "genres": ["Historical Fiction"],
+      "genres": [
+        "Historical Fiction"
+      ],
       "hook": "Buchheim's harrowing submarine novel puts you inside the steel walls — closer and darker than any camera can.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Das+Boot+Buchheim&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "nominated", "note": "Nominated: 6 Oscars incl. Best Director and Best Adapted Screenplay" }
+      "oscars": {
+        "status": "nominated",
+        "note": "Nominated: 6 Oscars incl. Best Director and Best Adapted Screenplay"
+      }
     },
     {
       "id": "requiem-for-a-dream",
@@ -423,12 +541,18 @@
       "author": "Hubert Selby Jr.",
       "adaptation_title": "Requiem for a Dream (2000)",
       "type": "movie",
-      "genres": ["Literary Fiction", "Thriller"],
+      "genres": [
+        "Literary Fiction",
+        "Thriller"
+      ],
       "hook": "Selby's novel is more fragmented, more surreal, and more devastating than even Aronofsky's film.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Requiem+for+a+Dream+Hubert+Selby&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "nominated", "note": "Nominated: Best Actress (Ellen Burstyn)" }
+      "oscars": {
+        "status": "nominated",
+        "note": "Nominated: Best Actress (Ellen Burstyn)"
+      }
     },
     {
       "id": "2001-a-space-odyssey",
@@ -436,12 +560,17 @@
       "author": "Arthur C. Clarke",
       "adaptation_title": "2001: A Space Odyssey (1968)",
       "type": "movie",
-      "genres": ["Sci-Fi"],
+      "genres": [
+        "Sci-Fi"
+      ],
       "hook": "Clarke wrote the novel alongside Kubrick's script — different endings, same sense of cosmic awe.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=2001+A+Space+Odyssey+Arthur+Clarke&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "winner", "note": "Won 1 Oscar: Best Special Visual Effects" }
+      "oscars": {
+        "status": "winner",
+        "note": "Won 1 Oscar: Best Special Visual Effects"
+      }
     },
     {
       "id": "to-kill-a-mockingbird",
@@ -449,12 +578,17 @@
       "author": "Harper Lee",
       "adaptation_title": "To Kill a Mockingbird (1962)",
       "type": "movie",
-      "genres": ["Literary Fiction"],
+      "genres": [
+        "Literary Fiction"
+      ],
       "hook": "Harper Lee's Pulitzer Prize winner remains one of the most important American novels ever written.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=To+Kill+a+Mockingbird+Harper+Lee&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "winner", "note": "Won 3 Oscars incl. Best Actor (Gregory Peck) and Best Adapted Screenplay" }
+      "oscars": {
+        "status": "winner",
+        "note": "Won 3 Oscars incl. Best Actor (Gregory Peck) and Best Adapted Screenplay"
+      }
     },
     {
       "id": "a-clockwork-orange",
@@ -462,12 +596,18 @@
       "author": "Anthony Burgess",
       "adaptation_title": "A Clockwork Orange (1971)",
       "type": "movie",
-      "genres": ["Sci-Fi", "Thriller"],
+      "genres": [
+        "Sci-Fi",
+        "Thriller"
+      ],
       "hook": "Burgess invented a whole new language for his ultra-violent dystopia — and the missing final chapter changes everything.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=A+Clockwork+Orange+Anthony+Burgess&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "nominated", "note": "Nominated: Best Director and Best Film Editing" }
+      "oscars": {
+        "status": "nominated",
+        "note": "Nominated: Best Director and Best Film Editing"
+      }
     },
     {
       "id": "the-wolf-of-wall-street",
@@ -475,12 +615,17 @@
       "author": "Jordan Belfort",
       "adaptation_title": "The Wolf of Wall Street (2013)",
       "type": "movie",
-      "genres": ["Literary Fiction"],
+      "genres": [
+        "Literary Fiction"
+      ],
       "hook": "Belfort's memoir is outrageous and self-serving — the real story is stranger and funnier than DiCaprio's version.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=The+Wolf+of+Wall+Street+Jordan+Belfort&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "nominated", "note": "Nominated: Best Picture (5 nominations)" }
+      "oscars": {
+        "status": "nominated",
+        "note": "Nominated: Best Picture (5 nominations)"
+      }
     },
     {
       "id": "la-confidential",
@@ -488,12 +633,18 @@
       "author": "James Ellroy",
       "adaptation_title": "L.A. Confidential (1997)",
       "type": "movie",
-      "genres": ["Mystery", "Thriller"],
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
       "hook": "Ellroy's novel is even more complex and more violent — a masterwork of American crime fiction.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=LA+Confidential+James+Ellroy&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "winner", "note": "Won 2 Oscars: Best Adapted Screenplay and Best Cinematography" }
+      "oscars": {
+        "status": "winner",
+        "note": "Won 2 Oscars: Best Adapted Screenplay and Best Cinematography"
+      }
     },
     {
       "id": "oppenheimer",
@@ -501,12 +652,17 @@
       "author": "Kai Bird & Martin Sherwin",
       "adaptation_title": "Oppenheimer (2023)",
       "type": "movie",
-      "genres": ["Historical Fiction"],
+      "genres": [
+        "Historical Fiction"
+      ],
       "hook": "Bird and Sherwin's Pulitzer-winning biography took 25 years to write — it's as epic as Nolan's film.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=American+Prometheus+Kai+Bird+Oppenheimer&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "winner", "note": "Won 7 Oscars incl. Best Picture and Best Director" }
+      "oscars": {
+        "status": "winner",
+        "note": "Won 7 Oscars incl. Best Picture and Best Director"
+      }
     },
     {
       "id": "shutter-island",
@@ -514,7 +670,10 @@
       "author": "Dennis Lehane",
       "adaptation_title": "Shutter Island (2010)",
       "type": "movie",
-      "genres": ["Thriller", "Mystery"],
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
       "hook": "Lehane's novel is tighter and more paranoid — a perfect psychological puzzle from one of crime fiction's best.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Shutter+Island+Dennis+Lehane&tag=jacketlist-20",
@@ -527,7 +686,10 @@
       "author": "Arthur Conan Doyle",
       "adaptation_title": "Sherlock (BBC)",
       "type": "tv",
-      "genres": ["Mystery", "Thriller"],
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
       "hook": "Conan Doyle's original stories are short, sharp, and brilliant — everything the BBC show draws from.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Sherlock+Holmes+Arthur+Conan+Doyle&tag=jacketlist-20",
@@ -540,7 +702,10 @@
       "author": "Blake Crouch",
       "adaptation_title": "Wayward Pines (Fox)",
       "type": "tv",
-      "genres": ["Thriller", "Sci-Fi"],
+      "genres": [
+        "Thriller",
+        "Sci-Fi"
+      ],
       "hook": "Crouch's trilogy builds its mysteries faster than the show — and pays them off more satisfyingly.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Wayward+Pines+Blake+Crouch&tag=jacketlist-20",
@@ -553,7 +718,9 @@
       "author": "Stephen King",
       "adaptation_title": "The Dead Zone (USA Network)",
       "type": "tv",
-      "genres": ["Thriller"],
+      "genres": [
+        "Thriller"
+      ],
       "hook": "King's novel is quieter and more intimate than you'd expect — one of his most human books.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=The+Dead+Zone+Stephen+King&tag=jacketlist-20",
@@ -566,7 +733,9 @@
       "author": "Lev Grossman",
       "adaptation_title": "The Magicians (Syfy)",
       "type": "tv",
-      "genres": ["Fantasy"],
+      "genres": [
+        "Fantasy"
+      ],
       "hook": "Grossman's novel is a darker, more literary take on magical education — Harry Potter for adults.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=The+Magicians+Lev+Grossman&tag=jacketlist-20",
@@ -579,7 +748,9 @@
       "author": "Ken Follett",
       "adaptation_title": "The Pillars of the Earth (Starz)",
       "type": "tv",
-      "genres": ["Historical Fiction"],
+      "genres": [
+        "Historical Fiction"
+      ],
       "hook": "Follett's 1,000-page cathedral epic is one of the great historical novels — the show is just the beginning.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Pillars+of+the+Earth+Ken+Follett&tag=jacketlist-20",
@@ -592,7 +763,10 @@
       "author": "Elizabeth Gaskell",
       "adaptation_title": "North & South (BBC)",
       "type": "tv",
-      "genres": ["Romance", "Historical Fiction"],
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
       "hook": "Gaskell's novel is as romantic and sharp as the adaptation — and the dialogue is even better on the page.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=North+and+South+Elizabeth+Gaskell&tag=jacketlist-20",
@@ -605,7 +779,10 @@
       "author": "Tess Gerritsen",
       "adaptation_title": "Rizzoli & Isles (TNT)",
       "type": "tv",
-      "genres": ["Mystery", "Thriller"],
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
       "hook": "Gerritsen's crime novels are grittier and more forensic than the show — start with The Surgeon.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Rizzoli+Isles+Tess+Gerritsen&tag=jacketlist-20",
@@ -618,7 +795,10 @@
       "author": "Michael Connelly",
       "adaptation_title": "Bosch (Amazon Prime)",
       "type": "tv",
-      "genres": ["Mystery", "Thriller"],
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
       "hook": "Connelly's Harry Bosch novels run 20+ books deep — the show is just where to start.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Harry+Bosch+Michael+Connelly&tag=jacketlist-20",
@@ -631,7 +811,10 @@
       "author": "Philip K. Dick",
       "adaptation_title": "The Man in the High Castle (Amazon Prime)",
       "type": "tv",
-      "genres": ["Sci-Fi", "Historical Fiction"],
+      "genres": [
+        "Sci-Fi",
+        "Historical Fiction"
+      ],
       "hook": "Philip K. Dick's alternate history novel is stranger and more philosophical than the TV adaptation.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=The+Man+in+the+High+Castle+Philip+Dick&tag=jacketlist-20",
@@ -644,7 +827,10 @@
       "author": "Charlaine Harris",
       "adaptation_title": "True Blood (HBO)",
       "type": "tv",
-      "genres": ["Fantasy", "Romance"],
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
       "hook": "Harris's Southern Vampire Mysteries are funnier and lighter than the show — comfort reading with fangs.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Dead+Until+Dark+Charlaine+Harris&tag=jacketlist-20",
@@ -657,12 +843,18 @@
       "author": "Michael Crichton",
       "adaptation_title": "Jurassic Park (1993)",
       "type": "movie",
-      "genres": ["Sci-Fi", "Thriller"],
+      "genres": [
+        "Sci-Fi",
+        "Thriller"
+      ],
       "hook": "Crichton's novel is more scientific and more cynical than Spielberg's film — the dinosaurs are even more dangerous.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Jurassic+Park+Michael+Crichton&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "winner", "note": "Won 3 Oscars: Best Visual Effects, Best Sound, and Best Sound Editing" }
+      "oscars": {
+        "status": "winner",
+        "note": "Won 3 Oscars: Best Visual Effects, Best Sound, and Best Sound Editing"
+      }
     },
     {
       "id": "there-will-be-blood",
@@ -670,12 +862,18 @@
       "author": "Upton Sinclair",
       "adaptation_title": "There Will Be Blood (2007)",
       "type": "movie",
-      "genres": ["Historical Fiction", "Literary Fiction"],
+      "genres": [
+        "Historical Fiction",
+        "Literary Fiction"
+      ],
       "hook": "PTA drew from Sinclair's 'Oil!' — a different kind of American epic about greed, land, and men who devour everything.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Oil+Upton+Sinclair&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "winner", "note": "Won 2 Oscars: Best Actor (Daniel Day-Lewis) and Best Cinematography" }
+      "oscars": {
+        "status": "winner",
+        "note": "Won 2 Oscars: Best Actor (Daniel Day-Lewis) and Best Cinematography"
+      }
     },
     {
       "id": "no-country-for-old-men",
@@ -683,12 +881,17 @@
       "author": "Cormac McCarthy",
       "adaptation_title": "No Country for Old Men (2007)",
       "type": "movie",
-      "genres": ["Thriller"],
+      "genres": [
+        "Thriller"
+      ],
       "hook": "McCarthy's novel is as spare and violent as the film, with an ending that's even more existentially bleak.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=No+Country+for+Old+Men+Cormac+McCarthy&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "winner", "note": "Won 4 Oscars incl. Best Picture and Best Director" }
+      "oscars": {
+        "status": "winner",
+        "note": "Won 4 Oscars incl. Best Picture and Best Director"
+      }
     },
     {
       "id": "a-beautiful-mind",
@@ -696,12 +899,17 @@
       "author": "Sylvia Nasar",
       "adaptation_title": "A Beautiful Mind (2001)",
       "type": "movie",
-      "genres": ["Historical Fiction"],
+      "genres": [
+        "Historical Fiction"
+      ],
       "hook": "Nasar spent years with Nash for her biography — the film softens some of the harder truths.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=A+Beautiful+Mind+Sylvia+Nasar&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "winner", "note": "Won 4 Oscars incl. Best Picture and Best Director" }
+      "oscars": {
+        "status": "winner",
+        "note": "Won 4 Oscars incl. Best Picture and Best Director"
+      }
     },
     {
       "id": "the-treasure-of-the-sierra-madre",
@@ -709,12 +917,17 @@
       "author": "B. Traven",
       "adaptation_title": "The Treasure of the Sierra Madre (1948)",
       "type": "movie",
-      "genres": ["Thriller"],
+      "genres": [
+        "Thriller"
+      ],
       "hook": "B. Traven's paranoid adventure novel is as gripping as Huston's film — and the author's true identity was never confirmed.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=The+Treasure+of+the+Sierra+Madre+B+Traven&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "winner", "note": "Won 2 Oscars: Best Director and Best Supporting Actor (Walter Huston)" }
+      "oscars": {
+        "status": "winner",
+        "note": "Won 2 Oscars: Best Director and Best Supporting Actor (Walter Huston)"
+      }
     },
     {
       "id": "howls-moving-castle",
@@ -722,7 +935,9 @@
       "author": "Diana Wynne Jones",
       "adaptation_title": "Howl's Moving Castle (2004)",
       "type": "movie",
-      "genres": ["Fantasy"],
+      "genres": [
+        "Fantasy"
+      ],
       "hook": "Wynne Jones wrote three books in the series — Miyazaki's film is a loose but magical adaptation of the first.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Howls+Moving+Castle+Diana+Wynne+Jones&tag=jacketlist-20",
@@ -735,12 +950,17 @@
       "author": "Paul Brickhill",
       "adaptation_title": "The Great Escape (1963)",
       "type": "movie",
-      "genres": ["Historical Fiction"],
+      "genres": [
+        "Historical Fiction"
+      ],
       "hook": "Brickhill was one of the actual prisoners — his firsthand account is what the film is based on.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=The+Great+Escape+Paul+Brickhill&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "nominated", "note": "Nominated: Best Film Editing" }
+      "oscars": {
+        "status": "nominated",
+        "note": "Nominated: Best Film Editing"
+      }
     },
     {
       "id": "gone-with-the-wind",
@@ -748,12 +968,18 @@
       "author": "Margaret Mitchell",
       "adaptation_title": "Gone with the Wind (1939)",
       "type": "movie",
-      "genres": ["Historical Fiction", "Romance"],
+      "genres": [
+        "Historical Fiction",
+        "Romance"
+      ],
       "hook": "Mitchell's Pulitzer Prize-winning novel is over 1,000 pages — the film barely has room for half of it.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Gone+with+the+Wind+Margaret+Mitchell&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "winner", "note": "Won 8 Oscars incl. Best Picture — a record at the time" }
+      "oscars": {
+        "status": "winner",
+        "note": "Won 8 Oscars incl. Best Picture — a record at the time"
+      }
     },
     {
       "id": "catch-me-if-you-can",
@@ -761,12 +987,17 @@
       "author": "Frank Abagnale",
       "adaptation_title": "Catch Me If You Can (2002)",
       "type": "movie",
-      "genres": ["Thriller"],
+      "genres": [
+        "Thriller"
+      ],
       "hook": "Abagnale's memoir is even more outrageous than the film — whether all of it is true remains the best part.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Catch+Me+If+You+Can+Frank+Abagnale&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "nominated", "note": "Nominated: Best Supporting Actor and Best Original Score" }
+      "oscars": {
+        "status": "nominated",
+        "note": "Nominated: Best Supporting Actor and Best Original Score"
+      }
     },
     {
       "id": "the-elephant-man",
@@ -774,12 +1005,17 @@
       "author": "Frederick Treves",
       "adaptation_title": "The Elephant Man (1980)",
       "type": "movie",
-      "genres": ["Historical Fiction"],
+      "genres": [
+        "Historical Fiction"
+      ],
       "hook": "Treves's memoir tells the story of Joseph Merrick from the surgeon who knew him — the man behind the condition.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=The+Elephant+Man+Frederick+Treves&tag=jacketlist-20",
       "series_id": null,
-      "oscars": { "status": "nominated", "note": "Nominated: 8 Oscars incl. Best Picture and Best Director" }
+      "oscars": {
+        "status": "nominated",
+        "note": "Nominated: 8 Oscars incl. Best Picture and Best Director"
+      }
     },
     {
       "id": "justified",
@@ -787,7 +1023,10 @@
       "author": "Elmore Leonard",
       "adaptation_title": "Justified (FX)",
       "type": "tv",
-      "genres": ["Thriller", "Mystery"],
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
       "hook": "Leonard's Raylan Givens is one of crime fiction's great characters — 'Fire in the Hole' is where it all started.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Fire+in+the+Hole+Elmore+Leonard&tag=jacketlist-20",
@@ -800,7 +1039,9 @@
       "author": "Elizabeth Strout",
       "adaptation_title": "Olive Kitteridge (HBO)",
       "type": "tv",
-      "genres": ["Literary Fiction"],
+      "genres": [
+        "Literary Fiction"
+      ],
       "hook": "Strout's Pulitzer Prize-winning linked story collection — Frances McDormand is perfect, but the prose is untouchable.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Olive+Kitteridge+Elizabeth+Strout&tag=jacketlist-20",
@@ -813,7 +1054,10 @@
       "author": "L.J. Smith",
       "adaptation_title": "The Vampire Diaries (CW)",
       "type": "tv",
-      "genres": ["Fantasy", "Romance"],
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
       "hook": "L.J. Smith's YA series is darker and more romantic than the show — the source for a generation of paranormal fans.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=The+Vampire+Diaries+LJ+Smith&tag=jacketlist-20",
@@ -826,7 +1070,10 @@
       "author": "Richard Hooker",
       "adaptation_title": "M*A*S*H (CBS)",
       "type": "tv",
-      "genres": ["Literary Fiction", "Historical Fiction"],
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
       "hook": "Hooker's 1968 novel is blacker and funnier than even the TV series — the original Hawkeye is even more anarchic.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=MASH+Richard+Hooker&tag=jacketlist-20",
@@ -839,7 +1086,10 @@
       "author": "David Simon",
       "adaptation_title": "Homicide: Life on the Street (NBC)",
       "type": "tv",
-      "genres": ["Thriller", "Mystery"],
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
       "hook": "Simon spent a year embedded with Baltimore homicide detectives — this book became both this show and The Wire.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Homicide+A+Year+on+the+Killing+Streets+David+Simon&tag=jacketlist-20",
@@ -852,7 +1102,10 @@
       "author": "Leo Tolstoy",
       "adaptation_title": "War & Peace (BBC)",
       "type": "tv",
-      "genres": ["Historical Fiction", "Literary Fiction"],
+      "genres": [
+        "Historical Fiction",
+        "Literary Fiction"
+      ],
       "hook": "Tolstoy's 1,200-page masterpiece — the BBC mini-series is the best reason to finally read it.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=War+and+Peace+Leo+Tolstoy&tag=jacketlist-20",
@@ -865,7 +1118,10 @@
       "author": "Stephen King",
       "adaptation_title": "11.22.63 (Hulu)",
       "type": "tv",
-      "genres": ["Thriller", "Sci-Fi"],
+      "genres": [
+        "Thriller",
+        "Sci-Fi"
+      ],
       "hook": "King's time-travel novel is one of his most emotionally satisfying — the mini-series captures it faithfully.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=11+22+63+Stephen+King&tag=jacketlist-20",
@@ -878,7 +1134,9 @@
       "author": "John le Carré",
       "adaptation_title": "The Night Manager (BBC/AMC)",
       "type": "tv",
-      "genres": ["Thriller"],
+      "genres": [
+        "Thriller"
+      ],
       "hook": "Le Carré's spy novel is colder and more morally ambiguous than the show — the source for Tom Hiddleston's career-making role.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=The+Night+Manager+John+le+Carre&tag=jacketlist-20",
@@ -891,7 +1149,10 @@
       "author": "Joe R. Lansdale",
       "adaptation_title": "Hap and Leonard (SundanceTV)",
       "type": "tv",
-      "genres": ["Thriller", "Mystery"],
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
       "hook": "Lansdale's swamp-noir duo are two of crime fiction's most beloved characters — six novels of darkly comic mayhem.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Hap+and+Leonard+Joe+Lansdale&tag=jacketlist-20",
@@ -904,11 +1165,30 @@
       "author": "Craig Johnson",
       "adaptation_title": "Longmire (A&E/Netflix)",
       "type": "tv",
-      "genres": ["Mystery", "Thriller"],
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
       "hook": "Johnson's Walt Longmire mysteries are warm, atmospheric, and deeply rooted in Wyoming — the show doesn't do them full justice.",
       "cover_url": null,
       "amazon_url": "https://www.amazon.com/s?k=Longmire+Craig+Johnson&tag=jacketlist-20",
       "series_id": null,
+      "oscars": null
+    },
+    {
+      "id": "bosch-legacy",
+      "book_title": "Renée Ballard",
+      "author": "Michael Connelly",
+      "adaptation_title": "Bosch: Legacy (Amazon Freevee)",
+      "type": "tv",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "hook": "The Bosch spinoff shifts the spotlight to Detective Renée Ballard — read the books that made her.",
+      "cover_url": null,
+      "amazon_url": "https://www.amazon.com/s?k=Renee+Ballard+Michael+Connelly&tag=jacketlist-20",
+      "series_id": "renee-ballard",
       "oscars": null
     }
   ]

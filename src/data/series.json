@@ -5519,14 +5519,98 @@
             "position": 5,
             "title": "Trunk Music",
             "amazon_url": "https://www.amazon.com/s?k=Trunk+Music+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Angels Flight",
+            "amazon_url": "https://www.amazon.com/s?k=Angels+Flight+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "A Darkness More Than Night",
+            "note": "Crossover with Terry McCaleb.",
+            "amazon_url": "https://www.amazon.com/s?k=A+Darkness+More+Than+Night+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "City of Bones",
+            "amazon_url": "https://www.amazon.com/s?k=City+of+Bones+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Lost Light",
+            "amazon_url": "https://www.amazon.com/s?k=Lost+Light+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "The Narrows",
+            "note": "Crossover with Jack McEvoy.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Narrows+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "The Closers",
+            "amazon_url": "https://www.amazon.com/s?k=The+Closers+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "Echo Park",
+            "amazon_url": "https://www.amazon.com/s?k=Echo+Park+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "The Overlook",
+            "amazon_url": "https://www.amazon.com/s?k=The+Overlook+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 14,
+            "title": "Nine Dragons",
+            "amazon_url": "https://www.amazon.com/s?k=Nine+Dragons+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 15,
+            "title": "The Drop",
+            "amazon_url": "https://www.amazon.com/s?k=The+Drop+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 16,
+            "title": "The Black Box",
+            "amazon_url": "https://www.amazon.com/s?k=The+Black+Box+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 17,
+            "title": "The Burning Room",
+            "amazon_url": "https://www.amazon.com/s?k=The+Burning+Room+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 18,
+            "title": "The Crossing",
+            "note": "Crossover with Mickey Haller.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Crossing+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 19,
+            "title": "The Wrong Side of Goodbye",
+            "amazon_url": "https://www.amazon.com/s?k=The+Wrong+Side+of+Goodbye+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 20,
+            "title": "Two Kinds of Truth",
+            "amazon_url": "https://www.amazon.com/s?k=Two+Kinds+of+Truth+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 21,
+            "title": "Dark Sacred Night",
+            "note": "Crossover with Renée Ballard — introduces her as co-lead.",
+            "amazon_url": "https://www.amazon.com/s?k=Dark+Sacred+Night+Michael+Connelly&tag=jacketlist-20"
           }
         ],
         "authors_recommended": [
           {
             "position": 1,
             "title": "The Black Echo",
-            "note": "Start at the beginning — Bosch's arc is best followed in order.",
-            "amazon_url": "https://www.amazon.com/s?k=The+Black+Echo+Michael+Connelly&tag=jacketlist-20"
+            "amazon_url": "https://www.amazon.com/s?k=The+Black+Echo+Michael+Connelly&tag=jacketlist-20",
+            "note": "Start at the beginning — Bosch’s arc is best followed in order."
           },
           {
             "position": 2,
@@ -5547,6 +5631,90 @@
             "position": 5,
             "title": "Trunk Music",
             "amazon_url": "https://www.amazon.com/s?k=Trunk+Music+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Angels Flight",
+            "amazon_url": "https://www.amazon.com/s?k=Angels+Flight+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "A Darkness More Than Night",
+            "note": "Crossover with Terry McCaleb.",
+            "amazon_url": "https://www.amazon.com/s?k=A+Darkness+More+Than+Night+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "City of Bones",
+            "amazon_url": "https://www.amazon.com/s?k=City+of+Bones+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Lost Light",
+            "amazon_url": "https://www.amazon.com/s?k=Lost+Light+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "The Narrows",
+            "note": "Crossover with Jack McEvoy.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Narrows+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "The Closers",
+            "amazon_url": "https://www.amazon.com/s?k=The+Closers+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "Echo Park",
+            "amazon_url": "https://www.amazon.com/s?k=Echo+Park+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "The Overlook",
+            "amazon_url": "https://www.amazon.com/s?k=The+Overlook+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 14,
+            "title": "Nine Dragons",
+            "amazon_url": "https://www.amazon.com/s?k=Nine+Dragons+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 15,
+            "title": "The Drop",
+            "amazon_url": "https://www.amazon.com/s?k=The+Drop+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 16,
+            "title": "The Black Box",
+            "amazon_url": "https://www.amazon.com/s?k=The+Black+Box+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 17,
+            "title": "The Burning Room",
+            "amazon_url": "https://www.amazon.com/s?k=The+Burning+Room+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 18,
+            "title": "The Crossing",
+            "note": "Crossover with Mickey Haller.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Crossing+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 19,
+            "title": "The Wrong Side of Goodbye",
+            "amazon_url": "https://www.amazon.com/s?k=The+Wrong+Side+of+Goodbye+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 20,
+            "title": "Two Kinds of Truth",
+            "amazon_url": "https://www.amazon.com/s?k=Two+Kinds+of+Truth+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 21,
+            "title": "Dark Sacred Night",
+            "note": "Crossover with Renée Ballard — introduces her as co-lead.",
+            "amazon_url": "https://www.amazon.com/s?k=Dark+Sacred+Night+Michael+Connelly&tag=jacketlist-20"
           }
         ]
       }
@@ -17190,42 +17358,163 @@
       "id": "james-bond",
       "title": "James Bond",
       "author": "Ian Fleming",
-      "genres": ["Thriller", "Crime"],
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
       "total_books": 14,
       "currently_on_bestseller_list": false,
       "description": "The original spy thriller series that created the template for an entire genre. Fleming's Bond is cooler, darker, and more morally complex than his film counterpart — 14 novels and story collections of Cold War intrigue, exotic locations, and lethal villains.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "Casino Royale", "amazon_url": "https://www.amazon.com/s?k=Casino+Royale+Fleming&tag=jacketlist-20" },
-          { "position": 2, "title": "Live and Let Die", "amazon_url": "https://www.amazon.com/s?k=Live+and+Let+Die+Fleming&tag=jacketlist-20" },
-          { "position": 3, "title": "Moonraker", "amazon_url": "https://www.amazon.com/s?k=Moonraker+Fleming&tag=jacketlist-20" },
-          { "position": 4, "title": "Diamonds Are Forever", "amazon_url": "https://www.amazon.com/s?k=Diamonds+Are+Forever+Fleming&tag=jacketlist-20" },
-          { "position": 5, "title": "From Russia, with Love", "amazon_url": "https://www.amazon.com/s?k=From+Russia+with+Love+Fleming&tag=jacketlist-20" },
-          { "position": 6, "title": "Dr. No", "amazon_url": "https://www.amazon.com/s?k=Dr+No+Fleming&tag=jacketlist-20" },
-          { "position": 7, "title": "Goldfinger", "amazon_url": "https://www.amazon.com/s?k=Goldfinger+Fleming&tag=jacketlist-20" },
-          { "position": 8, "title": "For Your Eyes Only", "note": "Short story collection.", "amazon_url": "https://www.amazon.com/s?k=For+Your+Eyes+Only+Fleming&tag=jacketlist-20" },
-          { "position": 9, "title": "Thunderball", "amazon_url": "https://www.amazon.com/s?k=Thunderball+Fleming&tag=jacketlist-20" },
-          { "position": 10, "title": "The Spy Who Loved Me", "amazon_url": "https://www.amazon.com/s?k=The+Spy+Who+Loved+Me+Fleming&tag=jacketlist-20" },
-          { "position": 11, "title": "On Her Majesty's Secret Service", "amazon_url": "https://www.amazon.com/s?k=On+Her+Majesty%27s+Secret+Service+Fleming&tag=jacketlist-20" },
-          { "position": 12, "title": "You Only Live Twice", "amazon_url": "https://www.amazon.com/s?k=You+Only+Live+Twice+Fleming&tag=jacketlist-20" },
-          { "position": 13, "title": "The Man with the Golden Gun", "amazon_url": "https://www.amazon.com/s?k=The+Man+with+the+Golden+Gun+Fleming&tag=jacketlist-20" },
-          { "position": 14, "title": "Octopussy and The Living Daylights", "note": "Short story collection — Fleming's final work.", "amazon_url": "https://www.amazon.com/s?k=Octopussy+Living+Daylights+Fleming&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Casino Royale",
+            "amazon_url": "https://www.amazon.com/s?k=Casino+Royale+Fleming&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Live and Let Die",
+            "amazon_url": "https://www.amazon.com/s?k=Live+and+Let+Die+Fleming&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Moonraker",
+            "amazon_url": "https://www.amazon.com/s?k=Moonraker+Fleming&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Diamonds Are Forever",
+            "amazon_url": "https://www.amazon.com/s?k=Diamonds+Are+Forever+Fleming&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "From Russia, with Love",
+            "amazon_url": "https://www.amazon.com/s?k=From+Russia+with+Love+Fleming&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Dr. No",
+            "amazon_url": "https://www.amazon.com/s?k=Dr+No+Fleming&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Goldfinger",
+            "amazon_url": "https://www.amazon.com/s?k=Goldfinger+Fleming&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "For Your Eyes Only",
+            "note": "Short story collection.",
+            "amazon_url": "https://www.amazon.com/s?k=For+Your+Eyes+Only+Fleming&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Thunderball",
+            "amazon_url": "https://www.amazon.com/s?k=Thunderball+Fleming&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "The Spy Who Loved Me",
+            "amazon_url": "https://www.amazon.com/s?k=The+Spy+Who+Loved+Me+Fleming&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "On Her Majesty's Secret Service",
+            "amazon_url": "https://www.amazon.com/s?k=On+Her+Majesty%27s+Secret+Service+Fleming&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "You Only Live Twice",
+            "amazon_url": "https://www.amazon.com/s?k=You+Only+Live+Twice+Fleming&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "The Man with the Golden Gun",
+            "amazon_url": "https://www.amazon.com/s?k=The+Man+with+the+Golden+Gun+Fleming&tag=jacketlist-20"
+          },
+          {
+            "position": 14,
+            "title": "Octopussy and The Living Daylights",
+            "note": "Short story collection — Fleming's final work.",
+            "amazon_url": "https://www.amazon.com/s?k=Octopussy+Living+Daylights+Fleming&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "Casino Royale", "note": "Start here — Bond's origin and the best entry point.", "amazon_url": "https://www.amazon.com/s?k=Casino+Royale+Fleming&tag=jacketlist-20" },
-          { "position": 2, "title": "Live and Let Die", "amazon_url": "https://www.amazon.com/s?k=Live+and+Let+Die+Fleming&tag=jacketlist-20" },
-          { "position": 3, "title": "Moonraker", "amazon_url": "https://www.amazon.com/s?k=Moonraker+Fleming&tag=jacketlist-20" },
-          { "position": 4, "title": "Diamonds Are Forever", "amazon_url": "https://www.amazon.com/s?k=Diamonds+Are+Forever+Fleming&tag=jacketlist-20" },
-          { "position": 5, "title": "From Russia, with Love", "note": "Fleming's personal favourite and widely considered the best in the series.", "amazon_url": "https://www.amazon.com/s?k=From+Russia+with+Love+Fleming&tag=jacketlist-20" },
-          { "position": 6, "title": "Dr. No", "amazon_url": "https://www.amazon.com/s?k=Dr+No+Fleming&tag=jacketlist-20" },
-          { "position": 7, "title": "Goldfinger", "amazon_url": "https://www.amazon.com/s?k=Goldfinger+Fleming&tag=jacketlist-20" },
-          { "position": 8, "title": "For Your Eyes Only", "note": "Short story collection.", "amazon_url": "https://www.amazon.com/s?k=For+Your+Eyes+Only+Fleming&tag=jacketlist-20" },
-          { "position": 9, "title": "Thunderball", "amazon_url": "https://www.amazon.com/s?k=Thunderball+Fleming&tag=jacketlist-20" },
-          { "position": 10, "title": "The Spy Who Loved Me", "amazon_url": "https://www.amazon.com/s?k=The+Spy+Who+Loved+Me+Fleming&tag=jacketlist-20" },
-          { "position": 11, "title": "On Her Majesty's Secret Service", "amazon_url": "https://www.amazon.com/s?k=On+Her+Majesty%27s+Secret+Service+Fleming&tag=jacketlist-20" },
-          { "position": 12, "title": "You Only Live Twice", "amazon_url": "https://www.amazon.com/s?k=You+Only+Live+Twice+Fleming&tag=jacketlist-20" },
-          { "position": 13, "title": "The Man with the Golden Gun", "amazon_url": "https://www.amazon.com/s?k=The+Man+with+the+Golden+Gun+Fleming&tag=jacketlist-20" },
-          { "position": 14, "title": "Octopussy and The Living Daylights", "note": "Short story collection — Fleming's final work.", "amazon_url": "https://www.amazon.com/s?k=Octopussy+Living+Daylights+Fleming&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Casino Royale",
+            "note": "Start here — Bond's origin and the best entry point.",
+            "amazon_url": "https://www.amazon.com/s?k=Casino+Royale+Fleming&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Live and Let Die",
+            "amazon_url": "https://www.amazon.com/s?k=Live+and+Let+Die+Fleming&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Moonraker",
+            "amazon_url": "https://www.amazon.com/s?k=Moonraker+Fleming&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Diamonds Are Forever",
+            "amazon_url": "https://www.amazon.com/s?k=Diamonds+Are+Forever+Fleming&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "From Russia, with Love",
+            "note": "Fleming's personal favourite and widely considered the best in the series.",
+            "amazon_url": "https://www.amazon.com/s?k=From+Russia+with+Love+Fleming&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Dr. No",
+            "amazon_url": "https://www.amazon.com/s?k=Dr+No+Fleming&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Goldfinger",
+            "amazon_url": "https://www.amazon.com/s?k=Goldfinger+Fleming&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "For Your Eyes Only",
+            "note": "Short story collection.",
+            "amazon_url": "https://www.amazon.com/s?k=For+Your+Eyes+Only+Fleming&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Thunderball",
+            "amazon_url": "https://www.amazon.com/s?k=Thunderball+Fleming&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "The Spy Who Loved Me",
+            "amazon_url": "https://www.amazon.com/s?k=The+Spy+Who+Loved+Me+Fleming&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "On Her Majesty's Secret Service",
+            "amazon_url": "https://www.amazon.com/s?k=On+Her+Majesty%27s+Secret+Service+Fleming&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "You Only Live Twice",
+            "amazon_url": "https://www.amazon.com/s?k=You+Only+Live+Twice+Fleming&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "The Man with the Golden Gun",
+            "amazon_url": "https://www.amazon.com/s?k=The+Man+with+the+Golden+Gun+Fleming&tag=jacketlist-20"
+          },
+          {
+            "position": 14,
+            "title": "Octopussy and The Living Daylights",
+            "note": "Short story collection — Fleming's final work.",
+            "amazon_url": "https://www.amazon.com/s?k=Octopussy+Living+Daylights+Fleming&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -17233,30 +17522,98 @@
       "id": "bridgerton",
       "title": "Bridgerton",
       "author": "Julia Quinn",
-      "genres": ["Romance", "Historical Fiction"],
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
       "total_books": 8,
       "currently_on_bestseller_list": false,
       "description": "Set in Regency-era London, each book follows one of the eight Bridgerton siblings as they navigate society, scandal, and love. Witty, warm, and irresistibly romantic — the series that inspired the Netflix phenomenon and reignited mainstream interest in historical romance.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "The Duke and I", "amazon_url": "https://www.amazon.com/s?k=The+Duke+and+I+Quinn&tag=jacketlist-20" },
-          { "position": 2, "title": "The Viscount Who Loved Me", "amazon_url": "https://www.amazon.com/s?k=The+Viscount+Who+Loved+Me+Quinn&tag=jacketlist-20" },
-          { "position": 3, "title": "An Offer From a Gentleman", "amazon_url": "https://www.amazon.com/s?k=An+Offer+From+a+Gentleman+Quinn&tag=jacketlist-20" },
-          { "position": 4, "title": "Romancing Mister Bridgerton", "amazon_url": "https://www.amazon.com/s?k=Romancing+Mister+Bridgerton+Quinn&tag=jacketlist-20" },
-          { "position": 5, "title": "To Sir Phillip, With Love", "amazon_url": "https://www.amazon.com/s?k=To+Sir+Phillip+With+Love+Quinn&tag=jacketlist-20" },
-          { "position": 6, "title": "When He Was Wicked", "amazon_url": "https://www.amazon.com/s?k=When+He+Was+Wicked+Quinn&tag=jacketlist-20" },
-          { "position": 7, "title": "It's in His Kiss", "amazon_url": "https://www.amazon.com/s?k=It%27s+in+His+Kiss+Quinn&tag=jacketlist-20" },
-          { "position": 8, "title": "On the Way to the Wedding", "amazon_url": "https://www.amazon.com/s?k=On+the+Way+to+the+Wedding+Quinn&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Duke and I",
+            "amazon_url": "https://www.amazon.com/s?k=The+Duke+and+I+Quinn&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Viscount Who Loved Me",
+            "amazon_url": "https://www.amazon.com/s?k=The+Viscount+Who+Loved+Me+Quinn&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "An Offer From a Gentleman",
+            "amazon_url": "https://www.amazon.com/s?k=An+Offer+From+a+Gentleman+Quinn&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Romancing Mister Bridgerton",
+            "amazon_url": "https://www.amazon.com/s?k=Romancing+Mister+Bridgerton+Quinn&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "To Sir Phillip, With Love",
+            "amazon_url": "https://www.amazon.com/s?k=To+Sir+Phillip+With+Love+Quinn&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "When He Was Wicked",
+            "amazon_url": "https://www.amazon.com/s?k=When+He+Was+Wicked+Quinn&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "It's in His Kiss",
+            "amazon_url": "https://www.amazon.com/s?k=It%27s+in+His+Kiss+Quinn&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "On the Way to the Wedding",
+            "amazon_url": "https://www.amazon.com/s?k=On+the+Way+to+the+Wedding+Quinn&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "The Duke and I", "note": "Each book stands alone as a romance, but publication order is the best experience.", "amazon_url": "https://www.amazon.com/s?k=The+Duke+and+I+Quinn&tag=jacketlist-20" },
-          { "position": 2, "title": "The Viscount Who Loved Me", "amazon_url": "https://www.amazon.com/s?k=The+Viscount+Who+Loved+Me+Quinn&tag=jacketlist-20" },
-          { "position": 3, "title": "An Offer From a Gentleman", "amazon_url": "https://www.amazon.com/s?k=An+Offer+From+a+Gentleman+Quinn&tag=jacketlist-20" },
-          { "position": 4, "title": "Romancing Mister Bridgerton", "amazon_url": "https://www.amazon.com/s?k=Romancing+Mister+Bridgerton+Quinn&tag=jacketlist-20" },
-          { "position": 5, "title": "To Sir Phillip, With Love", "amazon_url": "https://www.amazon.com/s?k=To+Sir+Phillip+With+Love+Quinn&tag=jacketlist-20" },
-          { "position": 6, "title": "When He Was Wicked", "amazon_url": "https://www.amazon.com/s?k=When+He+Was+Wicked+Quinn&tag=jacketlist-20" },
-          { "position": 7, "title": "It's in His Kiss", "amazon_url": "https://www.amazon.com/s?k=It%27s+in+His+Kiss+Quinn&tag=jacketlist-20" },
-          { "position": 8, "title": "On the Way to the Wedding", "amazon_url": "https://www.amazon.com/s?k=On+the+Way+to+the+Wedding+Quinn&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Duke and I",
+            "note": "Each book stands alone as a romance, but publication order is the best experience.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Duke+and+I+Quinn&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Viscount Who Loved Me",
+            "amazon_url": "https://www.amazon.com/s?k=The+Viscount+Who+Loved+Me+Quinn&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "An Offer From a Gentleman",
+            "amazon_url": "https://www.amazon.com/s?k=An+Offer+From+a+Gentleman+Quinn&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Romancing Mister Bridgerton",
+            "amazon_url": "https://www.amazon.com/s?k=Romancing+Mister+Bridgerton+Quinn&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "To Sir Phillip, With Love",
+            "amazon_url": "https://www.amazon.com/s?k=To+Sir+Phillip+With+Love+Quinn&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "When He Was Wicked",
+            "amazon_url": "https://www.amazon.com/s?k=When+He+Was+Wicked+Quinn&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "It's in His Kiss",
+            "amazon_url": "https://www.amazon.com/s?k=It%27s+in+His+Kiss+Quinn&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "On the Way to the Wedding",
+            "amazon_url": "https://www.amazon.com/s?k=On+the+Way+to+the+Wedding+Quinn&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -17264,22 +17621,59 @@
       "id": "kingsbridge",
       "title": "Kingsbridge",
       "author": "Ken Follett",
-      "genres": ["Historical Fiction"],
+      "genres": [
+        "Historical Fiction"
+      ],
       "total_books": 4,
       "currently_on_bestseller_list": false,
       "description": "A multigenerational saga spanning 600 years of English history, anchored by the fictional cathedral town of Kingsbridge. The Pillars of the Earth remains one of the best-selling historical novels ever written — epic in scope, intimate in character, and impossible to put down.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "The Evening and the Morning", "note": "Prequel set in 997 AD — best read last to avoid spoilers for the main trilogy.", "amazon_url": "https://www.amazon.com/s?k=The+Evening+and+the+Morning+Follett&tag=jacketlist-20" },
-          { "position": 2, "title": "The Pillars of the Earth", "amazon_url": "https://www.amazon.com/s?k=The+Pillars+of+the+Earth+Follett&tag=jacketlist-20" },
-          { "position": 3, "title": "World Without End", "amazon_url": "https://www.amazon.com/s?k=World+Without+End+Follett&tag=jacketlist-20" },
-          { "position": 4, "title": "A Column of Fire", "amazon_url": "https://www.amazon.com/s?k=A+Column+of+Fire+Follett&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Evening and the Morning",
+            "note": "Prequel set in 997 AD — best read last to avoid spoilers for the main trilogy.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Evening+and+the+Morning+Follett&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Pillars of the Earth",
+            "amazon_url": "https://www.amazon.com/s?k=The+Pillars+of+the+Earth+Follett&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "World Without End",
+            "amazon_url": "https://www.amazon.com/s?k=World+Without+End+Follett&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "A Column of Fire",
+            "amazon_url": "https://www.amazon.com/s?k=A+Column+of+Fire+Follett&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "The Pillars of the Earth", "note": "Start here — Follett's masterpiece and the heart of the series.", "amazon_url": "https://www.amazon.com/s?k=The+Pillars+of+the+Earth+Follett&tag=jacketlist-20" },
-          { "position": 2, "title": "World Without End", "amazon_url": "https://www.amazon.com/s?k=World+Without+End+Follett&tag=jacketlist-20" },
-          { "position": 3, "title": "A Column of Fire", "amazon_url": "https://www.amazon.com/s?k=A+Column+of+Fire+Follett&tag=jacketlist-20" },
-          { "position": 4, "title": "The Evening and the Morning", "note": "Prequel — read last for maximum impact.", "amazon_url": "https://www.amazon.com/s?k=The+Evening+and+the+Morning+Follett&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Pillars of the Earth",
+            "note": "Start here — Follett's masterpiece and the heart of the series.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Pillars+of+the+Earth+Follett&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "World Without End",
+            "amazon_url": "https://www.amazon.com/s?k=World+Without+End+Follett&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "A Column of Fire",
+            "amazon_url": "https://www.amazon.com/s?k=A+Column+of+Fire+Follett&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Evening and the Morning",
+            "note": "Prequel — read last for maximum impact.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Evening+and+the+Morning+Follett&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -17287,22 +17681,58 @@
       "id": "neapolitan-novels",
       "title": "Neapolitan Novels",
       "author": "Elena Ferrante",
-      "genres": ["Literary Fiction"],
+      "genres": [
+        "Literary Fiction"
+      ],
       "total_books": 4,
       "currently_on_bestseller_list": false,
       "description": "Following two women from a poor Naples neighborhood across six turbulent decades, Ferrante's quartet is a ferocious, honest portrait of female friendship, ambition, and the forces that shape — and destroy — a life. A publishing phenomenon that sparked a worldwide literary sensation.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "My Brilliant Friend", "note": "Must be read in order — this is one continuous story.", "amazon_url": "https://www.amazon.com/s?k=My+Brilliant+Friend+Ferrante&tag=jacketlist-20" },
-          { "position": 2, "title": "The Story of a New Name", "amazon_url": "https://www.amazon.com/s?k=The+Story+of+a+New+Name+Ferrante&tag=jacketlist-20" },
-          { "position": 3, "title": "Those Who Leave and Those Who Stay", "amazon_url": "https://www.amazon.com/s?k=Those+Who+Leave+and+Those+Who+Stay+Ferrante&tag=jacketlist-20" },
-          { "position": 4, "title": "The Story of the Lost Child", "amazon_url": "https://www.amazon.com/s?k=The+Story+of+the+Lost+Child+Ferrante&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "My Brilliant Friend",
+            "note": "Must be read in order — this is one continuous story.",
+            "amazon_url": "https://www.amazon.com/s?k=My+Brilliant+Friend+Ferrante&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Story of a New Name",
+            "amazon_url": "https://www.amazon.com/s?k=The+Story+of+a+New+Name+Ferrante&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Those Who Leave and Those Who Stay",
+            "amazon_url": "https://www.amazon.com/s?k=Those+Who+Leave+and+Those+Who+Stay+Ferrante&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Story of the Lost Child",
+            "amazon_url": "https://www.amazon.com/s?k=The+Story+of+the+Lost+Child+Ferrante&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "My Brilliant Friend", "note": "Must be read in order — this is one continuous story.", "amazon_url": "https://www.amazon.com/s?k=My+Brilliant+Friend+Ferrante&tag=jacketlist-20" },
-          { "position": 2, "title": "The Story of a New Name", "amazon_url": "https://www.amazon.com/s?k=The+Story+of+a+New+Name+Ferrante&tag=jacketlist-20" },
-          { "position": 3, "title": "Those Who Leave and Those Who Stay", "amazon_url": "https://www.amazon.com/s?k=Those+Who+Leave+and+Those+Who+Stay+Ferrante&tag=jacketlist-20" },
-          { "position": 4, "title": "The Story of the Lost Child", "amazon_url": "https://www.amazon.com/s?k=The+Story+of+the+Lost+Child+Ferrante&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "My Brilliant Friend",
+            "note": "Must be read in order — this is one continuous story.",
+            "amazon_url": "https://www.amazon.com/s?k=My+Brilliant+Friend+Ferrante&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Story of a New Name",
+            "amazon_url": "https://www.amazon.com/s?k=The+Story+of+a+New+Name+Ferrante&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Those Who Leave and Those Who Stay",
+            "amazon_url": "https://www.amazon.com/s?k=Those+Who+Leave+and+Those+Who+Stay+Ferrante&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "The Story of the Lost Child",
+            "amazon_url": "https://www.amazon.com/s?k=The+Story+of+the+Lost+Child+Ferrante&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -17310,24 +17740,68 @@
       "id": "patrick-melrose",
       "title": "Patrick Melrose",
       "author": "Edward St. Aubyn",
-      "genres": ["Literary Fiction"],
+      "genres": [
+        "Literary Fiction"
+      ],
       "total_books": 5,
       "currently_on_bestseller_list": false,
       "description": "Five razor-sharp novels following Patrick Melrose from childhood abuse through addiction and into a painful, hard-won recovery. Autobiographical in origin, devastating in execution — St. Aubyn's prose is among the finest in contemporary British fiction, and the Benedict Cumberbatch TV adaptation brought it to a new audience.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "Never Mind", "note": "Must be read in order — the five novels form one continuous arc.", "amazon_url": "https://www.amazon.com/s?k=Never+Mind+St+Aubyn&tag=jacketlist-20" },
-          { "position": 2, "title": "Bad News", "amazon_url": "https://www.amazon.com/s?k=Bad+News+St+Aubyn&tag=jacketlist-20" },
-          { "position": 3, "title": "Some Hope", "amazon_url": "https://www.amazon.com/s?k=Some+Hope+St+Aubyn&tag=jacketlist-20" },
-          { "position": 4, "title": "Mother's Milk", "amazon_url": "https://www.amazon.com/s?k=Mother%27s+Milk+St+Aubyn&tag=jacketlist-20" },
-          { "position": 5, "title": "At Last", "amazon_url": "https://www.amazon.com/s?k=At+Last+St+Aubyn&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Never Mind",
+            "note": "Must be read in order — the five novels form one continuous arc.",
+            "amazon_url": "https://www.amazon.com/s?k=Never+Mind+St+Aubyn&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Bad News",
+            "amazon_url": "https://www.amazon.com/s?k=Bad+News+St+Aubyn&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Some Hope",
+            "amazon_url": "https://www.amazon.com/s?k=Some+Hope+St+Aubyn&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Mother's Milk",
+            "amazon_url": "https://www.amazon.com/s?k=Mother%27s+Milk+St+Aubyn&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "At Last",
+            "amazon_url": "https://www.amazon.com/s?k=At+Last+St+Aubyn&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "Never Mind", "note": "Must be read in order — the five novels form one continuous arc.", "amazon_url": "https://www.amazon.com/s?k=Never+Mind+St+Aubyn&tag=jacketlist-20" },
-          { "position": 2, "title": "Bad News", "amazon_url": "https://www.amazon.com/s?k=Bad+News+St+Aubyn&tag=jacketlist-20" },
-          { "position": 3, "title": "Some Hope", "amazon_url": "https://www.amazon.com/s?k=Some+Hope+St+Aubyn&tag=jacketlist-20" },
-          { "position": 4, "title": "Mother's Milk", "amazon_url": "https://www.amazon.com/s?k=Mother%27s+Milk+St+Aubyn&tag=jacketlist-20" },
-          { "position": 5, "title": "At Last", "amazon_url": "https://www.amazon.com/s?k=At+Last+St+Aubyn&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Never Mind",
+            "note": "Must be read in order — the five novels form one continuous arc.",
+            "amazon_url": "https://www.amazon.com/s?k=Never+Mind+St+Aubyn&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Bad News",
+            "amazon_url": "https://www.amazon.com/s?k=Bad+News+St+Aubyn&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Some Hope",
+            "amazon_url": "https://www.amazon.com/s?k=Some+Hope+St+Aubyn&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Mother's Milk",
+            "amazon_url": "https://www.amazon.com/s?k=Mother%27s+Milk+St+Aubyn&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "At Last",
+            "amazon_url": "https://www.amazon.com/s?k=At+Last+St+Aubyn&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -17335,20 +17809,48 @@
       "id": "game-changers",
       "title": "Game Changers",
       "author": "Rachel Reid",
-      "genres": ["Romance"],
+      "genres": [
+        "Romance"
+      ],
       "total_books": 3,
       "currently_on_bestseller_list": true,
       "description": "Three interconnected M/M hockey romances set in the NHL — passionate, funny, and deeply felt. Reid writes sports romance with rare emotional intelligence, and all three books appear regularly on bestseller lists worldwide.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "Game Changer", "note": "Each book focuses on a different couple but characters recur throughout — publication order gives the best experience.", "amazon_url": "https://www.amazon.com/s?k=Game+Changer+Rachel+Reid&tag=jacketlist-20" },
-          { "position": 2, "title": "Heated Rivalry", "amazon_url": "https://www.amazon.com/s?k=Heated+Rivalry+Rachel+Reid&tag=jacketlist-20" },
-          { "position": 3, "title": "The Long Game", "amazon_url": "https://www.amazon.com/s?k=The+Long+Game+Rachel+Reid&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Game Changer",
+            "note": "Each book focuses on a different couple but characters recur throughout — publication order gives the best experience.",
+            "amazon_url": "https://www.amazon.com/s?k=Game+Changer+Rachel+Reid&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Heated Rivalry",
+            "amazon_url": "https://www.amazon.com/s?k=Heated+Rivalry+Rachel+Reid&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Long Game",
+            "amazon_url": "https://www.amazon.com/s?k=The+Long+Game+Rachel+Reid&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "Game Changer", "note": "Each book focuses on a different couple but characters recur throughout — publication order gives the best experience.", "amazon_url": "https://www.amazon.com/s?k=Game+Changer+Rachel+Reid&tag=jacketlist-20" },
-          { "position": 2, "title": "Heated Rivalry", "amazon_url": "https://www.amazon.com/s?k=Heated+Rivalry+Rachel+Reid&tag=jacketlist-20" },
-          { "position": 3, "title": "The Long Game", "amazon_url": "https://www.amazon.com/s?k=The+Long+Game+Rachel+Reid&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Game Changer",
+            "note": "Each book focuses on a different couple but characters recur throughout — publication order gives the best experience.",
+            "amazon_url": "https://www.amazon.com/s?k=Game+Changer+Rachel+Reid&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Heated Rivalry",
+            "amazon_url": "https://www.amazon.com/s?k=Heated+Rivalry+Rachel+Reid&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Long Game",
+            "amazon_url": "https://www.amazon.com/s?k=The+Long+Game+Rachel+Reid&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -17356,32 +17858,110 @@
       "id": "john-rain",
       "title": "John Rain",
       "author": "Barry Eisler",
-      "genres": ["Thriller", "Crime"],
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
       "total_books": 9,
       "currently_on_bestseller_list": false,
       "description": "Half-American, half-Japanese assassin John Rain operates from the shadows of Tokyo, specialising in deaths that look natural. Eisler's series is a masterclass in atmosphere — morally complex, precisely plotted, and steeped in Japanese culture in a way few Western thrillers achieve.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "Graveyard of Memories", "note": "Prequel set in 1970s Tokyo — best read after the main series.", "amazon_url": "https://www.amazon.com/s?k=Graveyard+of+Memories+Eisler&tag=jacketlist-20" },
-          { "position": 2, "title": "Rain Fall", "amazon_url": "https://www.amazon.com/s?k=Rain+Fall+Barry+Eisler&tag=jacketlist-20" },
-          { "position": 3, "title": "Hard Rain", "amazon_url": "https://www.amazon.com/s?k=Hard+Rain+Barry+Eisler&tag=jacketlist-20" },
-          { "position": 4, "title": "Rain Storm", "amazon_url": "https://www.amazon.com/s?k=Rain+Storm+Barry+Eisler&tag=jacketlist-20" },
-          { "position": 5, "title": "Killing Rain", "amazon_url": "https://www.amazon.com/s?k=Killing+Rain+Barry+Eisler&tag=jacketlist-20" },
-          { "position": 6, "title": "The Last Assassin", "amazon_url": "https://www.amazon.com/s?k=The+Last+Assassin+Eisler&tag=jacketlist-20" },
-          { "position": 7, "title": "Requiem for an Assassin", "amazon_url": "https://www.amazon.com/s?k=Requiem+for+an+Assassin+Eisler&tag=jacketlist-20" },
-          { "position": 8, "title": "The Detachment", "amazon_url": "https://www.amazon.com/s?k=The+Detachment+Eisler&tag=jacketlist-20" },
-          { "position": 9, "title": "Zero Sum", "amazon_url": "https://www.amazon.com/s?k=Zero+Sum+Barry+Eisler&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Graveyard of Memories",
+            "note": "Prequel set in 1970s Tokyo — best read after the main series.",
+            "amazon_url": "https://www.amazon.com/s?k=Graveyard+of+Memories+Eisler&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Rain Fall",
+            "amazon_url": "https://www.amazon.com/s?k=Rain+Fall+Barry+Eisler&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Hard Rain",
+            "amazon_url": "https://www.amazon.com/s?k=Hard+Rain+Barry+Eisler&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Rain Storm",
+            "amazon_url": "https://www.amazon.com/s?k=Rain+Storm+Barry+Eisler&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Killing Rain",
+            "amazon_url": "https://www.amazon.com/s?k=Killing+Rain+Barry+Eisler&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The Last Assassin",
+            "amazon_url": "https://www.amazon.com/s?k=The+Last+Assassin+Eisler&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Requiem for an Assassin",
+            "amazon_url": "https://www.amazon.com/s?k=Requiem+for+an+Assassin+Eisler&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "The Detachment",
+            "amazon_url": "https://www.amazon.com/s?k=The+Detachment+Eisler&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Zero Sum",
+            "amazon_url": "https://www.amazon.com/s?k=Zero+Sum+Barry+Eisler&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "Rain Fall", "note": "Start here — Rain's origin and the best entry point into the series.", "amazon_url": "https://www.amazon.com/s?k=Rain+Fall+Barry+Eisler&tag=jacketlist-20" },
-          { "position": 2, "title": "Hard Rain", "amazon_url": "https://www.amazon.com/s?k=Hard+Rain+Barry+Eisler&tag=jacketlist-20" },
-          { "position": 3, "title": "Rain Storm", "amazon_url": "https://www.amazon.com/s?k=Rain+Storm+Barry+Eisler&tag=jacketlist-20" },
-          { "position": 4, "title": "Killing Rain", "amazon_url": "https://www.amazon.com/s?k=Killing+Rain+Barry+Eisler&tag=jacketlist-20" },
-          { "position": 5, "title": "The Last Assassin", "amazon_url": "https://www.amazon.com/s?k=The+Last+Assassin+Eisler&tag=jacketlist-20" },
-          { "position": 6, "title": "Requiem for an Assassin", "amazon_url": "https://www.amazon.com/s?k=Requiem+for+an+Assassin+Eisler&tag=jacketlist-20" },
-          { "position": 7, "title": "The Detachment", "amazon_url": "https://www.amazon.com/s?k=The+Detachment+Eisler&tag=jacketlist-20" },
-          { "position": 8, "title": "Zero Sum", "amazon_url": "https://www.amazon.com/s?k=Zero+Sum+Barry+Eisler&tag=jacketlist-20" },
-          { "position": 9, "title": "Graveyard of Memories", "note": "Prequel — best read after the main series for maximum impact.", "amazon_url": "https://www.amazon.com/s?k=Graveyard+of+Memories+Eisler&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Rain Fall",
+            "note": "Start here — Rain's origin and the best entry point into the series.",
+            "amazon_url": "https://www.amazon.com/s?k=Rain+Fall+Barry+Eisler&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Hard Rain",
+            "amazon_url": "https://www.amazon.com/s?k=Hard+Rain+Barry+Eisler&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Rain Storm",
+            "amazon_url": "https://www.amazon.com/s?k=Rain+Storm+Barry+Eisler&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Killing Rain",
+            "amazon_url": "https://www.amazon.com/s?k=Killing+Rain+Barry+Eisler&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Last Assassin",
+            "amazon_url": "https://www.amazon.com/s?k=The+Last+Assassin+Eisler&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Requiem for an Assassin",
+            "amazon_url": "https://www.amazon.com/s?k=Requiem+for+an+Assassin+Eisler&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "The Detachment",
+            "amazon_url": "https://www.amazon.com/s?k=The+Detachment+Eisler&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Zero Sum",
+            "amazon_url": "https://www.amazon.com/s?k=Zero+Sum+Barry+Eisler&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Graveyard of Memories",
+            "note": "Prequel — best read after the main series for maximum impact.",
+            "amazon_url": "https://www.amazon.com/s?k=Graveyard+of+Memories+Eisler&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -17389,128 +17969,589 @@
       "id": "in-death",
       "title": "In Death",
       "author": "J.D. Robb",
-      "genres": ["Thriller", "Mystery", "Romance"],
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Romance"
+      ],
       "total_books": 57,
       "currently_on_bestseller_list": false,
       "description": "Set in mid-21st century New York, NYPSD Lieutenant Eve Dallas solves murders in a future where technology has changed crime but human nature hasn't. Nora Roberts writing as J.D. Robb has built the longest-running thriller series in publishing history — each book is a new case, compulsively readable, and the slow-burn relationship between Eve and Roarke is one of romance fiction's great love stories.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "Naked in Death", "amazon_url": "https://www.amazon.com/s?k=Naked+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 2, "title": "Glory in Death", "amazon_url": "https://www.amazon.com/s?k=Glory+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 3, "title": "Immortal in Death", "amazon_url": "https://www.amazon.com/s?k=Immortal+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 4, "title": "Rapture in Death", "amazon_url": "https://www.amazon.com/s?k=Rapture+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 5, "title": "Ceremony in Death", "amazon_url": "https://www.amazon.com/s?k=Ceremony+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 6, "title": "Vengeance in Death", "amazon_url": "https://www.amazon.com/s?k=Vengeance+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 7, "title": "Holiday in Death", "amazon_url": "https://www.amazon.com/s?k=Holiday+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 8, "title": "Conspiracy in Death", "amazon_url": "https://www.amazon.com/s?k=Conspiracy+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 9, "title": "Loyalty in Death", "amazon_url": "https://www.amazon.com/s?k=Loyalty+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 10, "title": "Witness in Death", "amazon_url": "https://www.amazon.com/s?k=Witness+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 11, "title": "Judgment in Death", "amazon_url": "https://www.amazon.com/s?k=Judgment+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 12, "title": "Betrayal in Death", "amazon_url": "https://www.amazon.com/s?k=Betrayal+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 13, "title": "Seduction in Death", "amazon_url": "https://www.amazon.com/s?k=Seduction+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 14, "title": "Reunion in Death", "amazon_url": "https://www.amazon.com/s?k=Reunion+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 15, "title": "Purity in Death", "amazon_url": "https://www.amazon.com/s?k=Purity+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 16, "title": "Portrait in Death", "amazon_url": "https://www.amazon.com/s?k=Portrait+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 17, "title": "Imitation in Death", "amazon_url": "https://www.amazon.com/s?k=Imitation+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 18, "title": "Divided in Death", "amazon_url": "https://www.amazon.com/s?k=Divided+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 19, "title": "Visions in Death", "amazon_url": "https://www.amazon.com/s?k=Visions+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 20, "title": "Survivor in Death", "amazon_url": "https://www.amazon.com/s?k=Survivor+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 21, "title": "Origin in Death", "amazon_url": "https://www.amazon.com/s?k=Origin+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 22, "title": "Memory in Death", "amazon_url": "https://www.amazon.com/s?k=Memory+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 23, "title": "Born in Death", "amazon_url": "https://www.amazon.com/s?k=Born+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 24, "title": "Innocent in Death", "amazon_url": "https://www.amazon.com/s?k=Innocent+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 25, "title": "Creation in Death", "amazon_url": "https://www.amazon.com/s?k=Creation+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 26, "title": "Strangers in Death", "amazon_url": "https://www.amazon.com/s?k=Strangers+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 27, "title": "Salvation in Death", "amazon_url": "https://www.amazon.com/s?k=Salvation+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 28, "title": "Promises in Death", "amazon_url": "https://www.amazon.com/s?k=Promises+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 29, "title": "Kindred in Death", "amazon_url": "https://www.amazon.com/s?k=Kindred+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 30, "title": "Fantasy in Death", "amazon_url": "https://www.amazon.com/s?k=Fantasy+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 31, "title": "Indulgence in Death", "amazon_url": "https://www.amazon.com/s?k=Indulgence+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 32, "title": "Treachery in Death", "amazon_url": "https://www.amazon.com/s?k=Treachery+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 33, "title": "New York to Dallas", "amazon_url": "https://www.amazon.com/s?k=New+York+to+Dallas+Robb&tag=jacketlist-20" },
-          { "position": 34, "title": "Celebrity in Death", "amazon_url": "https://www.amazon.com/s?k=Celebrity+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 35, "title": "Delusion in Death", "amazon_url": "https://www.amazon.com/s?k=Delusion+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 36, "title": "Calculated in Death", "amazon_url": "https://www.amazon.com/s?k=Calculated+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 37, "title": "Thankless in Death", "amazon_url": "https://www.amazon.com/s?k=Thankless+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 38, "title": "Concealed in Death", "amazon_url": "https://www.amazon.com/s?k=Concealed+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 39, "title": "Festive in Death", "amazon_url": "https://www.amazon.com/s?k=Festive+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 40, "title": "Obsession in Death", "amazon_url": "https://www.amazon.com/s?k=Obsession+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 41, "title": "Devoted in Death", "amazon_url": "https://www.amazon.com/s?k=Devoted+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 42, "title": "Brotherhood in Death", "amazon_url": "https://www.amazon.com/s?k=Brotherhood+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 43, "title": "Apprentice in Death", "amazon_url": "https://www.amazon.com/s?k=Apprentice+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 44, "title": "Echoes in Death", "amazon_url": "https://www.amazon.com/s?k=Echoes+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 45, "title": "Secrets in Death", "amazon_url": "https://www.amazon.com/s?k=Secrets+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 46, "title": "Dark in Death", "amazon_url": "https://www.amazon.com/s?k=Dark+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 47, "title": "Leverage in Death", "amazon_url": "https://www.amazon.com/s?k=Leverage+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 48, "title": "Connections in Death", "amazon_url": "https://www.amazon.com/s?k=Connections+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 49, "title": "Forgotten in Death", "amazon_url": "https://www.amazon.com/s?k=Forgotten+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 50, "title": "Abandoned in Death", "amazon_url": "https://www.amazon.com/s?k=Abandoned+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 51, "title": "Desperation in Death", "amazon_url": "https://www.amazon.com/s?k=Desperation+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 52, "title": "Encore in Death", "amazon_url": "https://www.amazon.com/s?k=Encore+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 53, "title": "Payback in Death", "amazon_url": "https://www.amazon.com/s?k=Payback+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 54, "title": "Random in Death", "amazon_url": "https://www.amazon.com/s?k=Random+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 55, "title": "Passions in Death", "amazon_url": "https://www.amazon.com/s?k=Passions+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 56, "title": "Foundation in Death", "amazon_url": "https://www.amazon.com/s?k=Foundation+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 57, "title": "Vendetta in Death", "amazon_url": "https://www.amazon.com/s?k=Vendetta+in+Death+Robb&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Naked in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Naked+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Glory in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Glory+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Immortal in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Immortal+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Rapture in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Rapture+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Ceremony in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Ceremony+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Vengeance in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Vengeance+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Holiday in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Holiday+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Conspiracy in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Conspiracy+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Loyalty in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Loyalty+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Witness in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Witness+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "Judgment in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Judgment+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "Betrayal in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Betrayal+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "Seduction in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Seduction+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 14,
+            "title": "Reunion in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Reunion+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 15,
+            "title": "Purity in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Purity+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 16,
+            "title": "Portrait in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Portrait+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 17,
+            "title": "Imitation in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Imitation+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 18,
+            "title": "Divided in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Divided+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 19,
+            "title": "Visions in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Visions+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 20,
+            "title": "Survivor in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Survivor+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 21,
+            "title": "Origin in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Origin+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 22,
+            "title": "Memory in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Memory+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 23,
+            "title": "Born in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Born+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 24,
+            "title": "Innocent in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Innocent+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 25,
+            "title": "Creation in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Creation+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 26,
+            "title": "Strangers in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Strangers+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 27,
+            "title": "Salvation in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Salvation+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 28,
+            "title": "Promises in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Promises+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 29,
+            "title": "Kindred in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Kindred+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 30,
+            "title": "Fantasy in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Fantasy+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 31,
+            "title": "Indulgence in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Indulgence+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 32,
+            "title": "Treachery in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Treachery+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 33,
+            "title": "New York to Dallas",
+            "amazon_url": "https://www.amazon.com/s?k=New+York+to+Dallas+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 34,
+            "title": "Celebrity in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Celebrity+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 35,
+            "title": "Delusion in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Delusion+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 36,
+            "title": "Calculated in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Calculated+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 37,
+            "title": "Thankless in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Thankless+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 38,
+            "title": "Concealed in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Concealed+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 39,
+            "title": "Festive in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Festive+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 40,
+            "title": "Obsession in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Obsession+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 41,
+            "title": "Devoted in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Devoted+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 42,
+            "title": "Brotherhood in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Brotherhood+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 43,
+            "title": "Apprentice in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Apprentice+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 44,
+            "title": "Echoes in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Echoes+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 45,
+            "title": "Secrets in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Secrets+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 46,
+            "title": "Dark in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Dark+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 47,
+            "title": "Leverage in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Leverage+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 48,
+            "title": "Connections in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Connections+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 49,
+            "title": "Forgotten in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Forgotten+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 50,
+            "title": "Abandoned in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Abandoned+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 51,
+            "title": "Desperation in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Desperation+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 52,
+            "title": "Encore in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Encore+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 53,
+            "title": "Payback in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Payback+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 54,
+            "title": "Random in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Random+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 55,
+            "title": "Passions in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Passions+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 56,
+            "title": "Foundation in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Foundation+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 57,
+            "title": "Vendetta in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Vendetta+in+Death+Robb&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "Naked in Death", "note": "Must be read in publication order — Eve and Roarke's relationship arc spans the entire series.", "amazon_url": "https://www.amazon.com/s?k=Naked+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 2, "title": "Glory in Death", "amazon_url": "https://www.amazon.com/s?k=Glory+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 3, "title": "Immortal in Death", "amazon_url": "https://www.amazon.com/s?k=Immortal+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 4, "title": "Rapture in Death", "amazon_url": "https://www.amazon.com/s?k=Rapture+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 5, "title": "Ceremony in Death", "amazon_url": "https://www.amazon.com/s?k=Ceremony+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 6, "title": "Vengeance in Death", "amazon_url": "https://www.amazon.com/s?k=Vengeance+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 7, "title": "Holiday in Death", "amazon_url": "https://www.amazon.com/s?k=Holiday+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 8, "title": "Conspiracy in Death", "amazon_url": "https://www.amazon.com/s?k=Conspiracy+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 9, "title": "Loyalty in Death", "amazon_url": "https://www.amazon.com/s?k=Loyalty+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 10, "title": "Witness in Death", "amazon_url": "https://www.amazon.com/s?k=Witness+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 11, "title": "Judgment in Death", "amazon_url": "https://www.amazon.com/s?k=Judgment+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 12, "title": "Betrayal in Death", "amazon_url": "https://www.amazon.com/s?k=Betrayal+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 13, "title": "Seduction in Death", "amazon_url": "https://www.amazon.com/s?k=Seduction+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 14, "title": "Reunion in Death", "amazon_url": "https://www.amazon.com/s?k=Reunion+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 15, "title": "Purity in Death", "amazon_url": "https://www.amazon.com/s?k=Purity+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 16, "title": "Portrait in Death", "amazon_url": "https://www.amazon.com/s?k=Portrait+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 17, "title": "Imitation in Death", "amazon_url": "https://www.amazon.com/s?k=Imitation+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 18, "title": "Divided in Death", "amazon_url": "https://www.amazon.com/s?k=Divided+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 19, "title": "Visions in Death", "amazon_url": "https://www.amazon.com/s?k=Visions+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 20, "title": "Survivor in Death", "amazon_url": "https://www.amazon.com/s?k=Survivor+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 21, "title": "Origin in Death", "amazon_url": "https://www.amazon.com/s?k=Origin+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 22, "title": "Memory in Death", "amazon_url": "https://www.amazon.com/s?k=Memory+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 23, "title": "Born in Death", "amazon_url": "https://www.amazon.com/s?k=Born+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 24, "title": "Innocent in Death", "amazon_url": "https://www.amazon.com/s?k=Innocent+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 25, "title": "Creation in Death", "amazon_url": "https://www.amazon.com/s?k=Creation+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 26, "title": "Strangers in Death", "amazon_url": "https://www.amazon.com/s?k=Strangers+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 27, "title": "Salvation in Death", "amazon_url": "https://www.amazon.com/s?k=Salvation+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 28, "title": "Promises in Death", "amazon_url": "https://www.amazon.com/s?k=Promises+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 29, "title": "Kindred in Death", "amazon_url": "https://www.amazon.com/s?k=Kindred+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 30, "title": "Fantasy in Death", "amazon_url": "https://www.amazon.com/s?k=Fantasy+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 31, "title": "Indulgence in Death", "amazon_url": "https://www.amazon.com/s?k=Indulgence+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 32, "title": "Treachery in Death", "amazon_url": "https://www.amazon.com/s?k=Treachery+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 33, "title": "New York to Dallas", "amazon_url": "https://www.amazon.com/s?k=New+York+to+Dallas+Robb&tag=jacketlist-20" },
-          { "position": 34, "title": "Celebrity in Death", "amazon_url": "https://www.amazon.com/s?k=Celebrity+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 35, "title": "Delusion in Death", "amazon_url": "https://www.amazon.com/s?k=Delusion+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 36, "title": "Calculated in Death", "amazon_url": "https://www.amazon.com/s?k=Calculated+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 37, "title": "Thankless in Death", "amazon_url": "https://www.amazon.com/s?k=Thankless+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 38, "title": "Concealed in Death", "amazon_url": "https://www.amazon.com/s?k=Concealed+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 39, "title": "Festive in Death", "amazon_url": "https://www.amazon.com/s?k=Festive+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 40, "title": "Obsession in Death", "amazon_url": "https://www.amazon.com/s?k=Obsession+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 41, "title": "Devoted in Death", "amazon_url": "https://www.amazon.com/s?k=Devoted+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 42, "title": "Brotherhood in Death", "amazon_url": "https://www.amazon.com/s?k=Brotherhood+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 43, "title": "Apprentice in Death", "amazon_url": "https://www.amazon.com/s?k=Apprentice+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 44, "title": "Echoes in Death", "amazon_url": "https://www.amazon.com/s?k=Echoes+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 45, "title": "Secrets in Death", "amazon_url": "https://www.amazon.com/s?k=Secrets+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 46, "title": "Dark in Death", "amazon_url": "https://www.amazon.com/s?k=Dark+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 47, "title": "Leverage in Death", "amazon_url": "https://www.amazon.com/s?k=Leverage+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 48, "title": "Connections in Death", "amazon_url": "https://www.amazon.com/s?k=Connections+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 49, "title": "Forgotten in Death", "amazon_url": "https://www.amazon.com/s?k=Forgotten+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 50, "title": "Abandoned in Death", "amazon_url": "https://www.amazon.com/s?k=Abandoned+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 51, "title": "Desperation in Death", "amazon_url": "https://www.amazon.com/s?k=Desperation+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 52, "title": "Encore in Death", "amazon_url": "https://www.amazon.com/s?k=Encore+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 53, "title": "Payback in Death", "amazon_url": "https://www.amazon.com/s?k=Payback+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 54, "title": "Random in Death", "amazon_url": "https://www.amazon.com/s?k=Random+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 55, "title": "Passions in Death", "amazon_url": "https://www.amazon.com/s?k=Passions+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 56, "title": "Foundation in Death", "amazon_url": "https://www.amazon.com/s?k=Foundation+in+Death+Robb&tag=jacketlist-20" },
-          { "position": 57, "title": "Vendetta in Death", "amazon_url": "https://www.amazon.com/s?k=Vendetta+in+Death+Robb&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Naked in Death",
+            "note": "Must be read in publication order — Eve and Roarke's relationship arc spans the entire series.",
+            "amazon_url": "https://www.amazon.com/s?k=Naked+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Glory in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Glory+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Immortal in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Immortal+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Rapture in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Rapture+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Ceremony in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Ceremony+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Vengeance in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Vengeance+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Holiday in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Holiday+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Conspiracy in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Conspiracy+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Loyalty in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Loyalty+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "Witness in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Witness+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "Judgment in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Judgment+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 12,
+            "title": "Betrayal in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Betrayal+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 13,
+            "title": "Seduction in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Seduction+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 14,
+            "title": "Reunion in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Reunion+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 15,
+            "title": "Purity in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Purity+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 16,
+            "title": "Portrait in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Portrait+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 17,
+            "title": "Imitation in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Imitation+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 18,
+            "title": "Divided in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Divided+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 19,
+            "title": "Visions in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Visions+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 20,
+            "title": "Survivor in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Survivor+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 21,
+            "title": "Origin in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Origin+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 22,
+            "title": "Memory in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Memory+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 23,
+            "title": "Born in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Born+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 24,
+            "title": "Innocent in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Innocent+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 25,
+            "title": "Creation in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Creation+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 26,
+            "title": "Strangers in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Strangers+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 27,
+            "title": "Salvation in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Salvation+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 28,
+            "title": "Promises in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Promises+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 29,
+            "title": "Kindred in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Kindred+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 30,
+            "title": "Fantasy in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Fantasy+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 31,
+            "title": "Indulgence in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Indulgence+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 32,
+            "title": "Treachery in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Treachery+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 33,
+            "title": "New York to Dallas",
+            "amazon_url": "https://www.amazon.com/s?k=New+York+to+Dallas+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 34,
+            "title": "Celebrity in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Celebrity+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 35,
+            "title": "Delusion in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Delusion+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 36,
+            "title": "Calculated in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Calculated+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 37,
+            "title": "Thankless in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Thankless+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 38,
+            "title": "Concealed in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Concealed+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 39,
+            "title": "Festive in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Festive+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 40,
+            "title": "Obsession in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Obsession+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 41,
+            "title": "Devoted in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Devoted+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 42,
+            "title": "Brotherhood in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Brotherhood+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 43,
+            "title": "Apprentice in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Apprentice+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 44,
+            "title": "Echoes in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Echoes+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 45,
+            "title": "Secrets in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Secrets+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 46,
+            "title": "Dark in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Dark+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 47,
+            "title": "Leverage in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Leverage+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 48,
+            "title": "Connections in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Connections+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 49,
+            "title": "Forgotten in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Forgotten+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 50,
+            "title": "Abandoned in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Abandoned+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 51,
+            "title": "Desperation in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Desperation+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 52,
+            "title": "Encore in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Encore+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 53,
+            "title": "Payback in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Payback+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 54,
+            "title": "Random in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Random+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 55,
+            "title": "Passions in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Passions+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 56,
+            "title": "Foundation in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Foundation+in+Death+Robb&tag=jacketlist-20"
+          },
+          {
+            "position": 57,
+            "title": "Vendetta in Death",
+            "amazon_url": "https://www.amazon.com/s?k=Vendetta+in+Death+Robb&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -17518,36 +18559,131 @@
       "id": "fever",
       "title": "Fever",
       "author": "Karen Marie Moning",
-      "genres": ["Fantasy", "Romance"],
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
       "total_books": 11,
       "currently_on_bestseller_list": false,
       "description": "MacKayla Lane goes to Dublin to investigate her sister's murder and stumbles into a hidden war between humans and the ancient, deadly Fae. Moning's series is dark, addictive urban fantasy — the first five books follow Mac's arc and rank among the most compulsively readable in the genre.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "Darkfever", "amazon_url": "https://www.amazon.com/s?k=Darkfever+Moning&tag=jacketlist-20" },
-          { "position": 2, "title": "Bloodfever", "amazon_url": "https://www.amazon.com/s?k=Bloodfever+Moning&tag=jacketlist-20" },
-          { "position": 3, "title": "Faefever", "amazon_url": "https://www.amazon.com/s?k=Faefever+Moning&tag=jacketlist-20" },
-          { "position": 4, "title": "Dreamfever", "amazon_url": "https://www.amazon.com/s?k=Dreamfever+Moning&tag=jacketlist-20" },
-          { "position": 5, "title": "Shadowfever", "amazon_url": "https://www.amazon.com/s?k=Shadowfever+Moning&tag=jacketlist-20" },
-          { "position": 6, "title": "Iced", "note": "Shifts focus to a new protagonist — Dani O'Malley.", "amazon_url": "https://www.amazon.com/s?k=Iced+Moning+Fever&tag=jacketlist-20" },
-          { "position": 7, "title": "Burned", "amazon_url": "https://www.amazon.com/s?k=Burned+Moning+Fever&tag=jacketlist-20" },
-          { "position": 8, "title": "Feverborn", "amazon_url": "https://www.amazon.com/s?k=Feverborn+Moning&tag=jacketlist-20" },
-          { "position": 9, "title": "Feversong", "amazon_url": "https://www.amazon.com/s?k=Feversong+Moning&tag=jacketlist-20" },
-          { "position": 10, "title": "High Voltage", "amazon_url": "https://www.amazon.com/s?k=High+Voltage+Moning&tag=jacketlist-20" },
-          { "position": 11, "title": "Kingdom of Shadow and Light", "amazon_url": "https://www.amazon.com/s?k=Kingdom+of+Shadow+and+Light+Moning&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Darkfever",
+            "amazon_url": "https://www.amazon.com/s?k=Darkfever+Moning&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Bloodfever",
+            "amazon_url": "https://www.amazon.com/s?k=Bloodfever+Moning&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Faefever",
+            "amazon_url": "https://www.amazon.com/s?k=Faefever+Moning&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Dreamfever",
+            "amazon_url": "https://www.amazon.com/s?k=Dreamfever+Moning&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Shadowfever",
+            "amazon_url": "https://www.amazon.com/s?k=Shadowfever+Moning&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Iced",
+            "note": "Shifts focus to a new protagonist — Dani O'Malley.",
+            "amazon_url": "https://www.amazon.com/s?k=Iced+Moning+Fever&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Burned",
+            "amazon_url": "https://www.amazon.com/s?k=Burned+Moning+Fever&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Feverborn",
+            "amazon_url": "https://www.amazon.com/s?k=Feverborn+Moning&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Feversong",
+            "amazon_url": "https://www.amazon.com/s?k=Feversong+Moning&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "High Voltage",
+            "amazon_url": "https://www.amazon.com/s?k=High+Voltage+Moning&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "Kingdom of Shadow and Light",
+            "amazon_url": "https://www.amazon.com/s?k=Kingdom+of+Shadow+and+Light+Moning&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "Darkfever", "note": "Start here — the Mac arc (books 1–5) is the essential core of the series.", "amazon_url": "https://www.amazon.com/s?k=Darkfever+Moning&tag=jacketlist-20" },
-          { "position": 2, "title": "Bloodfever", "amazon_url": "https://www.amazon.com/s?k=Bloodfever+Moning&tag=jacketlist-20" },
-          { "position": 3, "title": "Faefever", "amazon_url": "https://www.amazon.com/s?k=Faefever+Moning&tag=jacketlist-20" },
-          { "position": 4, "title": "Dreamfever", "amazon_url": "https://www.amazon.com/s?k=Dreamfever+Moning&tag=jacketlist-20" },
-          { "position": 5, "title": "Shadowfever", "note": "Concludes Mac's arc — many readers stop here.", "amazon_url": "https://www.amazon.com/s?k=Shadowfever+Moning&tag=jacketlist-20" },
-          { "position": 6, "title": "Iced", "note": "Shifts focus to Dani O'Malley.", "amazon_url": "https://www.amazon.com/s?k=Iced+Moning+Fever&tag=jacketlist-20" },
-          { "position": 7, "title": "Burned", "amazon_url": "https://www.amazon.com/s?k=Burned+Moning+Fever&tag=jacketlist-20" },
-          { "position": 8, "title": "Feverborn", "amazon_url": "https://www.amazon.com/s?k=Feverborn+Moning&tag=jacketlist-20" },
-          { "position": 9, "title": "Feversong", "amazon_url": "https://www.amazon.com/s?k=Feversong+Moning&tag=jacketlist-20" },
-          { "position": 10, "title": "High Voltage", "amazon_url": "https://www.amazon.com/s?k=High+Voltage+Moning&tag=jacketlist-20" },
-          { "position": 11, "title": "Kingdom of Shadow and Light", "amazon_url": "https://www.amazon.com/s?k=Kingdom+of+Shadow+and+Light+Moning&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "Darkfever",
+            "note": "Start here — the Mac arc (books 1–5) is the essential core of the series.",
+            "amazon_url": "https://www.amazon.com/s?k=Darkfever+Moning&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Bloodfever",
+            "amazon_url": "https://www.amazon.com/s?k=Bloodfever+Moning&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Faefever",
+            "amazon_url": "https://www.amazon.com/s?k=Faefever+Moning&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Dreamfever",
+            "amazon_url": "https://www.amazon.com/s?k=Dreamfever+Moning&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Shadowfever",
+            "note": "Concludes Mac's arc — many readers stop here.",
+            "amazon_url": "https://www.amazon.com/s?k=Shadowfever+Moning&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "Iced",
+            "note": "Shifts focus to Dani O'Malley.",
+            "amazon_url": "https://www.amazon.com/s?k=Iced+Moning+Fever&tag=jacketlist-20"
+          },
+          {
+            "position": 7,
+            "title": "Burned",
+            "amazon_url": "https://www.amazon.com/s?k=Burned+Moning+Fever&tag=jacketlist-20"
+          },
+          {
+            "position": 8,
+            "title": "Feverborn",
+            "amazon_url": "https://www.amazon.com/s?k=Feverborn+Moning&tag=jacketlist-20"
+          },
+          {
+            "position": 9,
+            "title": "Feversong",
+            "amazon_url": "https://www.amazon.com/s?k=Feversong+Moning&tag=jacketlist-20"
+          },
+          {
+            "position": 10,
+            "title": "High Voltage",
+            "amazon_url": "https://www.amazon.com/s?k=High+Voltage+Moning&tag=jacketlist-20"
+          },
+          {
+            "position": 11,
+            "title": "Kingdom of Shadow and Light",
+            "amazon_url": "https://www.amazon.com/s?k=Kingdom+of+Shadow+and+Light+Moning&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -17555,26 +18691,78 @@
       "id": "masters-of-rome",
       "title": "Masters of Rome",
       "author": "Colleen McCullough",
-      "genres": ["Historical Fiction"],
+      "genres": [
+        "Historical Fiction"
+      ],
       "total_books": 6,
       "currently_on_bestseller_list": false,
       "description": "The definitive fictional account of the fall of the Roman Republic — from Marius and Sulla through Julius Caesar to Mark Antony. McCullough's meticulous research and vast cast of characters make this the most authoritative and immersive series ever written about ancient Rome.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "The First Man in Rome", "note": "Begin here — introduces the world of the late Republic through Marius and Sulla.", "amazon_url": "https://www.amazon.com/s?k=The+First+Man+in+Rome+McCullough&tag=jacketlist-20" },
-          { "position": 2, "title": "The Grass Crown", "amazon_url": "https://www.amazon.com/s?k=The+Grass+Crown+McCullough&tag=jacketlist-20" },
-          { "position": 3, "title": "Fortune's Favourites", "amazon_url": "https://www.amazon.com/s?k=Fortune%27s+Favourites+McCullough&tag=jacketlist-20" },
-          { "position": 4, "title": "Caesar's Women", "amazon_url": "https://www.amazon.com/s?k=Caesar%27s+Women+McCullough&tag=jacketlist-20" },
-          { "position": 5, "title": "Caesar", "amazon_url": "https://www.amazon.com/s?k=Caesar+McCullough+Rome&tag=jacketlist-20" },
-          { "position": 6, "title": "The October Horse", "amazon_url": "https://www.amazon.com/s?k=The+October+Horse+McCullough&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The First Man in Rome",
+            "note": "Begin here — introduces the world of the late Republic through Marius and Sulla.",
+            "amazon_url": "https://www.amazon.com/s?k=The+First+Man+in+Rome+McCullough&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Grass Crown",
+            "amazon_url": "https://www.amazon.com/s?k=The+Grass+Crown+McCullough&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Fortune's Favourites",
+            "amazon_url": "https://www.amazon.com/s?k=Fortune%27s+Favourites+McCullough&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Caesar's Women",
+            "amazon_url": "https://www.amazon.com/s?k=Caesar%27s+Women+McCullough&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Caesar",
+            "amazon_url": "https://www.amazon.com/s?k=Caesar+McCullough+Rome&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The October Horse",
+            "amazon_url": "https://www.amazon.com/s?k=The+October+Horse+McCullough&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "The First Man in Rome", "note": "Must be read in order — each book builds directly on the last.", "amazon_url": "https://www.amazon.com/s?k=The+First+Man+in+Rome+McCullough&tag=jacketlist-20" },
-          { "position": 2, "title": "The Grass Crown", "amazon_url": "https://www.amazon.com/s?k=The+Grass+Crown+McCullough&tag=jacketlist-20" },
-          { "position": 3, "title": "Fortune's Favourites", "amazon_url": "https://www.amazon.com/s?k=Fortune%27s+Favourites+McCullough&tag=jacketlist-20" },
-          { "position": 4, "title": "Caesar's Women", "amazon_url": "https://www.amazon.com/s?k=Caesar%27s+Women+McCullough&tag=jacketlist-20" },
-          { "position": 5, "title": "Caesar", "amazon_url": "https://www.amazon.com/s?k=Caesar+McCullough+Rome&tag=jacketlist-20" },
-          { "position": 6, "title": "The October Horse", "amazon_url": "https://www.amazon.com/s?k=The+October+Horse+McCullough&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The First Man in Rome",
+            "note": "Must be read in order — each book builds directly on the last.",
+            "amazon_url": "https://www.amazon.com/s?k=The+First+Man+in+Rome+McCullough&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "The Grass Crown",
+            "amazon_url": "https://www.amazon.com/s?k=The+Grass+Crown+McCullough&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Fortune's Favourites",
+            "amazon_url": "https://www.amazon.com/s?k=Fortune%27s+Favourites+McCullough&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Caesar's Women",
+            "amazon_url": "https://www.amazon.com/s?k=Caesar%27s+Women+McCullough&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "Caesar",
+            "amazon_url": "https://www.amazon.com/s?k=Caesar+McCullough+Rome&tag=jacketlist-20"
+          },
+          {
+            "position": 6,
+            "title": "The October Horse",
+            "amazon_url": "https://www.amazon.com/s?k=The+October+Horse+McCullough&tag=jacketlist-20"
+          }
         ]
       }
     },
@@ -17582,24 +18770,190 @@
       "id": "cazalet-chronicle",
       "title": "The Cazalet Chronicle",
       "author": "Elizabeth Jane Howard",
-      "genres": ["Historical Fiction", "Literary Fiction"],
+      "genres": [
+        "Historical Fiction",
+        "Literary Fiction"
+      ],
       "total_books": 5,
       "currently_on_bestseller_list": false,
       "description": "Following the Cazalet family through the Second World War and its aftermath, Howard's chronicle is one of the great unsung masterpieces of English fiction — intimate, perceptive, and devastating in its portrait of class, marriage, and the hidden lives of women. Highly recommended by readers who loved Downton Abbey.",
       "orders": {
         "chronological": [
-          { "position": 1, "title": "The Light Years", "note": "Must be read in order — a continuous family saga.", "amazon_url": "https://www.amazon.com/s?k=The+Light+Years+Elizabeth+Jane+Howard&tag=jacketlist-20" },
-          { "position": 2, "title": "Marking Time", "amazon_url": "https://www.amazon.com/s?k=Marking+Time+Elizabeth+Jane+Howard&tag=jacketlist-20" },
-          { "position": 3, "title": "Confusion", "amazon_url": "https://www.amazon.com/s?k=Confusion+Elizabeth+Jane+Howard+Cazalet&tag=jacketlist-20" },
-          { "position": 4, "title": "Casting Off", "amazon_url": "https://www.amazon.com/s?k=Casting+Off+Elizabeth+Jane+Howard&tag=jacketlist-20" },
-          { "position": 5, "title": "All Change", "note": "Written 18 years after Casting Off — a moving finale.", "amazon_url": "https://www.amazon.com/s?k=All+Change+Elizabeth+Jane+Howard+Cazalet&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Light Years",
+            "note": "Must be read in order — a continuous family saga.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Light+Years+Elizabeth+Jane+Howard&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Marking Time",
+            "amazon_url": "https://www.amazon.com/s?k=Marking+Time+Elizabeth+Jane+Howard&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Confusion",
+            "amazon_url": "https://www.amazon.com/s?k=Confusion+Elizabeth+Jane+Howard+Cazalet&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Casting Off",
+            "amazon_url": "https://www.amazon.com/s?k=Casting+Off+Elizabeth+Jane+Howard&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "All Change",
+            "note": "Written 18 years after Casting Off — a moving finale.",
+            "amazon_url": "https://www.amazon.com/s?k=All+Change+Elizabeth+Jane+Howard+Cazalet&tag=jacketlist-20"
+          }
         ],
         "authors_recommended": [
-          { "position": 1, "title": "The Light Years", "note": "Must be read in order — a continuous family saga.", "amazon_url": "https://www.amazon.com/s?k=The+Light+Years+Elizabeth+Jane+Howard&tag=jacketlist-20" },
-          { "position": 2, "title": "Marking Time", "amazon_url": "https://www.amazon.com/s?k=Marking+Time+Elizabeth+Jane+Howard&tag=jacketlist-20" },
-          { "position": 3, "title": "Confusion", "amazon_url": "https://www.amazon.com/s?k=Confusion+Elizabeth+Jane+Howard+Cazalet&tag=jacketlist-20" },
-          { "position": 4, "title": "Casting Off", "amazon_url": "https://www.amazon.com/s?k=Casting+Off+Elizabeth+Jane+Howard&tag=jacketlist-20" },
-          { "position": 5, "title": "All Change", "note": "Written 18 years after Casting Off — a moving finale.", "amazon_url": "https://www.amazon.com/s?k=All+Change+Elizabeth+Jane+Howard+Cazalet&tag=jacketlist-20" }
+          {
+            "position": 1,
+            "title": "The Light Years",
+            "note": "Must be read in order — a continuous family saga.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Light+Years+Elizabeth+Jane+Howard&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Marking Time",
+            "amazon_url": "https://www.amazon.com/s?k=Marking+Time+Elizabeth+Jane+Howard&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "Confusion",
+            "amazon_url": "https://www.amazon.com/s?k=Confusion+Elizabeth+Jane+Howard+Cazalet&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Casting Off",
+            "amazon_url": "https://www.amazon.com/s?k=Casting+Off+Elizabeth+Jane+Howard&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "All Change",
+            "note": "Written 18 years after Casting Off — a moving finale.",
+            "amazon_url": "https://www.amazon.com/s?k=All+Change+Elizabeth+Jane+Howard+Cazalet&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "renee-ballard",
+      "title": "Renée Ballard",
+      "author": "Michael Connelly",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "total_books": 5,
+      "currently_on_bestseller_list": false,
+      "latest_book": {
+        "title": "The Waiting",
+        "release_date": "2024-10-15"
+      },
+      "description": "LAPD detective Renée Ballard works the midnight shift in Hollywood Division, catching cases that come in overnight — and often refuses to let them go when morning comes.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "The Late Show",
+            "amazon_url": "https://www.amazon.com/s?k=The+Late+Show+Renee+Ballard+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "Dark Sacred Night",
+            "note": "Crossover with Harry Bosch.",
+            "amazon_url": "https://www.amazon.com/s?k=Dark+Sacred+Night+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Night Fire",
+            "note": "Crossover with Harry Bosch.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Night+Fire+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Desert Star",
+            "note": "Crossover with Harry Bosch.",
+            "amazon_url": "https://www.amazon.com/s?k=Desert+Star+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Waiting",
+            "amazon_url": "https://www.amazon.com/s?k=The+Waiting+Michael+Connelly+Ballard&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "The Late Show",
+            "amazon_url": "https://www.amazon.com/s?k=The+Late+Show+Renee+Ballard+Connelly&tag=jacketlist-20",
+            "note": "Start here — introduces Ballard and her beat."
+          },
+          {
+            "position": 2,
+            "title": "Dark Sacred Night",
+            "note": "Crossover with Harry Bosch.",
+            "amazon_url": "https://www.amazon.com/s?k=Dark+Sacred+Night+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 3,
+            "title": "The Night Fire",
+            "note": "Crossover with Harry Bosch.",
+            "amazon_url": "https://www.amazon.com/s?k=The+Night+Fire+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 4,
+            "title": "Desert Star",
+            "note": "Crossover with Harry Bosch.",
+            "amazon_url": "https://www.amazon.com/s?k=Desert+Star+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 5,
+            "title": "The Waiting",
+            "amazon_url": "https://www.amazon.com/s?k=The+Waiting+Michael+Connelly+Ballard&tag=jacketlist-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "terry-mccaleb",
+      "title": "Terry McCaleb",
+      "author": "Michael Connelly",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "total_books": 2,
+      "currently_on_bestseller_list": false,
+      "description": "Retired FBI profiler Terry McCaleb, living on a boat after a heart transplant, is pulled back into detective work when the donor's murder goes unsolved.",
+      "orders": {
+        "chronological": [
+          {
+            "position": 1,
+            "title": "Blood Work",
+            "amazon_url": "https://www.amazon.com/s?k=Blood+Work+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "A Darkness More Than Night",
+            "note": "Crossover with Harry Bosch.",
+            "amazon_url": "https://www.amazon.com/s?k=A+Darkness+More+Than+Night+Connelly&tag=jacketlist-20"
+          }
+        ],
+        "authors_recommended": [
+          {
+            "position": 1,
+            "title": "Blood Work",
+            "amazon_url": "https://www.amazon.com/s?k=Blood+Work+Michael+Connelly&tag=jacketlist-20"
+          },
+          {
+            "position": 2,
+            "title": "A Darkness More Than Night",
+            "note": "Crossover with Harry Bosch.",
+            "amazon_url": "https://www.amazon.com/s?k=A+Darkness+More+Than+Night+Connelly&tag=jacketlist-20"
+          }
         ]
       }
     }
