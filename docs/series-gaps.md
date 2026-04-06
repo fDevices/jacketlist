@@ -3,6 +3,8 @@
 Notable series missing from `series.json`, organised by genre. Check a box when the series has been added.
 
 ## Thriller / Spy
+- [x] James Bond (Ian Fleming) ✅
+- [x] John Rain (Barry Eisler) ✅
 - [ ] Gabriel Allon (Daniel Silva) — 24-book spy thriller, consistently NYT #1
 - [ ] Scot Harvath (Brad Thor) — 23 books
 - [ ] Cotton Malone (Steve Berry) — 19 books
@@ -18,19 +20,20 @@ Notable series missing from `series.json`, organised by genre. Check a box when 
 - [ ] Cadfael (Ellis Peters) — classic historical mystery
 
 ## Romance
-- [ ] Bridgerton (Julia Quinn) — Netflix adaptation, major gap
-- [ ] In Death / J.D. Robb (Nora Roberts) — 58 books, long-running
+- [x] Bridgerton (Julia Quinn) — Netflix adaptation ✅
+- [x] In Death / J.D. Robb (Nora Roberts) — 57 books ✅
 - [ ] Virgin River (Robyn Carr) — 22 books, Netflix show
 - [ ] Twisted (Ana Huang) — currently very popular
 
 ## Historical Fiction
 - [ ] Wolf Hall (Hilary Mantel) — Booker Prize winner
-- [ ] Kingsbridge / Pillars of the Earth (Ken Follett) — major bestseller
+- [x] Kingsbridge / Pillars of the Earth (Ken Follett) ✅
 - [ ] Sharpe (Bernard Cornwell) — more famous than Saxon Stories
 - [ ] Hornblower (C.S. Forester) — classic naval fiction
 
 ## Literary Fiction
-- [ ] Neapolitan Novels (Elena Ferrante) — huge international bestseller
+- [x] Neapolitan Novels (Elena Ferrante) ✅
+- [x] Patrick Melrose (Edward St. Aubyn) — added alongside Ferrante ✅
 
 ## Children's
 - [ ] Redwall (Brian Jacques) — 22 books, beloved classic

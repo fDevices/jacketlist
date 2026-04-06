@@ -19,9 +19,10 @@ Format: `Series Name — Author (Genre)`
 - ~~Six of Crows — Leigh Bardugo~~ ✅
 - ~~An Ember in the Ashes — Sabaa Tahir~~ ✅
 - ~~The Inheritance Cycle — Christopher Paolini~~ ✅
-- Discworld — Terry Pratchett
-- The Chronicles of Narnia — C.S. Lewis
-- Shannara — Terry Brooks
+- ~~Discworld — Terry Pratchett~~ ✅
+- ~~The Chronicles of Narnia — C.S. Lewis~~ ✅
+- ~~Shannara — Terry Brooks~~ ✅
+- ~~Fever — Karen Marie Moning~~ ✅
 
 ## Sci-Fi
 
@@ -30,9 +31,9 @@ Format: `Series Name — Author (Genre)`
 - ~~The Expanse — James S.A. Corey~~ ✅
 - ~~Red Rising — Pierce Brown~~ ✅
 - ~~Old Man's War — John Scalzi~~ ✅
-- Hyperion Cantos — Dan Simmons
-- Culture — Iain M. Banks
-- Ender's Game — Orson Scott Card
+- ~~Hyperion Cantos — Dan Simmons~~ ✅
+- ~~Culture — Iain M. Banks~~ ✅
+- ~~Ender's Game — Orson Scott Card~~ ✅
 
 ## Thriller / Crime
 
@@ -41,9 +42,9 @@ Format: `Series Name — Author (Genre)`
 - ~~Alex Cross — James Patterson~~ ✅
 - ~~Mitch Rapp — Vince Flynn~~ ✅
 - ~~Jason Bourne — Robert Ludlum~~ ✅
-- James Bond — Ian Fleming
-- Lincoln Rhyme — Jeffery Deaver
-- John Rain — Barry Eisler
+- ~~James Bond — Ian Fleming~~ ✅
+- ~~Lincoln Rhyme — Jeffery Deaver~~ ✅
+- ~~John Rain — Barry Eisler~~ ✅
 
 ## Mystery
 
@@ -56,16 +57,16 @@ Format: `Series Name — Author (Genre)`
 ## Romance
 
 - ~~It Ends with Us — Colleen Hoover~~ ✅
-- Bridgerton — Julia Quinn
-- In Death — J.D. Robb
-- Fever — Karen Marie Moning
+- ~~Bridgerton — Julia Quinn~~ ✅
+- ~~In Death — J.D. Robb~~ ✅
+- ~~Game Changers — Rachel Reid~~ ✅
 
 ## Historical Fiction
 
 - ~~Outlander — Diana Gabaldon~~ ✅
-- Pillars of the Earth — Ken Follett
-- Masters of Rome — Colleen McCullough
-- The Cazalet Chronicle — Elizabeth Jane Howard
+- ~~Kingsbridge (Pillars of the Earth) — Ken Follett~~ ✅
+- ~~Masters of Rome — Colleen McCullough~~ ✅
+- ~~The Cazalet Chronicle — Elizabeth Jane Howard~~ ✅
 
 ## Young Adult
 
@@ -74,14 +75,14 @@ Format: `Series Name — Author (Genre)`
 - ~~Divergent — Veronica Roth~~ ✅
 - ~~Percy Jackson — Rick Riordan~~ ✅
 - ~~The Mortal Instruments — Cassandra Clare~~ ✅
-- Maze Runner — James Dashner
+- ~~Maze Runner — James Dashner~~ ✅
 
 ## Horror
 
-- The Dark Tower — Stephen King
-- Memory, Sorrow and Thorn — Tad Williams
+- ~~The Dark Tower — Stephen King~~ ✅
+- ~~Memory, Sorrow and Thorn — Tad Williams~~ ✅
 
 ## Literary Fiction
 
-- Neapolitan Novels — Elena Ferrante
-- Patrick Melrose — Edward St. Aubyn
+- ~~Neapolitan Novels — Elena Ferrante~~ ✅
+- ~~Patrick Melrose — Edward St. Aubyn~~ ✅

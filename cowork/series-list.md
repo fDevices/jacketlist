@@ -49,13 +49,17 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 | Author | Series | ID |
 |--------|--------|----|
 | Eddings, David | The Belgariad | `belgariad` |
+| Eisler, Barry | John Rain | `john-rain` |
 | Erikson, Steven | The Malazan Book of the Fallen | `malazan` |
 
 ## F
 
 | Author | Series | ID |
 |--------|--------|----|
+| Ferrante, Elena | Neapolitan Novels | `neapolitan-novels` |
+| Fleming, Ian | James Bond | `james-bond` |
 | Flynn, Vince (cont. Kyle Mills) | Mitch Rapp | `mitch-rapp` |
+| Follett, Ken | Kingsbridge | `kingsbridge` |
 
 ## G
 
@@ -71,6 +75,7 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 | Herbert, Frank | Dune | `dune` |
 | Hobb, Robin | Realm of the Elderlings | `realm-of-the-elderlings` |
 | Hoover, Colleen | It Ends with Us | `it-ends-with-us` |
+| Howard, Elizabeth Jane | The Cazalet Chronicle | `cazalet-chronicle` |
 
 ## J
 
@@ -101,11 +106,13 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 | Author | Series | ID |
 |--------|--------|----|
 | Maas, Sarah J. | A Court of Thorns and Roses | `a-court-of-thorns-and-roses` |
-| Meyer, Marissa | The Lunar Chronicles | `lunar-chronicles` |
 | Maas, Sarah J. | Crescent City | `crescent-city` |
 | Maas, Sarah J. | Throne of Glass | `throne-of-glass` |
 | Martin, George R.R. | A Song of Ice and Fire | `a-song-of-ice-and-fire` |
+| McCullough, Colleen | Masters of Rome | `masters-of-rome` |
 | McFadden, Freida | The Housemaid | `the-housemaid` |
+| Meyer, Marissa | The Lunar Chronicles | `lunar-chronicles` |
+| Moning, Karen Marie | Fever | `fever` |
 
 ## N
 
@@ -129,12 +136,20 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 | Pratchett, Terry | Discworld | `discworld` |
 | Pullman, Philip | His Dark Materials | `his-dark-materials` |
 
+## Q
+
+| Author | Series | ID |
+|--------|--------|----|
+| Quinn, Julia | Bridgerton | `bridgerton` |
+
 ## R
 
 | Author | Series | ID |
 |--------|--------|----|
+| Reid, Rachel | Game Changers | `game-changers` |
 | Rice, Anne | The Vampire Chronicles | `vampire-chronicles` |
 | Riordan, Rick | Percy Jackson and the Olympians | `percy-jackson` |
+| Robb, J.D. | In Death | `in-death` |
 | Roth, Veronica | Divergent | `divergent` |
 | Rothfuss, Patrick | The Kingkiller Chronicle | `kingkiller-chronicle` |
 | Rowling, J.K. | Harry Potter | `harry-potter` |
@@ -144,12 +159,13 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 | Author | Series | ID |
 |--------|--------|----|
 | Sanderson, Brandon | Mistborn | `mistborn` |
-| Stiefvater, Maggie | The Raven Cycle | `raven-cycle` |
 | Sanderson, Brandon | The Stormlight Archive | `stormlight-archive` |
 | Sapkowski, Andrzej | The Witcher | `the-witcher` |
 | Scalzi, John | Old Man's War | `old-mans-war` |
 | Schwab, V.E. | Shades of Magic | `shades-of-magic` |
 | Score, Lucy | Knockemout | `knockemout` |
+| St. Aubyn, Edward | Patrick Melrose | `patrick-melrose` |
+| Stiefvater, Maggie | The Raven Cycle | `raven-cycle` |
 
 ## T
 
@@ -166,4 +182,4 @@ Use this as the source of truth for the `EXCLUDE_ALREADY_IN_DB` field in `series
 
 ---
 
-*64 series total. Update this file whenever a new series is merged into `series.json`.*
+*75 series total. Update this file whenever a new series is merged into `series.json`.*

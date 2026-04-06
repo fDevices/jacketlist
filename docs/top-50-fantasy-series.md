@@ -46,16 +46,16 @@ Status: ✅ = already in series.json | ⬜ = needs to be added
 | 40 | Shadow and Bone / Grishaverse | Leigh Bardugo | ✅ (Grisha Trilogy + Six of Crows) |
 | 41 | The Raven Cycle | Maggie Stiefvater | ✅ |
 | 42 | The Old Kingdom / Abhorsen | Garth Nix | ✅ |
-| 43 | Wars of Light and Shadow | Janny Wurts | ⬜ |
+| 43 | Wars of Light and Shadow | Janny Wurts | ✅ |
 | 44 | Sword of Truth | Terry Goodkind | ✅ |
 | 45 | Dragonlance Chronicles / Legends | Margaret Weis & Tracy Hickman | ✅ |
 | 46 | Riftwar Cycle | Raymond E. Feist | ✅ |
 | 47 | The Powder Mage universe | Brian McClellan | ✅ |
 | 48 | The Daevabad Trilogy | S.A. Chakraborty | ✅ |
-| 49 | The Ember Blade / Darkwater Legacy | Chris Wooding | ⬜ |
-| 50 | The Bound and the Broken | Ryan Cahill | ⬜ |
+| 49 | The Ember Blade / Darkwater Legacy | Chris Wooding | ✅ |
+| 50 | The Bound and the Broken | Ryan Cahill | ✅ |
 
 ## Summary
 
-- **In series.json:** 47 series
-- **Needs to be added:** 3 series (#43 Wars of Light and Shadow, #49 Ember Blade, #50 Bound and the Broken)
+- **In series.json:** 50 series
+- **Needs to be added:** 0 series

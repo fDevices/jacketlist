@@ -11,7 +11,8 @@
       "hook": "If the film's unreliable narrators gripped you, the book cuts even deeper.",
       "cover_url": "https://covers.openlibrary.org/b/id/8397453-M.jpg",
       "amazon_url": "https://www.amazon.com/s?k=Gone+Girl+Gillian+Flynn&tag=jacketlist-20",
-      "series_id": null
+      "series_id": null,
+      "oscars": { "status": "nominated", "note": "Nominated: Best Actress (Rosamund Pike)" }
     },
     {
       "id": "the-witcher",
@@ -23,7 +24,8 @@
       "hook": "The show barely scratches the surface of Sapkowski's richly built world.",
       "cover_url": "https://covers.openlibrary.org/b/id/8479819-M.jpg",
       "amazon_url": "https://www.amazon.com/s?k=The+Last+Wish+Sapkowski&tag=jacketlist-20",
-      "series_id": "the-witcher"
+      "series_id": "the-witcher",
+      "oscars": null
     },
     {
       "id": "big-little-lies",
@@ -35,7 +37,8 @@
       "hook": "The show is superb — the book gives you an extra layer of dark wit.",
       "cover_url": "https://covers.openlibrary.org/b/id/8228691-M.jpg",
       "amazon_url": "https://www.amazon.com/s?k=Big+Little+Lies+Liane+Moriarty&tag=jacketlist-20",
-      "series_id": null
+      "series_id": null,
+      "oscars": null
     },
     {
       "id": "the-handmaids-tale",
@@ -47,7 +50,8 @@
       "hook": "Atwood's prose is as suffocating as the world it describes.",
       "cover_url": "https://covers.openlibrary.org/b/id/8406526-M.jpg",
       "amazon_url": "https://www.amazon.com/s?k=The+Handmaids+Tale+Atwood&tag=jacketlist-20",
-      "series_id": null
+      "series_id": null,
+      "oscars": null
     },
     {
       "id": "game-of-thrones",
@@ -59,7 +63,8 @@
       "hook": "The show ended. The books haven't — and they go much further.",
       "cover_url": "https://covers.openlibrary.org/b/id/8655752-M.jpg",
       "amazon_url": "https://www.amazon.com/s?k=A+Game+of+Thrones+George+Martin&tag=jacketlist-20",
-      "series_id": "a-song-of-ice-and-fire"
+      "series_id": "a-song-of-ice-and-fire",
+      "oscars": null
     },
     {
       "id": "the-martian",
@@ -71,7 +76,8 @@
       "hook": "More jokes, more science, more survival anxiety — in the best way.",
       "cover_url": "https://covers.openlibrary.org/b/id/8219682-M.jpg",
       "amazon_url": "https://www.amazon.com/s?k=The+Martian+Andy+Weir&tag=jacketlist-20",
-      "series_id": null
+      "series_id": null,
+      "oscars": { "status": "nominated", "note": "Nominated: Best Picture (7 nominations)" }
     },
     {
       "id": "outlander",
@@ -83,7 +89,8 @@
       "hook": "Eight seasons of TV can't contain what Gabaldon packed into eight novels.",
       "cover_url": "https://covers.openlibrary.org/b/id/8408951-M.jpg",
       "amazon_url": "https://www.amazon.com/s?k=Outlander+Diana+Gabaldon&tag=jacketlist-20",
-      "series_id": "outlander"
+      "series_id": "outlander",
+      "oscars": null
     },
     {
       "id": "lord-of-the-rings",
@@ -95,7 +102,8 @@
       "hook": "Jackson's trilogy is a masterpiece — Tolkien's prose is a different kind of magic.",
       "cover_url": "https://covers.openlibrary.org/b/id/8405665-M.jpg",
       "amazon_url": "https://www.amazon.com/s?k=Lord+of+the+Rings+Tolkien&tag=jacketlist-20",
-      "series_id": "the-lord-of-the-rings"
+      "series_id": "the-lord-of-the-rings",
+      "oscars": { "status": "winner", "note": "Won 11 Oscars incl. Best Picture (Return of the King)" }
     },
     {
       "id": "sharp-objects",
@@ -107,7 +115,8 @@
       "hook": "The mini-series is haunting. Flynn's debut novel is even more unsettling.",
       "cover_url": "https://covers.openlibrary.org/b/id/8353362-M.jpg",
       "amazon_url": "https://www.amazon.com/s?k=Sharp+Objects+Gillian+Flynn&tag=jacketlist-20",
-      "series_id": null
+      "series_id": null,
+      "oscars": null
     },
     {
       "id": "dune",
@@ -119,7 +128,8 @@
       "hook": "Villeneuve captured the scale — the book captures the philosophy.",
       "cover_url": "https://covers.openlibrary.org/b/id/8474139-M.jpg",
       "amazon_url": "https://www.amazon.com/s?k=Dune+Frank+Herbert&tag=jacketlist-20",
-      "series_id": "dune"
+      "series_id": "dune",
+      "oscars": { "status": "winner", "note": "Won 6 Oscars incl. Cinematography & Score (Part One)" }
     }
   ]
 }

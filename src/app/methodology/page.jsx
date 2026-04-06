@@ -21,7 +21,7 @@ export default function MethodologyPage() {
             <li><strong className="text-on-surface">The Guardian</strong> — Weekly fiction and non-fiction charts</li>
             <li><strong className="text-on-surface">Goodreads</strong> — Most-read books across all genres</li>
             <li><strong className="text-on-surface">Amazon</strong> — Most-sold books, updated weekly</li>
-            <li><strong className="text-on-surface">USA Today</strong> — Single cross-format list of top-selling US books</li>
+            <li><strong className="text-on-surface">Ark Bokhandel</strong> — Top 10 English-language bestsellers from Norway&apos;s largest bookstore chain</li>
             <li><strong className="text-on-surface">Publishers Weekly</strong> — Fiction and non-fiction trade bestsellers</li>
             <li><strong className="text-on-surface">Audible</strong> — Most-downloaded audiobooks of the week</li>
           </ul>

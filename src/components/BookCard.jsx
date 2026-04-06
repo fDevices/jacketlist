@@ -41,7 +41,7 @@ export default function BookCard({ book, seriesMap = {}, showScore = true }) {
         {/* Score badge */}
         {showScore && badge && (
           <span className="text-xs font-label font-medium text-secondary">
-            {badge.emoji} {badge.label} · {book.score}/7 lists
+            {badge.emoji} {badge.label} · {book.score}/8 lists
           </span>
         )}
 
@@ -65,7 +65,7 @@ export default function BookCard({ book, seriesMap = {}, showScore = true }) {
             {labels.map((label) => (
               <span
                 key={label}
-                className="px-2 py-0.5 rounded-full bg-primary-container text-on-primary-container text-xs font-label"
+                className="px-2 py-0.5 rounded-full bg-secondary-container text-on-secondary-container text-xs font-label"
               >
                 {label}
               </span>

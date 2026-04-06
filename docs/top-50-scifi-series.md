@@ -17,12 +17,12 @@ Status: ✅ = already in series.json | ⬜ = needs to be added
 | 11 | Vorkosigan Saga | Lois McMaster Bujold | ✅ |
 | 12 | Old Man's War | John Scalzi | ✅ |
 | 13 | Revelation Space | Alastair Reynolds | ✅ |
-| 14 | Robot / Empire / Foundation universe | Isaac Asimov | ⬜ (related to #2 Foundation — separate entry) |
+| 14 | Robot / Empire / Foundation universe | Isaac Asimov | ✅ (added as separate Robot Series entry) |
 | 15 | Wayfarers | Becky Chambers | ✅ |
 | 16 | Commonwealth Saga / Void trilogy universe | Peter F. Hamilton | ✅ |
 | 17 | Silo | Hugh Howey | ✅ |
-| 18 | The Uplift Saga | David Brin | ⬜ |
-| 19 | The Gap Cycle | Stephen R. Donaldson | ⬜ |
+| 18 | The Uplift Saga | David Brin | ✅ |
+| 19 | The Gap Cycle | Stephen R. Donaldson | ✅ |
 | 20 | The Xenogenesis / Lilith's Brood trilogy | Octavia E. Butler | ✅ |
 | 21 | The Three-Body Problem trilogy | Liu Cixin | ✅ (same as #8) |
 | 22 | Southern Reach | Jeff VanderMeer | ✅ |
@@ -31,34 +31,34 @@ Status: ✅ = already in series.json | ⬜ = needs to be added
 | 25 | The Hainish Cycle | Ursula K. Le Guin | ✅ |
 | 26 | The Forever War universe | Joe Haldeman | ✅ |
 | 27 | The Imperial Radch | Ann Leckie | ✅ |
-| 28 | The Lost Fleet | Jack Campbell | ⬜ |
+| 28 | The Lost Fleet | Jack Campbell | ✅ |
 | 29 | Bobiverse | Dennis E. Taylor | ✅ |
 | 30 | The Final Architecture | Adrian Tchaikovsky | ✅ |
 | 31 | Children of Time series | Adrian Tchaikovsky | ✅ |
-| 32 | The Chanur novels | C.J. Cherryh | ⬜ |
-| 33 | Foreigner | C.J. Cherryh | ⬜ |
-| 34 | The Spiral Wars | Joel Shepherd | ⬜ |
-| 35 | The Polity universe | Neal Asher | ⬜ |
+| 32 | The Chanur novels | C.J. Cherryh | ✅ |
+| 33 | Foreigner | C.J. Cherryh | ✅ |
+| 34 | The Spiral Wars | Joel Shepherd | ✅ |
+| 35 | The Polity universe | Neal Asher | ✅ |
 | 36 | Honor Harrington | David Weber | ✅ |
-| 37 | Saga of Seven Suns | Kevin J. Anderson | ⬜ |
-| 38 | The Sun Eater | Christopher Ruocchio | ⬜ |
+| 37 | Saga of Seven Suns | Kevin J. Anderson | ✅ |
+| 38 | The Sun Eater | Christopher Ruocchio | ✅ |
 | 39 | The Long Earth | Terry Pratchett & Stephen Baxter | ✅ |
 | 40 | Neuromancer / Sprawl trilogy | William Gibson | ✅ |
-| 41 | The Quantum Magician universe | Derek Künsken | ⬜ |
+| 41 | The Quantum Magician universe | Derek Künsken | ✅ |
 | 42 | The Interdependency | John Scalzi | ✅ |
 | 43 | The Locked Tomb | Tamsyn Muir | ✅ |
-| 44 | The Stars Now Unclaimed / The Divide | Drew Williams | ⬜ |
-| 45 | The Luna trilogy | Ian McDonald | ⬜ |
+| 44 | The Stars Now Unclaimed / The Divide | Drew Williams | ✅ |
+| 45 | The Luna trilogy | Ian McDonald | ✅ |
 | 46 | Parable / Earthseed | Octavia E. Butler | ✅ |
-| 47 | The Salvation Sequence | Peter F. Hamilton | ⬜ |
+| 47 | The Salvation Sequence | Peter F. Hamilton | ✅ |
 | 48 | The Teixcalaan duology | Arkady Martine | ✅ |
 | 49 | Pern / Dragonriders of Pern | Anne McCaffrey | ✅ |
-| 50 | The Alliance-Union universe | C.J. Cherryh | ⬜ |
+| 50 | The Alliance-Union universe | C.J. Cherryh | ✅ |
 
 ## Summary
 
-- **In series.json:** 33 series
-- **Needs to be added:** 17 series (#14, #18, #19, #28, #32, #33, #34, #35, #37, #38, #41, #44, #45, #47, #50, plus notes below)
+- **In series.json:** 50 series
+- **Needs to be added:** 0 series
 
 ## Notes
 

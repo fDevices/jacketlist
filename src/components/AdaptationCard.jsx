@@ -1,5 +1,3 @@
-'use client';
-import { useState } from 'react';
 import Link from 'next/link';
 
 const TYPE_BADGE = {
@@ -8,35 +6,26 @@ const TYPE_BADGE = {
 };
 
 export default function AdaptationCard({ adaptation }) {
-  const [coverFailed, setCoverFailed] = useState(false);
-
   return (
-    <article className="bg-surface-container-lowest rounded-xl p-0 flex flex-col hover:[box-shadow:0_12px_40px_rgba(27,28,26,0.05)] transition-shadow duration-300">
-      {/* Cover */}
-      <div className="relative w-full aspect-[2/3] rounded-t-xl overflow-hidden bg-surface-container-low flex items-center justify-center">
-        {adaptation.cover_url && !coverFailed ? (
-          <img
-            src={adaptation.cover_url}
-            alt={adaptation.adaptation_title}
-            className="w-full h-full object-cover"
-            onError={() => setCoverFailed(true)}
-          />
-        ) : (
-          <span className="text-center text-on-surface-variant text-sm font-body px-4">
-            {adaptation.book_title}
-          </span>
-        )}
-        {/* Type badge overlay */}
-        {TYPE_BADGE[adaptation.type] && (
-          <span className="absolute top-2 left-2 px-2 py-0.5 rounded-full bg-surface-container text-on-surface-variant text-xs font-label">
-            {TYPE_BADGE[adaptation.type]}
-          </span>
-        )}
-      </div>
-
+    <article className="bg-surface-container-lowest rounded-xl flex flex-col hover:[box-shadow:0_12px_40px_rgba(27,28,26,0.05)] transition-shadow duration-300">
       {/* Metadata */}
       <div className="p-4 flex flex-col gap-3 flex-1">
         <div>
+          <div className="flex flex-wrap gap-1.5 mb-2">
+            {TYPE_BADGE[adaptation.type] && (
+              <span className="px-2 py-0.5 rounded-full bg-surface-container text-on-surface-variant text-xs font-label">
+                {TYPE_BADGE[adaptation.type]}
+              </span>
+            )}
+            {adaptation.oscars?.status === 'winner' && (
+              <span
+                className="px-2 py-0.5 rounded-full bg-secondary-container text-on-secondary-container text-xs font-label"
+                title={adaptation.oscars.note}
+              >
+                🏆 Oscar Winner
+              </span>
+            )}
+          </div>
           <h3 className="font-body font-semibold text-on-surface text-base leading-snug">
             {adaptation.book_title}
           </h3>

@@ -37,3 +37,6 @@ next-env.d.ts
 
 # git worktrees
 .worktrees/
+
+# cowork prompts containing API keys
+cowork/bestseller-prompt.md

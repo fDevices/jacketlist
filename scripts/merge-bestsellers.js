@@ -15,7 +15,7 @@ const { writeFileSync, readFileSync } = require('fs');
 const { resolve } = require('path');
 
 const DATA_DIR = resolve(__dirname, '../src/data');
-const SOURCES = ['nyt', 'goodreads', 'audible', 'publishersweekly', 'amazon', 'guardian', 'usatoday'];
+const SOURCES = ['nyt', 'goodreads', 'audible', 'publishersweekly', 'amazon', 'guardian', 'usatoday', 'indiebound'];
 const STALE_DAYS = 7;
 const DRY_RUN = process.argv.includes('--dry-run');
 
