@@ -2,17 +2,17 @@
   "source": "guardian",
   "label": "The Guardian Best Sellers",
   "url": "https://www.theguardian.com/books/bestsellers",
-  "updated": "2026-03-22",
+  "updated": "2026-04-13",
   "books": [
-    { "position": 1, "title": "The Correspondent", "author": "Virginia Evans", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Correspondent+Virginia+Evans&tag=jacketlist-20" },
-    { "position": 2, "title": "Kin", "author": "Tayari Jones", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Kin+Tayari+Jones&tag=jacketlist-20" },
-    { "position": 3, "title": "Heart the Lover", "author": "Lily King", "cover_url": "https://covers.openlibrary.org/b/id/15143628-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Heart+the+Lover+Lily+King&tag=jacketlist-20" },
-    { "position": 4, "title": "Judge Stone", "author": "Viola Davis and James Patterson", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Judge+Stone+Viola+Davis+James+Patterson&tag=jacketlist-20" },
-    { "position": 5, "title": "Between Two Fires", "author": "Christopher Buehlman", "cover_url": "https://covers.openlibrary.org/b/id/8441116-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Between+Two+Fires+Christopher+Buehlman&tag=jacketlist-20" },
-    { "position": 6, "title": "My Husband's Wife", "author": "Alice Feeney", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=My+Husband%27s+Wife+Alice+Feeney&tag=jacketlist-20" },
-    { "position": 7, "title": "Alchemised", "author": "SenLinYu", "cover_url": "https://covers.openlibrary.org/b/id/15162548-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Alchemised+SenLinYu&tag=jacketlist-20" },
-    { "position": 8, "title": "The Widow", "author": "John Grisham", "cover_url": "https://covers.openlibrary.org/b/id/15138476-M.jpg", "amazon_url": "https://www.amazon.com/s?k=The+Widow+John+Grisham&tag=jacketlist-20" },
-    { "position": 9, "title": "The Wedding People", "author": "Alison Espach", "cover_url": "https://covers.openlibrary.org/b/id/15127690-M.jpg", "amazon_url": "https://www.amazon.com/s?k=The+Wedding+People+Alison+Espach&tag=jacketlist-20" },
-    { "position": 10, "title": "Atmosphere", "author": "Taylor Jenkins Reid", "cover_url": "https://covers.openlibrary.org/b/id/15098710-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Atmosphere+Taylor+Jenkins+Reid&tag=jacketlist-20" }
+    { "position": 1, "title": "This Kingdom Will Not Kill Me", "author": "Ilona Andrews", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=This+Kingdom+Will+Not+Kill+Me+Ilona+Andrews&tag=jacketlist-20" },
+    { "position": 2, "title": "Starside", "author": "Alex Aster", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Starside+Alex+Aster&tag=jacketlist-20" },
+    { "position": 3, "title": "Betrayal", "author": "Tom Bower", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Betrayal+Tom+Bower&tag=jacketlist-20" },
+    { "position": 4, "title": "News from Dublin", "author": "Colm Tóibín", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=News+from+Dublin+Colm+Toibin&tag=jacketlist-20" },
+    { "position": 5, "title": "It's Not What You Think", "author": "Clare Mackintosh", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=It%27s+Not+What+You+Think+Clare+Mackintosh&tag=jacketlist-20" },
+    { "position": 6, "title": "Enough Said", "author": "Alan Bennett", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Enough+Said+Alan+Bennett&tag=jacketlist-20" },
+    { "position": 7, "title": "Rasputin", "author": "Antony Beevor", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Rasputin+Antony+Beevor&tag=jacketlist-20" },
+    { "position": 8, "title": "The Correspondent", "author": "Virginia Evans", "cover_url": "https://static01.nyt.com/bestsellers/images/9780593798430.jpg", "amazon_url": "https://www.amazon.com/s?k=The+Correspondent+Virginia+Evans&tag=jacketlist-20" },
+    { "position": 9, "title": "Always Remember", "author": "Charlie Mackesy", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Always+Remember+Charlie+Mackesy&tag=jacketlist-20" },
+    { "position": 10, "title": "The Let Them Theory", "author": "Mel Robbins", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Let+Them+Theory+Mel+Robbins&tag=jacketlist-20" }
   ]
 }

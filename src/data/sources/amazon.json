@@ -1,18 +1,18 @@
 {
   "source": "amazon",
   "label": "Amazon Best Sellers",
-  "url": "https://www.amazon.com/Best-Sellers-Books-Literature-Fiction/zgbs/books/17",
-  "updated": "2026-04-06",
+  "url": "https://www.amazon.com/charts/mostread/books",
+  "updated": "2026-04-13",
   "books": [
-    { "position": 1, "title": "The Dinner Party", "author": "Freida McFadden", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Dinner+Party+Freida+McFadden&tag=jacketlist-20" },
-    { "position": 2, "title": "Project Hail Mary", "author": "Andy Weir", "cover_url": "https://covers.openlibrary.org/b/id/11200092-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Project+Hail+Mary+Andy+Weir&tag=jacketlist-20" },
-    { "position": 3, "title": "The Price of Honey", "author": "Liane Moriarty", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Price+of+Honey+Liane+Moriarty&tag=jacketlist-20" },
-    { "position": 4, "title": "Dear Debbie", "author": "Freida McFadden", "cover_url": "https://static01.nyt.com/bestsellers/images/9781464249624.jpg", "amazon_url": "https://www.amazon.com/s?k=Dear+Debbie+Freida+McFadden&tag=jacketlist-20" },
-    { "position": 5, "title": "Theo of Golden", "author": "Allen Levi", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Theo+of+Golden+Allen+Levi&tag=jacketlist-20" },
-    { "position": 6, "title": "Where the Sea Lavender Grows", "author": "Kitty Johnson", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Where+the+Sea+Lavender+Grows+Kitty+Johnson&tag=jacketlist-20" },
-    { "position": 7, "title": "Lift Me Up", "author": "Milly Johnson", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Lift+Me+Up+Milly+Johnson&tag=jacketlist-20" },
-    { "position": 8, "title": "The Tenth Circle", "author": "Jodi Picoult", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Tenth+Circle+Jodi+Picoult&tag=jacketlist-20" },
-    { "position": 9, "title": "The Correspondent", "author": "Virginia Evans", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Correspondent+Virginia+Evans&tag=jacketlist-20" },
-    { "position": 10, "title": "Wake-Up Calls", "author": "Mariah Stewart", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Wake-Up+Calls+Mariah+Stewart&tag=jacketlist-20" }
+    { "position": 1, "title": "Project Hail Mary", "author": "Andy Weir", "cover_url": "https://covers.openlibrary.org/b/id/11200092-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Project+Hail+Mary+Andy+Weir&tag=jacketlist-20" },
+    { "position": 2, "title": "Harry Potter and the Order of the Phoenix", "author": "J.K. Rowling", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Order+Phoenix+Rowling&tag=jacketlist-20" },
+    { "position": 3, "title": "Theo of Golden", "author": "Allen Levi", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Theo+of+Golden+Allen+Levi&tag=jacketlist-20" },
+    { "position": 4, "title": "Harry Potter and the Sorcerer's Stone", "author": "J.K. Rowling", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Sorcerers+Stone+Rowling&tag=jacketlist-20" },
+    { "position": 5, "title": "Harry Potter and the Goblet of Fire", "author": "J.K. Rowling", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Goblet+Fire+Rowling&tag=jacketlist-20" },
+    { "position": 6, "title": "Dungeon Crawler Carl", "author": "Matt Dinniman", "cover_url": "https://covers.openlibrary.org/b/id/15143022-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Dungeon+Crawler+Carl+Matt+Dinniman&tag=jacketlist-20" },
+    { "position": 7, "title": "The Correspondent", "author": "Virginia Evans", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Correspondent+Virginia+Evans&tag=jacketlist-20" },
+    { "position": 8, "title": "Harry Potter and the Prisoner of Azkaban", "author": "J.K. Rowling", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Prisoner+Azkaban+Rowling&tag=jacketlist-20" },
+    { "position": 9, "title": "Harry Potter and the Chamber of Secrets", "author": "J.K. Rowling", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Chamber+Secrets+Rowling&tag=jacketlist-20" },
+    { "position": 10, "title": "Dear Debbie", "author": "Freida McFadden", "cover_url": "https://static01.nyt.com/bestsellers/images/9781464249624.jpg", "amazon_url": "https://www.amazon.com/s?k=Dear+Debbie+Freida+McFadden&tag=jacketlist-20" }
   ]
 }

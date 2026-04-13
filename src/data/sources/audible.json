@@ -1,18 +1,18 @@
 {
   "source": "audible",
   "label": "Audible Best Sellers",
-  "url": "https://www.audible.com/adblbestsellers",
-  "updated": "2026-04-06",
+  "url": "https://www.audible.com/ep/best-sellers",
+  "updated": "2026-04-13",
   "books": [
-    { "position": 1, "title": "Project Hail Mary", "author": "Andy Weir", "cover_url": "https://m.media-amazon.com/images/I/51POf8gOyLL._SL500_.jpg", "amazon_url": "https://www.amazon.com/s?k=Project+Hail+Mary+Andy+Weir&tag=jacketlist-20" },
-    { "position": 2, "title": "Dungeon Crawler Carl", "author": "Matt Dinniman", "cover_url": "https://m.media-amazon.com/images/I/51HIZdnqASL._SL500_.jpg", "amazon_url": "https://www.amazon.com/s?k=Dungeon+Crawler+Carl+Matt+Dinniman&tag=jacketlist-20" },
-    { "position": 3, "title": "The Eye of the Bedlam Bride", "author": "Matt Dinniman", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Eye+of+the+Bedlam+Bride+Matt+Dinniman&tag=jacketlist-20" },
-    { "position": 4, "title": "Theo of Golden", "author": "Allen Levi", "cover_url": "https://m.media-amazon.com/images/I/41Ae9ByqjqL._SL500_.jpg", "amazon_url": "https://www.amazon.com/s?k=Theo+of+Golden+Allen+Levi&tag=jacketlist-20" },
-    { "position": 5, "title": "Game On", "author": "Navessa Allen", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Game+On+Navessa+Allen&tag=jacketlist-20" },
-    { "position": 6, "title": "The Butcher's Masquerade", "author": "Matt Dinniman", "cover_url": "https://m.media-amazon.com/images/I/51kOQeaXbAL._SL500_.jpg", "amazon_url": "https://www.amazon.com/s?k=The+Butcher%27s+Masquerade+Matt+Dinniman&tag=jacketlist-20" },
-    { "position": 7, "title": "The Gate of the Feral Gods", "author": "Matt Dinniman", "cover_url": "https://m.media-amazon.com/images/I/51rmyTTWPsL._SL500_.jpg", "amazon_url": "https://www.amazon.com/s?k=The+Gate+of+the+Feral+Gods+Matt+Dinniman&tag=jacketlist-20" },
-    { "position": 8, "title": "Carl's Doomsday Scenario", "author": "Matt Dinniman", "cover_url": "https://m.media-amazon.com/images/I/51e1PKKdv8L._SL500_.jpg", "amazon_url": "https://www.amazon.com/s?k=Carl%27s+Doomsday+Scenario+Matt+Dinniman&tag=jacketlist-20" },
-    { "position": 9, "title": "The Dungeon Anarchist's Cookbook", "author": "Matt Dinniman", "cover_url": "https://m.media-amazon.com/images/I/518nfG1FaYL._SL500_.jpg", "amazon_url": "https://www.amazon.com/s?k=The+Dungeon+Anarchist%27s+Cookbook+Matt+Dinniman&tag=jacketlist-20" },
-    { "position": 10, "title": "Strangers", "author": "Belle Burden", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Strangers+Belle+Burden&tag=jacketlist-20" }
+    { "position": 1, "title": "Harry Potter and the Philosopher's Stone", "author": "J.K. Rowling", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Sorcerers+Stone+Rowling&tag=jacketlist-20" },
+    { "position": 2, "title": "Project Hail Mary", "author": "Andy Weir", "cover_url": "https://m.media-amazon.com/images/I/51POf8gOyLL._SL500_.jpg", "amazon_url": "https://www.amazon.com/s?k=Project+Hail+Mary+Andy+Weir&tag=jacketlist-20" },
+    { "position": 3, "title": "Harry Potter and the Chamber of Secrets", "author": "J.K. Rowling", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Chamber+Secrets+Rowling&tag=jacketlist-20" },
+    { "position": 4, "title": "Harry Potter and the Goblet of Fire", "author": "J.K. Rowling", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Goblet+Fire+Rowling&tag=jacketlist-20" },
+    { "position": 5, "title": "Harry Potter and the Order of the Phoenix", "author": "J.K. Rowling", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Order+Phoenix+Rowling&tag=jacketlist-20" },
+    { "position": 6, "title": "Harry Potter and the Prisoner of Azkaban", "author": "J.K. Rowling", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Prisoner+Azkaban+Rowling&tag=jacketlist-20" },
+    { "position": 7, "title": "My Husband's Wife", "author": "Alice Feeney", "cover_url": "/images/my-husbands-wife.jpg", "amazon_url": "https://www.amazon.com/s?k=My+Husband%27s+Wife+Alice+Feeney&tag=jacketlist-20" },
+    { "position": 8, "title": "The Names", "author": "Florence Knapp", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Names+Florence+Knapp&tag=jacketlist-20" },
+    { "position": 9, "title": "The Let Them Theory", "author": "Mel Robbins", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Let+Them+Theory+Mel+Robbins&tag=jacketlist-20" },
+    { "position": 10, "title": "Harry Potter and the Philosopher's Stone", "author": "J.K. Rowling", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Sorcerers+Stone+Rowling&tag=jacketlist-20" }
   ]
 }
