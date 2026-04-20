@@ -2,17 +2,17 @@
   "source": "amazon",
   "label": "Amazon Best Sellers",
   "url": "https://www.amazon.com/charts/mostread/books",
-  "updated": "2026-04-13",
+  "updated": "2026-04-20",
   "books": [
     { "position": 1, "title": "Project Hail Mary", "author": "Andy Weir", "cover_url": "https://covers.openlibrary.org/b/id/11200092-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Project+Hail+Mary+Andy+Weir&tag=jacketlist-20" },
-    { "position": 2, "title": "Harry Potter and the Order of the Phoenix", "author": "J.K. Rowling", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Order+Phoenix+Rowling&tag=jacketlist-20" },
-    { "position": 3, "title": "Theo of Golden", "author": "Allen Levi", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Theo+of+Golden+Allen+Levi&tag=jacketlist-20" },
-    { "position": 4, "title": "Harry Potter and the Sorcerer's Stone", "author": "J.K. Rowling", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Sorcerers+Stone+Rowling&tag=jacketlist-20" },
-    { "position": 5, "title": "Harry Potter and the Goblet of Fire", "author": "J.K. Rowling", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Goblet+Fire+Rowling&tag=jacketlist-20" },
-    { "position": 6, "title": "Dungeon Crawler Carl", "author": "Matt Dinniman", "cover_url": "https://covers.openlibrary.org/b/id/15143022-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Dungeon+Crawler+Carl+Matt+Dinniman&tag=jacketlist-20" },
-    { "position": 7, "title": "The Correspondent", "author": "Virginia Evans", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Correspondent+Virginia+Evans&tag=jacketlist-20" },
-    { "position": 8, "title": "Harry Potter and the Prisoner of Azkaban", "author": "J.K. Rowling", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Prisoner+Azkaban+Rowling&tag=jacketlist-20" },
-    { "position": 9, "title": "Harry Potter and the Chamber of Secrets", "author": "J.K. Rowling", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Harry+Potter+Chamber+Secrets+Rowling&tag=jacketlist-20" },
-    { "position": 10, "title": "Dear Debbie", "author": "Freida McFadden", "cover_url": "https://static01.nyt.com/bestsellers/images/9781464249624.jpg", "amazon_url": "https://www.amazon.com/s?k=Dear+Debbie+Freida+McFadden&tag=jacketlist-20" }
+    { "position": 2, "title": "Untitled Empyrean (Not Book Four)", "author": "Rebecca Yarros", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Untitled+Empyrean+Rebecca+Yarros&tag=jacketlist-20" },
+    { "position": 3, "title": "Theo of Golden", "author": "Allen Levi", "cover_url": "https://static01.nyt.com/bestsellers/images/9781668236512.jpg", "amazon_url": "https://www.amazon.com/s?k=Theo+of+Golden+Allen+Levi&tag=jacketlist-20" },
+    { "position": 4, "title": "Yesteryear", "author": "Caro Claire Burke", "cover_url": "https://static01.nyt.com/bestsellers/images/9780593804216.jpg", "amazon_url": "https://www.amazon.com/s?k=Yesteryear+Caro+Claire+Burke&tag=jacketlist-20" },
+    { "position": 5, "title": "Dungeon Crawler Carl", "author": "Matt Dinniman", "cover_url": "https://covers.openlibrary.org/b/id/15143022-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Dungeon+Crawler+Carl+Matt+Dinniman&tag=jacketlist-20" },
+    { "position": 6, "title": "The Correspondent", "author": "Virginia Evans", "cover_url": "https://static01.nyt.com/bestsellers/images/9780593798430.jpg", "amazon_url": "https://www.amazon.com/s?k=The+Correspondent+Virginia+Evans&tag=jacketlist-20" },
+    { "position": 7, "title": "Carl's Doomsday Scenario", "author": "Matt Dinniman", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Carl%27s+Doomsday+Scenario+Matt+Dinniman&tag=jacketlist-20" },
+    { "position": 8, "title": "Rites of the Starling", "author": "Devney Perry", "cover_url": "https://static01.nyt.com/bestsellers/images/9781682816752.jpg", "amazon_url": "https://www.amazon.com/s?k=Rites+of+the+Starling+Devney+Perry&tag=jacketlist-20" },
+    { "position": 9, "title": "The Dungeon Anarchist's Cookbook", "author": "Matt Dinniman", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Dungeon+Anarchist%27s+Cookbook+Matt+Dinniman&tag=jacketlist-20" },
+    { "position": 10, "title": "Hope Rises", "author": "David Baldacci", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Hope+Rises+David+Baldacci&tag=jacketlist-20" }
   ]
 }

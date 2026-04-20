@@ -2,17 +2,17 @@
   "source": "publishersweekly",
   "label": "Publishers Weekly Best Sellers",
   "url": "https://www.publishersweekly.com/pw/nielsen/hardcoverFiction.html",
-  "updated": "2026-04-13",
+  "updated": "2026-04-20",
   "books": [
-    { "position": 1, "title": "Starside", "author": "Alex Aster", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Starside+Alex+Aster&tag=jacketlist-20" },
-    { "position": 2, "title": "The Night We Met", "author": "Abby Jimenez", "cover_url": "https://static01.nyt.com/bestsellers/images/9781538759226.jpg", "amazon_url": "https://www.amazon.com/s?k=The+Night+We+Met+Abby+Jimenez&tag=jacketlist-20" },
-    { "position": 3, "title": "The Correspondent", "author": "Virginia Evans", "cover_url": "https://static01.nyt.com/bestsellers/images/9780593798430.jpg", "amazon_url": "https://www.amazon.com/s?k=The+Correspondent+Virginia+Evans&tag=jacketlist-20" },
-    { "position": 4, "title": "The Keeper", "author": "Tana French", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Keeper+Tana+French&tag=jacketlist-20" },
-    { "position": 5, "title": "Judge Stone", "author": "Viola Davis and James Patterson", "cover_url": "https://static01.nyt.com/bestsellers/images/9780316579834.jpg", "amazon_url": "https://www.amazon.com/s?k=Judge+Stone+Viola+Davis+James+Patterson&tag=jacketlist-20" },
-    { "position": 6, "title": "Upward Bound", "author": "Woody Brown", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Upward+Bound+Woody+Brown&tag=jacketlist-20" },
-    { "position": 7, "title": "Cinder Vale", "author": "Caroline Peckham and Susanne Valenti", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Cinder+Vale+Caroline+Peckham+Susanne+Valenti&tag=jacketlist-20" },
-    { "position": 8, "title": "Rain of Shadows and Endings", "author": "Melissa K. Roehrich", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Rain+of+Shadows+and+Endings+Melissa+Roehrich&tag=jacketlist-20" },
-    { "position": 9, "title": "Between Two Fires", "author": "Christopher Buehlman", "cover_url": "https://covers.openlibrary.org/b/id/8441116-M.jpg", "amazon_url": "https://www.amazon.com/s?k=Between+Two+Fires+Christopher+Buehlman&tag=jacketlist-20" },
-    { "position": 10, "title": "This Kingdom Will Not Kill Me", "author": "Ilona Andrews", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=This+Kingdom+Will+Not+Kill+Me+Ilona+Andrews&tag=jacketlist-20" }
+    { "position": 1, "title": "Rites of the Starling", "author": "Devney Perry", "cover_url": "https://static01.nyt.com/bestsellers/images/9781682816752.jpg", "amazon_url": "https://www.amazon.com/s?k=Rites+of+the+Starling+Devney+Perry&tag=jacketlist-20" },
+    { "position": 2, "title": "Revenge Prey", "author": "John Sandford", "cover_url": "https://static01.nyt.com/bestsellers/images/9780593852071.jpg", "amazon_url": "https://www.amazon.com/s?k=Revenge+Prey+John+Sandford&tag=jacketlist-20" },
+    { "position": 3, "title": "Yesteryear", "author": "Caro Claire Burke", "cover_url": "https://static01.nyt.com/bestsellers/images/9780593804216.jpg", "amazon_url": "https://www.amazon.com/s?k=Yesteryear+Caro+Claire+Burke&tag=jacketlist-20" },
+    { "position": 4, "title": "The Correspondent", "author": "Virginia Evans", "cover_url": "https://static01.nyt.com/bestsellers/images/9780593798430.jpg", "amazon_url": "https://www.amazon.com/s?k=The+Correspondent+Virginia+Evans&tag=jacketlist-20" },
+    { "position": 5, "title": "Starside", "author": "Alex Aster", "cover_url": "https://static01.nyt.com/bestsellers/images/9780063462434.jpg", "amazon_url": "https://www.amazon.com/s?k=Starside+Alex+Aster&tag=jacketlist-20" },
+    { "position": 6, "title": "Bloodsinger", "author": "Juliette Cross", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Bloodsinger+Juliette+Cross&tag=jacketlist-20" },
+    { "position": 7, "title": "Judge Stone", "author": "James Patterson and Viola Davis", "cover_url": "/images/judge-stone.webp", "amazon_url": "https://www.amazon.com/s?k=Judge+Stone+Viola+Davis+James+Patterson&tag=jacketlist-20" },
+    { "position": 8, "title": "The Night We Met", "author": "Abby Jimenez", "cover_url": "https://static01.nyt.com/bestsellers/images/9781538759226.jpg", "amazon_url": "https://www.amazon.com/s?k=The+Night+We+Met+Abby+Jimenez&tag=jacketlist-20" },
+    { "position": 9, "title": "The Ending Writes Itself", "author": "Evelyn Clarke", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=The+Ending+Writes+Itself+Evelyn+Clarke&tag=jacketlist-20" },
+    { "position": 10, "title": "Into the Blue", "author": "Emma Brodie", "cover_url": "", "amazon_url": "https://www.amazon.com/s?k=Into+the+Blue+Emma+Brodie&tag=jacketlist-20" }
   ]
 }
